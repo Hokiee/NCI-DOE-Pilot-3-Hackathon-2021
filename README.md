@@ -3,6 +3,7 @@
 
 ### Data: TCGA
 - Copy engress_TCGA/features_full into data/features_full
+- Copy engress_TCGA/histo_meta.csv to data/histo_meta.csv
 
 ### Environment: 
  [Summit-Ascent](https://docs.olcf.ornl.gov/systems/summit_user_guide.html#training-system-ascent)  
