@@ -18,30 +18,30 @@
     python data_handler.py
 
 ### Models          
-- [x]     1. MTCNN Hard Paramenter Sharing ( TF-1 ) 
+##### 1. MTCNN Hard Paramenter Sharing ( TF-1 ) 
     cd mtcnn
     python mt_cnn_exp.py 
     OR
     cd mtcnn
     bsub mt_cnn_exp.lsf
-- [x]     2. MTCNN Cross stitch (TF-1)
+##### 2. MTCNN Cross stitch (TF-1)
     cd mtcnn
     python tf_mtcnn_cs.py
     OR
     cd mtcnn
     bsub tf_mtcnn_cs.lsf
-- [x]     3. HiSAN ( TF-1 )
+##### 3. HiSAN ( TF-1 )
     cd Hisan
     python tf_mt_hisan.py
     OR
     cd Hisan
     bsub hisan.lsf
-- [x]     4. HiBERT ( Pytorch)
+##### 4. HiBERT ( Pytorch)
     cd HiBert 
     python huggingface_pool_multigpu.py
     OR
     cd HiBert
     bsub horovod.lsf
-- [ ]     5. LANL Abstaining Code MTCNN
-- [ ]     6. LANL Abstaining Code MTHiSAN
+##### 5. LANL Abstaining Code MTCNN
+##### 6. LANL Abstaining Code MTHiSAN
 
