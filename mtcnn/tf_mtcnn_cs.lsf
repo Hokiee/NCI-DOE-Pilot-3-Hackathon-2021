@@ -1,0 +1,24 @@
+#!/bin/bash
+
+#BSUB -P med107
+#BSUB -J nci_hackathon
+#BSUB -W 2:00
+#BSUB -o logs/job%J.o
+#BSUB -e logs/job%J.e
+#BSUB -nnodes 1
+
+module load ibm-wml-ce/1.6.2-5
+
+ENVROOT=/gpfs/alpine/proj-shared/med107/hackathon2020/env
+conda activate $ENVROOT/ibm_wml_ce165
+
+# Make sure the environment is in our path
+export PATH=$ENVROOT/ibm_wml_ce165/bin:$PATH
+export OMP_NUM_THREADS=1
+
+SRCROOT=/ccs/home/mayanka/nci-hackathon-2021/mtcnn/
+PYMODULE=$SRCROOT/tf_mtcnn_cs.py
+
+CMD="python $PYMODULE"
+
+jsrun -n1 -c7 -g6 -r1 $CMD > logs/nci_hackathon.log
