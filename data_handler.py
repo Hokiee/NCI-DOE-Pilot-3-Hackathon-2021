@@ -289,7 +289,7 @@ def word2Vec(docs,word_index):
     # convert words to indices
     text_idx = zeros((len(sentences), max_len))
     for i, sent in enumerate(sentences):
-        idx = [word2idx[word] if word in word2idx else unk for word in sent][:max_len]
+        idx = [word2idx[word] if word in model.wv.vocab else unk for word in sent][:max_len]
         l = len(idx)
         text_idx[i, :l] = idx
     # save data
