@@ -1,0 +1,187 @@
+UUID : 32AD9693-1835-4FA2 -8725-D789382C03CC
+
+TCGA-GB-ASST-OlA-PR Redacte
+Ill IIlllIlllllllIIIllllIlIlllllllllllIllllllIlllllIllIIIIlllllllIll
+8mg Date Ill IlIIIlllllIlllIlllIlIlllllllllllllllllllIIIlIlllllIIIll lllIlI
+Ill llIIllIlIlIlllllIIlIllIll lllllllllllllllllllll llllllIlIIll
+SPECIMENS: ‘ '
+
+A. LEFT PELVIC LYMPH NODES
+B. RIGHT PELVIC LYMPH NODES
+C. PROSTATE
+
+SPECIMEN(S):
+A. LEFT PELVIC LYMPH NODES
+B. RIGHT PELVIC LYMPH NODES
+c. PROSTATE
+
+DIAGNOSIS:
+A. LYMPH NODE, LEFT PELVIC, EXCISION:
+- SIX LYMPH NODES, NEGATIVE FOR CARCINOMA (0/6)
+
+B. LYMPH NODE, RIGHT PELVIC, EXCISION:
+- TWO LYMPH NODES, NEGATIVE FOR CARCINOMA ((3/2)
+
+C. PROSTATE, PROSTATECTOMY:
+
+- PROSTATIC ADENOCARCINOMA, GLEASON SCORE 4 + 4 = 8/10
+
+— TUMOR INVOLVING APPROXIMATELY 15% OF TISSUE EXAMINED
+
+- MULTIFOCAL EXTRAPROSTATIC EXTENSION IDENTIFIED (RIGHT POSTERIOR AND
+ANTERIOR, LEFT APEX)
+
+- SEMINAL VESICLES NOT INVOLVED BY THE TUMOR
+
+- SURGICAL MARGINS NEGATIVE FOR TUMOR
+
+- SEE SYNOPTIC REPORT
+
+SYNOPTIC REPORT — PROSTATE GLAND ICED O :3
+Specimens Involved
+
+Specimens: C: PROSTATE dié’ﬂtb @LWI-(LMH \ AIDS 8 [(4015
+
+. Location: Left
+
+Egsgtenor lateral (SLE- Hilnﬁﬂé; kHz-(3 @147] 7
+
+Apical :
+Anterior ng 6/ I O) l L]
+WHO CLASSIFICATION
+
+Epithelial tumors
+
+Adenocarcinoma 8140/3
+
+Multicentricity: Yes
+
+Gland Involvement: 15%
+
+Gleason Grade/Sum: Grade 4 + 4 , Sum 8
+
+High Grade PIN Present: Yes
+
+Perineural Invasion: Yes
+
+Vascular/Lymphatic Invasion: No
+
+Seminal Vesicle Invasion: No
+
+Periprostatic Fat Involved: Yes
+
+Details: right posterior and anterior, left apex
+Bladder Neck Involved: No
+
+Margins Involvement: No
+Frozen Performed: No
+
+Lymph Nodes: Negative Right 0 l 2 Left 0/6
+Other Pathologic Findings: BPH
+
+Pathological Staging (pTNM): T 3a N 0 M X
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+
+GROSS DESCRIPTION:
+A. LEFT PELVIC LYMPH NODES
+
+Surg Date
+
+Received fresh labeled with the patient's identiﬁcation and "left pelvic lymph node" are pieces of yellow-
+tan soft tissue, containing lymph nodes ranging from 0.5 x 0.5 x 0.3 cm to 2.0 x 1.7 x 0.6 cm; lymph
+nodes are submitted entirely:
+
+A1: 5 lymph nodes
+
+A2: 1 bisected lymph node
+
+B. RIGHT PELVIC LYMPH NODES
+
+Received fresh labeled with patient's identiﬁcation and "right pelvic lymph node" are pieces of yellow-tan
+soft tissue in aggregate, 4.6 x 3.3 x 1.1 cm containing 2 lymph nodes, 1.5 x 1.2 x 1 cm in 0.8 x 1.2 x 0.6
+cm. The lymph nodes are bisected and submitted entirely:
+
+81-32: 1 bisected lymph node in each cassette
+
+C. PROSTATE
+
+Received fresh labeled with patient’s identiﬁcation and “prostate" is a 72 g resected prostate gland
+measuring 5.4 cm from right lateral to left lateral, 3.8 cm from anterior to posterior, and 3.4 cm from
+apex to base. The capsule is smooth, red, and intact. Ink code: Apex-red, base-blue. anterior-orange,
+posterior-black, right lateral-green, left lateral-yellow. After removal of apex and base, the prostate
+weighs 42 g and has a nodular tan parenchyma. The right seminal vesicle is 1.2 x 0.9 x 0.7 cm, the left
+is 2.5 x 1.7 x 0.5 cm. and a detached piece is 2.1 x 1.1 x 0.5 cm; they consist of cystic tan tissue. The
+right vas deferens is 2.6 x 0.5 cm and the left is 3.2 x 0.4 cm; they consist of tubular tan tissue. Tissue is
+procured (18 9); submitted entirely:
+
+C1 -02: right apex
+
+C3-C4: left apex
+
+C5: level I, right anterior
+
+C6: level I, right posterior
+
+C7: level I, left anterior
+
+C8: level I, left posterior
+
+C9: level II, right anterior capsule
+
+C10: level II. right posterior capsule
+
+C11: level II, left anterior capsule
+
+C12: level II, left posterior capsule
+
+013: level III, right anterior
+
+014: level III. right posterior
+
+C15: level III, left anterior
+
+C16: level III, left posterior
+
+C17: level IV, right capsule
+
+C18: level IV, left capsule
+
+C19—C21: perpendicular sections of right lateral base
+
+C22—C25: perpendicular sections left lateral base
+
+026-C27: perpendicular sections of right mid base
+
+C28-029: perpendicular sections of left mid base
+
+C30: perpendicular sections of right posterior base
+
+C31: perpendicular sections of left posterior base
+
+C32: perpendicular section of right mid base urethral oriﬁce margin
+
+033: perpendicular section of left mid base urethral oriﬁce margin
+
+C34: right seminal vesicle and vas deferens
+
+CS5: left seminal vesicle and vas deferens
+
+C36: detached seminal vesicle
+
+CLINICAL HISTORY:
+None Given
+
+PRE—OPERATIVE DIAGNOSIS:
+Prostate cancer
+
+Gross Dictationz, , I
+
+Microscoplleagnostic Dictation, M.D., Pathologist.
+Microscopic/Diagnostic Dictationz. M.D., .
+
+Final Review: M.D., Pathologist,
+
+Final: M.D., Pathologist,
+
+ 
+

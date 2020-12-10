@@ -1,0 +1,218 @@
+,.._.__J , , _.
+
+Surgical Pathology Report
+
+ 
+
+)
+Name: — Case #: *
+DOB: —‘ ' Collected:
+Gender: F Received:
+MRN: - Reported:
+Location: Copy TO:
+Physician:
+
+ 
+
+.
+Patholggig interpretation. , M , a, 3
+
+A. Lymph node, sentinel lymph node: Wm» WM M4, was Hoe/3
+- No malignancy seen in one lymph node (0/1). > ’ a,
+- Kerstin immunostain pending. 971/ - W N“ c’ g ? 3/”/" W
+
+B. Skin left breast:
+- Skin, no pathologic change.
+
+C. ’Lettbreast lumpectomy:
+-’lnﬁltrating poorly differentiated ductal carcinoma, high nuclear grade, 2.4 cm in greatest dimension.
+- Margins of resection are free of tumor.
+- Lymphovascuiar space invasion is present.
+- Previous biopsy site identiﬁed.
+- The tumor cells are positive for ER and PR, and negative for Her2
+- See tumor summary.
+
+D. inferior margin. true blue margin:
+- No malignancy seen.
+
+E. Right breast tissue:
+
+- Fibrocystic changes with stromal ﬁbrosis, adenosis, and microcaiciﬁcations.
+- Previous biopsy site identiﬁed.
+
+12W UUID:76358109-41M-405C-8894-F6A63A925961
+. - TCGA-EW—AiOY-alA-PR Redacted
+miraw‘sﬁmm .,.... iiiilliii"iiiiiiiliiimiiiii""'"""
+S clmen Size: Greatest dimension: 7.5 cm
+9' Additional dimensions: 5.5 x 4.0 cm Ill llllllllll lllllllll l lillll l llllllll l llllll | llll lllll Ill
+Laterallty: Left
+
+Tumor Site: Not specified
+Size of invasive Component: Greatest dimension: 2.4 cm
+Additional dimensions: 1.5 x 1.0 cm
+Histologic Type: invasive ductal carcinoma
+Histologlc Grade:
+Tubule Formation: Minimal less than 10% (score =3)
+Nuclear Pleomorphism: Marked variation in size, nucleoli. chromatin clumping, etc (score =3)
+Mitotic Count: Greater than 20 mitoses per 10 HPF (score =3)
+Total Nottingham Score: Grade Ill: 8-9 points
+Pathologic Staging (pTNM)
+Primary Tumor: pT2
+Regional Lymph Nodes: pNO
+Number examined: 1
+Number involved: 0
+Distant Metastasis: pMX
+Margins: Uninvolved by invasive carcinoma
+Venouleymphatic invasion: Present
+Microcaiciﬂcatlons: Present in both tumor and non-neoplastic tissue
+
+omm -
+ER: Positive
+PR: Positive l
+Her2: Negative (3
+
+’ SURGICAL PATHOL Report I .
+
+m'Eiectron ically Signed Out By'“
+NOTE Some immnonistoehemlcel antibodies are anatyte wlic reagents (ASRs) validated by ourlaboretory (Her 2, Panic, H pylori. HBoore). These ASRa are clinically useful indicators that do
+not tenure FDA approval. These clones are used: loﬁuER. PgR 636=PR, A405:HER2, H~11= GFR, CCH2/DDG9=CMV. F391. 1=AR and HPV by ISH. All immunohidomm sans an uud
+with main or moleouar ﬁxed, parelln embedded tissue. Detection is by LSAB. The resale are read by a pathologist at positive or negative.
+
+.MD
+
+As the silencing pathologist. I attest that I; (i) Examined ma relevant
+preparation“) for the specimenls); and (ii) Rendered the Wes).
+
+ProcedureslAddenda
+
+Addendum Date Ordered: ' Status: Signed Out
+Date Complete: ' ‘i
+Date Reported: ‘ i
+
+Addmggm Diagnosig
+
+Keratin immunostain is negative for carcinoma.
+
+.MD
+
+In I
+
+AFS. Sentinel lymph node #1:
+Touch prep only: Lymphoid cells.
+No malignant cell seen.
+
+CFS. Left breast lumpectomy:
+Portion from mass (1 x 0.5 x 0.3cm) taken for tissue bank.
+
+    
+
+Clinlggl ﬂung:
+
+Patient is a female with history of breast cancer.
+WEB—iii
+
+Left breast cancer
+
+Specimenls) Received:
+
+A: Lymph node. sentinel lymph node
+B: Skin left breast
+
+C: Left breast lumpectomy
+
+D: Inferior margin. true blue margin
+E: Right breast tissue (fresh)
+
+ﬁrm Dngription:
+
+A. Received fresh and labeled ‘lymph node. sentinel lymph node" consists of a lymph node, 1.0 x 0.8 x 0.7 cm. Specimen is
+multisected and submitted in toto in one cassette for touch prep.
+
+ 
+
+-‘- ﬂ .— mzofa
+
+ 
+
+lC
+
+Received in formalin and labeled “skin left breast“ consists of a ellipse of skin. 5.0 cm in length by 1.7 x 0.4 cm.
+Representative section submitted in one cassette.
+
+Received fresh and labeled “left breast lumpectomy 1short superior 1 long lateral'consists of a lumpectomy which weighs
+90.0 grams after formalin fixation and measure 7.5 cm from medial to lateral. 5.5 cm from anterior to posterior and 4.0 cm
+from superior to inferior. Specimen inked as follows. Superior and inferior margin inked black, medial and lateral margins
+inked orange. posterior margin inked red and anterior margin inked green. A piece of tumor was taken tumor bank. 1.0 x
+1.0 cm. Cut sections of the specimen reveal a stony hard tumor which measure approximately 2.4 x 1.5 x 1.0 cm. The
+tumor is surrounded by fibrous tissue and has an ill-defined border of fibrosis. The areas of ill-defined. fibrosis measure
+5.0 x 3.0 x 3.0 cm in greatest dimension. The small area of hemorrhagic which measure 0.8 x 0.4 x 0.3 cm is located 0.8
+cm away from the deep posterior margin and the margin submitted as follows.
+
+Lateral margin
+
+Posterior and inferior margin
+
+Superior and anterior margin
+
+Additional sections of the anterior margin
+
+Sections of the medial margin grossly suspecious area of tumor involvement is located 0.8 cm away from
+the closest margin which is posterior and inferior
+
+6 & 7 Additonal sections of the tumor in relation to the psoterior and inferior margin
+
+8&9 Additonal sections of the ﬁbrotlc area at the inferior and posterior margin
+
+10-12 Additonal sections of the biopsy cavity in relation to the inferior and posterior margin
+
+13 Sections of the tumor in relation to the superior and anterior margin
+
+meson-
+
+Received in formalin and labeled “inferior margin. true blue margin” consists of a present of breast tissue. 7.0 cm in length
+by 4.0 x 1.2 cm in greatest thickness. One size of the specimen inked in methylene blue and re-inked in black.
+
+Received fresh and labeled 'right breast tissue (fresh)' consists of a fragment of ﬁbre-adipose tissue. 7.0 cm in depth by
+5.0 x 3.0 cm. An overlying ellipse of skin measuring 3.0 x 1.0 cm in greatest dimension. The specimen weighs
+approximately 55.0 grams. Specimen is unoriented. Specimen inked black. Cut sections reveal that the specimen consists
+of 60.0 % cyst fibro-stroma and 40.0 % adipose tissue. The tumor or suspicious areas are grossly identifiable. Sections of
+the stmma and skin are submitted in three cassettes.
+
+' 174.8 610.1 793.81
+
+ 
+ 
+   
+  
+ 
+ 
+   
+     
+ 
+ 
+
+:rkerla
+)t'qnosis uiscrepanry
+
+Lrlrnary Tumor Site Discrepancy
+liPAA Discrepancy
+
+'rior Malignancy history
+gum/Synchronous Pr'uary . i
+_ \
+Jae is (circle): ”W
+
+l_eVl_e_mrlnitial mg? ‘l I.
+. lma Ill.
+
+ 
+ 
+
+  
+
+   
+
+ 
+
+“- ‘ “ Fag, 3 o, 3
+

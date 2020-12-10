@@ -1,0 +1,119 @@
+TSS Patient ID:
+
+Surgical Date:
+
+Gross Description: A solid tumor is located in nearby of the nipple, with 4x3x3.5cm in size, firm with a
+
+gray surface, irregular border.
+
+Microscopic Description: Tumor cells arrange in diffuse or alveolar, or sheets replace begnin tissue . The
+tumor cells are composed of large transformed lymphoid cells with very hyperchromatic enlarged
+nuclei. Tumor cells are oval or round in shape with deﬁned cytoplasm. Nucleoli is single or multiple.
+Mitotic figures are commnon. Tumor is invasion of begnin breast tissue.
+
+Diagnosis Details: Large B-cell difuse lymphoma
+Comments:
+
+Formatted Path Reports: BREAST TISSUE CHECKLIST
+Specimen type: Mastectomy
+
+Specimen size: Not specified
+
+Tumor site: Breast
+
+Tumor size: 4 x 3 x 3.5 cm
+
+Grossly evident lesion: Yes
+
+Histologic type: Diffuse large b-cell lymphoma
+Histologic grade: Poorly differentiated
+
+Tumor extent: Not specified
+
+Lymph nodes: 0/9 positive for metastasis (Axillary 0/9)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Not Specified
+
+Nottingham Histologic Score
+
+Tubule formation: Not specified
+
+Nuclear pleomorphism: Not specified
+
+Mitotic count (25x): Not specified
+
+Mitotic count (40x): Not specified
+
+WJW/ngsg /
+cw 9/5/25
+
+UUID: F36A477E- 88(9- 476A- BF68- 61CA129A30Aeld
+TCGA- FA— A7DS-91A- PR
+
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIlIIIIIIIIIIIIIIIIIIIIIIIIIdIIICIIIcad
+"III” III" IIIIII I|||||I|II|I||||IIII||||||||||I |IlI|II
+|||||||||III|I|IIIII||||I||I|||||||||I||I||I||||II|I||||
+
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+
+Additional pathologic findings: CKAEl/AE3(-), CDZO(+), CD3(-)
+
+Comments: Right- central
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+'2!
+v gs; It? - — I l
+
+Criteria Yes I No
+Diagnosis Discrepancy J
+Primarﬂumursiie DImonancy 7
+llle Discrepancy ‘/
+Prior ‘v history J
+Dual/Synchronous anar-ﬂoted \ ‘l/
+Case I c' ' ' QUALIFIED / DISOUALIF D -
+News IN iewed: - m 1 f)
+
+r .22.” _1
+

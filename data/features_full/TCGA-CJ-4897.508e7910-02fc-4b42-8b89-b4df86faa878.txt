@@ -1,0 +1,56 @@
+ 
+
+Pathology Report
+DIAGNOSIS
+
+ 
+
+(A) RIGHT KIDNEY AND ADRENAL:
+
+RENAL CELL CARCINOMA, CONVENTIONAL (90% CLEAR CELLS AND 10% EOSINOPHILIC CELLS),
+FUHRMAN'S NUCLEAR GRADE 3.
+
+TUMOR EXTENDS INTO THE PERINEPHRIC ADIPOSE TiSSUE.
+
+TUMOR INVADES THE ADRENAL GLAND. (SEE COMMENT)
+
+TUMOR INVADES THE RENAL VEIN. "
+
+THE TUMOR MEASURES 13.5 CM IN MAXIMUM DIMENSION.
+
+Vascular, ureteral and soft tissue margins, free of tumor.
+
+COMMENT
+The tumor extends Into the perinephric adipose tissue compressing the adrenal gland. In addltlon, the tumor focally invades the adrenal
+
+gland by direct extension.
+
+GROSS DESCRIPTION
+(A) RIGHT KIDNEY AND ADRENAL — A nephrectomy specimen (25.5 x13.5 x 9.0 cm) including compressed adrenal gland (6.0 x 3.0 x 0.1
+
+cm) and ureter (8.0 x 0.5 cm).
+
+A 13.5 x 9.0 x 0.5 cm solid and cystic, yellow-red, heterogeneous tumor ls present. The tumor ls mainly located within the upper lobe,
+extending to the mid third and lower pole of the kidney. The tumor has myxoid, degenerative-looking areas, as well as hemorrhagic and
+necrotlc feel. The tumor involves the perinephrlc fat, bulging out from the kidney and extendlng up to the adrenal gland, which is
+grossly compressed by the tumor. The tumor involves the renal sinus but does not extend to the pelvicalyceal system. A tumoral
+thrombus is present intralumlnally within the renaE vein, 1.0 cm away from the vein margin. The soft tissue margins appear to be free of
+tumor. Portions of the tumor are submitted for possible electron microscopic studies and for tissue bank.
+
+The uninvolved kidney parenchyma is unremarkable.
+
+INK CODE: Black - soft tlssue margin.
+SECTION CODE: A1, renal vein, renal artery and ureter marglns; A2-A7, tumor in relatlon to adrenal gland; A8~A12, tumor in relation to
+
+perinephrlc fat (A11 and A12 include tumor within the perlnephrio fat); A13, tumor within the renal sinus; A14, tumor in relation to the
+pelvlcalyceal system; A15, A16, tumor within renal vein, in relation to petvlcalyceal system; A17, tumor with renal vein; A18, tumor within
+vein wlth adjacent renal parenchyma; A19, tumor wlth renal parenchyma; A20, nontumoral kidney parenchyma.
+
+CLINICAL HISTORY
+Right renal mass.
+
+SNOMED cones
+T-71000, T-B3000, M-83123
+
+ 
+

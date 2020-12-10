@@ -1,0 +1,106 @@
+UUID: CBEB7BSD- EBFS- 4101-931F- EEASGECA5781
+
+lli
+
+TCGA- DD- -AAEB- 01A
+
+llllllll lll' IIlIIIIIIml mmtIIII
+
+CLINICAL DIAGNOSIS: Hepatocellular carcinoma suggested
+
+ 
+
+ 
+
+Specimen Z Liver and Liver mass KCD {5-
+Gross Photo '
+
+GROSS: ' ﬂaw/rutwb } lﬂ/MEdﬁéQQuQan L105
+
+and 3
+
+Specimen status: Fresh M ‘
+Operation: ‘ 6.052,; M C‘ZQ'C)
+Left partial hepatectomy
+Segmentectomy (No. 5) C99 3 g/ch/fq
+Cholecystectomy
+Organ:
+Liver, left lobe (14.0 x 11.5 x 5.5 cm, 289.0 gm)
+Liver, segment 5 (9.5 x 5.5 x 3.8 cm, 90.0 gm)
+Gallbladder (8.0 cm in length, 3.0 cm in diameter)
+Lesion:
+[A single mass in hepatectomy specimen]
+Size: 6.5 x 5.0 x 7.5 cm
+Cut surface: A well-demarcated, lobulated, yellowish tan, solid and firm
+mass
+Gross type: Multinodular confluent
+Extent: Confined to the hepatic parenchyme
+Resection margin: Not involved, grossly (safety margin: 3.0 cm)
+Remaining parenchyme: Unremarkable
+[A small mass in segmentectomy specimen]
+Size: 3.0 x 2.5 x 2.2 cm
+Cut surface: An ill—defined, pale tan and firm mass with necrosis
+Gross type: Multinodular confluent
+Extent: Confined to the hepatic parenchyme
+Resection margin: Not involved, grossly (safety margin: 0.6 cm)
+Remaining parenchyme: Unremarkable
+[Gallbladder]
+Serosal surface: Yellowish green and smooth
+Mucosal surface: Dark green and velvety
+Wall: 0.2 cm in thickness
+Representative sections are submitted.
+
+Gross photo: Present
+
+Blocks
+GB, gallbladder x 1
+T1-3, tumor mass and surrounding hepatic parenchyme in segment specimen X 3
+TIL—7 and TB, tumor mass and surrounding hepatic parenchyme in hapatectomy
+
+specimen x 5
+NB and L, nontumorous liver parenchyme x 2
+
+MICROSCOPIC:
+Tumor type: Hepatocellular carcinoma,
+Edmondson-steiner grade
+The worst differentiation IV
+The major differentiation III
+Histologic type: Trabecular, tubular, solid
+Cell type: Hepatic
+Fatty change: No
+Cholangiocarcinoma: N0
+Fibrous capsule formation: No
+Capsular infiltration: No
+Septum formation: No
+Surgical resection margin invasion: No
+Serosal invasion: No
+Portal vein invasion: No
+Vascular invasion: No
+Bile duct invasion: N0
+Remaining liver parenchyme:
+Chronic hepatitis: Yes
+Etiology: HBV
+Grade, lobular: Mild
+Grade, portoperiportal: Mild
+Stage (fibrosis): Septal
+Cirrhosis: No
+Dysplastic nodule: No
+
+NOT reported. Gross:
+
+Liver, left, ectomy, hepatocellular caricnoma
+Liver, ectomy, hepatocellular carcinoma
+Gallbladder, ectomy, chronic cholecystitis
+DIAGNOSIS:
+Liver, left, partial hepatectomy:
+Hepatocellular carcinoma
+
+Liver, segment No.5, segmetectomy:
+Hepatocellular carcinoma with marked necrosis
+
+Galllbladder, cholecystectomy:
+Chronic cholecystitis (autolysis)
+Suggestion 1
+
+ 
+

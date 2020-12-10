@@ -1,0 +1,224 @@
+- - gamma:
+UUID:E576FSBB-29FE-ABF6 BDAB 55E Redacted
+
+TCGA- HU-A4 U-BlA-PR l“
+lllIllllllllllll|||ll|||ll|llI|l||ll|||l||l||l|lll|llIIIIlllIlll|
+Illlllllllllllllllllllllllllllllllllllllll
+ll‘l‘l‘limiil‘i‘ll'i‘lil‘mlllllllllllllllllllllllllllllllllllllllllll
+
+GROSS:
+
+Specimen state: Fresh
+
+Operation: Distal gastrectomy
+
+Measmement: Greater curvature 17.0 cm
+Lesser curvature 13.0 cm
+Proximal resection margin 21.0 cm
+Distal resaction margin 7.5 cm
+Duodenum 1.0 cm
+
+Lesion: Ulcerofungating mass
+
+Tumor size: 8.0 x 7.0 cm ’Q J)— 0 - 3
+Location: Antrum ‘ ' . 81.143!
+\ 5‘ 1‘6““ ¢ , (11-4 3
+Tumor type: AGC (Borrmann type III) WW ‘ he (0 3
+From proximal resection margin - 8.0 cm 3r?“ 3 9 it '
+From distal resection margin - 1.0 cm /1“’ q /3_1/l '3’
+
+Gross serosal invasion: No
+
+Blocks
+
+T1—4 and TB, tumor and surr0unding tissue x S
+A, antrum mucosa x 1
+
+B and NB, body mucosa x 2.
+
+P, proximal resection margin x 1
+
+D, distal resection margin of resected specimen x l
+LN1~2, superior gastric lymph nodes x 2
+LN3-5, inferior gastric lymph nodes x 3
+
+LN6. '1' lymph nodes x 1
+
+LN7, '4sb' lymph nodes x 1
+
+LNS, 'S' lymph nodes x l
+
+LN9-10, '6‘ lymph nodes x 2
+
+LN11, ‘7‘ lymph nodes x 1
+
+LN12-13, '8' lymph nodes x 2
+
+LN14, '9' lymph nodes x 1
+
+LNlS-lé, 'llp' lymph nodes x 2
+
+LN17 '12' lymph nodes x 1 '
+
+MICROSCOPIC;
+Tumor type: Adenocarcinoma
+Differentiation: Poorly differentiated
+(solid component: 50%, mucin productin: 40%, glandular component 10%)
+
+ 
+
+Depth of tumor invasion:
+
+T3: Tumor penetrates subserosal connective tissue without invasion of visceral peritoneum or
+adjacent structures
+Margins: Proximal resection margin (-)
+
+Distal resection margin (-)
+
+Lauren classification: Diffuse
+Ming classification (Growth pattern): Expanding
+Lymphoid reaction: Present
+Lymphovascular invasion: Present
+Venous (large vessel) invasion: Absent
+Perineural invasion: Absent
+Lymph node metastasis: Present (2156)
+Pathologic stage: pT3N1Mx (AJCC 7th edition)
+
+DIAGNOSIS:
+
+Stomach, distal gastrectomy:
+Adenocarcinoma, poorly differentiated, infiltrating
+(advanced gastric cancer)
+
+<Addendum>
+Final diagnosis: Stomach Adenocarcinoma. Diffuse Type W GIMLbrit-aﬁm" l“‘1 T55 -
+
+Lymph node. perigastric, distal gastrectomy:
+Superior gastric: No tumor present (0/10)
+Inferior gastric: No tumor present (0/10)
+
+Lymph node, regional, biopsy:
+Labeled as '1‘: No tumor present (0/4)
+Labeled as '4sb': No tumor present (0/5)
+Wammmﬁc carcinoma. primary in stomach (2/2)
+
+Labeled as '6‘: No tumor present {0/8)
+
+Labeled as '7': No tumor present (0/3)
+
+Labeled as ‘8': No tumor present {0/3)
+
+Labeled as '9': No tumor present (0/3)
+
+Labeled as 'llp’: No tumor present (0/9)
+
+Labeled as '12': No tumor present (0/1)
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site ('I‘SS): Stomach 'adenocarcinoma H, ,,
+
+ 
+
+Completed By
+
+  
+     
+
+ 
+
+# Data Elenumt Entry Alternatives Worldansu-ucdons
+
+Stomach Adenoearclnoma Poorly
+
+ 
+
+Provide the diagnosis] hismiogic subtype(s)
+
+1 ﬁxéﬁcosimﬁu D ifferentlated (solid component 50%- documonted on the initial pathology report for this
+' ' ' mucin roductln 40%, duhr use.» If the histology for this case is mixed. provide
+93mm” Rem“ p ' gm all listed subtypes.
+
+component 10%) , Diffuse ~
+
+ 
+
+Hismiogic features of
+Provide the histologie features seiected on the
+
+the sample provided ‘ . .
+for TCGA. as reﬂected Smmadi‘ Adenocamlnoma. Diffuse Type 21A Case Quality Control Form. completed for thls
+
+on the CQCF
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Original. pathology report [for the whole
+resected specimen] mentioned 40% of
+mucin pmductln. which, we not found
+Provide the reason i TCG‘A lid Ravi f’ to slide
+for the discrepancy :1 mp S e. (M, o p Provide-a reason descrih, in; why the diagnosis on
+3 between the conﬁrmed that this mmor 1’ a smmach. the iniﬂal'pathoiogy report for this case is not
+pathology report and adenowdmma—dﬂﬁlse We (originally consistent with the diagnosis seiemed on the TCGA
+the TCGA Case described as Stomach Adenotm’clnoma m Quality comm Fom
+Quality Control Form. Poorly Differentiated (solid component
+50%. mucin productih 40%, glandular
+component 10%] . Diffuse)
+Name of 1‘55
+4 Reviewing Pathologist Provlde the name of the pathologist who reviewed
+or Biorepository ' thls case for TCGA
+Director
+[Mmmmmwymrmmum'aummummmwm
+T55 Reviewing Pathologist or Biorepository Director Date
+
+ImMWMMMWMWWWWbmeMMMWMDRAW
+WMMWMMMMWNEWJIWMWMW
+
+ 
+
+Principal. investigator Signature Date
+

@@ -1,0 +1,45 @@
+UUID:SAEABBZE-8615-4CSD-B714-2FA4437ZBCCE
+
+TCGA-ZB-A963-01A-PR
+
+HWWWWWWHMH
+MMMWhHMMWﬁ
+Namerlmmmmmmmmmmml
+
+Identiﬁer; H
+
+Unique Patient #1
+
+Tumor Type : Thymoma
+
+Pathology Report-Summary:
+Material:
+
+Tumor: max 3.8 cm
+
+Diagnosis:
+
+Type A/B Thymoma
+
+pT2
+
+Masaoka: Il.1
+
+lmmunhistochemistm
+
+epithelial cells positive for: CK5/6, CK19
+epithelial cells negative for: CKZO
+
+CD1a-positive T-lymphocytes
+
+Redacted
+rmmm
+“MM
+
+Prior
+
+(‘25:
+Reviewer
+
+ 
+

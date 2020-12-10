@@ -1,0 +1,29 @@
+TCGA Pathology Reports
+
+type: Lobectomy
+umor site: Lung
+umor size: 1.2 x 2.5 x 3 cm
+type: Squamous cell
+
+grade: Moderately
+
+umor actent: Not speciﬁed
+mmor nodules: Not
+nodes: Not speciﬁed
+invasion: Not speciﬁed
+invasion: Not speciﬁed
+Not speciﬁed
+of neo-adjuvant
+Not speciﬁed
+pamologic ﬁndings: Not
+
+Right- upper
+
+ 
+
+ 
+
+OpenCIinica ID Excision Date Lateral
+
+Right-upper
+

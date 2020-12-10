@@ -1,0 +1,21 @@
+Pathology Report for Subject-
+
+Discussion: The calculated MIB-l labeling index ranges up to 14.7%,
+consistent with a high grade glial neoplasm.
+
+Microscopic Description: Sections demonstrate a markedly hypercellular
+glial neoplasm that diffusely infiltrates both gray and white matter. The
+majority of the tumor cells have round nuclei and well-formed perinuclear
+halos. Others cells have small eosinophilic caps with cytoplasm or
+microgemistocytic phenotype. The atypia is generally mild but many
+scattered moderately, or even markedly, atypical nuclei are seen. Mitotic
+activity is generally low, but in some areas up to 8 mitoses are seen in 10
+high power fields. The tumor demonstrates both subpial condensation and
+perineuronal satellitosis. Neither microvascular proliferation nor necrosis
+are seen. Overall, the focally high proliferative activity suggests early
+anaplastic transformation in the background of a low grade
+oligodendroglioma.
+
+Diagnosis: Anaplastic Oligodendroglioma (WHO grade III).
+MIB-labeling index = 13.7%
+

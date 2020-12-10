@@ -1,0 +1,155 @@
+.1 5432mm
+
+ 
+
+DEPARTMENT OF PATHOLOGY / C 1) - 0 , 3
+
+. M
+ﬂea/chums {”7” ”WW MOW V233 40/ 3
+
+(51,”: d, N95 075. 9
+W 3/u/H ﬂ/
+
+Surgical Pathology Consultation Report
+
+ 
+
+Patient
+Name:
+MRN:
+DOB:
+
+Gender: F
+HCN:
+
+Ordering
+
+MD:
+
+Copy To:
+
+Accession #:
+Service: Collected:
+Visit #: Received:
+Location: V Reported:
+
+Facility:
+
+ 
+
+Sgecimenls) Received
+1. Parathyroid: ? Parathyroid
+
+2. Thyroid: Total - stitch marks upper pole right lobe (fresh for tissue banking)
+
+ 
+
+Diagnosis
+
+1. No pathological diagnosis: Parathyroid, 1, (site not specified) biopsy
+
+2 Papillary carcinoma, 3.0 cm, right, underlying focal mild chronic inﬂammation end mild nodular
+
+hyperplasia: Thyroid
+
+No pathological diagnosis: Lymph nodes, 3
+
+-Total thyroidectomy specimen
+
+Synoptic Data
+
+Specimen Type:
+Tumour Focality:
+Histologic Type:
+Tumour Site:
+Tumour Size:
+
+Capsular Invasion:
+Extrathyroidal Extension:
+Margins:
+
+Total Thyroidectomy
+
+Unifocal
+
+Papillary carcinoma. follicular variant
+Right Lobe
+
+Greatest Dimension: 3.0 cm
+Additional Dimensions:2.5 x 2.0 cm
+Encapsulated
+
+Absent
+
+Margins uninvolved by carcinoma
+
+ 
+
+Venous/Lymphatic (Large/Small Vessel) invasion (V/L): Absent
+
+Pathologic Staging (pTNM):
+
+Additional Pathologic Findings:
+
+pT2: Tumor more than 2 cm, but not more than 4 cm, limited to
+thyroid
+pNO: No regional lymph node metastasis
+Number of regional lymph nodes examined: 3
+Number of regional lymph nodes involved: 0
+pMX: Distant metastasis cannot be assessed
+Nodular hyperplasia
+Thyroiditis
+
+UUID:3CE17C59-35DE-4A7C-9398-49M5756D588
+
+II”
+by: l|||
+- IIH
+
+TCGA-EM-AlVE-OlA-PR Redacted
+||llll||ll
+
+Electronically verified
+
+llllllll llll I ll
+l|||l|||l|| II III III "III" | ||||||||||| II III . MD
+
+ 
+
+“WWW " t?»ﬁ§é's¢a§‘3m
+
+ 
+
+Gross Description
+1. The specimen labelled with the patient’s name and as "Parathyroid: Query parathyroid" consists of a
+
+piece of tan tissue that weighs 0.003 g and measures 0.2 cm. it is frozen for intraoperative consultation.
+1A- frozen section block resubmitted.
+
+ 
+
+2. The specimen labeled with the patient‘s name and as "Thyroid: Total-stitch marks upper pole right lobe
+(fresh for tissue banking)" consists of a thyroid gland that is oriented with a stitch and weighs 19.6 g. The
+right lobe measures 5.0 cm Si x 2.3 cm ML x 1.5 cm AP, the left lobe measures 3.7 cm SI x 2.3 cm ML x
+1.2 cm AP and the isthmus measures 2.0 cm Sl x 1.7 cm ML x 0.5 cm AP. The external surfaces have
+fibrous adhesions and are painted with silver nitrate. The upper to mid right lobe contains a well-
+delineated solid nodule that measures 3.0 x 2.5 x 2.0 cm. The remainder of the thyroid tissue is grossly
+unremarkable. Sections of right lobe nodule and normal tissue are stored frozen. The remainder of the
+specimen is submitted as follows:
+
+2A-F- right lobe, superior to inferior
+
+ZG-H- isthmus
+
+2l-M- left lobe, superior to inferior
+
+Quick Section Diagnosis
+
+1.? Parathyroid - 1A: Parathyroid tissue present called at
+
+MD
+
+ 
+
+ 
+

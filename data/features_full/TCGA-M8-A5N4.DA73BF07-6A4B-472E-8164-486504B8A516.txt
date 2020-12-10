@@ -1,0 +1,147 @@
+Sample Number
+
+Sample Type TUMOUR
+
+ 
+
+Diagnosis
+
+ductal adenocarcinoma
+
+ 
+
+Year of Sample Collection
+
+ 
+
+ 
+
+Age at Sample Collection (yrs)
+
+ 
+
+Days to Procedure Date
+
+ 
+
+Days to Diagnosis
+
+ 
+
+Type of Procedure
+
+RESECT
+
+ 
+
+Site of Tissue/Primary (Histology)
+
+pancreas
+
+ 
+
+Tumour Size (cm)
+
+3.3999999999999999
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Histology ductal adenocarcinoma
+Grade/Differentiation ll
+
+Pathological T T3
+
+Pathological N No
+
+Clinical M M0
+
+ 
+
+ 
+
+Histology Comments
+
+ 
+
+pancreatic head
+
+ 
+
+Sample Number
+
+Sample Type BUFFY
+
+ 
+
+Year of Sample Collection
+
+ 
+
+Age at Sample Collection (yrs)
+
+ 
+
+Days to Procedure Date
+
+ 
+
+ 
+
+ 
+
+Days to Diagnosis
+
+ 
+
+ 
+
+ 
+
+UUID: DA735F07- GME- 472E— 8164- 45656458A51eﬁd
+TCGA-MB-A5N4-01A- PR
+
+IllII|||Illlll||||||||||||||||||l||IIlIlIIlIIlIIllIlllllllllllallllllcEd
+||| Illll|||||l|llllllllllllllllllll||l||llllllllllllllllllllllll
+Ill lllllllllll llllllllllllllll ll lllll ll Illll l llllllllllll I III
+
+W~3
+
+MMWOM,
+
+ 
+
+Toad—Hos
+
+8600,13
+
+. a;
+81ft: M amﬁaéo
+
+9m) 4/; I/Ia
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

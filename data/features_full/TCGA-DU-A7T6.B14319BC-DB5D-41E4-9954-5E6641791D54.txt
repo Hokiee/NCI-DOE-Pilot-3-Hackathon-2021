@@ -1,0 +1,122 @@
+EL? 03
+Anatomic Pathology/Cytology Document State: (version) 9451/ [3’
+
+Update Date/Time:
+
+F‘ I1
+
+ma 6 k L42 3 h/K EM
+
+Patient Name: MRN: Service Date/Time: a 7 j C)
+
+DOB/Age/Gender: Female Provider:
+
+Location: Responsible Staff: W [L105
+UUID:BIABIQBC-DBSD-41E4-9954-5E6641791DS4 (1—72/1‘3
+
+TCGA- DU- A7T6- 01A- PR
+
+||| |l||lllllllllllllllllllllll|||||lllllllllllllllllllllRllelllIlllclltEd , Q Mom/l4]
+llll llllllllllllllllllllllllllll l /
+Ill |||||||||||| llllllllll ll Illlllil lllliilllllliiillllllllillilllliilliilli I" Cy
+
+COPY TO:
+
+PATHOLOGICAL DIAGNOSIS:
+
+A. BRAIN, SITE NOT SPECIFIED, EXCISIONAL BIOPSY: GLIOMA, HIGH
+HISTOLOGICAL GRADE, CONSISTENT WITH OLIGODENDROGLIOMA.
+
+B. BRAIN, RECURRENT TUMOR, EXCISION: ANAPLASTIC OLIGODENDROGLIOMA.
+C. BRAIN, RECURRENT TUMOR, EXCISION: ANAPLASTIC OLIGODENDROGLIOMA.
+MIB-l PROLIFERATION INDEX: 50%.
+
+SEE MICROSCOPIC AND COMMENT.
+
+Operation/Specimen: Recurrent brain tumor; subfrontal dropped
+
+metastasis.
+
+Clinical History and Pre-Op Dx: year old woman with past history of
+2 surgeries for oligodendroglioma. Currently, large recurrence,
+multicystic.
+
+GROSS PATHOLOGY :
+
+A. Received fresh, one fragment, 0.5 cm across. Soft, tannish—gray.
+In total #1.
+
+INTRAOPERATIVE CONSULTATION: Brain, smears: Glioma (C/W
+oligodendroglioma, high histological grade).
+
+B .
+
+SPECIMEN: 3, subfrontal dropped metastasis.
+
+FIXATIVE: Saline.
+
+GENERAL: A 1.1 X 0.7 x 0.3 cm. soft red—tan tissue fragment.
+SECTIONS: 2 , all submitted.
+
+C .
+
+SPECIMEN: 2, permanent recurrent brain tumor.
+
+FIXATIVE: Saline .
+
+GENERAL: A 2.5 X 2.4 x 1.0 cm., 2.5 gm. aggregate of soft, red to
+gray—tan brain tissue.
+
+SECTIONS: 3—5 — all submitted.
+
+MICROSCOPIC: A. Small fragments of brain infiltrated and focally
+effaced by a glial neoplastic proliferation. The neoplastic cells have
+round nuclei with occasional perinuclear halos. There is prominent
+karyorrhexis, mitotic figures are found without difficulty, and there
+is microvascular cellular proliferation.
+
+B. Portions of a solid glial neoplasm. The neoplastic cells have
+large round nuclei with moderate pleomorphism. The background is
+finely fibrillary with microvesicular change. The vascularity is
+capillary—type with focal "chicken—wire" pattern. There is prominent
+endothelial and microvascular cellular proliferation, focally. There
+are mitotic figures throughout the neoplasm. There is no necrosis.
+
+C. Portions of brain extensively effaced by a glial neoplastic
+
+proliferation similar to that one described for parts A and B.
+
+In here, the neoplasm seems to be growing in the leptomeningeal space.
+The focally surrounding white matter is rarefied and gliotic.
+IMMUNOHISTOCHEMISTRY: Immunoperoxidase methods for GFAP, MIB-l, and
+factor VIII antigen were performed on sections from block #4.
+
+The GFAP demonstrates numerous gliofibrillary oligodendrocytes and
+minigemistocytes. With the MIB—l a proliferation index of 50% is
+determined in the more active areas. The factor VIII depicts a high
+density of microvessels and prominent microvascular cellular
+proliferation.
+
+COMMENT: The neoplasm present in the three specimens is an
+oligodendroglioma with prominent cellularity, mitotic activity, and
+microvascular cellular proliferation, features of an anaplastic
+oligodendroglioma. The MIB—l proliferation index is 50%.
+
+The neoplasm
+seems to be growing in the leptomeninges.
+
+TISSUE COMMITTEE CODE:
+ICD9: 191.1
+BILLING CODES:
+
+Crilari:
+
+Tumor Size
+IUPAA Duu epanty—_
+
+Prim Histor
+
+Pass is
+
+ 
+

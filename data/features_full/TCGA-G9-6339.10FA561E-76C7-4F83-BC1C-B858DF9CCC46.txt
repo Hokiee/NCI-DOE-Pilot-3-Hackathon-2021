@@ -1,0 +1,167 @@
+SPECIMENS:
+A. RIGHT PELVtC LYMPH NODES
+
+B. LEFT PELVIC LYMPH NODES
+C. PROSTATE
+
+SPECIMEMS):
+A. RlGHT PELVIC LYMPH NODES
+B. LEFT PELVlC LYMPH NODES
+
+0' PROSTATE UUID:lafaseie-Teﬂ-4f83-bc1c-b85!df9ccc4§
+- TCGA-69-6339-01A-PR Redacted
+'"TWPERAT'VE C°NSULTAT'°” D'AG”°S'S= Ill ||llIllllllllllllllllllllllll lllllllllllllllll I llllllllllllllll
+
+”Lymph "m "9*“ 99““ Ill llilllll llll lllllllllill llllllllll llillllllilll ll|l||||l|||l|
+-F b i i hnodes 0/4b D.
+Diagnogi’ca‘lié’lowy ' |||||Illllllll||||||l||II||||lll||lllllllll|||l||l||l|l||l|l|ll|
+
+B)Lymph nodes. is pe Vic, lopsy:
+
+Two benign ly Dr.
+Diagnosis called QM
+
+GROSS DESCRIPTION:
+
+A. RIGHT PELVIC LYMPH NODES:
+Received fresh labeled with the patient name labeled "lymph node right pelvic“ is a portion of red-yellow
+adipose tissue measuring 6 x 3 x 1 cm. Multiple possible lymph nodes are identiﬁed measuring 1.2 x
+0.7 x 0.3 cm. 0.6 x 0.4 x 0.2 cm. 1.5 x 0.7 x 0.5, and 1.5 x 0.6 x 0.4 cm. All four possible lymph nodes
+are bisected. Touch prep performed. All four lymph nodes are submitted for frozen section in cassette
+FSA1 and FSA2.
+8. LEFT PELVlC LYMPH NODES:
+Received fresh labeled with the patient's name designated "B - left pelvic lymph node" is a portion of
+red-yellow adipose tissue measuring 2.9 x 2 x 1.5 cm. Two possible lymph nodes are identiﬁed
+measuring 3 x 1.5 x 1 cm, and 4 x 1 x 0.5 cm. Both lymph nodes are serially sectioned. Touch prep
+performed. Both lymph nodes are entirely submitted for frozen section in cassette F381 and F882.
+C. PROSTATE:
+Received fresh labeled with patient name designated "0 —- prostate" is a resected prostate gland
+weighing 34 grams and measuring 4 cm. from right to left. 3.5 cm. from anterior to posterior, and 2.2
+cm. from apex to base. The external capsule is smooth, red and Intact. The specimen is inked as
+follows: apex-red. anterior-orange. base-blue. posterior-black, right-green. left-yellow. The apex and
+base are disassembled from the specimen to yield a new weight of 18 grams. The specimen is serially
+sectioned from apex to base. Cut section shows ﬁrm tan ﬁbrous parenchyma with no obvious lesions or
+nodules. The right and left seminal vesicle measure 1.5 x 1.4 x 0.6 cm. and 1.3 x 1.3 x 0.5 cm.
+respectively. Both are bisected to show beige’tan tissue. The right and left vas measure 1.5 cm. in
+length by 0.5 cm. in diameter and 2 cm. in length by 0.5 cm. in diameter respectively. Both are serially
+sectioned to show ﬁrm tan tube structure. A portion of the specimen is submitted for tissue
+procurement. The remainder is entirely submitted for microscopic evaluation. Cassettes are submitted
+as follows;
+
+01-02: right apex
+
+(33: left apex
+
+C4: level 1 capsule right side
+
+C5: level 1 capsule left side
+
+C6: level 2 capsule right side
+
+07: level 2 capsule left side
+
+CB: level 3 right anterior
+
+09: level 3 right posterior
+
+Cl 0: level 3 left anterior
+
+011: level 3 left posterior
+
+012: right lateral base
+
+CiS-C‘M: right base with proximal urethral margin and root of rig ht seminal vesicle
+
+C1 5-016: left base with proximal urethral margin
+
+61?: left base
+
+CiB-C‘iQ: left lateral base
+
+620: representative serial sections right vas
+
+021: representative serial sections left vas
+
+ 
+
+DIAGNOSIS:
+A. LYMPH NODES. RIGHT PELVIC. DISSECTION:
+- FOUR BENIGN LYMPH NODES (0M).
+
+3. LYMPH NODES, LEFT PELVIC, DISSECTION:
+- TWO BENIGN LYMPH NODES (012).
+
+C. PROSTATE, RADICAL PROSTATECTOMY:
+
+— PROSTATE ADENOCARCINOMA, GLEASON'S GRADE 3+4 (7110), INVOLVING
+APPROXIMATELY 25% OF PROSTATIC TISSUE. ,
+
+- EXTRAPROSTATIC EXT ENSION. LYMPHOVASCULAR AND BILATERAL
+SEMINAL VESICLE INVOLVEMENT IS IDENTIFIED.
+
+- SURGICAL MARGINS ARE NOT INVOLVED
+
+SYNOPTIC REPORT ~ PROSTATE GLAND
+Specimens Involved
+
+Specimens: A: RIGHT PELVIC LYMPH NODES
+B: LEFT PELVIC LYMPH NODES
+
+C: PROSTATE
+Location: Left
+
+Right
+
+Posterior lateral
+
+Apical
+
+Basal
+
+Anterior
+
+WHO CLASSIFICATION
+
+Epithelial tumors
+
+Adenocarcinoma 8140/3
+
+Muiticentricity: Yes
+
+Gland Involvement: 25%
+
+Gleason Grade/Sum: Grade 3 + 4 , Sum 7
+High Grade PIN Present: Yes
+Perineural Invasion: Yes
+VascularlLymphatIc Invasion: Yes
+
+Seminal Vesicle Invasion: Yes
+Left
+
+Right
+
+Muscular Wail Invasion: Yes
+Lumen Invasion: No
+Periprostatlc Fat Involved: No
+Bladder Neck Involved: No
+
+Margins Involvement: No
+
+Frozen Performed: Yes
+
+Post Hormonal Therapy Change: No
+
+Lymph Nodes: Negative Right 0 l 4 Leﬁ 0 I 2
+Other Pathologic Findings: None identiﬁed
+Pathological Staging (pTNM): T Si) N 0 M x
+
+CLINICAL HISTORY:
+None given
+
+PRE-OPERATIVE DIAGNOSIS:
+Prostate cancer
+
+ 
+
+ 
+

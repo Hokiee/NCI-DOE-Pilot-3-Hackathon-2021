@@ -1,0 +1,163 @@
+Path (First Tumor)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tumor Site: [Sigmoid Distal 3
+Date of Cancer Sample Procurement: '1 _____
+Histology: [Adenocarcinoma 3
+Description of other histology: l ‘
+Grade: IModerately Differentiated 3
+. (‘ Yes
+Mucmous: 5‘ No C Yes F Unknown
+(Focal)
+. . F Yes
+Signet Ring Feature: (0‘ No C Yes t" Unknown
+(Focal)
+Histologic Heterogeneity: G No C Yes F Unknown
+Host Response: I None 33
+Crohn's like reaction (3 None (‘ Yes F Unknown
+Plasma cell rich stroma C‘ No C Yes f” Unknown
+Growth Pattern: (3 Expansile F Invasive r Expansile C Unknown
+and lnvaswe
+inﬂammatory Bowel Disease (0‘ No C Yes (‘ Unknown
+Angiolymphatic invasion: (0‘ No C Yes (‘ Unknown
+Mutator Phenotype: 6‘ No (" Yes r Unknown
+Number of Slides I1
+. C‘ Yes
+Garland Necrosis present: C” No 5 Yes C‘ Unknown
+(Focal)
+
+ 
+
+ 
+
+TIL Cells / HPF
+
+l5—____
+
+ 
+
+ 
+
+Pathologist Comment:
+
+I.___________
+
+ 
+
+ 
+
+UUID: 63A78869- -CE10- 4755- BZAB- 9096731A069eCd
+TCGA- DM- A28E 01A- PR
+
+llllllllllllllllllIlllllllllllllllllllllllll‘lllllllllllllllllll tad
+
+III
+III llll II II I Illlllllllll llllllH
+IllllllllllllllllllllllllllllllllllllllllIlllllllllHIIIlIllI
+
+/CA10/3
+
+WW AM; (WW/3
+SHZ QWX a/ud ¢l& 7
+IV 5/3/4
+
+ 
+ 
+
+c___illr rIa _.___——-———-—' ’1’
+
+Die-T;— msi "‘BTLC‘L __,._.-__———- ---
+Dix
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+   
+

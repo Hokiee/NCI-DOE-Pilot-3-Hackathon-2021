@@ -1,0 +1,244 @@
+UUID: 20C14AE7-6151-433F -83A5-A1EA6C827EFB
+
+IIIIIllliﬁiililliﬁlhlﬁililiﬁﬁmunmullﬁli'lﬁilte“ 1am. g
+lll'll'llll'llllllll'lfillllllllllllll'ill'llllllll'll'll'llll MW Aka?
+
+aﬁab
+
+Q51 JAM/I4
+
+Collection date and time
+
+Clinical Information
+
+Malignant neoplasm of head of pancreas. Pancreatitis, pancreatic adenocarcinoma
+Diagnosis
+A. PARTIAL PANCREAS AND DUODENUM, WHIPPLE RESECTION:
+
+- Invasive moderately differentiated pancreatic ductal adenocarcinoma.
+
+- Adenocarcinoma measures 2.0 x 1.7 x 1.5 cm.
+
+— Adenocarcinoma extends beyond the pancreas.
+
+— All surgical margins (pancreatic cut margin, bile duct margin, SMA margin, portal vein margin, anterior
+
+pancreatic surface, posterior pancreatic surface, proximal duodenal margin and distal duodenal margin),
+uninvolved by malignancy.
+
+— Non-neoplastic pancreatic parenchyma with areas of fat necrosis.
+— Twenty regional lymph nodes, negative for malignancy (0/20).
+
+B. LYMPH NODE, HEPATIC ARTERY, BIOPSY:
+
+— Single lymph node, negative for malignancy (0/1).
+C. GALLBLADDER, CHOLECYSTECTOMY:
+
+- Gallbladder, without significant pathologic change.
+
+Pathology Staging Summary
+Specimen type: Whipple resection
+Tumor location: Head of pancreas
+Histologic type: Invasive pancreatic ductal adenocarcinoma
+Histologic grade: Moderately differentiated
+Tumor size and invasion of:
+Tumor limited to pancreas, 2.0 cm or less: No
+Tumor limited to pancreas, greater than 2.0 cm: No
+Tumor extends beyond the pancreas, but without involvement of
+celiac axis or SMA: Yes
+Tumor involves celiac axis or SMA: No
+Lymphatic invasion: Not identified
+Large vessel invasion: Not identified
+Margins:
+Common bile duct: Negative
+Proximal duodenal margin: Negative
+
+Distal duodenal margin: Negative
+Distal pancreatic margin: Negative
+Peripancreatic soft tissue margin: Negative
+Total regional lymph nodes: 21 Number positive: 0
+Pathologic Stage (AJCC Cancer Staging Manual, 7th edition): pT3, pNO, MX
+
+Dictated and authenticated by:
+
+Performing Location:
+
+Gross Description
+
+A. WHIPPLE SPECIMEN
+
+Received fresh labeled with the patient name
+
+Specimen received: Duodenum and head of the pancreas
+
+Orientation given: Double stitch on bile duct, single stitch on SMA margin
+
+Integrity: Received intact
+
+Size of pancreas: 5.0 x 5.0 x 4.0 cm
+
+Length of duodenum: 25.0 cm in length
+
+Ducts: The common bile duct and pancreatic duct are patent to the ampulla
+
+Ampulla: The mucosa around the ampulla is finely granular, dusky and brown. There are some
+thickened duodenal folds around the ampulla
+
+lnking scheme: Pancreatic cut margin green, SMA margin orange, portal vein margin purple, bile duct
+margin yellow, posterior pancreas black, anterior pancreas blue
+
+Tumor site: There is a tumor near the pancreatic cut margin and near the margin of the bile duct
+Tumor size: 2.0 x 1.7 x 1.5 cm
+
+Tumor description: lndurated, ill-defined gray-white
+
+Invasion of: The tumor does not extend to the duodenum or involve the bile ducts or pancreatic duct
+Distance from margins: 0.3 cm from the pancreatic cut margin close to the portal vein margin, 2.0 cm
+from the SMA margin, 4.5 cm from the anterior surface and 2.0 cm from the posterior surface
+
+Remaining specimen: The rest of the pancreas is lobulated, yellow-tan and soft with a few areas of
+possible fat necrosis
+
+Lymph nodes: Several lymph nodes are present
+
+FROZEN SECTION DIAGNOSIS PERFORMED AT Pancreatic
+margin - benign. Bile duct margin — benign. SMA margin - benign.
+
+SECTIONS:
+
+A1. Frozen section control of pancreatic cut margin
+A2. Frozen section control of bile duct margin
+
+A3. Frozen section control of SMA margin
+
+A4. Proximal duodenal margin
+
+A5. Distal duodenal margin
+
+A6-7. Ampulla
+
+A8—11. Thickened duodenal folds around the ampulla
+
+A12. Sections of tumor closest to bile duct
+
+A13-14. Tumor
+
+A15. One section of tumor perpendicular to portal vein margin
+A16-17. Two sections perpendicular to portal vein and SMA margin
+A18-20. Additional sections of pancreas and possible pancreatitis
+A21. Anterior surface of pancreas
+
+A22. Posterior surface of pancreas
+
+A23. One common bile duct lymph node
+
+A24. One whole posterior pancreatic lymph node
+
+A25-27. One posterior pancreatic lymph node
+
+A28. Two whole anterior pancreatic lymph nodes
+
+A29. Seven whole SMA lymph nodes
+
+A30. Two bisected SMA lymph nodes, one marked black
+
+A31. Five whole SMA lymph nodes
+
+A32. One bisected SMA lymph node
+
+B. HEPATIC ARTERY LYMPH NODE
+Received in formalin labeled with the patient name
+Description: A 2.0 cm in greatest dimension lymph node
+
+SECTIONS:
+Bl. Bisected and entirely submitted
+
+C. GALLBLADDER
+
+Received in formalin labeled with the patient name
+
+Size: 14.0 x 4.0 x 4.0 cm
+
+Cystic duct: The cystic duct is intact with no surgical clip
+
+Integrity: Received intact
+
+Contents: Thick bile with no choleliths
+
+Mucosa and wall: Velvety green mucosa. The wall measures 0.2 cm in thickness
+
+SECTIONS:
+C1. Three sections
+
+Microscopic Description
+
+A. WHIPPLE SPECIMEN: Sections show moderately differentiated adenocarcinoma consisting of
+irregular neoplastic glandular structures lined by columnar epithelial cells with enlarged, more vesicular
+nuclei. The adenocarcinoma has an invasive appearance with surrounding stromal response. The
+adenocarcinoma involves pancreatic tissue in slides A13 and A14, with extension into peripancreatic soft
+tissue in slide A13 and extension up to the bile duct in slide A12 as well as beneath the duct leading up
+to the ampulla in slide A7. The pancreatic cut margin, bile duct margin, SMA margin, anterior pancreatic
+
+surface, posterior pancreatic surface, portal vein margin, proximal duodenal margin and distal duodenal
+margin are all uninvolved by malignancy.
+
+The non-neoplastic pancreatic parenchyma shows areas of fat necrosis.
+
+Twenty regional lymph nodes are examined, all of which are negative for malignancy. A nodular focus of
+
+fibrosis and fat necrosis is present in slide A29; this focus shows absence of staining for keratin AE1/AE3
+and positive staining for CD68.
+
+B. HEPATIC ARTERY LYMPH NODE: Sections show a single lymph node which is negative for malignancy.
+
+C. GALLBLADDER: Sections of the gallbladder are unremarkable.
+
+Surg Path Non-Chartable Comment
+
+Diagnosis given directly to surgeon over the telephone/speakerphone.
+Edited by:
+
+M... II!) \\\»\\~t
+
+ 
+
+Diagnosis Discrepancy I
+
+ 
+
+ 
+
+ 
+
+ 
+
+PI Emarv Tumor Site Discrepancy
+
+ 
+
+ 
+
+ 
+
+HIPM Discrepantv ﬂ I' U!
+Priar‘ Hlstorv %%13 I} /
+ted
+
+Mai/Synchronous P\iqa L
+
+\ \\\§
+
+ 
+
+) .
+Case Mcirsle): mun / souA I
+Reviewer Initials ate Reviewed: /
+
+\‘V
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,58 @@
+/ C I) - a — 3
+[mi ”0‘ £73 ”/3 Frlmarv‘l’umor D ' V'
+517’», Mm «dam/101 m7- 3 Wu ”‘1'
+mAGNO$S /’7“““
+
+late.
+
+6111
+
+ 
+
+Patient ID — ' Sample ID
+
+(A) RIGHT AXILLARY CONTENTS:
+
+METASTATIC MALIGNANT TUMOR CONSISTENT WITH MELANOMA IN ONE OF SIXTEEN LYMPH NODES.
+(B) ADDITIONAL MARGIN, LEVEL Ill:
+
+Fibroadipose tissue, no tumor seen.
+
+Entire report and diagnosis completed b)
+COMMENT
+
+The tumor in the involved lymph node in specimen A measures at least 2.4 cm in maximum dimension. There is focal extranodal
+extension.
+
+GROSS DESCRIPTION
+
+(A) LEVELS I, II, III, RIGHT AXILLARY CONTENTS - Irregular fragment of fat (15.0 x 11.0 x 1.8 cm). Multiple nodes are
+dissected out. Nodes are ranging in size from 0.3 up to 2.5 cm. The largest node (2.5 x 2.5 x 2.0 cm) has a tan, rubbery cut
+surface with a rim of normal lymphoid tissue.
+
+SECTION CODE: A1, four possible lymph nodes; A2, three possible lymph nodes; A3, two possible lymph nodes; A4,
+two possible lymph nodes; A5, two possible lymph nodes; A6. one lymph node, cross sectioned; A7, one lymph node, cross
+sectioned; A8-A12, representative sections of the largest node. Tissue from the enlarged node is given to tumor bank.
+
+(B) ADDITIONAL MARGIN LEVEL lll - Multiple fragments of fatty tissue (1 .5 x 1.0 x 0.9 cm) in toto.
+
+CLINICAL HISTORY
+Melanoma.
+
+SNOMED CODES
+
+"Some tests reported here may have been developed and performance characteristics determined by l :. These tests have not been
+specifically cleared or approved by the U.S. Food and Drug Administration.“
+
+Released by:
+
+------ END OF REPORT------
+
+UUID : 3509097~7BF7-460C-5146-13C3FA25C80C
+TCGA-D3 -A2]N-96A-
+
+PR Redacted
+IIIIIllllllIlllllIllllllllllllllllllllllllllllllllllllllllllllll
+llllllllllllllllllllllllllllllllllllllllllllllll Ill
+IllllllllllllllllllllllllIllllllllllllllllllllllIlllIIIllIIlll
+

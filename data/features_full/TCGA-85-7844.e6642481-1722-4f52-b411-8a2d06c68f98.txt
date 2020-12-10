@@ -1,0 +1,80 @@
+   
+
+Case | D DC | D Gross Microscopic Diagnosis
+Description Description Details
+
+ 
+   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Formatted Path Report
+
+ 
+
+LUNG TISSUE CHECKLIST
+
+Specimen type: Lobectomy
+Tumor site: Lung
+
+Tumor size: 3.5 x 3.5 x 3.5 cm
+Histologic type: Squamous cell
+carcinoma
+
+Histologic grade:
+
+Tumor extent: Not specified
+Other tumor nodules: Not specified
+Lymph nodes: 0/2 positive for
+metastasis (Regional 0/2)
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Margins: Not specified
+
+Evidence of neo-adjuvant treatment:
+
+Not specified
+
+Additional pathologic findings: Not
+specified
+
+Comments: None
+
+ 
+
+ 
+
+ 
+
+OpenCli Date of Lateralit
+nicalD Procurement y
+
+upper
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

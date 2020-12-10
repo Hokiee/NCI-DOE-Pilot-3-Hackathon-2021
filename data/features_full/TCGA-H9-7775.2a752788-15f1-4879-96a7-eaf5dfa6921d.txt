@@ -1,0 +1,85 @@
+Final Pathologic Diagnosis:
+Prostate, prostatectomy:
+Histologic type: Adenocarcinoma
+Variant histology present: No
+Prostate size: 5.0 x 5.0 x 4.3 cm; weight: 49 g
+Gleason score (primary + secondary): 3 + 4 = 7
+Primary pattern (%): 3 (95%)
+Secondary pattern (%): 4 (5%)
+Tertiary pattern (if present) (%): 0
+Tumor quantitation:
+Greatest dimension, largest tumor focus: 27 mm
+Additional dimensions: 18 x 11 mm
+Location, largest tumor focus: Rig ht posterior
+Multifocality: Yes
+Greatest dimension, second largest focus: 24 mm
+Location, second largest focus: Right anterior
+Extraprostatic extension: No
+Seminal vesicle invasion: No
+Cancer at surgical margin: No
+If no, closest distance with location: 1 mm, right posterior
+lncised specimen: No
+Apex involvement: No
+Bladder neck involvement: No
+Lymph-vascular invasion: No
+Perineural invasion: No
+Treatment effect on carcinoma: No
+Other histologic findings: (list) High-grade prostatic intraepithelial
+neoplasia
+Lymph nodes sampling submitted: No
+
+Ancillary studies: No
+Pathologic stage- pT2c, NX, MX
+
+Gross Description:
+
+The specimen is received fresh for tissue procurement, labeled with the
+patient's name and additionally labeled "prostate" and consists
+
+of a 49 gram, 4.3 cm in length by 5 x 5 cm prostate gland with attached
+bilateral seminal vesicles. The specimen is received previously inked as
+follows: Right side yellow, left side black, posterior red.
+
+The distal margin of resection is coned and submitted in cassette 1. The
+proximal margin is coned and submitted in cassette 2.
+
+The remaining prostate gland is sectioned from apex to base. The cut surface is
+pink-tan with diffuse nodularity surrounding the prostatic urethra. Sectioning
+
+through the seminal vesicles and segments of vas deferens reveals a pink-tan,
+unremarkable cut surface.
+
+Representative sections are submitted as follows:
+
+1 apex, completely submitted;
+
+2 bladder base, completely submitted;
+
+3-14 right posterior prostate gland, apex to base, completely
+submitted;
+
+15-25 left posterior prostate gland, apex to base, completely
+submitted;
+
+26 right anterior, cross section 2;
+
+27 left anterior, cross section 3;
+
+28 right anterior, cross section 4;
+
+29 left anterior, cross section 5;
+
+30 right seminal vesicle-prostate interface;
+
+31 -32 additional right seminal vesicle;
+
+33 left seminal vesicle-prostate interface;
+
+34-35 additional left seminal vesicle.
+
+Microscopic Description:
+The final diagnosis of each specimen incorporates the microscopic examination
+findings.
+
+END OF REPORT
+

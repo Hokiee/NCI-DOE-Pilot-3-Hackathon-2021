@@ -1,0 +1,332 @@
+UUID:1C272E41 -4BE4-4E8A-BDSS-ASECSCBSMQC
+TCGA-NJ -A4YF -91A-P
+
+R Redacted
+Ill||lllIllllllllllllllllllllllllllll|lllllllllllllllllllllllllllll
+INlllHlllllllllHIHIIIHHIHIHHI!HIHIHIHIIHMHIHIM
+
+Illlllllllllllllllllllllllllllllllllllllllllllllllllllllllll llll
+
+ProcedureLocaﬁon:
+
+[65’0’5
+
+PAM WCW N”; Ema/3
+C4015." 1241/,ch, u/mfux WM 3933/3
+51h,“ ‘Uuﬂ. gfw'm‘” (,qu
+
+[MIM'Y
+
+[0
+
+PATHOLOGY SURGICAL
+
+Results
+
+Entry Date
+
+Component Results
+
+PATHOLOGY RESULT:
+
+Department of Pathology
+
+* Amended *
+
+Clinical Data Repository* This report may not match the original report
+
+format
+
+AMENDMENTS
+
+FINAL DlAGNOSlS
+
+A. (Pleura, biopsy): Skeletal muscle and fibrous tissue with chronic
+
+inflammation. No tumor seen.
+
+B. (Right upper lobe, lobectomy): Poorly differentiated adenocarcinoma,
+
+measuring 2.5cm in the greatest dimension, focally extending into the visceral
+
+pleura.
+
+Bronchial, vascular, and stapled surgical margins are free of tumor.
+
+Remaining lung with mild emphysema and chronic inflammation.
+
+pT2NOMx
+
+C. (Level 11 lymph node, biopsy): Lymph nodes with anthracosis.
+
+D. (Level 7 lymph node, biopsy): Lymph nodes with anthracosis.
+
+E. (Level 4/2 lymph node, biopsy): Fibroadipose tissue and minute fragment of
+
+lymphoid tissue with anthracosis.
+
+F. (Level #8, biopsy): Fibrous tissue and blood.
+
+INTRAOPERATIVE CONSULTATION
+A. FROZEN: PLEURAL BIOPSY CANCER OR NO CANCER: Skeletal muscle and
+fibroconnective tissue with focal chronic inflammation. No tumor seen.
+
+(Frozen section and touch preps reviewed).
+
+B. FROZEN: RIGHT UPPER LOBE FROZEN SECTION ON BRONCHIAL MARGINS:
+Adenocarcinoma. Bronchial margin negative for tumor. (Frozen sections and
+
+touch preps reviewed).
+
+GROSS DESCRIPTION
+
+A. The specimen, submitted for frozen section, is labeled pleural biopsy.
+Received fresh is a 0.3 x 0.3 x 0.2 cm aggregate of soft pink tissue. Touch
+preps are prepared. The entire specimen is submitted for frozen section with
+
+the remnants placed in cassette A91.
+
+B. The specimen, submitted for frozen section, is labeled right upper lobe.
+Received fresh is a 17.0 x 12.0 x 5.0 cm right upper lobe of lung. There is a
+palpable peripheral mass with puckering of the overlying pleura. The pleura
+overlying the mass is inked blue and the lung is serially sectioned to show a
+2.5 x 1.5 x 1.5 cm irregular tan nodule. Touch preps of the mass are
+
+prepared. The bronchial margin and a section of the mass are submitted for
+frozen section with the remnants placed in cassettes 891 and 892 respectively.
+No other masses or lesions are identiﬁed in the lung. Representative
+
+sections are submitted as follows: Bl - vascular margin; 32 and BB - stapled
+surgical margin; B4 through 36 - sections of the nodule; B7 - section of
+
+uninvolved lung.
+
+C. The specimen is labeled level 11 lymph node. Received fresh is a 2.0 x
+
+1.5 x 0.8 cm aggregate of soft pink to black tissue. The entire specimen is
+
+serially sectioned and submitted in cassette C1.
+
+D. The specimen is labeled level 7 lymph node. Received fresh is a 1.5 x 1.0
+x 0.6 cm aggregate of soft tan to black tissue. The entire specimen is
+
+submitted in cassette D1.
+
+E. The specimen is labeled level 4/2 lymph node. Received fresh is a 1.0 x
+1.0 x 0.2 cm aggregate of soft pink tissue. The entire specimen is submitted
+
+in cassette E1.
+
+F. The specimen is labeled level 8. Received fresh is a 0.3 x 0.2 x 0.2 cm
+fragment of soft pink tissue. The entire specimen is wrapped and submitted in
+
+cassette F1.
+
+SPECIMEN(S) RECEIVED
+
+A: FROZEN: PLEURAL BIOPSY CANCER OR NO CANCER
+
+B: FROZEN: RIGHT UPPER LOBE FROZEN SECTION ON BRONCHIAL MARGINS
+C: LEVEL 11 LYMPH NODE
+
+D'. LEVEL7 LYMPH NODE
+
+E: LEVEL 4/2 LYMPH NODE
+
+F: LEVEL #8
+
+* The above listed tests (if any) were developed and the performance
+
+characteristics determined by These tests have
+
+not been cleared or approved for commercial use by the US. Food and Drug
+Administration. The FDA has determined'that FDA review is not required for
+
+such in-house assays. .
+
+OPERATIVE INFORMATION
+
+Diagnosis: Right upper lobe mass
+
+Procedure: Thoracoscopy video assisted, thoracotomy wedge resection,
+
+bronchoscopy flexible fiberoptic
+
+INTRADEPARTMENT CONSULTATION PATHOLOGIST: QA COMMITTEE
+
+lCD—9(s):
+
+The attending pathologist was physically present when this specimen was
+
+diagnosed, and actively participated in all key decisions.
+
+Lab and Collection
+
+PATHOLOGY SURGICAL . . 7 b and Collection Information
+
+Result History
+
+)rder Result History Report
+
+Pathology
+
+Procedure Location:
+
+.bx Moupm 5m WMv
+
+    
+  
+
+. U . -
+t p.)
+
+.- ﬁiﬁulmuﬂeo
+% a uRe-m-m1 ﬁlm ,.
+
+~~r“_~__%
+
+ﬁr—~—ﬁ ..
+
+ 
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+. . _ z- The! TCGA‘ Pathologic Ding)? asis DiSCI‘epamy Form should be completed when the pathologic r/ingnasis
+documented on the in'itialiparhology reportfor‘ a. case submitted for TCGA is inconsistent with the diagnosis providEd on the
+Case Quality Control Form completed/"or the submitted case.
+
+ 
+
+TLssue Source Site (T35) “1-. , i ‘ __TSS Identifier: , TSS Unique Patient Identifier: ,
+Completed By [Interviewer-Name on Openc‘bnica): ‘_ __MCompIeted Date; _.
+
+Diagnosis information .
+
+ 
+
+J Data Element Entry Alternatives Wozﬂgﬂstructions
+Provide the diagnoszs/ histologlt: subtypefs] documented on
+
+Pathologic Diagnosis .. . , ,_ th . irg'tial pathology report for this case. ll'tlie histoiogy for
+1 Provided cm Initial Poof” D. germ Med 91 c :a‘ (A We is mixed. provide all lisred subtypes.
+Pathology Report focally foR? rn'bv;$¢ual (dear; ,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Histologic features of PI’OVJdB the histologic features selected on the TCGA Case
+
+- . t . uaIit Control Form com leted {or this case.
+2 U16 sample provided Maxed i acmg £9le Q y p
+, for TCGA. as reﬂected
+
+on the CQCF.
+
+ 
+
+LErepybtw““03prrtandC‘asiei'evalitycontfdlfofm. . . . f T‘
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 Provide the reason f0!“ Provide a reason describing why the diagnosrs on the initial
+gm rLPer—I— does not Sui-7mg.
+
+, - - pathology report: for this case Is not consistent with the
+
+. n ,
+the dlsu epa CY diagnosis selected on the ’I‘CGA Case. Qualily Control Form.
+between the pathology
+report and the 'I‘CGA
+Case Quality Control
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Form.
+Name ofTSS Reviewing Provide the name of the pathologist who reviewed this case
+4 Pathologist or ‘_ ¥ .. .111 Z. _, for 1cm.
+L Biorcpmitory Director J
+I acknowledge that the above Infammtion provided by my institution is true and correct and has been quality controlled.
+'l‘SS Reviewing Pathologist or Biorepository Director Date” A,
+
+I acknowledge that the above information provided by my institution is true and correct and Ims' been quality cantruiled. The Attending Putlmmyist or the
+Department Chairman has been informed or is aware of the above tliscrmmmy in diagnoses.
+
+ 
+
+Da te
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

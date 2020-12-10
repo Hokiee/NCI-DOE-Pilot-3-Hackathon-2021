@@ -1,0 +1,443 @@
+Document Type:
+Document Date:
+Document Status:
+Document Title:
+Performed By:
+Veriﬁed By:
+Encounter info:
+
+Anat Path Reports
+
+UUID : BCD282DC-A45E-4BBD-825A-4C E9FA305AA9
+
+l|||||||||||||||lllllll||l|l|||||||||||||ll|lllll|lllll
+llllllllllllllllHilllllllllllllllllllllllllHIIlIlllllll
+lllllllllllllllllllllIlllllllllllllllllllllllllllllllllll
+
+TCGA-QK—ASVC-ClA-PR Redﬁﬁlted
+
+1121-0 «:5
+
+W’ % r30 70" 75
+
+SJ?— C‘ICFWM my; MS
+HZ 6/3q
+
+if“ .
+at),
+am,
+
+9&3 Waits
+
+* Final Report *
+
+(Veriﬁed)
+
+Patient Name:
+
+_ Acc#=
+—
+
+MRN: _ DOB:
+
+Location: ' Gender: F Collected:
+Client: Received:
+Submitting Phys: Reported:
+Copy To Phys:
+
+Final Surgical Pathology Report
+
+Final Patholo ic Dia nosis
+
+A. ESOPHAGEAL MARGIN, EXCISION, A1FS:
+- SKELETAL MUSCLE AND FIBROUS CONNECTIVE TISSUE.
+- NO SURFACE EPITHELIUM PRESENT.
+- NEGATIVE FOR INVASIVE CARCINOMA.
+
+B. LEFT PHARYNX MARGIN, EXCISION, B1 F8:
+- SQUAMOUS MUCOSA, CHRONICALLY INFLAMED.
+- NEGATIVE FOR HIGH-GRADE DYSPLASIA AND INVASIVE CARCINOMA.
+
+C. RIGHT MEDIAL PHARYNX MARGIN, EXCISION, C1FS:
+- SQUAMOUS MUCOSA, CHRONICALLY INFLAMED.
+- NEGATIVE FOR HIGH-GRADE DYSPLASIA AND INVASIVE CARCINOMA.
+
+D. RIGHT LATERAL PHARYNX MARGIN, EXCISION, D1FS:
+- SQUAMOUS MUCDSA AND SKELETAL MUSCLE BUNDLES.
+- NEGATIVE FOR HIGH-GRADE DYSPLASIA AND INVASIVE CARCINOMA.
+
+E. BASE OF TONGUE MARGIN, EXCISION, E1 FS:
+- SQUAMOUS MUCOSA WITH LYMPHOID AGGREGATES.
+- NEGATIVE FDR HIGH-GRADE DYSPLASIA AND INVASIVE CARCINOMA.
+
+F. HYPOPHARYNX, RIGHT, TOTAL LARYNGOPHARYNGECTOMYICOMPLETE THYROIDECTOMY, F1 F8:
+
+- INVASIVE SQUAMOUS CELL CARCINOMA, MODERATELY DIFFERENTIATED (4.8 X 3.1 X 3.0 CM).
+
+- CARCINOMA INVOLVES ESOPHAGUS, RIGHT THYROID GLAND, AND ABUTS ANTERIDR AND
+POSTERIOR ASPECT
+
+OFTHYROID CARTILAGE.
+
+- ALL MUCOSAL AND SOFT TISSUE MARGINS (INCLUDES PARTS A, B, C, D, E) NEGATIVE FOR
+CARCINOMA.
+
+- PERINEURAL INVASION IDENTIFIED.
+
+- THYROID:
+
+. RIGHT: THYROID PARENCHYMA INVADED BY SQUAMOUS CELL CARCINOMA.
+
+G.
+
+- LEFT: THYROID PARENCHYMA, NEGATIVE FOR MALIGNANCY .
+
+- INCIDENTAL PARATHYROID GLAND PARENCHYMA. LOCATED IN RIGHT SOFT TISSUES (F14).
+
+- SEE SYNOPTIC REPORT AND COMMENT.
+
+LYMPH NODES, RIGHT LEVEL I, NECK DISSECTION:
+- FIVE LYMPH NODES NEGATIVE FOR METASTATIC CARCINOMA (0/5).
+- SALIVARY GLAND PARENCHYMA WITH FOCAL CHRONIC INFLAMMATION.
+
+. LYMPH NODES, RIGHT LEVEL II, III, IV, NECK DISSECTION:
+
+- METASTATIC CARCINOMA POSITIVE IN ONE OF ELEVEN LYMPH NODES (1/11).
+- FOCUS OF CARCINOMA MEASURES 1.56M IN 1.80M LYMPH NODE.
+
+LYMPH NODES, RIGHT LEVEL V, NECK DISSECTION:
+- TWENTY-TWO LYMPH NODES NEGATIVE FOR CARCINOMA (0/22).
+
+. LYMPH NODES, LEFT LEVEL II, NECK DISSECTION:
+
+- TWELVE LYMPH NODES NEGATIVE FOR CARCINOMA (0/12).
+
+. LYMPH NODES, LEFT LEVEL III, NECK DISSECTION:
+
+- FOUR LYMPH NODES NEGATIVE FOR CARCINOMA (0/4).
+
+. LYMPH NODES, LEFT LEVEL IVl NECK DISSECTION:
+
+- NINE LYMPH NODES NEGATIVE FOR CARCINOMA (0/9).
+
+LYMPH NODES, LEFT LEVEL VIl NECK DISSECTION:
+- FOUR LYMPH NODES NEGATIVE FOR CARCINOMA (0/4).
+
+Comment
+Sections of the thryoid and parathyroid glands (slides F12,13.14) were also reviewed by and
+concurrence.
+
+S
+
+Electronically Signed by
+
+Assisted by:
+
+ynogtic Worksheet
+
+F. Total laryngopharyngectomy:
+
+Specimen: Hypopharynx
+Other: Larynx. thyroid, portion of esophagus
+Received: Fresh
+Procedure: Resection, Laryngopharyngectomy
+Neck (lymph node) dissection: Right l-V and Left II, lll,
+IV, VI
+Other: Total thyroidectomy
+Specimen Size: Greatest dimension: 8.0 cm
+
+Additional dimension: 7.0 cm
+Additional dimension: 4.5 cm
+
+Specimen Laterality: Right
+Midline
+Tumor Site: Hypopharynx, Piriform sinus
+
+Hypopharynx, Postcricoid
+
+Hypopharynx, Pharyngeal wall (posterior and/or
+
+lateral)
+Tumor Laterality: Right
+Midline
+Tumor Focality: Single focus
+
+Tumor Size: Greatest dimension: 4.8 cm
+
+with
+
+Additional dimension: 3.1 cm
+Additional dimension: 3 cm
+
+Tumor Description: Exophytic
+Endophytic
+
+Macroscopic Extent of Tumor: Thryoid gland (right), lumen of esophagus, skeletal
+muscles lateral and anterior lateral to hypopharynx,
+right aryepiglottic fold.
+
+Histologic Type: Squamous cell carcinoma. conventional
+
+Histologic Grade: 62: Moderately differentiated
+
+Margins: Margins uninvolved by invasive carcinoma
+
+Distance from closest margin: 1
+
+Unit of measurement: mm
+
+Margin(s): Right lateral and posterior lateral soft tissue
+(taken from formalin ﬁxed specimen)
+
+Margins uninvolved by carcinoma in situ (includes
+moderate and severe dysplasia)
+
+Lymph-Vascular Invasion: Not identified
+
+Perineural Invasion: Present
+
+Lymph Nodes, Extranodal Extension: Not identiﬁed
+
+Pathologic Staging (pTNM):
+
+TNM Descriptors: Not applicable
+
+Primary Tumor (pT): Hypopharynx: pT4a: Moderately advanced local disease. Tumor
+
+invades thyroid/cricoid cartilage, hyoid bone, thyroid
+gland, or central compartment soft tissue
+
+Regional Lymph Nodes (pN): Hypopharynx: pN1: Metastasis in a single ipsilateral lymph node, 3
+cm or less in greatest dimension
+Number of regional lymph nodes examined: 67
+Number of regional lymph nodes involved: 1
+Size (greatest dimension) of the largest positive lymph
+
+node: 1.8 cm
+Distant Metastasis (pM): Not applicable
+Ancillary Studies: Human papillomavirus associated carcinoma negative
+
+ 
+
+Clinical Histog
+Cancer of the hypopharynx, squamous cell carcinoma. Laryngopharyngectomy, neck dissection, pectoralis flap,
+possible ALT transfer. HIV positive.
+
+Specimems) Received
+
+A: Esophageal margin
+B: Left pharynx margin
+C: Right medial pharynx
+D: Right lateral pharynx
+E: Base of tongue
+
+F: Total laryngopharyngectomy
+G: Right level 1
+
+H: Right level 2.3, 4, 4
+
+I: Right level 5
+
+J: Left level 2
+
+K: Left level 3
+
+L: Left level 4
+
+M: Left level 6
+
+Gross Description
+Specimen A is received .fresh for intraoperative consultation labeled with the patient's name, medical record number
+and entitled "esophageal margin." It consists of a single piece of soft tissue that measure 2.5 x 0.4 x 0.3 cm. The
+
+specimen is submitted entirely for frozen section evaluation with the remaining tissue being submitted in cassette
+"A1FS." (Dictated by
+
+Specimen B is received fresh for intraoperative consultation labeled with the patient's name, medical record number
+and entitled "left pharynx margin." It consists of a single piece of soft tissue that measure 2.8 x 0.3 x 0.2 cm. The
+
+specimen is submitted entirely for frozen section evaluation with the remaining tissue being submitted in cassette
+"BtFS." (Dictated by
+
+Specimen C is received fresh for intraoperative consultation labeled with the patient's name, medical record number
+and entitled "right medial pharynx." It consists of a single piece of soft tissue that measure 2.5 x 0.3 x 0.2 cm. The
+specimen is submitted entirely or frozen section evaluation with the remaining tissue being submitted in cassette
+"C1FS." (Dictated by ‘ ‘
+
+Specimen D is received fresh for intraoperative consultation labeled with the patient‘s name, medical record number
+and entitled "right lateral pharynx." It consists of a small piece of soft tissue that measure 1.5 x 0.5 x 0.2 cm. The
+specimen is submitted entirely for frozen section evaluation with the remaining tissue being submitted in cassette
+"D1FS." (Dictated by ’
+
+Specimen E is received fresh for intraoperative consultation labeled with the patient's name, medical record number
+and entitled "base of tongue." It consists of a single piece of soft tissue that measure 3.0 x 0.5 x 0.2 cm. The
+specimen is submitted entirely for frozen section evaluation with the remaining tissue being submitted in cassette
+"E1FS." (Dictated by
+
+Specimen F is received fresh labeled with the patient's name, medical record number and entitled "total
+laryngopharyngectcmy." It consists of a total laryngopharyngectomy specimen that measure 8.0 x7 .0 x 4.5 cm. It
+consists of a portion of larynx that is 8.0 x 3.0 x 2.5 cm and a portion of hypopharynx and esophagus that is
+approximately 7.5 cm in length and also possible left thyroid that is 3.0 x 2.0 x 1.0 cm in size and a possible right
+thyroid that is 3.5 x 2.5 x 1.0 cm. The right side of the specimen is inked black and the left is inked blue. In the
+hypopharynx there is a 4.8 x 3.1 x 3.0 cm white ﬁrm mass with areas of necrosis that involves the right aryepiglottic
+fold, hypopharyngeal mucosa with some ulceration and circumferentially surrounds the thyroid cartilage but does not
+appear to invade. Tumor appears to be 0.4 cm away from the mucosal lateral resection edge. 05 cm away from the
+right medial superior resection edge and 2.0 cm away from the left pharyngeal edge and 3.0 cm away from the
+inferior esophageal resection edge and 4.0 cm away from the tracheal resection margin. The cut edges of the
+esophagus are grossly free of tumor. Tumor appears to abut the right lateral and posterior—lateral soft tissue
+resection plans. It also appears to invade the right thyroid gland. It appears to be directly adjacent to the right upper
+portion of the larynx. Representative sections of the tumor and normal is submitted for Tumor Bank. Section of the
+tracheal resection margin was submitted en face for intraoperative consultation with the remaining tissue being
+
+submitted in cassette “F1 F5." Gross photos are taken and are submitted as follows: Cassette summary is as follows.
+(Dictated by
+
+Specimen G is received fresh for intraoperative consultation labeled with the patient's name, medical record number
+and entitled "right level 1." It consists of a single piece of soft tissue that measure 7.5 x 2.5 x 3.0 cm. The specimen
+consists of a large salivary gland that measure 5.0 x 3.5 x 1.5 cm. Cassette summary is as follows. (Dictated by
+
+Specimen H is received in formalin labeled with the patient's name, medical record number and entitled "right levels
+2, 3 and 4.“ The specimen consists of a single piece of soft tissue that measure 7.5 x 5.0 x 3.5 cm. The specimen
+consists of a portion of muscle that measure 5.5 x 5.0 x 1.0 cm. Cassette summary is as follows. (Dictated by
+
+Specimen l is received fresh labeled with the patient's name, medical record number and entitled "right level 5." It
+consists of a single piece of soft tissue that measure 5.0 x 4.5 x 1.5 cm. Multiple lymph nodes are identified. The
+cassette summary is as follows. (Dictated by
+
+Specimen J is received fresh labeled with the patient's name, medical record number and entitled "left level 2." It
+consists of a single piece of soft tissue that measures 4.0 x 2.0 x 1.0 cm. Multiple lymph nodes are identiﬁed.
+Casette summary is as follows. (Dictated by ‘
+
+Specimen K is received fresh labeled with the patient‘s name, medical record number and entitled "left level 3." It
+consists of a single piece of soft tissue that measure 4.0 x 2.0 x 1.0 cm. Multiple lymph nodes are identified.
+Cassette summary is as follows. (Dictated by
+
+Specimen L is received fresh labeled with the patient's name, medical record number and entitled "left level 4." It
+consists of a single piece of soft tissue that measure 3.0 x 2.0 x 2.0 cm. Multiple lymph nodes are identiﬁed.
+Cassette summary is as follows. (Dictated by
+
+Specimen M is received fresh labeled with the patient's name, medical record number and entitled "left level 6." It
+consists of a single piece of soft tissue that measure 3.5 x 1.5 x 1.0 cm. Multiple lymph nodes are identiﬁed.
+Cassette summary is as follows. (Dictated by '
+
+CASSETTE SUMMARY:
+
+F2: Epiglcttis
+
+F3: Left false and true vocal cords
+
+F4: Anterior commissure
+
+F5: Right true and false vocal cords
+
+F6: Representative portion of the right cartilage ﬁrm area (decalciﬁed)
+
+F7: Representative section of tumor
+
+F8: Another section of right cartilage surrounded by necrotic tumor (decalciﬁed)
+F9: Section of tumor in relation to lateral soft tissue margin. inked black
+
+F10: Perpendicular section of tumor in relation to the medial mucosal edge, black
+F11: Perpendicular section of lateral mucosal edge; edge inked black
+
+F12: Section of tumor and adjacent right thyroid
+
+F13: Left Thyroid
+
+F14: Section of right soft tissue
+
+F15: Additional sections of tumor in relationship to right lateral wall, inked black
+F16: Perpendicular section of right anterior soft tissue with margin inked black
+F17: Lesion protruding into lumen of esophagus
+
+F18: Perpendicular section of right posterior-lateral soft tissue with margin inked black
+G1: Four possible lymph nodes. submitted whole
+
+62: Adipose tissue submitted for lymph node evaluation
+
+G3: Representative section of salivary gland
+
+H1: Representative muscular tissue
+
+H2: Grossly positive lymph node, 1.8 cm in greatest dimension
+
+H3: Single lymph node. bisected
+
+H4: Three possible lymph nodes, submitted whole
+
+H5: Three possible lymph nodes, submitted whole
+
+H6: Nodular portion of muscle
+
+H7: Adipose tissue submitted for lymph node evaluation
+
+H8: Single lymph node, bivalved
+
+I1: Four possible lymph nodes, submitted whole
+
+l2: Four possible lymph nodes, submitted whole
+
+l3: Single lymph node, greatest dimension are 2.5 cm, bivalved
+
+I4: Six possible lymph nodes
+
+l5: Four possible lymph nodes
+
+l6: Adipose tissue submitted for lymph node evaluation
+
+J1: Four possible lymph nodes, submitted whole
+
+J2: Three possible lymph nodes, submitted whole
+
+J3: Four possible lymph nodes
+
+K1: Single lymph node, bivalved
+
+K2: Single lymph node, bivalved
+
+K3: Single lymph node, bivalved
+
+K4: Adipose tissue submitted for lymph node evaluation
+
+L1: Single lymph node, bivalved
+
+L2: Single lymph node, bivalved
+
+L3: Four possible lymph nodes. submitted whole
+
+L4: Adipose tissue submitted for lymph node evaluation
+
+M1: Single lymph node, bivalved
+
+M2, 3: Remaining adipose tissue submitted for lymph node evaluation
+
+Intraogeratlve Consult Diagnosis
+
+A1FS: ESOPHAGEAL MARGIN (FROZEN SECTION): NEGATIVE FOR CARCINOMA AND HIGH GRADE
+DYSPLASIA.
+
+B1 FS: LEFT PHARYNX MARGIN (FROZEN SECTION): NEGATIVE FOR CARCINOMA AND HIGH GRADE
+ETEELASRQHT MEDIAL PHARYNX (FROZEN SECTION): NEGATIVE FOR CARCINOMA AND HIGH GRADE
+BISQLASRIIAGHT LATERAL PHARYNX (FROZEN SECTION): NEGATIVE FOR CARCINOMA AND HIGH GRADE
+EIEELAEXSE OF TONGUE (FROZEN SECTION): NEGATIVE FOR CARCINOMA AND HIGH GRADE
+EIEQMTIQACHEL MARGIN (FROZEN SECTION): NEGATIVE FOR CARCINOMA AND HIGH GRADE
+DYSPLAISJrezen section results were communicated to the surgical team and were repeated back by
+
+on at and the specimens were received at
+
+Pathologist:
+
+Microscopic Description
+Microscopic examination performed.
+
+I'un'or ‘I‘te .__..
+Pisa
+_ gnanry _
+
+'Noled
+
+. I.
+(«viewer
+
+ 
+

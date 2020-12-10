@@ -1,0 +1,215 @@
+UUID:1CBD3231—1F36—4645-95D2-C63FF78734C9
+TCGA-DR-ASKB-BlA-PR Redacted
+
+III IIII|II|IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+III III I IIIIII l |IlI ||II IIIIIIIIIII I |IIII|IIIIIIIII IIII IIII III
+III IIIIlIIIIlIIIIIIIIl|IIII||I|II|llIII|I|IIIII||l||IIIIIII I||I|
+
+Specimen Date/Time:
+
+DIAGNOSIS
+
+(A) RIGHT ADRENAL MASS:
+ADRENOCORTICAL NEOPLASM OF UNCERTAIN MALIGNANT POTENTIAL (9.0 CM, IN GREATEST DIMENSION).
+(SEE COMMENT)
+Tumor is conﬁned to the adrenal gland.
+Margins of resection, no tumor present.
+
+COMMENT
+
+The tumor focally Invades into the adrenal capsule, but no unequivocal invasion into perladrenal soft tissue is identiﬁed. No
+necrosis is present. The tumor cells have mostly eosinophilic cytoplasm. A small nest growth pattern is readily identiﬁed.
+
+There are mitotic ﬁgures, but they are uncommon (7 mitotic ﬁgures/50 high-power ﬁelds). The Kl-67 index is 17.0% (performed by
+image analysis).
+
+Per the modified Weiss' criteria, the tumor has a score of 4 (Nuclear atypla: 1, Mitoses: 1, Atypical mitoses: 0, Spongiocytic tumor
+cells: 0, Diffuse architecture: 1. VenOus invasion: 0. Sinus invasion: 0, Capsular invasion: 1, Necrosis: 0).
+
+Based on these ﬁndings, the tumor is considered of uncertain malignant potential.
+
+GROSS DESCRIPTION
+
+70 n at
+There is a well-circumscribed mass (9.0 cm, in greatest dimension) located at the periphery and involving the adrenal
+gland. The mass is tan-pink and ﬂeshy with focal areas of hemorrhage and possible necrosis.
+The remainder of the uninvolved adrenal gland (4.0 x 2.5 x 0.4 cm) is unremarkable.
+INK CODE: Black - outer surface.
+SECTION CODE: A1-A3, tumor with adjacent uninvolved adrenal gland; A4, A5. tumor with inked outer surface; A6,
+tumor with area of hemorrhage and inked outer surface; A7-A10. tumor with hemorrhagic areas; A11-A15. tumor with ﬂeshy areas.
+
+ 
+
+CLINICAL HISTORY
+
+Adrenal mass. jab—é “3
+
+CONSULTANT(S) ' I I
+when. AOLIWMIJ 0AM" 13' I
+
+SNOMED cones '
+
+1233000. M63709 5‘ ”—8 ”I ®Adlw G W I do réeklé
+9%.) 1/30/13
+
+Page: 2
+“
+Specimen Date/Time:
+
+”Some test: reported here may have been developed and per-fonnanoe characteristics determined by These tests have not been
+saaciﬁcalty cleared or approved by the us. Food and Dmg Administration.“
+
+------END OF REPORT-m4
+
+ 
+
+ 
+
+WnE‘h ‘ wudﬁfuwi pHirHOXL
+purer/M — SIVCP ”I“ I”?! '
+
+diverts; 1“} 431’) I - I" I r’;i
+
+ 
+
+[7. DISilﬂpﬂn‘Y
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+V4.00
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mm The TC GA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report fora case submitted far TCGA is inconsistent with the diagnosis provided on the
+
+Case Quality Control Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (T55): T55 identiﬁer: - _ 5 Unique Patient identiﬁer:
+Completed By (interviewer Name on OpenClintca): Completed Date:
+Diagnosis information
+it Data Element Entry Alternatives Workinginstructions
+Provide the diagnosis/ histologic subtype[s) documented on
+Pathologic Diagnosis (“\A(8~\DGD( \-‘~ Cc.\ VJQOQVtSA» ac the initial pathology report for this case. ifthe histology for
+1 Provided on initial ———————T—.~—— R“ IV: \ this case is mixed, provide all listed subtypes.
+‘A 3 \a a k. \ «L.
+Pathology Report UMCQ' ya. " W ON" I
+. . Provide the histologic features selected on the TCGA Case
+HlStDIOE‘c features Of Quality Control Form completed for this case.
+2 the sample provrded
+
+for TCGA. as reﬂected
+on the CQCF.
+
+ 
+
+Discrepancy between Patholo
+
+gy Report and Case Quality Control Form
+
+ 
+
+ 
+
+Provide a reason describing why the diagnosis on the initial
+
+ 
+
+ 
+
+ 
+
+ 
+
+Biorepository Director
+
+ 
+
+ 
+
+3 Provide the reason for ., t
+L“ 25;— "L A f 2“” LEV“ d Ir“ I pathology report for this case is not consistent with the
+the discreI’ancy « di ‘ 1 d h TCGA c II c i r
+between the pathology ‘ \K “\kéﬁ tall! C{.“q “ agnosts se ectc on t o ase Qua ty ontro cm.
+L ‘~ .
+report and the TCGA U 6 A
+Case Quality Control “MA “M E W 5; 3
+Form. :3 ME
+“A‘W'n (OI x": (oi (.quxAOW
+(”a 9:5 \ Stem. ﬁg LR) 0‘ S
+we“ on LL23" @1617. (It I)
+Ei“\;‘ﬂ W (ARI; 04*L\‘35;L~ \ LKHJCVX
+one na¥ A; a}
+Name of T55 Reviewing Provide the name of the pathologist who reviewed this case
+4 Pathologist or for TCGA.
+
+ 
+
+I acknowledge that the above information provided by my institution ls true and correct and has been quality controlled.
+
+/
+
+/
+
+" , TSS Reviewing Pathologist or Biorepository Director
+
+ 
+
+Department Chairman has been Informed or is aware ofthe above discrepancy in diagnoses.
+
+ 
+
+Principal Investigator Signature
+
+Date
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,87 @@
+UUID: asa77ssa- 3286- 4553- A84E- 87CEA815EF59
+
+CTGA- FB- AAPY- G1AP- Redacted
+I“ III||||||I|||||||||||||l||||||||l|||||||||| |||||ll||||||||||l|||||
+||||
+
+lI'I' l'Il'IllI'l'I I'lI'l'IllIlI'I'I'I'I'l'I llIlIl 'I'lI‘I'l' ll'IlllIl'l III
+
+Gross Description: Pancreas and duodenum, pancreaticoduodenectomy:
+
+TSS Patient ID:
+
+ 
+
+Surgical Date:
+
+- Pancreatic ductal adenocarcinoma, moderately differentiated, 3.5 cm in greatest dimension, limited to
+
+pancreas (see worksheet) I43) 0 - 3
+- Perineural invasion identified (5 34 View“ 2 ”WU; ilLJF-loj.)
+. . . . {375
+- Resection margins negative for malignancy (“if V3 41;: DC
+0 ’ out We?) ; LM
+- Metastatic carcinoma in two of nine lymph nodes (2/9) 5(3)
+34 3) 57/2. //¢/
+Microscopic Description:
+
+Diagnosis Details:
+
+Comments: Tumor Site (check all that apply): Pancreatic head
+Tumor Size: Tumor size greatest dimension: 3.5cm
+Histologic Type: Ductal adenocarcinoma
+
+Histologic Grade: 62: Moderately differentiated
+
+AJCC Stage (pTNM)
+
+Primary Tumor (pT): pT2
+
+Regional Lymph Nodes (pN): Nlb
+
+Number of regional lymph nodes involved: 2
+
+Number of regional lymph nodes examined: 9
+
+Distant Metastasis (pM): pMX
+
+Marginls) negative for invasive carcinoma
+Angiolymphatic Invasion (V/L): Absent
+
+Perineural invasion: Present
+
+Formatted Path Reports: PANCREAS TISSUE CHECKLIST
+Specimen type: Whipple resection
+
+Tumor site: Head
+
+Tumor size: 3.5 cm
+
+Histologic type: Adenocarcinoma, ductal type
+Histologic grade: Moderately differentiated
+
+Tumor extent: Not specified
+
+Lymph nodes: 2/9 positive for metastasis (Regional 2/9)
+Lymphatic invasion: Absent
+
+Venous invasion: Absent
+
+Margins: Uninvolved
+
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+
+Comments: None
+
+Criteria
+
+Tumor
+HIPAA
+Prior
+
+Case
+Reviewer Initials
+
+ 
+

@@ -1,0 +1,105 @@
+ 
+
+ 
+
+ 
+
+SubiectJD
+
+ 
+
+Final Pathology Template
+
+UUID: 775789591- 437CE6- 4503- -3591- -1C3F621k38eE83
+
+ 
+
+ 
+
+ 
+
+Final Pathology Report Information (Surgical Tissue Case)
+
+1.1
+1.2
+1.3
+1.4
+
+1.5
+
+1.6
+
+1.7
+
+1.8
+
+iiilliiiiiiiiiiilliliIi|||||||i|||||ii|iilillillliliilllil|l||l||||
+| l Illiilil iiilili
+iiiiiiiiiiiiiiiiilliiiiiiillilililllllillllll|||I|||||||||||||||l|
+
+Tissue Specimen ID Code:
+Date of Excision: (MM/DD/YYY)
+
+Tumor Location (anatomic site): Stomach, Antrum
+
+ 
+
+Tumor Size: 3,0x 4,0 (cm)
+
+5.1}, MW (was
+Lymph Node Status:
+
+1.5.1 Number Nodes Examined: 11 L945 6130/9
+1.5.2 Number Nodes Positive: 0
+
+1.5.3 Lymph Node Locations (Involved Nodes): 8 greater curvature. 3
+lesser curvature
+
+Metastasis:
+
+1.6.1 Metastasis Present: L'JYes INo ElUnknown
+1.6.2 Number of Mets:
+1.6.3 Site(s) Of Metastasis:
+
+lCD»9 Code for Specimen Diagnosis: C 16.3
+
+Final Pathology Details:
+
+(Please suppy de-identiﬁed copy of original language final pathology report in
+addition to information below)
+
+1.8.1 Macroscopic Description: Surgical specimen of stomach,
+measuring 16 cm in combination with greater omentum. At
+1,0 cm from the resection margin, ulcerative formation
+with irregular borders 3.0 x 4.0 cm in dimension,
+macroscopically not infiltrating gastric wall. Greater
+omentum is intact. 11 lymph nodes (8 - greater
+curvatures. 3 - lessen curvature).
+
+1.8.2 Microscopic Description: Adenocarcinoma diffuse type
+undifferentiated of stomach, with signet ring cell type
+regions. Tumor invades through muscularis propria.
+Margins resection is intact. Greater omentum is intact.
+Lymph node status negative: greater curvature (8 from 8)
+and lesser curvature (3 form 3).
+
+1.8.3 Comment (if applicable):
+
+ 
+
+1.8.4 Clinical Diagnosis: Gastric cancer of antrum
+
+1.8.5 Stage: T23 N0 M0(TxNxMx)
+
+Tumor Sin.-
+
+Prior
+
+PROPRIETARYAND CONFIDENTIAL
+
+ 
+
+Reviewer Initials
+
+ 
+

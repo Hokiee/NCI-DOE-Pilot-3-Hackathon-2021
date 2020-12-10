@@ -1,0 +1,132 @@
+ 
+   
+ 
+
+Case ID Excision date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+   
+
+Gross
+Description
+
+In pre-pylorus,
+
+Microscopic Description
+
+  
+ 
+  
+ 
+
+Mucosa is ulcerated and necrotic.
+, umor is invasion into serosa.
+here is an ulcerated umor is composed of tubules or
+umor with 4x3x1cm small groups. Glands are variability
+in size, firm and in size and shape. Tumor cells are
+gray surface. moderately straitified. Mitotic index
+is present. Nuclei are
+hyperchromatic and irregularly
+enlarged and prominent nucleoli.
+Stroma is invasion of lymphocytes.
+
+    
+     
+ 
+ 
+ 
+ 
+  
+
+ 
+
+ 
+
+  
+     
+   
+
+Diagnosis Details
+
+ubular adenocarcinoma,
+poorly-differentiated,
+infiltrating serosa
+
+ 
+
+  
+
+ 
+
+Comments
+
+ 
+
+ 
+
+     
+ 
+   
+  
+ 
+   
+ 
+  
+  
+  
+ 
+  
+  
+  
+   
+ 
+
+Formatted Path Report
+
+TOMACH TISSUE CHECKLIST
+
+pecimen type: Gastrectomy
+
+umor site: Antrum
+
+umor size: 4 x 3 x 1 cm
+
+umorfeatures: Ulcerated
+
+Histologic type: Tubular adenocarcinoma
+Histologic grade: Poorly differentiated
+
+umor extent: Serosa (visceral peritoneum)
+Lymph nodes: 3/5 positive for metastasis (Adjacent
+lymph node 3/5)
+
+Lymphatic invasion: Present
+
+enous invasion: Not specified
+
+Perineural invasion: Not specified
+
+Margins: Not specified
+
+Evidence of neo-adjuvant treatment: Not specified
+dditional pathologic findings: Not specified
+omments: None
+
+ 
+
+  
+
+ 
+

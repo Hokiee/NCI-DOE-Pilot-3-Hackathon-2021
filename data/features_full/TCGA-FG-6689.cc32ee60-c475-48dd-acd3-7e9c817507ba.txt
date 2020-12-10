@@ -1,0 +1,156 @@
+SURGICAL PATHOLOGY REPORT
+Addendum Present
+
+ 
+
+Name:
+Accession #:
+Date of Procedure:
+
+Date Received:
+Submitting Physician:
+
+Med. Rec #.
+Location:
+
+Race:
+DOB/Sex:
+
+ 
+
+ 
+
+FINAL DIAGNOSIS
+
+A., B. RIGHT FRONTAL LOBE OF BRAIN, TUMOR, BIOPSY REMOVAL:
+-- GEMISTOCYTIC ASTROCYTOMA, SEE NOTE.
+
+Note: Mitotic figures are inconspicuous, and Ki-67 labeling index is low. GFAP and vimentin immunostains
+demonstrate a spectrum of morphologies ranging from mini-gemistocytes typically seen in oligodendroglial tumors to a
+
+predominant population of large gemistocytic astrocytic tumor cells. Although emistoc ic astroc omas tend to
+behave in an aggressive fashion, they are considered Grade II tumors by the An addendum
+
+will be issued pending analysis for deletions in chromosomes 1 and 19.
+
+One or more of the reagents used to perform assays on this specimen MAY have contained components considered to be analyte
+specific reagents (ASR's). ASR's have not been cleared or approved by the U.S.Food and Drug Administration. These assa s were
+developed and their performance characteristics determined by the Department of Pathology at —
+The assays were performed with appropriate positive and negative controls.
+
+Electronically Signed Out By By the signature on this report, the individual or group listed as making the Final Interpretation/Diagnosis certifies
+
+that they have reviewed this case.
+
+lntraoperative Consultation:
+
+A. Touch imprint and Microscopic: Glioma most consistant with oligodendrocytoma. —
+
+Addendum/Procedures:
+Addendum
+
+Addendum Diagnosis
+{Not Entered}
+
+Addendum Comment
+
+Date Ordered:
+
+Date Completed:
+Specimen Source:
+Paraffin Block No.:
+
+TUMOR T ISSUE ASSESSMENT
+
+RESULTS
+
+BRAIN TUMOR
+A2
+
+Chromosome 1p: Intact, aneusomic
+
+Date Ordered: Status: Signed Out
+Date Complete:
+Date Reported:
+
+Chromosome 19q: Intact, eusomic
+Quantitative FISH results
+
+1p36:3.9
+lq25:3.5
+1p36/1q25 ratio: 1.1
+
+l9ql3:2.7
+l9ql3: 2.9
+19q13/19p13 ratio: 0.9
+
+INTERPRETATION
+
+1p intact: A majority of nuclei showed similar numbers of lp36 and qu5 signals. There is no
+evidence of allelic loss on the short arm of chromosome 1 (1p).
+
+19q intact: A majority of nuclei showed similar numbers of l9q13 and l9p13 signals. THere is no
+evidence of allelic loss of 19q.
+
+Allelic loss at one locus does not necessarily predict the presence of alterations at other loci
+on the same chromosome, i.e. FISH may not detect partial allelic loss. FISH may not detect
+allelic losses if there is loss of one allele and replication on the allele.
+
+Comment:
+
+Several days after unstained slides from block A2 were received, additional unstained slides from
+block B1 were received. This was discussed with — on 2011. The unstained slides from
+block B1 will not be stained and will be returned.
+
+Allelic loss on chromosome 1p has been shown to correlate with with chemoresponsiveness and long
+progression—free surival in some gliomas. This correlation is stronger when there is concomitant
+allelic loss on 19q. An association of chemoresponsiveness and/or long progression—free survivl
+with allelic loss on 19q in the absence of loss on 1p has not been established. In patients with
+1p/19q loss,
+
+Method:
+
+The integrity of the short arm of chromosome 1 (1p) and long arm of chromosome 19 (19q) was
+evaluated with interphase florescence in situ hybridization (FISH) on formalin—fixed paraffin
+embedded tissue sections using locus—specific probes target (lp36, l9q13) and reference probes
+(1q25,19p13) (Abbott Meloecular/Vysis, des Plaines, IL). The analysis was performed on areas of
+glial neoplasm and only atypical nuclei with two or more reference probe signals were counted.
+Reported quantitavtive data represents an average of 40 nuclei. Loss is defined as a ratio of
+less than or eugual to 0.7./ Aneusomy is defined as a mean of greater that or equal to 3.0 for
+the reference probe signals (1q25, l9pl3).
+
+ANALYTE SPECIFIC REAGENT (ASR) DISCLAIMER
+NOTE: One or more of the reagents used to perform assays on this specimen MAY have contained
+
+components considered to be analyte specific reagents (ASRs). ASRs have not been cleared or
+approved by the U.S. Food and Drug Administration. These assays were developed and their
+performance characteristics determined by the A
+
+copy of their report is on file in the Department of Anatomic Pathology of
+
+Electronically Signed Out By —
+
+Clinical History:
+'Right frontal brain tumor
+
+Specimens Submitted As:
+ATHGHTFRONTALTUMOR
+
+B:BRAIN TUMOR
+
+Gross Description:
+A.Received fresh for intraoperative consultation, labeled with the patient's name and hospital number, is a 3 x 1.5 x 0.5
+
+cm multiple tan white friable pieces of soft tissue.A portion of the specimen is submitted for frozen section.The
+specimen is submitted entirely in 2 cassettes.
+
+B: Received in formalin, labeled with the patient's name and number, are 4 irregular, opaque white to tan-brown, soft,
+cerebriform tissue fragments ranging from 2.0 x 1.7 x 1.4 cm to 10.0 x 6.0 x 4.5 cm. Representative sections are
+submitted in 6 cassettes.
+
+Summary of cassettes
+
+A1 FS
+
+A2 remainder of specimen
+

@@ -1,0 +1,197 @@
+ 
+
+UUID : CZMIFOO- 23CD-MA4- 8883 -589A9CEABlGA
+
+TCGA-Zw-ABYY-MA-PR Redacted
+llllllllllllllllllllllllllllll||llll|lllll||l||l|lllllllllllllllll
+
+Result type: Surgical Pathology Final Report I” lllllllllllll||lllllllllllllllllllllllllllllllllllllll||l|ll
+Result date: _ lll ||||||||l|llllllllllllllllllllllll|lll|l||llllllllllllllllll
+Result status: Auth (Veriﬁed)
+Result title: Surgical Procedure
+Performed by: _
+Veriﬁedbv: _
+
+Encounter info: _
+Contributor system: -
+
+* Final Report * JADO j
+‘7 @ﬂé 0 NW
+Surgical Procedure OMLM‘m/mbi ’ § ; 3514:1457
+
+CASE: _~_ . 3% ., 2
+mi 541 C’W‘ N“ Q5557
+
+W“) 5////1 "/
+SPECIMENS SUBMITTED:
+A. UTERUS, CERVIX, BILATERAL TUBES AND OVARIES
+. RIGHT PELVIC LYMPH NODE
+. LEFT PELVIC LYMPH NODE
+. RIGHT PERIAORTIC LYMPH NODE
+SIGMOID ADHESION
+
+LTJUOCD
+
+DIAGNOSIS:
+A. UTERUS WITH CERVIX (260 GRAMS), BILATERAL OVARIES AND FALLOPIAN
+TUBES;
+HYSTERECTOMY/SALPINGO-OOPHORECTOMY:
+- ADENOSQUAMOUS CARCINOMA, INVASIVE.
+
+— HISTOLOGIC GRADE: G3 = HIGH GRADE.
+
+- MACROSCOPIC TUMOR SIZE: \R\8 CM (CIRCUMFERENTIAL
+INVOLVEMENT;
+MEASUREMENT ESTIMATED FROM CONSECUTIVE TUMOR SECTIONS OF CERVIX).
+
+- TUMOR SITE: TUMOR CIRCUMFERENTIALLY INVOLVES UPPER CERVIX.
+
+- STROMAL INVASION
+- DEPTH OF INVASION: 1.2 CM (12 mm).
+- HORIZONTAL SPREAD: COMPLETE CIRCUMFERENTIAL SPREAD.
+
+- EXTENSION TO CORPUS: YES, EXTENSIVE AND TRANSMURAL
+INMULTIPLE SECTIONS WITH ERODED ENDOMETRIUM.
+
+- ADDITIONAL STRUCTURES POSITIVE FOR INVASION: NONE.
+
+- ADDITIONAL STRUCTURES WITHOUT INVASION: NOT APPLICABLE.
+
+— LYMPH-VASCULAR INVASION: POSITIVE IN CERVICAL LYMPHATICS
+AND PARAMETRIAL VEIN.
+
+- MARGINS:
+
+- SOFT TISSUE: POSTERIOR SEROSA OF UTERINE BODY POSITIVE FOR
+TUMOR.
+
+- DISTAL MUCOSA: NEGATIVE.
+- REGIONAL LYMPH NODES:
+- NODE SITES NEGATIVE FOR METASTASIS: SEE BELOW.
+- NODES SITES POSITIVE FOR METASTASIS: O.
+— TOTAL LYMPH NODE COUNT: 0/18 (POSITIVE/TOTAL)
+- OTHER FINDINGS: NONE.
+
+— PATHOLOGIC STAGE: T2a2/N0 FIGO IIA2 BY AJCC CANCER STAGNING
+MANUAL, 7TH ED.
+
+B. LYMPH NODE, RIGHT PELVIC; EXCISION:
+
+— FIVE REACTIVE LYMPH NODES, NEGATIVE FOR TUMOR (0/5).
+C. LYMPH NODE, LEFT PELVIC; EXCISION:
+
+— TEN REACTIVE LYMPH NODES NEGATIVE FOR TUMOR (O/lO).
+D. LYMPH NODES, RIGHT PERIAORTIC; EXCISION:
+
+- THREE REACTIVE LYMPH NODES, NEGATIVE FOR TUMOR (0/3).
+E. SOFT TISSUE, SIGMOID ADHESIONS; EXCISION:
+
+- FIBROUS CONNECTIVE TISSUE NEGATIVE FOR TUMOR.
+
+COMMENT:
+Immunohistochemical stains performed with appropriately reactive controls
+for vimentin, p16, ER, and CEA are consistent with the above diagnosis.
+
+Tumor cells patchily express p16 and CEA with no reactivity for ER or
+
+vimentin.
+
+REVIEWED BY:
+
+INTRAOPERATIVE DIAGNOSIS:
+
+FSA: Uterus: Extensive necrotic tumor, uterus and cervix. Gross
+
+examination only. (-)
+CLINICAL INFORMATION: - stage I 132 adenosquamous
+
+carcinoma of the cervix.
+
+GROSS DESCRIPTION: Number of specimen containers: five, each labeled with
+
+A. Container designation: "uterus, cervix, bilateral tubes and ovaries"
+—— Received unfixed is a radical hysterectomy specimen consisting of
+uterus, cervix, attached bilateral adnexa and parametrial tissue weighing
+260 gm, measuring 13.5 x 6.5 x 6.0 cm. The anterior serosa is smooth, the
+posterior serosa demonstrates a firm subserosal yellow-gray mass in the
+body measuring 4.5 x 2.9 x 1.0 cm. Surfacing the serosa and the mass is a
+1.0 x 0.8 x 0.6 cm cystic structure occupied by clear watery fluid. The
+posterior serosa and soft tissue margins are inked. The ectocervix is
+pink-tan with purpuric changes surrounding the os 1.0 cm (tumor?) and an
+anterior/posterior vaginal identified 1.0 and 0.8 cm in length,
+respectively. Sectioning of the anterior cervix at the os is grossly
+unremarkable, however, the tumor extends from within 0.9 cm of the
+anterior cervical os to the fundus and appears full thickness in the lower
+uterine segment and body. The posterior aspect is similar in appearance
+to that of the anterior aspect. Sectioning of the tumor demonstrates a
+yellow—gray purulent appearance with prominent necrosis. Representative
+sections of tumor and normal are submitted to I. The right ovary
+measures 2.2 x 1.5 x 1.0 cm and sectioning demonstrates a thickened cortex
+and pink—tan mottled stroma. The pink—tan fallopian tube with fimbriated
+end measures 5.5 cm in length, 0.6 cm in external diameter and sectioning
+demonstrates a pink-tan mottled stroma. The left ovary measures 3.0 x 1.5
+x 1.0 cm and sectioning demonstrates a pink—tan mottled stroma. The
+corresponding pink—tan fallopian tube with fimbriated end measures 6.0 cm
+in length, 0.5 cm in external diameter and sectioning demonstrates a
+pinpoint lumen. Sections are submitted as follows: cassette Al-posterior
+body, serosa with nodule extruding; cassette AZ-representative
+
+anterior/posterior vaginal cuff (anterior inked red, posterior green); A3—
+
+anterior cervix and ectocervix full thickness; cassette A4-anterior
+endocervical canal full thickness; cassette AS-posterior cervix full
+thickness with ectocervix; cassette A6-posterior endocervical canal;
+cassette A7—anterior body; cassette
+
+A8—posterior body full thickness; cassette A9—anterior fundus full
+thickness; cassette AlO-posterior fundus full thickness; cassette All-
+representative right ovary and fallopian tube; cassette AlZ-representative
+left ovary and fallopian tube; cassette Al3—parametrial tissue right
+lateral wall; cassette Al44—representative parametrial tissue left lateral
+wall.
+
+B. Container designation: "Right pelvic lymph node" — Received are
+multiple portions of fat aggregating to 3.5 x 3 x 1.5 cm. Five possible
+lymph nodes are identified upon sectioning, the largest measuring 1.7 cm.
+The lymph nodes are entirely submitted as follows: Bl—B5—one bisected
+lymph node in each.
+
+C. Container designation: "Left pelvic lymph node" — Received are
+multiple portions of fat aggregating to 4 x 3 x 1 cm. Eight possible
+lymph nodes are identified upon sectioning, the largest measuring 1.5 cm.
+The lymph nodes are entirely submitted as follows: Cl—four lymph nodes in
+toto, C2—C4—one bisected lymph node in each, C5—four possible lymph nodes
+in toto.
+
+D. Container designation: "Right periaortic lymph node" — Received are
+three lymph nodes, the largest measuring 2 x 0.7 x 0.2 cm. The lymph
+nodes are entirely submitted from D1 to D3, each containing one bisected
+lymph node.
+
+E. Container designation: "Sigmoid adhesion" — Received is a portion of
+gray—tan membranous tissue measuring 2 x 0.6 x 0.1 cm, bisected and
+
+entirely submitted in El.
+
+MICROSCOPIC DESCRIPTION: Histologic examination performed.
+
+Any tests performed using Analytic Specific Reagents (ASR) were developed
+and validated by —. The U.S. Food and Drug
+
+Administration has not approved these tests but has determined that such
+
+clearance or approval is not necessary. These tests should be regarded
+
+as a clinical assay for standard medical care.
+
+The was present during the formal review and
+interpretation of all slides and ancillary studies, (if performed), with
+
+the . Specimens with only gross examination
+
+were reviewed and interpreted by the —.
+
+ 
+
+ 
+

@@ -1,0 +1,206 @@
+ 
+
+  
+ 
+
+CGA—ﬂﬁ—5412
+
+ 
+
+T RY
+Whas experienced _ On imaging
+
+there is a large right temporoparietal mass with rim—enhancement and
+
+prominent
+associated vasogenic edema.
+
+OPERATIVE DIAGNOSES
+
+Operation/Specimen: A: Brain, right parietal tumor, excision biopsy
+
+PATHOLOGICAL DIAGNOSIS:
+
+A and B. Brain, right parietal, excisional biopsies:
+A. Glioblastoma.
+
+B. MIB-l proliferation index: > 8%.
+
+See MicrOSCopy Description and Comment.
+
+COMMENT
+The neoplasm is a glioblastoma with brisk mitotic activity, a high MIB—l
+
+proliferation index, focal microvascular cellular proliferation, and zones
+
+of
+tumor necrosis.
+
+ 
+
+PROCEDURES/ADDENDA
+MGMT Promoter Methylation
+
+Date Ordered: — Date Reported:
+Interpretation
+
+ 
+
+POSITIVE: Methylated MGMT promoter is detected.
+
+Results—Comments
+Testing performed on DNA extracted from tumor paraffin block
+
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT promoter
+have been shown to benefit from therapy with alkyiating agents. Assessment
+
+of
+
+MGMT promoter methylation status involves bisulfite treatment of DNA
+
+followed
+by real—time PCR amplification (MethyLight) of methylated and unmethylated
+
+DNA
+sequences. The analytic sensitivity of this assay was determined by serial
+dilution of methylated poaitive control DNA into unmethylated DNA, and was
+assessed to be 1% of methylated DNA in the background of unmethylated DNA.
+Factors such as the presence of >50% non—neoplastic cells in the sample, or
+extensive tissue necrosis, may preclude the detection of methylated MGMT
+
+promoter sequences.
+
+FDA COMMENT: The above data are not to be construed as the results from a
+stand alone diagnostic test. This test was developed and its performance
+characteristics determined by the “laboratory as
+required by CLIA ' .regulations. It as not een c eared or approved for
+specific uses by the 0.8. Food and Drug Administration (FDA). The FDA has
+determined that such clearance or approval is not necessary. These results
+are
+
+provided for informational purposes only, and should be interpreted only in
+the context of established procedures and/or diagnostic criteria.
+
+  
+
+PCR for EGFR variant III mutation
+
+Date Ordered: — Date Reported: _
+Interpretation
+
+NEGATIVE — No evidence of EGFRvIII mutation is detected
+
+Results—Comments
+
+TEST DESCRIPTION: Testing performed on RNA extracted from tumor paraffin
+
+block
+The epidermal growth factor receptor (EGFR) is an attractive molecular
+
+target
+
+in glioblastoma because it is amplified, overexpressed, and/or mutated in up
+to 40% to 50% of patients. Epidermal growth factor receptor variant III
+(EGFRvIII} is an oncogenic, constitutively active mutant form of EGFR that
+is
+
+commonly expressed in glioblastoma. Cell culture and in vivo models of
+glioblastoma have demonstrated EGFRvIII as defining prognostically distinct
+subgroups of glioblastomas. Additionally, the presence of EGFRVIII has been
+shown to sensitize tumors to EGFR tyroaine kinase inhibitors when the tumor
+suppressor protein PTEN is intact. RNA is extracted from formalin fixed,
+paraffin embedded tissue samples and reverse transcribed to CDNA. The cDNA
+is
+
+then amplified using standard PCR technique for DNA templates. PCR products
+are detected by gel electrophoresis. The limit of detection of this assay
+
+has
+been determined to be approximately 5 mutant cells in 100 normal cells.
+
+FDA Comment: The above data are not to be construed as the results from a
+stand alone diagnostic test. This test was developed and its performance
+Characteristics determined by the laboratory as
+required by CLIA ‘ -regulations. It has not been cleared or approved for
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA has
+determined that such clearance or approval is not necessary. These results
+
+are
+
+ 
+
+provided for informational purposes only, and should be interpreted only in
+the context of established procedures and/or diagnostic criteria.
+
+***Electronicalli Siined Out‘w”r
+
+INTRA-OPERATIVE CONSULTATION
+
+A.
+
+Brain, right parietal tumor, excision biopsy: High histological grade
+glioma
+
+(C/W glioblastoma) . - Touch preparation smears performed at -
+
+Land results reported to the Physician of Record. —
+
+A.
+“Right parietal tumor," received fresh, three fragments, 0.7 cm in
+
+aggregate.
+
+Soft, listening, greyish—red. In total, Al and A2.
+canllillllll
+
+MICROSCOPIC DESCRIPTION
+
+The sections contain an astrocytic (strong GFAP fibrillogenesis} neoplastic
+proliferation with nuclear anaplasia, brisk mitotic activity, focal
+microvascular cellular proliferation (better observed in the Tumor Tissue
+Bank
+
+sections-, vial 3 top), and zones of tumor necrosis. The CD34
+depicts
+
+the rich vascularity of the tumor. The CD163 demonstrates a heavy
+infiltration of the tumor by phagocytic cells. There are sparse lymphocytes
+highlighted by the LCA. With the MIB—l there is an absolute proliferation
+index of about 8%, which in reality is probably at least three times greater
+when taking into account the large number of phagocytic cell nuclei within
+the
+
+tumor mass.
+
+ICU—9(5):
+
+Histo Data
+Part A: Brain, right parietal tumor, excision biopsy
+Taken: — Received: —
+Stain/cut Block Ordered Comment
+H/E x l 1
+TPS H/E x l
+
+CD163 Vector x l
+CD34—DA x l
+
+LCA—DA x 1
+
+EGFR vlll~curls x 1
+mGFAP—DA x 1
+
+H/E X l
+
+MGMT—curls x l
+MIBl—DA x l
+
+ 
+
+    
+
+NNNNNNNMH
+
+*** End of Report ***
+
+ 
+

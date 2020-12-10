@@ -1,0 +1,144 @@
+UUID: 6413D2CD- 8357- 4935- A2E1- 9E57899|§Be406ac
+
+“K ”IIAIII'IIIIIEII IIIIIII IIIRIIIIIIIIIIItad
+IllIllllllllllllllll|||||||||
+llllllllllllllllllllllllllllllllllllllllllll||l|lllllll|||||| _
+II III lllllllllll .
+
+Specimen Data/Trina:
+
+******* MODIFIED REPORT — REVIEW ADDENDUM SECTION *******
+DIAGNOSIS:
+
+(A) LEFT PELVIC LYMPH NODES:
+METASTATIC ADENOCARCINOMA IN TWO OF ELEVEN LYMPH NODES WITH EXTRANODAL EXTENSION
+(2/11). (SEE COMMENT)
+(B) RIGHT PELVIC LYMPH NODES:
+METASTATIC ADENOCARCINOMA IN ONE OF EIGHT LYMPH NODES (1/8). (SEE COMMENT)
+(C) "LEFT PERIVESlCLE" LYMPH NODES:
+
+Adipose tissue no lymph nodes or tumor present. (EZE
+(D) PROSTATE AND SEMINAL VESICLES: m6 '3 ‘ ?/#&/3
+Supplemental report to follow. / W
+1‘“ Mos WW5
+Entire report and diagnosis completed by 5, E Wﬂbj Cb L?
+COMMENT- @3/2/2-4/5
+
+The fool of metastatic carcinoma measure 4.0 mm and 8.0 mm in part A and 4.0 mm in part B.
+
+GRoss Descent-710m:
+
+(A) LEFT PELVlC LYMPH NODES — Received are multiple fragments of fatty tissue measuring in aggregate (9 x 5 x 2 cm).
+Dissection reveals multiple possible lymph nodes ranging from 0.4 up to 2.8 cm in their greatest dimension. Possible lymph nodes
+are entirely submitted in cassettes.
+
+SECTION CODE: A1, three possible lymph nodes; A2. one sectioned possible lymph node; A3, one sectioned possible
+lymph node; A4, one sectioned possible lymph node; A5, one sectioned possible lymph node; A6, A7, one sectioned possible
+lymph node; A8, A9, one sectioned possible lymph node; A10, A11, one sectioned possible lymph node; A12-A14, one sectioned
+possible lymph node.
+
+(B) RIGHT PELVIC LYMPH NODES —- Multiple fragments of fatty tissue measuring in aggregate 8.5 x 4.5 x 2 cm. Dissection
+reveals multiple possible lymph nodes ranging from 0.5 up to 3.3 cm in greatest dimension. Possible lymph nodes are entirely
+submitted in cassettes.
+
+SECTION CODE: 81, two possible lymph nodes; 32, one sectioned possible lymph node; B3, one sectioned possible
+lymph node; 84, one sectioned possible lymph node; BS, one sectioned possible lymph node; BS, one sectioned possible lymph
+node; 37-810. one sectioned possible lymph node.
+
+(C) LEFT PERIVESlCLE LYMPH NODES - Multiple fragments of fatty tissue measuring in aggregate 2.5 x 2.4 x 0.5 cm. Entirely
+
+submitted in cassette C.
+
+(D) PROSTATE AND SEMINAL VESICLES - Supplemental report to follow.
+CLINICAL HISTORY”
+
+Prostatic cancer.
+
+SNOMED‘ CODES
+T-C4600, M-y1976
+
+Page: 2
+
+Spec1men DateITlme:
+
+"Some tests reported here may have been developed and performance characteristics determined by These tests have not been
+speciﬁcally cleared or approved by the U.S. Food and Drug Administration."
+Entire report and diagnosis completed by:
+
+Start ofADDENDUM
+
+Page: 3
+
+Specmen DatelTlme:
+
+ADDENDUM
+
+This modified report is being issued to provide additional information/results.
+
+Addendum completed by
+
+: orAcNosrs
+
+(D) PROSTATE AND SEMINAL VESICLES:
+PROSTATIC ADENOCARCINOMA, GLEASON SCORE 9 (4 + 5). (SEE COMMENT)
+TUMOR EXTENDING IN MULTIPLE AREAS INTO EXTRAPROSTATIC TISSUE.
+TUMOR INVADING LEFT SEMINAL VESICLE AND LEFT PERIVESICULAR SOFT TISSUE.
+FOCAL EXTENSION OF TUMOR TO THE MARGIN OF RESECTION CANNOT BE EXCLUDED.
+Right seminal vesicle and segments of vasa deferentia, no tumor present.
+SEE PREVIOUS REPORT FOR DIAGNOSIS OF THE PELVIC LYMPH NODES.
+
+COMMENT?
+
+The prostate gland contains a single focus of prostatic adenocarcinoma. The tumor is located in the right
+anterior, mid anterior, left anterior, left anterolateral, left lateral, left posterolateral, left posterior, mid
+posterior, right posterior, right posterolateral and right lateral peripheral zone. It is estimated that the tumor
+occupies approximately 70% of the prostatic volume. The tumor focus measures 4.5 x 3.0 cm in the largest
+cross-sectional dimension and it is present in three cross sections and extensively in the apex and base
+regions. The tumor exhibits extraprostatic extension in the left lateral and left posterolateral aspect of the
+prostate, left superior neurovascular bundle region and posterior surface of the prostate at the base level.
+At the sites of extraprostatic extension, the margin of resection is free of tumor. The tumor extends in the
+
+right posterolateral aspect of the prostate to less than 0.1 mm from the inked surface. Focal marginal
+involvement cannot be excluded.
+
+The tumor extensively involves the left seminal vesicle including intra and extraprostatic portions.
+
+Please refer to the previous report for the diagnosis of the pelvic lymph nodes.
+
+GROSS: DESCRIPTION
+
+Page: 4
+!pec1men DatelTlme:
+
+(D) PROSTATE AND SEMINAL VESICLES — A specimen consisting of a prostate, attached right and left
+seminal vesicles and attached segments of right and left vasa deferentia.
+
+The prostate gland (5.8 x 3.3 x 3.4 cm, 51 grams, post-fixation) has the usual shape. The soft tissue
+present along the left posterolateral aspect of the prostate appears more abundant than along the right side.
+
+Nodules are palpated on the left and right sides of the prostate. Serial cross sections after fixation
+demonstrate areas consistent with tumor in the right posterolateral and left posterolateral peripheral zone of
+the three cross sections of the prostate.
+
+The seminal vesicles and segments of vasa deferentia are grossly free of tumor.
+
+SECTION CODE: D1-D3, right seminal vesicle and segment of right vas deferens from the base
+towards the tip; D4-D6, left seminal vesicle and segment of left vas deferens from the base towards the tip;
+D7, D8, prostatic base, right border; D9—D12, prostatic base, right posterior border; DIB—D22, prostatic base,
+central portion; D23, 024, prostatic base, left border; D5-028, prostatic base, left posterior border; D29—DB1,
+apex anterior; D32, D33, apex left; D34, D35, apex posterior; D36, D37, apex right; D38-D49, sections of
+the three cross sections of the prostate according to specimen radiograph.
+
+The anterior aspect of the prostate is inked in green, left surface in red, right surface in yellow and
+
+posterior surface in black.
+SNOMED’CODES
+
+T—92000, M-Y1973
+
+Entire report and diagnosis completed by:
+
+------END OF REPORT ------
+
+ 
+

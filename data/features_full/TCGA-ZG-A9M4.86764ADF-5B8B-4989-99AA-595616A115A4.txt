@@ -1,0 +1,204 @@
+Histopathological R990"t uum: 86764ADF- 5933- 4959- -99AA- 5-95616AR115A4ac
+. TCGA- zs- -A9M4-o1A A-P
+
+m ofcaner mm WW... II! llll llllllllllllllllll llllllllllllllllllllllllllllllllllllllcllad
+
+|
+llllll llHllll llllllllllll lll llllllllllll
+
+. | llllllllll lllllll
+Date 0" Path°l°9v “PM Ill llll llllll I H l llllllllllllllllllll l llllllllllll lllllll Ill
+
+Patient ID:
+
+Gross description:
+
+1. (Prostate gland): Prostate gland: Weight: 30.9 9, Volume: 25 ml, Size: 4 x 5 x 3.5 cm. 0n the ventral
+side a 2.5 x 1 cm measuring tissue defect marked with yellow ink. Apical pen-urethral a funnel shaped
+1. 7 x 1.4 cm tissue defect marked with red ink. Total of the cross sections: 0.8 cm.
+
+2. (Lymph nodes, right side): 6. 5 x 5. 5 x 1.4 cm measuring adipose tissue containing 7 nodes
+measuring up to 4. 6 cm.
+
+3. (Lymph nodes, left side): 6.3 x 5.3 x 1.3 cm measuring adipose tissue containing 5 nodes
+measuring up to 4.5 cm.
+
+Microscopy:
+
+1. Apex right and left: Right 7 tissue blocks, left 6 tissue blocks (total 13 tissue blocks). 2 cross
+sections: Right 8 tissue blocks. left 8 tissue blocks (total 16 tissue blocks). Basis right and left: Right 8
+tissue blocks. left 7 tissue blocks (total 15 tissue blocks). Seminal vesicles right and left: Right 4 tissue
+blocks, left 2 tissue blocks (total 6 tissue blocks). Deferent ducts right and left: Right 1 tissue block. left
+1 tissue block (total 2 tissue blocks). ICED-é 13
+
+U03 8‘! 40/5
+(5.212. : A105 Cal 9
+Diagnosis: 9‘0 ”Zia/1’4
+
+1. (Prostate gland): Poorly differentiated prostatic adenocarcinoma, Gleason 5+4=9. (Gleason 5: 90%,
+Gleason 4: 10%). Tumor involves both lobes with the main focus around the apex. Maximum tumor
+
+   
+
+2. Frozen lymph nodes right: 13 tissue blocks.
+3. Frozen lymph nodes left: 11 tissue blocks.
+
+  
+
+diameter: 28 mm. Perineural invasion. Tumor inﬁltration into peri-prostatic adipose tissue in 3 tissue
+blocks With the main focus around the right seminal vesicle (maximum invasion length 1.4 mm,
+maximal invasion depth 0.9 mm). Tumor inﬁltration into both seminal vesicles. Positive surgical margin
+around theright seminal vesicle (contact length: 0.2mm: Gleason 5).
+
+Remaining prostatic tissue with small foci of prostatic intraepithelial neoplasia (high grade PIN) and
+signs of myoglandular hyperplasia of the prostate. Urothelium of the prostatic urethra without
+dysplasia. Tumor-free deferent dutcts.
+
+2. (Lymph nodes, light side): Five tumor-free lymph nodes (0/5).
+3. (Lymph nodes, left side): One lymph node metastasis (1.2 mm) in three lymph nodes (1/3).
+
+Tumor classiﬁcation
+
+(in consideration of the immunohistochemlcal analyses):
+
+pT3b. Gleason 5+4=9 (Gleason 5: 90%, Gleason 4: 10%). maximum tumor diameter: 28 mm, tumor
+volume approx. 10.0 ml (Gleason 5: 9.0 ml, Gleason 4: 1.0 ml), pN1 (1/8), L1, V0. R1
+
+Comments:
+
+Positive surgical margin in tissue block SBR4.
+Tumor inﬁltration into peri—prostatic adipose tissue in tissue blocks SBR1. SBR2 and SBR4.
+
+The parallel sample showed more adenocarcinoma in the secondary resection of the ventral bladder
+neck.
+
+lmmunohistochemical analyses (AE1/AE3, PSA) on three lymph nodes (tissue blocks 2G, 2E, 3F)
+revealed one 1.2mm measuring on the left side.
+
+lmmunohistochemical analyses (DZ-40. C031) on tissue blocks SBR2 and SBR4 revealed lymphatic
+but no venous invasion.
+
+One macroscopic image for tumor mapping.
+
+a all. 6&4le W
+
+M;, gm», 5+5.
+
+ 
+
+ 
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form ‘ I e
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mm The TCGA Pathologic Diag
+documented on the initial pathology report for a case submitted
+Case Quality Control Form compietedfar the submitted case.
+
+nosis Discrepancy Form'should be completed when the pathologic diagnosis
+for TCGA is inconsistent with the diagnosis provided on the
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site TSS : TSS identiﬁer: TSS Uni ue Patient identifier:
+Q
+Completed By (Interviewer Name on OpenClinica): Completed Date: . 7
+[Diagnosis Information
+it Data Element Entry Alternatives Workinglnstructions
+Provide the diagnosis} histologic subtype(s) documented on
+Pathologic Diagnosis GI ason 5+4 the Initial pathology report for this case. if the histology for
+1 Provided on initial 6 this case is mixed. provide all listed subtypes.
+Pathology Report
+. . Provide the histologic features selected on the 'I'CGA Case
+HIstologIc features 0f Quality Control Form completed for this case.
+2 the sample proVIded Gleason 5+5
+
+for TCGA, as reflected
+on the CQCF.
+
+[Discrepancy between Pathology Report and Case Quality Control Form I
+
+3 Provide the reason for Frozen sample tissue block submitted to TCGA has a Proﬁle 3 reason #STNHK Why the diignosls 0') Ehehiniﬂa'
+the discrepancy ailterent Gleason score than the lrozen tissue block that 5““ ° “33' ”9°" 3°“ ‘ ’5 "5° '9 "0‘ ““55”“ W“ ' 9
+between the pathology was used mt dIagnosis. diagnosis selected on the TCGA Case QualIty Control Form.
+report and the TCGA
+Case Quality Control
+Form.
+Na 0 53 R v'e ‘n Provide the name of the pathologist who reviewed this case
+me f T e I WI g
+4 Pathologist or for Tan"
+
+Biorepository Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above information provlded by my lnsttwuon ls true and correct and has been quality controlled.
+
+ 
+
+'I‘SS Reviewing Pathologist or Biorepository Director
+
+Date
+
+I acknowledge that the above lnﬁrmauon provided by my institution ls true and correct and has been quality controlled. The Attending Pathologist or the
+Department Chalrmon has been lnhrmed or is aware oftlie above discrepancy in diagnoses
+
+W
+
+Principal investgator Signature
+
+ 
+
+Date
+

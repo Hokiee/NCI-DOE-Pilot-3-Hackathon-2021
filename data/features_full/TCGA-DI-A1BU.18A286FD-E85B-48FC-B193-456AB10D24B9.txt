@@ -1,0 +1,96 @@
+    
+
+(.9 . ,,’W/dﬂc/~,N05 VBEOIB
+t Site, Cad; ‘. {WWW 051+! thin
+3|AGNOS|S ' M
+
+A) UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES:
+HIGH-GRADE ENDOMETRIAL ADENOCARCINOMA, MIXED SEROUS AND EWPE.
+DEPTH OF MYOMETRIAL INVASION, 3.0 MM OUT OF 19 MM TOTAL MYOMETRIAL CKNESS.
+TUMOR INVADES 2.0 MM INTO THE 20 MM CERVIX.
+LYMPHOVASCULAR INVASION IS PRESENT.
+Leiomyoma.
+Right and left ovaries, no tumor present.
+Right and left fallopian tubes, paratubal cysts, no tumor present.
+(B) LEFT PELVIC LYMPH NODES:
+Eleven lymph nodes, no tumor present (0/11).
+(C) RIGHT PELVIC LYMPH NODES:
+Fourteen lymph nodes, no tumor present (0/14).
+(D) PORTION OF OMENTUM:
+No tumor present. UUID-18A286FD-E85
+(E) RIGHT GONADAL VESSEL: ‘TCGA_DI_“shag-EASE;'456A316024BS
+
+Nowmorpresent- . IIIllllIIIIlIIllllllllllllllllllllllll “"3““
+(F) PARAAORT'C LYMPH ”OD-ES- m(HimIlillmluIIIllmIIiIwill“iiiiii’l'lii'll'l'l'li'itill"
+
+Sixl m h nodes, no tumor resent (0/6 .
+y p p ’ IlllllllIIllIlIlllIlllIllIIIlIlllllIlllIlllIlllIIllIIlllllIl
+
+GROSS DESCRIPTION
+
+(A) UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES - A 13.5 x 8.5 x 6.0 cm uterus with a 4.4 x 4.0 cm
+cervix that has a smooth tan—white external surface. Attached is a left tube, 8.5 x 1.3 x 0.9 cm with a tubal ligation site within the
+central portion. Left ovary measures 2.6 x 1.3 x 1.2 cm and grossly unremarkable. Right fallopian tube measures 10.8 x 0.7 x 0.6
+cm also with a central ligation site. The right ovary is 3.3 x 1.5 x 1.2 cm and has a 0.6 cm surface cyst. There are also multiple
+small paratubal cysts. The uterine serosal surface is pink, smooth tan and glistening.
+
+The specimen is bivalved along the 3 and 9 o'clock positions to reveal a large exophytic, hemorrhagic tumor (12.5 x 8.3
+x 2.4 cm) filling the uterine cavity. The tumor extends into the external cervical canal and comes to within 1.5 cm of the
+endo-ectocervix junction. The uterine wall adjacent to the most invasive portion of tumor is 2.8 cm in thickness.
+
+In the anterior lateral wall is a 1.2 cm well circumscribed myometrial nodule grossly consistent with leiomyoma.
+Sectioning through the bilateral tubes and ovaries demonstrates a 0.6 cm cystic lesion within the left ovary. Sectioning through
+the left fallopian tube demonstrates hemorrhagic material within the lumen but no gross lesions present. Sectioning through the
+right ovary demonstrates the previously mentioned surface cyst 0.6 cm in greatest dimension filled with clear fluid. Sectioning
+through the right fallopian tube is grossly unremarkable.
+
+INK CODE: Blue - anterior uterus; black - posterior uterus.
+
+SECTION CODE: A1-A3, posterior cervix with tumor, one slice per cassette; A4, A5, anterior cervix with tumor; A6, A7.
+anterior cervix with tumor; A8-A14, sections of tumor from posterior with A9/10 full thickness; A15-A23. sections of tumor anterior
+wall with 18/19 full thickness; cassette 23 also myometrial nodule; A24, left tube, ovary and paratubal cyst; A25, right tube and
+ovary.
+
+(B) LEFT PELVIC LYMPH NODES - Adipose tissue, 4.0 x 4.0 x 1.7 cm in aggregate. Multiple lymph nodes are identified ranging
+from 0.2 x 0.2 x 0.2 cm to 2.2 x 1.8 x 0.7 cm.
+
+SECTION CODE: B1, four lymph nodes; BZ, two lymph nodes; BS, two lymph nodes; 84, one lymph node serially
+sectioned; B5, one lymph node serially sectioned; 86, B7, one lymph node serially sectioned.
+
+  
+
+Vr'mmy i
+
+    
+
+_ . . .
+identified ranging from 0.2 x 0.1 x 0.1 cm to 2.5 x 1.8 x 0.7 cm.
+
+SECTION CODE: C1, four possible lymph nodes; CZ, four lymph nodes; C3, three lymph nodes: C4. one lymph node
+ttisected; C5, C6, one lymph node serially sectioned; C7. C8, one lymph node serially sectioned. ‘
+(D) PORTION OF OMENTUM - Received is a 57.0 x 15.5 x up to 2.0 cm sheet of finely lobulated adipose tissue. The specimen
+is serially sectioned to reveal cut surfaces composed of unremarkable yellow lobulated adipose tissue. A definite mass is not
+grossly identified.
+
+SECTION CODE: D1-D7, representative sections.
+(E) RIGHT GONADAL VESSEL - One portion of vascular structure, 6.5 x 0.3 x 0.3 cm and a round fibroadipose tissue. The
+Specimen is serially sectioned. Cut surface reveal unremarkable vessel and soft tissue. Representative sections submitted in E.
+
+(I-) PARAAORTIC LYMPH NODES - Multiple adipose tissues, 4.0 x 4.0 x 1.8 cm in aggregate. Six lymph nodes are identified
+ranging from 0.4 x 0.4 x 0.4 cm to 2.5 x 1.5 x 1.0 cm.
+
+SECTION CODE: F1, two lymph nodes; F2, two lymph nodes; F3, one lymph node serially sectioned; F4-F6, one lymph
+node serially sectioned. '
+CLINICAL HISTORY
+
+Endometrial cancer.
+
+SNOMED CODES
+
+"Some tests reported here may have been developed and performance characteristics determined by 4 l . These tests have not been
+speciﬁcally cleared or approved by the US. Food and Drug Administration."
+
+Entire report and diagnosis completed by:
+
+------ END OF REPORT-—--—-
+

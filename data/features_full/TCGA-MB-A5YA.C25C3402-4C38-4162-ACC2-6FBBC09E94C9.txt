@@ -1,0 +1,105 @@
+TSS ID:
+ID:
+
+Date of Sample Procurement:
+
+SPECIMEN(S):
+
+Small bowel and sarcoma
+
+FINAL DIAGNOSIS:
+
+Small bowel and sarcoma:
+- Leiomyosarcoma, high-grade.
+- Surgical margins: All negative.
+
+- Closest, mesenteric margin: 0.5 cm from tumor.
+
+- Small bowel segment with no diagnostic abnormalities.
+
+I-ﬂD 0'3
+Lewmyosarwm NOS
+
+8395/3
+51h: mum? cw
+QQCP $5}?va nil-UK (143.0
+
+Q” 4)qu I3
+
+UUID: C25C3462- M338- 4162- ACCR2- EFBBCOBEBICQd
+TCGA- MB- ASYA- 01A-P
+
+IIIIIIIIIIII'IIIIIIIIIIIIIIIIIIIIIIIIIIII II
+“IIIIIIIIIIIIIIII IIIIII IIIII IIIIIIIIIIIIIIIIII IIIIIIIIIIIIIIIIIIIIIIIIIII
+
+III
+I
+I III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+- Four benign lymph nodes with no evidence of malignancy (0/4 lymph
+
+nodes).
+
+COMMENT:
+
+This neoplasm shows high cellularity, prominent atypia, numerous
+
+mitoses, necrosis and hemorrhage. The small bowel wall is unaffected;
+
+the tumor arose in the mesentery; presumably in mesenteric vessel wall.
+
+Previous biopsy of this tumor shows it to be negative
+
+for C0117 (Ckit—negative).
+
+CLINICAL HISTORY:
+
+The patient is male with history of sarcoma. Operative
+
+ 
+
+ 
+
+procedure: Small bowel and sarcoma resection.
+
+GROSS:
+One formalin-filled container is received labeled with the patient's
+
+Name and medical record number.
+
+The container is additionally labeled "small and sarcoma" and consist of
+a 71 cm in length by 2.5 cm in diameter segment of small bowel with
+attached large amount of mesenteric adipose tissue. Both resection
+margins are previously stapled closed. The serosal surface is red and
+smooth with no exudate, perforation, or lesions. An 8.5 x 8.4 x 7.3 cm
+large, round, and solid mass is present within mesenteric adipose
+tissue. On sectioning, the mass is white, whorled, ﬁrm and solid. A
+
+1.8 x 1.5 x 0.7 cm dark red hemorrhagic area is present in the central
+portion. The mass is 7.5 cm to the bowel, 7.5 and 9.0 cm to bowel
+resection margins respectively. The mesenteric margin is inked black
+and the mass is 0.5 cm to the closest margin. Grossly the mass is
+entirely encapsulated. The bowel is opened to reveal tan and
+unremarkable mucosa with permanent transverse ridges. A lymph node
+dissection is performed within mesenteric adipose tissue and lymph nodes
+ranging from 0.5 to 1.7 cm in greatest dimension are present.
+
+Representative tissue was procured for potential future studies.
+
+Summary of Sections:
+
+A1 - two bowel margins.
+
+A2 - the mass with closest mesenteric margin.
+A3-A4 - mass to include hemorrhage.
+
+A5-A11 - mass.
+
+A12-A13 - bowel wall.
+
+A14-A18 - one lymph node in each.
+
+MICROSCOPIC:
+
+Microscopic examination is performed.
+

@@ -1,0 +1,246 @@
+ 
+
+Observation Date and Tame
+
+Entry Date
+
+ 
+
+Component Results
+
+Component _ .
+SPECIMEN DESCRIPTION W
+(NOTE) €¥LCSZ5XET
+
+Q0132- I‘jo 3'
+
+Surgical Pathology Report 6 Mt WW
+Patient Name: ——— #2; ﬁg
+
+Accession #: -—— 3&3Lﬂuea £18131-
+Med. Rec #: ~—— I CZT7/II
+
+Submitting Physician: —~—
+
+WR/chlla
+*****Clinical History*****
+
+Brain lesion
+
+UUID:5E5F767F-755E-4351-AA92-Aznesosa13ae
+I TCGA-FG-A711-01A-PR Redacted
+
+“HI"!l"llllllllllllIll"lllllllllllllllllllllIlllllllllllll
+llllllllllllllllllllllllllllllllllHllllllllllllllll lllll
+
+ADDENDA:
+
+Addendum added: "
+Addendum added:
+Addendum added:
+
+**'**Final Pathologic Diaqn05i3*****
+
+III] II |lllllIllllllllllllllllllllllllllll lllll
+
+A. Left frontal lobe, excision:
+— Glial neoplasm, low grade. See comment.
+
+Comment: The histolegical prefile and Kiv67 labelling index are consistent
+with a low grade (WHO grade II) glial neoplasm. Though in many areas the
+
+cells assume an eligedendroglial profile, in other areas more pleomorphic
+elements with astrecytic appearance are present. More sections as well as
+
+assaye for lp/lgq deletions are pending and an addendum will be issued
+subsequently.
+
+The immunohistochemical and/or in situ hybridization tests reported here,
+except for those addressing HER~2Neu overexpreeeion, have been developed
+and their perfarmance characteristics determined by the
+
+ 
+
+laboratories in the
+at the --- and are not required to
+have nor do they have FDA approval.
+
+*****Addendum Report*****
+
+Addendum Status: Signed Out
+
+Detection of lp36 and 19q by lp36 lq25 and . l9q13/l9p13
+Dual—Color Probe Sets
+
+Telephone: ———, FAX: -——
+Case No -—- Outside Case#:
+Pathologist -—— Patient Name:
+Source of case —-— Patient MRN:
+Block used A2
+Tissue fixation formalin-fixed tissue
+Tissue source Brain
+RESULTS
+Ratio of 0.67 Cell count of lp/lq: 118
+Ratio of 0.48 Cell count of 19q/19p: 120
+Interpretation of Results: A) 1p loss; B) l9q loss
+
+Interpretation of findings:
+
+A) (positive) The majority of tumors cells displayed 2 control
+chromosome lq25 signals and l chromosome lp36 signals (locus of
+
+interest). The ratio of lp36/lq25 is <O.8. The results are consistent
+with the loss of lp36 locus of interest. B) (positive) The majority
+
+of tumors cells displayed 2 control chromosome 19p13 signals and l
+chromosome l9ql3 signals (locus of interest). The ratio of
+
+19ql3/19p13 is <0.8. The results are consistent with the loss of lp36
+locus of interest.
+Number of Observers: 2
+Test Interpreted By: ——-
+
+Comments
+
+The resultant FISH section/slide is scanned by a trained licensed
+medical technologist and analyzed using a FDA—approved, validated
+semi-automated scanning imaging workstation and accompanying imaging
+
+ 
+
+analysis software . The resultant FISH section/slide is then
+presented to the interpreting Pathologist, who will reviews the FISH
+
+results from and compares them to the results manually observed
+under Fluorescence Microscope. Therefore the ratio is enumerated
+by computer—aided counting as well as manual counting.
+
+Interpretation of Test
+
+The ratio for probe set 1 is derived by dividing the total number of
+
+1p36 signals by the total number of lq25 signals in at least 20
+interphase nuclei with
+
+nonoverlapping nuclei in the neoplastic glial cells. Cells with no
+signals or with signals of only one color are disregarded. The ratio for
+probe set 2 is derived by dividing the total number of 19g13 signals by
+the total number of 19pl3 signals in at least 2 sets of 20 interphase
+nuclei with nonoverlapping nuclei in the neoplastic glial cells at two
+different areas of the sample. Cells with no signals or with signals of
+only one color are disregarded. References ranges for our laboratory for
+allelic loss versus no allelic loss were established by evaluating both
+probe sets in a series of 40 normal cases from 10 different organs. For
+both probe set 1 and 2 a ratio of less than 0.80 taken from at least 2 sets
+of 20 interphase nuclei at 2 different areas with nonoverlapping nuclei is
+consistent with allelic loss.
+
+Limitations
+ANALYTE SPECIFIC REAGENT: The use of one or more reagents in the above
+tests is regulated as an analyte specific reagent (ASR). These tests were
+
+developed and their performance characteristics determined by the
+They have not
+
+been cleared by the US Food and Drug Administration. The FDA has
+
+determined that such clearance or approval is not necessary.
+
+Addendum Status: Signed Out
+
+A: Left frontal lobe, excision.
+— Oligodendroglioma (WHO grade II).
+
+In—situ assays detect loss of both 1p and 19g loci.
+
+ 
+
+Addendum Status: Signed Out
+
+Unchanged.
+
+The KI~67 stain was performed by manual immunohistochemistry method.
+
+*****INTRAOPERATIVE CONSULTATION DIAGNOSIS:*****
+
+AF}. Left frontal tumor: (FROZEN SECTION PERFORMED)
+— Infiltrating glial neoplasm.
+
+Examining pathologist:—-—
+
+*****MICROSCOPIC:*****
+
+Sections show an infiltrating mild to moderately cellular neoplasm composed
+of glial elements having round to ovoid nuclei and scant cytoplasm. In
+areas, nuclear pleomorphism with more elongated form is identified.
+Focally, clusters of minigemistocytes are present. Mitotic figures are
+occasional. Immunostain for GFAP is positive in occasional cells and a
+Ki—S? stain shows a proliferation index in the range of lm2%.
+
+*****SPECIMEN(S) RECEIVED:*****
+
+Neuropathology Brain, Reg
+
+*****GROSS BESCRIPTION:*****
+
+The specimen is received in one properly labeled container of which is
+originally received in frozen section, with the patient' a name and
+accession number.
+
+A. The specimen is designated “left frontal tumor" and consists of
+a 7.9 x 6.0 x 3.1 cm portion of tanegray brain tissue. Upon serially
+sectioning a 5.8 x 5.7 x 3.4 cm tanmwhite homogeneous mass is identified.
+
+A representative section is su ted for frozen section and is resubmitted
+as received in cassette AFl.
+
+ 
+
+Summary of Cassettes: A51,
+sections of mass
+
+Lab Use Only: __""'
+Lab Use Only:
+Illlllll
+
+Gross description by: an»
+
+frozen section tissue: Al—E, random
+
+I
+
+. A; 754/13 l N. 1
+$3355 Disuepimy / 4
+nmvaummime Distregaqw /
+
+I
+EPAA Discrepancv
+
+_____—.—— ___.__... _ ._. r_. '7’—
+nor Malignant] Hmory .7 _
+a
+1
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+  
+ 
+
+ 
+
+ 
+
+' |FlED
+‘35: i: (mm: mscuu
+
+,_..__ '
+uViPWEl Initial; . v a1: Rene-we ,_ﬁ _ .J
+- ‘l
+.
+

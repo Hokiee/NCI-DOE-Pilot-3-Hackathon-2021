@@ -1,0 +1,132 @@
+_ — «lsz-lcm ewes Bsm 1.71m:
+Specimen DatelTima:
+
+******* MODIFIED REPORT - REVIEW ADDENDUM SECTION *******
+DIAGNOSIS
+
+(A) LEFT PELVIC LYMPH NODES:
+
+Five lymph nodes, no tumor present. (0/5)
+(B) RIGHT PELVIC LYMPH NODES:
+
+Three lymph nodes, no tumor present. (0/3)
+(C) ANTERIOR BLADDER NECK: ‘
+
+Smooth muscle and adipose tissue consistent with bladder neck tissue, no tumor or prostatic glands present.
+(D) PROSTATE AND SEMINAL VESICLES:
+
+Supplemental report to follow. W ZZZ) '0 ' 3
+
+W
+
+/
+9/ 45/5
+Entire report and diagnosis completed by fajﬂ
+
+Wugqo/s
+Son/[123 WW N 351.?
+
+GROSS» DESCRIPTION ' % B’Mﬂ/ l 3
+
+(A) LEFT PELVIC LYMPH NODE — Received is adipose tissue with lymph nodes measuring 6.5 x 5 x 1.5 cm.
+SECTION CODE: A1, two possible lymph nodes; A2, A3, each containing one possible bisected lymph node; A4, one
+possible lymph node.
+(B) RIGHT PELVIC LYMPH NODES — Received is adipose tissue with possible lymph nodes measuring 4.5 x 3.5 x 1.2 cm.
+SECTION CODE: B1, BZ, each containing one possible lymph node; BS, one possible lymph node.
+(C) ANTERIOR BLADDER NECK TISSUE — Received are two pieces of pale-tan soft tissue measuring 2.5 x 1.7 x 0.7 cm. The
+specimen is submitted into cassette C.
+Supplemental report to follow.
+(D) PROSTATE AND SEMINAL VESICLES - Supplemental report to follow.
+
+CLINICAL HISTORY
+None given.
+
+SNDMED CODE;
+
+"Some tests reported here may have been developed and performance characteristics determined by These tests have not been
+speciﬁcally cleared or approved by the US. Food and Druo Administration."
+Entire report and diagnosis completed by:
+
+Start‘of ADDENDUM
+
+UUID : BA64AA42 - BBAD - 4DAD -AB E7 - BDDC253B§ 345
+TCGA-KK-A7AY-01A-PR
+
+Redacted
+lllllllllllllllllIlllllllll|||lllIllllllllllllllllllllllllllllll
+lllllIllllllllllllllllllllllllllllllllllllllll
+llllllllllllllllllllllllllllllllllllllllllllllIIIIIIIIIIIIIII
+
+Page: 2
+
+* _ (152.1cm 69.2kg BSA: 1.711112
+SpeCLmen Date Time:
+
+ADDENDUM
+
+This modiﬁed report is being issued to provide additional information/results.
+
+Addendum completed by
+
+DIAGNOSIS
+
+(D) PROSTATE AND SEMINAL VESICLES:
+PROSTATIC ADENOCARCINOMA, GLEASON SCORE 7 (4+3). (SEE COMMENT)
+TUMOR CONFINED TO THE PROSTATE.
+MARGINS OF RESECTION FREE OF TUMOR.
+Right and left seminal vesicles, no tumor present.
+Segments of right and left vasa deferentia, no tumor present.
+PERINEURAL INVASION PRESENT.
+No vascular/lymphatic invasion identiﬁed.
+PROSTATIC INTRAEPITHELIAL NEOPLASIA (PIN), HIGH-GRADE.
+
+3 COMMENT
+
+The prostate gland contains a single focus of prostatic adenocarcinoma. The tumor is located in the right posterolateral, right
+posterior, mid posterior, and left posterior peripheral zone. The tumor focus measures 2.5 x 0.9 cm in the largest cross-sectional
+dimension, and it is present in the three cross sections of the prostate, extensively in the apex and focally in the base region. The
+tumor is confined to the prostate. The margins of resection are free of tumor.
+
+GROSS DESCRIPTION
+
+(D) PROSTATE AND SEMINAL VESICLES — A specimen consisting of a prostate, attached right and left seminal vesicles and
+attached segments of right and left vasa deferentia.
+
+The prostate gland (5.2 x 2.5 x 3.8 cm, 36 grams, post-ﬁxation) has the usual shape. The soft tissue present along the
+posterolateral aspect of the prostate is abundant and more extensive along the right side. An area of firmness is noted on the
+midline posterior surface of the prostate. Serial cross sections after fixation demonstrate an area of tumor in the mid posterior
+region of the two cross sections of the prostate.
+
+The seminal vesicles and segments of vasa deferentia are grossly free of tumor.
+
+SECTION CODE: 01-03, right seminal vesicle and segment of right vas deferens from the base towards the tip; 04, 05,
+left seminal vesicle and segment of left vas deferens from the base towards the tip; 06. prostatlc base right border; 07-09,
+prostatic base right posterior border; 010-012, prostatic base central portion; D13, D14, prostatic base left border; 015, 016,
+prostatic base left posterior border; D17, D18, apex anterior; D19, D20, apex left; 021, D22, apex posterior; 023, 024, apex right;
+025-036, sections of the three cross sections of the prostate according to specimen radiograph.
+
+The anterior aspect of the prostate is inked in green, left surface in red, right surface in yellow and posterior surface in
+black. Blue ink (07, 8, 10-12, 19—24, 27, 28, 32 and 36) and orange ink (031) denote surfaces that do not represent a true margin
+of resection. Two blocks (025 and 29) submitted for decalcification. ‘
+
+SNOMED CODES
+
+Page: 3
+
+— (152.1(2m 69.2kg BSA: 1.7m
+
+Specmien Date Tlme:
+
+Entire report and diagnosis completed by:
+
+------ END OF REPORT-----—
+
+um or Site
+HIPAA
+Put"
+
+an I;
+Reviewer Initials
+
+ 
+

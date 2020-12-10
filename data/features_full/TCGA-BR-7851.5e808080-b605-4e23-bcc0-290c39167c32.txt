@@ -1,0 +1,82 @@
+   
+
+Case | D —II D Gross Microscopic Diagnosis
+Description Description Details
+
+ 
+   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Formatted Path Report
+
+ 
+
+STOMACH TISSUE CHECKLIST
+
+Specimen type: Gastrectomy
+
+Tumor site: Fundus
+
+Tumor size: 9 x 6 x 4 cm
+
+Tumor features: Ulcerated
+
+Histologic type: Adenocarcinoma, intestinal
+type
+
+Histologic grade: Poorly differentiated
+Tumor extent: Serosa (visceral peritoneum)
+Lymph nodes: 0/10 positive for metastasis
+(Regional 0/10)
+
+Lymphatic invasion: Not specified
+
+Venous invasion: Not specified
+
+Perineural invasion: Not specified
+
+Margins: Not specified
+
+Evidence of neo-adjuvant treatment: Not
+specified
+
+Additional pathologic findings: Not specified
+Comments: None
+
+ 
+
+ 
+
+OpenCli Date of Lateralit
+nicalD Procurement y
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,80 @@
+ 
+
+Pathology Report
+DIAGNOSIS
+(A) RIGHT LOWER POLE TUMOR, PARTIAL NEPHRECTOMY:
+RENAL CELL CARCINOMA, CONVENTIONAL (CLEAR CELL TYPE), FUHRMAN'S
+NUCLEAR GRADE 2.
+TUMOR MEASURES 4.7 CM IN MAXIMUM DIMENSION.
+TUMOR PRESENT IN A VASCULAR SPACE AT THE MARGIN OF RESECTION. (SEE
+COMMENT)
+(B) 11TH RIB:
+Segment of rib for gross inspection only.
+(C) PERINEPHRIC FAT:
+Adipose tissue, no tumor present.
+
+COMMENT
+
+The tumor is present as a bulging nodule in a large caliber vascular
+space at the parenchymal margin of resection extending to the inked
+surface indicated by the surgeon. The immunohistochemical stain for
+CD31 (vascular marker) highlights the endothelial surface of the
+vascular structure. This histologic finding is not diagnostic of renal
+vein involvement. Additional sections prepared from the frozen section
+block (A1FS) demonstrate a minute amount of adipose tissue adjacent to
+the vascular structure consistent with renal sinus adipose tissue. The
+tumor does not invade this adipose tissue or the perinephric adipose
+tissue.
+
+GROSS DESCRIPTION
+
+(A) RIGHT LOWER POLE TUMOR, INK AT MARGIN - A partial nephrectomy
+specimen (7.7 x 5.3 x 4.2 cm) including a portion of kidney and
+
+surrounding adipose. At the margin of resection is a protruding area of
+orange-yellow tumor (0.7 x 0.5 x 0.4 cm) marked with que surgical ink.
+
+This area is re-inked que. The remaining resection margin is tan-gray.
+
+A 4.7 x 4.3 x 3.6 cm orange-yellow, partially cystic and
+hemorrhagic tumor is present. FocaIIy within the tumor are small areas
+of gray mucoid material. The tumor is encapsulated by a rim of tan
+ﬁbrous tissue. The tumor bulges into the adjacent perinephric adipose
+without gross inﬁltration.
+
+The surrounding uninvolved renal parenchyma is unremarkable.
+Representative sections of tumor and normal are submitted for tumor
+bank. A portion of the tumor is sequestered for potential electron
+microscopy.
+
+INK CODE: Blue - reinked surgical ink, yellow - surgical
+parenchymal margin, and black - Gerota's fascia.
+
+SECTION CODE: A1, frozen section of protruding tumor nodule; A2,
+additional close margin, frozen; A3, nodule protruding at margin (mirror
+image to A1); A4, tumor and nearest fascia; A5-A6, tumor and surrounding
+normal kidney; A7, gray mucoid area of tumor; A8, cystic area of tumor;
+A9-A10, representative sections of tumor.
+
+*FS/DX: CARCINOMA PRESENT AT INKED MARGIN OF RESECTION. NO
+APPARENT CAPSULE AT SITE OF POSITIVE MARGIN. PT:SM/msm
+(B) 11TH RIB, GROSS ONLY - An irregular fragment of rib (3.5 x 1.0 x
+0.5 cm). The specimen is entirely submitted for gross only.
+
+(C) PERINEPHRIC FAT - An irregular fragment of adipose tissue (7.5 x
+
+1
+
+ 
+
+6.0 x 1.0 cm). The specimen is serially sectioned and grossly
+unremarkable. Representative sections in C1 and CZ. -
+
+CLINICAL HISTORY
+Right renal mass.
+
+SNOMED CODES
+T-71000, M-83123
+
+ 
+

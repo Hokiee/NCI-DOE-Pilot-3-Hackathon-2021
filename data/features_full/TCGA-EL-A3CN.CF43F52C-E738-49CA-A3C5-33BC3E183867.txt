@@ -1,0 +1,119 @@
+T
+HIPAA
+
+Case
+Reviewer Initials _.._
+
+(0‘15, "
+
+ 
+
+UUID : CF43F52C-E738-49CA-A3C5-335C3E183867
+TCGA- EL -A3CN-01A-PR
+
+Redacted ry Case
+lllllllllllll|||||||Illlll|||||||||||||||||||||||l||||||||
+l lllllllllllllllllllllllllllllllllllllllllllllllllllllll ‘QY R990"! " ' ‘ '
+||| lllll||||||||||I|||||llllllllllllllll||| |||Ill|ll . DOB: Sex: F
+
+3 Physician:
+~ Received: Pathologist: , Accession:
+Case type: Surgical History
+
+II”
+I”!
+"ll
+
+ 
+
+“ Case imported from legacy computer system. The format of this report does not match the original case. “
+*‘ For cases prior to " the section “SPECIMEN” may have been added. *'
+
+ 
+
+DIAGNOSIS ' -' ~ ~
+
+(A) SKIN ANTERIOR NECK:
+Intradermal nevus.
+
+(3) LEFT MIDJUGULAR LYMPH NODE:
+One lymph node, no tumor present.
+
+(C) PRE-THYROID LYMPH NODE:
+
+m one lymph node. no tumor present.
+
+(D) THYROID AND PARATRACHEAL LYMPH NODES:
+PAPILLARY CARCINOMA (1.5 CM DIAMETER) INVOLVING LEFT LOBE.
+TUMOR FOCALLY EXTENDS TO INKED MARGIN OF RESECTION. 0 ..
+EXTRATHYROIDAL EﬁTENSICN PRESENTC.i f d / C ”a 5
+No vascu ar ymp atic invasion 1' enti ie . “:5‘ “I , W
+Adenomatous nodules of right lobe. (see comment) C ‘ ID PEI/“'3‘ W4
+Focal chronic lymphocytic thyroiditis. XQ&y/5
+Seven lymph nodes, no tumor present.
+
+(E) LEFT PARATHYROID TISSUE: (Sth : MW“, ””5 073.5
+
+Parathyroid tissue, no tumor present.
+
+Entire report and diagnosis completed bv: M/ISI"
+Rennrr re eased by: ‘
+
+In.s eCimen D, the right lobe of the thyroid contains two adenomatous nodules
+wh1C are.0.5 cm and .4 cm in greatest dimenSion.
+
+GROSS DESCRIPTION‘ . . _ V ” r » ' g
+
+(A) SKIN FROM THE ANTERIOR NECK — A strip of white skin (2.5 cm in len th x
+0.4 x 0.4 cm). No lesions are identified. Entire specimen is submitteg in
+cassette A. .
+
+(3) LEFT MLUJUGULAR LYMPH NODE — A single pink unremarkable lymph node (0.5 x
+0.5 x 0.5 cm). The entire lymph node is submitted in cassette 3. CC/kk
+
+(C) PRE~THYROID LYMPH NODE - A single pink unremarkable lymnh node (0.4 x 0.4
+x 0.4 cm). Entire lymph node is submitted in cassette C.
+
+(Q) THYROID AND PARATRACHEAL LYMPH NODES - A bilobed thyroid and attached
+
+1.5 x 1.3 x 1.3 cm in diameter. The nodule is light tan and slightly firm and
+well demarcated from the Surrounding normal therid tissue. The nodule abuts
+the anterior surgical margin. No other lesions are identified.
+
+INK CODE: Black — external surface.
+
+SECTION CODE: Dl—D4, re resentative sections of the right lobe; DS—DS,
+nodule in left lobe; 010, mu tiple lymph nodes.
+(E) LEFT PARATHYROID TISSUE - A fragment of maroon—tan tissue (0.4 x 0.4 x
+0 7 cm in greatest dimension), entirely submitted for frozen section in E.
+
+lﬁgFS/DX: PARATHYROID TISSUE, NO TUMOR PRESENT.
+
+Page 1 of 2
+
+History Case Pathology Report Hi 8 t: o ry Ca S e Patho logy
+File under: Pathology
+
+ 
+
+ 
+
+3- History Case t
+Pathology Report ) .
+‘ ' DOB~ Sex: F
+_ ' Physician:
+
+Received: Pathologist: " Accession:
+
+Case type: Surgical History
+CONSULTATION " « ' L
+SNOMED CODES
+
+Page 2 of 2
+History Case Pathology Report
+
+ 
+
+. History Case Pathology
+File under. Pathology
+

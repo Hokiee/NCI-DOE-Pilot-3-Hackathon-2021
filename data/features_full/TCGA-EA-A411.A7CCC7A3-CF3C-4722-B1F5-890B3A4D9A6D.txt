@@ -1,0 +1,36 @@
+ 
+
+UUID: A7CCC7A3-CF3C-4722-31F5-89053AADSA6Dd
+
+TCGA- EA- A411— 01A- PR
+
+||||||ll llll |||||||| |||||||||||||||||||||||||||| l|||||||||||||
+lllllll|||||l|||||||||||l||||||||lllllllllllllllllllllllll
+
+Path ReportCERVIX TISSUE CHECKLIST
+
+Specimen type: Hysterectomy, bilateral salpingo-oophorectomy
+
+Tumor site: Cervix
+
+I C 1749/?)
+Tumorsue: 2x1.5x1cm wrC\h a SqMMOV-3 CC” MOS .
+Histologic type: Squamous cell carcinoma $073} 3
+Histologic grade: Moderately differentiated 5' ‘1‘“ C'C/le NO 3
+C53 4
+Tumor extent: Not specified 13°43
+
+Lymph nodes: 0/13 positive for metastasis (Regional 0/13)
+Lymphatic invasion: Not specified
+
+Venous invasion: Not specified
+
+Margins: Not specified
+
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+
+Comments: None
+
+ 
+

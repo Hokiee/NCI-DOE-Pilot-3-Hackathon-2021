@@ -1,0 +1,112 @@
+£¢Z3<5‘C5
+
+W ) €77.05
+DERMATOPATHOLOGY 5411. We, W
+if
+
+Case Number:
+
+gag/M) 3
+Diagnosis:
+
+A: Lymph nodes, right superficial inguinal, removal
+
+—Metastatic melanoma involving 1 out of 22 lymph nodes, with the
+largest diameter measuring 5.5 cm grossly (1/22)
+
+—Extracapsular extension is present
+
+-Block Al will be sent for BRAF testing
+
+Updated AJCC Staging: pT2a leb pr
+
+B: Lymph nodes, right external iliac, removal
+—No evidence of melanoma in 7 lymph nodes (0/7)
+
+C: Lymph nodes, right external iliac, removal
+-No evidence of melanoma in 4 lymph nodes (0/4)
+
+D: Lymph nodes, right internal iliac and obturator, removal
+—No evidence of melanoma in 9 lymph nodes (0/9)
+
+E: Lymph node, right node of Cloquet, removal
+—No evidence of melanoma or lymph node tissue identified
+—The entire specimen was submitted and examined microscopically
+
+F: Lymph nodes, right common iliac nodes, removal
+—No evidence of melanoma in 8 lymph nodes (0/8)
+
+G: Right posterior calf, excision
+—Biopsy site changes with no residual melanoma
+
+UUID: E1337296- 5114- 47F3- A48E- 204637939823
+TCGA- FR- A729- BEA-P
+
+Clinical History: |||||||||||||||||||||||||||||||||||||||||||||||||||||R||e||l||||c||ad
+
+||||
+year-old female with melanoma HHIIIIII |||||||I|||I||I||||||I|||||||||||||||||||||||||||||||
+
+Gross Description:
+
+A: The specimen was received labeled with the patient' 5 name
+and measured 14 x 9 x 4 cm. There is a 5.5 x 4.5 x 3.5 cm tan-
+white mass. Fresh tissue from this mass is taken by tissue
+procurement. The fibrofatty specimen is serially sectioned and
+then placed in Lymph node candidates are identified
+and submitted as Al—lO with blocks Al and A2 contained
+representative sections of the mass. Tissue remains in formalin.
+
+B: The specimen was received labeled with the patient' s name
+
+and measured 5.5 x 5 x 2 cm. The tissue is entirely submitted as
+B1—8,
+
+C: The specimen was received labeled with the patient' 3 name
+and measured 4 x 4 x 2 cm. The tissUe is entirely submitted as
+C1—6,
+
+D: The specimen was received labeled with the patient' 5 name
+
+and measured 6 x 3 x 1.5 cm. The tissue is entirely submitted as
+D1-6,
+
+E: The specimen was received labeled with the patient' 5 name
+and measured 2.1 x 2 x 1.4 cm. The tissue is entirely submitted
+as E1—3,
+
+F: The specimen was received labeled with the patient' 8 name
+and measured 3 x 1.5 x 1.4 cm. The tissue is entirely submitted
+as F1—3, '
+
+G: The specimen bears a long suture indicating lateral and a
+short suture indicating superior and measures 32 x 31 x 10 mm.
+Viewing the specimen with the short suture at the 12:00 position
+and the long suture at the 3:00 position, the margin
+encompassing the 12:00—3:00 quadrant is inked green, 3:00—6:00
+quadrant is inked yellow, 6:00—9:00 quadrant is inked black, and
+the 9:00—12:00 quadrant is inked orange. Central sections to
+include the 12:00 and 6:00 margins are submitted as block 1 and
+2. Perpendicular sections of the 12:00—3:00 margin are
+
+submitted as block 3 and 4, 3:00-6:00 margin as block 5 and 6,
+6:00-9:00 margin as block 7 and 8, and 9:00-12:00 margin as
+block 9 and 10,
+
+Light Microscopy:
+Light microscopic examination is performed by Dr. 8100 and Melan
+
+A are positive in block Al thereby supporting the diagnosis of
+metastatic melanoma.
+
+    
+ 
+    
+ 
+
+'nmaxL_
+“PAAPiscrep
+’mx
+
+ 
+

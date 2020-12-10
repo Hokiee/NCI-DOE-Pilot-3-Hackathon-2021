@@ -1,0 +1,382 @@
+UUID 2 53863E49- FCBS -4A62 -BBE3- 559167242CA2
+TCGA-XY-ABSB-BlA-PR Rﬁlldlm-“ted
+
+||||||||||||||||I|||||||||||||||||||l||
+IIIllllﬂlI“IIHIIHIIIIIIIIIIIIIII|||||||i|||||||IIIiIIliIIIIII
+
+ 
+
+|| ii in, . -
+|||| IiiIiIiI||||l||lllii|||iiilliilllllllllllliilili _ I01) 0 3 3070/3
+Research Gross Descri tion @313. ,_
+.year-oid with testicular mafs_ Q 7W/ 9M um 5bE5/3 ‘
+
+Research Dx I A 51.11 JAG/£3 Hg Chi—bale
+
+Testicle, left, orchiectomy: 995 {l / 7/ / 4
+
+Mixed germ cell tumor.
+See comment and case summary.
+
+CASE SUMMARY FOR TESTIS (RADICAL ORCHIECTOMY):
+
+Serum tumor markers: LDH 165 UIL; AFP 96.9 nglml; HCG elevated
+Tumor focality: Unifocal
+Tumor size: See below
+Greatest dimension: 2.5 cm
+Additional measurements: 2x2 cm
+Macroscopic extent of tumor: Conﬁned to testis
+Histologic type: Mixed germ cell tumor (80% embryonal, 15% yolk sac, 5% choriocarcinoma)
+Margins:
+Spermatic cord margin: Benign
+Other margins: NIA
+Microscopic tumor extension: Confined to testis
+Lymph-Vascular invasion: Yes
+Pathologic staging (pTNM):
+Primary tumor: pT2: Tumor limited to the testis with vascular/lymphatic invasion
+Regional lymph nodes: X
+Distant metastasis: NIA
+Serum Tumor Markers: S1
+Additional pathologic ﬁndings: Mlcrolithiasis and intratubuiar germ cell neoplasia
+
+AJCC Staging (7th edition) pT2
+
+COMMENT
+
+Properly controlled immunohistochemical studies were performed. CD30 and OCT 3/4 highlight the
+embryonal carcinoma. Glypican 3 and AFP highlight the yolk sac tumor while HGG highlights a
+small foci of choriocarcinoma. OCT 314 also highlights intratubuiar germ cell neoplasia.
+
+Resea hQC &T§S’ 1'1 5 100% MW
+
+Tumo
+
+60% tumor nuclei (all embryonal)
+less than one% necrosis
+
+40% normal (stroma) '
+
+Tumor T2:
+50% tumor nuclei (all embryonal)
+0% necrosis
+
+0 \
+50 A: normal stroma 35-7, “my c W
+
+- r3 =
+Tumorél) .. ’01” T53 75 ?' W1”
+
+75% tumor nuclei (of tumor nuclei. 25% choriocarcinoma, 75% embryonal)
+0% necrosis
+25% normal stroma
+
+Tumor T4:
+50% tumor nuclei (all embryonal)
+
+ 
+
+ 
+
+ 
+
+0% necrosis
+50% normal stroma
+
+Normal N1:
+100% testis
+
+Research Specimen
+
+Specimen Process Time
+Blood draw time:
+
+Plasma frozen time:
+
+Serum frozen time:
+
+Buffy coat frozen time:
+
+Cold ischemia start time:
+Formaiin ﬁxation start time:
+Total cold ischemia time:
+Formaiin ﬁxation stopped time:
+Total formalin fixation time:
+
+Specimen Weight
+
+T1-41 mg, T2—48 mg, T3-35 mg, T4-53 mg
+N1-63 mg, N2-36 mg
+
+Specimen Size
+
+Plasma x 2
+
+Serum x 1
+Buffy coat x 1
+
+Cryovials x 8
+Normal x 4
+Tumor x 4
+
+FFPE x 8
+Normal x 4
+Tumor x 4
+
+Study
+
+Patient Consent
+Yes
+
+ 
+
+ 
+
+ 
+
+ 
+
+v . o
+TCGA Pathologic Diagnosis Discrepancy Form 40
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11159312119115; The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site {1‘55} _ TSS Unique Patient identiﬁer. ~_ 37
+CompIEted By (interviewer Name on OpenClinica): Completed Date: _ _
+Diagnosis information —I
+# Data Element Entry Alternatives World‘ng Instructions
+Provide the diagnosis] histologlc subtypets) dacumented on
+Pa thologic Diagnosis . the initial pathology report for this case. if the histology for
+1 Provided on Initial ’ ‘2 this case is mixed provide all listed subtypes.
+Pathol Re 30% 9m r on 5% oiksac
+083' Port I 1
+5% (“hon o carcinoma,
+Provide the histologic features selected on the TCGA Case
+Histologic features of n c ‘ F ' ted f m
+2 the sample provided ] 7 IDD it) i all limb 0730.0 Qua ty mm on" com" or “mg
+for TCGA, as reﬂected
+on the CQCF.
+[Discrepancy between Pathology Report and Case Quality Control Form j -
+
+ 
+
+ 
+
+ 
+
+3 Provide the reason for .m A. 4’ ”grids a reason :lescﬂbing wihy the diaglrsiosis a: :Ihfhinltial
+
+~ «‘1 I . pa o 03;: report on a case s not cons tent t e
+the discrepancy { ’1): 1 Sn “1' mar diagnosis selected on the TCGA Case Quality Control Form.
+betWeen the pathology 5 0mm. PM
+
+01 our bore 9351‘ti
+report and the TCGA b /
+Case Quality Control \oag, mm" in 32614-49445.
+
+Form. W; 5% 4..
+RYaﬁtdséos’g.‘ :0: 35
+
+iwbﬁf «mediating '
+Him 51% ”Dim 1903A)
+
+(\(QAETMNQQ Sub—{H W5 (b
+
+\J
+
+ 
+
+ 
+
+Name of TSS Reviewing Provide the name ofthe pathologist who reviewed this case
+4 Pathologist or _, m" TCGA.
+
+Biorepository Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above inhrmotfon provided by my institution is true and correct and has been quality controlled.
+
+W 7‘" . . . ‘1‘“ \M
+TSS Rev1ewmg Pathologist or Bmﬁe’pomtory Director Date
+
+ 
+
+ 
+
+Principal lnvestigatotgignature Date
+
+ 
+
+ 
+
+was
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+instructions.- The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (T85): T35 Identiﬁer: TSS Unique Patient Identiﬁer: J"?
+Completed By (Interviewer Name on OpenClinica}: Completed Date: _ 7 _
+
+Diagnosis information I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+it Data Element Entry Alternatives Worldn instructions
+1
+Provide the diagnosis] histologic subtype(s) documented on
+Pathologic Diagnosis . the initial pathology report for this case. lithe histology for
+1 Provided on Initial 30 90.35» 6 r 0nd l /S_ ?a y 0 I Z .S QC this case is mixed. provide all listed subtypes.
+/ /
+Pathology Report 6.- ?0 CA 0 I" {.0 [a ”c {’1ch
+. Provide the histologic features selected on the TCGA Case
+Histologlc features 0f ‘ Quality Control Form completed for this case.
+2 the sample provided 9
+for TCGA. as reﬂected 2. 5‘9, c 110 r10 Carc mo mq
+on the CQCF. 7 570 e M bi’y an“ (
+LDlscrepancy between Pathology Report and Case Quality Control Form I
+3 Pro 'de the re so f r ' = Provide a reason describing why the diagnosis on the initial
+the ‘CIIIlSCre an a n O 77, a f 6/ 7' a '4 O‘F T” e‘ pathology report for this case is not consistent with the
+between tge pathology ",4 y m a r 5‘ emf {c C] 'FO f diagnosis selected on the TCGA Case Quality Control Form.
+reportand theTCGA Gal” ﬁloreﬂosi-to/ was
+Case QualityControl +a #34 z n S C'C7' (£175,
+F011“- ‘Tﬁe opera-N father eua/aafcc'
+by 7’45- ;0’3 “Pal p4 7710 lag,‘.r*~
+can "lain ed ado/1' Warm c Toma. »
++2550: c GM/ased 0F ao/Ji than]
+Subfy/es,
+Name of 1‘35 Reviewing Provide the name of the pathologist who reviewed this case
+4 Pathologist or a" Tm“
+Biorepository Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled
+
+ 
+
+Q TSS Reviewing Pathologisvur Biorepository Director Date
+
+I acknowledge that the above infonrtatlon provided by my institution is true and correct and has been quality controlled. ”slimming Pathologist or the
+Department Chairman has been informed or B aware ofthe above discrepancy in diagnoses.
+
+ 
+
+Frincipal lniestigato'r Signature Date
+

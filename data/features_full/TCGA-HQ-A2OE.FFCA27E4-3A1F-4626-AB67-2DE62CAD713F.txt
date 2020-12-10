@@ -1,0 +1,76 @@
+UUID:FFCA27E4-3A1F-4626-A567-2DE62CAD713F
+TCGA- HQ- A2OE -0 -
+
+||||
+llll
+llll
+
+”ilﬁliiminIiill'iiﬁiiii'ﬁii‘“
+mnunu
+l||||l||l||||l||||||
+
+llllllllllllllllllllllllllllllllllllllllllllllllllllllIlllll
+
+Sample Preparation
+
+Site of Primary (Event)
+Site of Tissue
+
+Year of Sample Collection
+Age at Sample Collection (yrs)
+Sample Comments
+
+Days to Procedure Date
+Days to Diagnosis
+
+Type of Procedure
+
+Site of Primary (Histology)
+Bilateral Disease
+
+Tumour Size (cm)
+Histology
+
+Gra
+
+de/Differentiation
+
+Pathological T
+
+Pathological N
+
+Number of Nodes Sampled
+Number of Nodes Positive
+Clinical M
+
+Histology Comments
+
+ 
+
+Sample Type Tumour Primary
+
+Fresh Frozen
+
+Bladder HA I” ’}
+Mm; Mp, WW, N05 two/3
+emu A/de, N05 cm. 7
+
+O
+
+15
+
+Surgical resection 9/)u/i
+
+urinary bladder
+
+3
+
+papillary urothelial carcinoma
+Grade X (Unknown)
+
+TZa
+
+N2
+
+MX
+

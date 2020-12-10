@@ -1,0 +1,120 @@
+Final Pathologic Diagnosis:
+A. Lymph node, right level 10, excision:
+One benign lymph node.
+
+B. Lymph node, right level 4, excision:
+Three benign lymph nodes.
+
+C. Lymph node, right level 2, excision:
+Three benign lymph nodes.
+
+D. Lymph node, level 7, excision:
+One benign lymph node.
+
+E. Lung, right upper lobe, lobectomy [FSE]:
+Adenocarcinoma.
+
+Specimen: Lung, right upper lobe
+Procedure: Lobectomy
+Specimen laterality: Right
+Tumor site: Upper lobe
+Specimen integrity: Disrupted
+Tumor size (greatest dimension): 4 cm
+Tumor focality: Unifocal
+Tumor histologic type: Adenocarcinoma, with extensive necrosis
+Tumor grade: 2, moderately differentiated
+Visceral pleura invasion: Not identified
+Tumor extension: Not applicable
+Margins:
+Bronchial: Uninvolved by invasive carcinoma
+Vascular: Uninvolved by invasive carcinoma
+Treatment effect: Cannot be determined
+Lymph-vascular invasion: Not identified
+
+Pathologic staging (pTNM):
+TNM Descriptors: None
+Primary tumor: pT2
+Regional lymph nodes: pNO (including Parts A-B, F)
+Number examined: 10
+Number involved: 0
+Distant metastasis: Cannot be assessed
+Additional pathologic findings: Obstructive pneumonia
+One benign lymph node.
+Frozen section diagnosis confirmed.
+
+F. Lymph node, level 8, excision:
+Fragments of benign anthracotic lymph node.
+
+The examination of this case material and the preparation of this report were
+performed by the staff pathologist.
+
+***Electronically Signed*** ,l- (Pathologist)
+
+Signing Location:
+
+lntraoperative Consult Diagnosis:
+
+FSE: Right upper lobe diagnosed mass:
+Non-small cell carcinoma.
+F/S TAT: 11 mins.
+
+-
+—
+Gross Description:
+Received are six specimen containers all labeled with the patient's name,
+
+Part A is received in formalin and additionally labeled "R10 lymph node" and
+consists of a single nodular portion of gray-tan anthracotic appearing lymph
+node having a greatest dimension of 0.8 cm which is submitted entirely in
+cassette A.
+
+Part B is received in formalin and additionally labeled "R4 lymph node" and
+consists of three portions of gray-tan nodular soft tissue grossly consistent
+with lymph node ranging from 0.5 to 0.8 cm submitted in toto in cassette B.
+
+C is received in formalin and additionally labeled "R2 lymph node" and consists
+of three nodular portions of gray-tan soft tissue grossly consistent with lymph
+nodes which range from 0.8 to 1.2 cm in greatest dimension. The two lesser
+nodes are submitted in toto in cassette C1. The larger node is bisected and
+submitted entirely in cassette C2.
+
+Part D is received in formalin and additionally labeled "Level 7 lymph node" and
+consists of a single nodular portion of gray-tan soft tissue grossly consistent
+with lymph node having dimensions of 1.1 x 0.9 x 0.8 cm. This tissue is
+bisected and submitted entirely in cassette D.
+
+Part E is received fresh for frozen section evaluation having been previously
+partially incised additionally labeled "rig ht upper lobe diagnosed mass
+
+(FSE+X)." The specimen consists of a product of a right upper lobectomy having
+overall dimensions of 11 x 8 x 4.2 cm. Notable by palpation and confirmed by
+step-sectioning there is a subpleural mass which has a tan-white partially
+necrotic cut surface with dimensions of 4 x 3.8 x 3 cm which approaches to
+within 2 cm of the bronchial margin of surgical resection. A portion of this
+
+lesion is submitted for frozen section evaluation (FSE) with residual frozen
+section tissue submitted in cassette E1. Sectioning through the remaining lung
+parenchyma reveals probable congestion without distinct "mass." Within the area
+of the hilum there are no additional lymph nodes grossly identified.
+
+Sections are submitted as follows:
+E1 residual frozen section tissue;
+E2 bronchial and vascular margins of surgical resection;
+E3-6 representative sections of "mass"
+E7 congested uninvolved lung parenchyma.
+
+Part F is received in formalin additionally labeled "Level 8 lymph node" and
+consists of a single 2 mm gray-tan soft tissue which is submitted in toto in
+
+cassette F.
+—
+
+Microscopic Description:
+The final diagnosis of each specimen incorporates the microscopic examination
+findings.
+
+Taken—
+END OF REPORT
+
+ 
+

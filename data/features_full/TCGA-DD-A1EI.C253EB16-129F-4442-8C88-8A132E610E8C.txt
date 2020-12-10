@@ -1,0 +1,228 @@
+/CA—ﬂ/3
+4,. c ‘ , , WW N45 Ema/3
+I
+ffﬁc (1:114: KW 693:0 , If/H
+/ W
+Patient Key:
+Surgical date:
+
+TISSUE DESCRIPTION:
+
+--.v Al A2 A3 Bl B2 B3 B4 B5
+Right lobe liver (765.0 grams, 16.0 x 13.0 x 11.0 cm) and
+separately submitted gallbladder (8.0 x 4.0 x 1.0 cm).
+
+DIAGNOSIS: p//
+Liver, right lobe, resection: Grade 2 (of 4) hepatocellular
+carcinoma forming a mass (1.8 x 1.5 x 1.0 cm) located 0.6 cm
+from the cauterized margin. The surrounding liver parenchyma
+shows chronic hepatitis consistent with clinical hepatitis B,
+mildly active (grade 2 of 4) with cirrhosis (stage 4/4).
+
+Gallbladder, cholecystectomy: Benign gallbladder mucosa with
+cholelithiasis containing multiple (2) cholesterol stones (0.3
+cm in greatest dimension, each).
+
+PRELIMINARY FROZEN SECTION CONSULTATION:
+
+Liver, right lobe, resection: Grade 2 (of 4) hepatocellular
+carcinoma. History of hepatitis B. Hold over to categorize
+surrounding liver.
+
+UUID:C253E516-129F~4442-8C88-8A132E610E8C
+TCGA-DD-AlEI-DlA-PR Rﬁldlmcll‘lted
+
+| || |||||||||||||||||||||||||||
+”H Illllllllllllllllllllll
+||||||||||l|||||||||||||||
+
+Din nosis Dim
+Nifty
+Primary Tumor Si5
+
+M Disc .
+HIPAA Olsen. m ""V
+
+ 
+
+thHPJ #7:
+
+Punenthy:
+Surgical date:
+
+TISSUE DESCRIPTION:
+
+, _, - A1 A2 A3 B1 B2 B3 B4 B5
+Right lobe liver (765.0 grams, 16.0 x 13.0 x 11.0 cm) and
+separately submitted gallbladder (8.0 x 4.0 X 1.0 cm).
+
+DIAGNOSIS:
+
+Liver, right lobe, resection: Grade 2 (of 4) hepatocellular
+carcinoma forming a mass (1.8 X 1.5 x 1.0 cm) located 0.6 cm
+from the cauterized margin. The surrounding liver parenchyma
+shows chronic hepatitis consistent with clinical hepatitis B,
+mildly active (grade 2 of 4) with cirrhosis (stage 4/4).
+
+Gallbladder, cholecystectomy: Benign gallbladder mucosa with
+cholelithiasis containing multiple (2) cholesterol stones (0.3
+cm in greatest dimension, each).
+
+PRELIMINARY FROZEN SECTION CONSULTATION:
+
+Liver, right lobe, resection: Grade 2 (of 4) hepatocellular
+carcinoma. History of hepatitis B. Hold over to categorize
+surrounding liver.
+
+fat; ct
+
+Liver - Digestive System CAP Approved
+
+Data elements with asterisks are not required for accreditation purposes for
+the Commission on Cancer. These elements may be clinically important.
+
+but are not yet validated or regularly used in patient management.
+Alternatively. the necessary data may not be available to the pathologist
+
+at the time of palhologic assessment of this specimen.
+
+LIVER: Resection
+Patient name: (to be (Iv-identiﬁed)
+Surgical pathology number:
+
+MACROSCOPIC
+Sp imen Type
+_ Right lohectomy
+M Extended right lobectomy
+_ Medial segmentectomy
+M Left lateral segmentectomy
+_ Total left lobectomy
+__ Explanted liver
+__ Other (specify):
+__ Not specified
+
+ocality _ ‘ ‘_ \
+_ Solitary (specify location): 'Y l ‘1 V?!
+W Multiple (specify location):
+Tumor Size 9
+Greatest dimension: LL cm
+*Additional dimensions: Li: x L: cm
+_ Cannot be determined (see Comment)
+MICROSCOPIC
+
+is logic Type
+_ Hepatocellular carcinoma
+__ Fibrolamellar hepatocellular carcinoma variant (specify):
+_ Combined hepatocellular and cholangiocarcinoma
+..__ Cholangiocarcinoma. intrahepatic
+_ Bile duct cystadenocarcinoma
+_ Undifferentiated carcinoma
+
+ 
+
+ 
+
+ 
+
+_ Other (specify):
+_ Carcinoma, type cannot be determined
+Histologic Grade
+
+_ Not applicable
+_ GX: Cannot be assessed
+
+'61: Well differentiated
+_ GII: Moderately differentiated
+_ GIII: Poorly differentiated
+_ GIV: Undifferentiated/anaplastic
+,_.. Other (specify):
+
+ 
+
+KQ’J.
+
+?0d'. MST he]
+
+Pathologic Staging (pTNM)
+Primary Tumor (pT)
+_ pTX: Cannot be assessed
+.p’l ()2 No evidence of primary tumor
+W pT l: Solitary tumor with no vascular invasion
+
+H pTZ: Solitary tumor with vascular invasion or multiple tumors none more than 5 cm
+___. pT3: Multiple tumors more than 5 cm or tumor involving a major branch of the portal
+or hepatic vein(s)
+
+_ pT4: Tumor(s) with direct invasion of adjacent organs other than the gallbladder or
+perforation of visceral peritoneum
+
+Regional Lymph Nodes (pN)
+
+_ pNX: Cannot be assessed
+
+__ pNO: No regional lymph node metastasis
+
+_ le: Regional lymph node metastasis
+
+Specify: Number examined: _
+
+Number involved: _
+
+Dist' 1 Metastasis (pM)
+
+__ pMX: Cannot be assessed
+
+__ le: Distant metastasis
+
+*Specify site(s). if known:
+
+ 
+
+Margins (check all that apply)
+Parenchymal Margin
+
+K annot be assessed
+Uninvolved by invasive carcinoma (w ' (’7)
+Distance of invasive carcinoma from closest margin: mm
+
+Specify margin:
+_ Involved by invasive carcinoma
+
+Bil Duct Margin (Cholangiocarcinoma Only)
+____ Cannot be assessed
+
+__ Uninvolved by invasive carcinoma
+
+*_ Carcinoma in situ absent
+
+ 
+
+* Carcinoma in situ present
+Involved by invasive carcinoma
+Other Margin
+
+Specify margin:
+__._ Cannot be assessed
+
+_ Uninvolved by invasive carcinoma
+_ Involved by invasive carcinoma
+*Venous (Large Vessel) Invasion (V)
+
+ 
+
+* Absent
+Present
+* Indeterminate
+
+*Additional Pathologic Findings (check all that apply)
+*~___ None identified
+*_ Hepatocellular dysplasia
+
+* D ‘ 'Ldysplasia
+:*j(cws/i'ibi~osts
+* Iron overload g ’
+*_3 Hepatitis (specify type): (it M7511 b évbmﬁfg B
+*__ Other (specify): l '
+
+ 
+

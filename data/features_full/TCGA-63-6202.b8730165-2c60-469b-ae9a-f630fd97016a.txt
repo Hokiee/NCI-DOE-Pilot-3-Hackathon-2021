@@ -1,0 +1,117 @@
+ 
+
+ 
+
+ 
+
+ 
+
+A description for each data field can be found in the 'Data description' worksheet (yellow tab).
+
+ 
+
+ 
+
+ 
+
+Sample Sample Sample Site of Tissue Year of Age at Sample Sample Days to Days to Type of Site of Tumour Histology
+Number Type Preparation Sample Collection (yrs) Comments Procedure Diagnosis Procedure Primary Size (cm)
+Collection Date (Histology)
+TUMOUR FF l- 0 17 RESECT RUL 6.00 07
+BUFFY FF l- 11 28 RESECT RUL 6.00 07
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Grade/
+Differentiation
+
+Pathological T
+
+Pathological N
+
+ClinicalM VALCSG Stage Histology Comments
+
+ 
+
+ 
+
+Slide URL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TZNOS
+
+N0
+
+M0
+
+ 
+
+ 
+
+ 
+
+ 
+
+T2,NOS
+
+ 
+
+NO
+
+ 
+
+ 
+
+ 
+
+MO
+
+iﬂ
+
+ 
+
+ 
+

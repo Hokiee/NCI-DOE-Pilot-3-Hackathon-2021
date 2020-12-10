@@ -1,0 +1,178 @@
+  
+
+    
+
+ 
+
+ 
+
+(I Specimen Date/Time:
+
+ 
+
+{-3.3 - 0 ’3 (“ﬂ/5)
+DIVIAG 05:3 ”A 8W“ ”I Wat/ML W “(ml/3)
+N w ,z. lug/M— 8484/3
+(A) FALCIFORM LIGAMENT, BIOPSY: . \ ' .
+Fibroadipose tissue, negative for carcinoma. 5M“ W 451/ I 94/437,
+
+(8) OMENTUM, RESECTION:
+Fibroadipose tissue. negative for carcinoma.
+(C) LEFT TUBE AND OVARY, TUBO-OOPHORECTOMY:
+
+EXTENSIVE LYMPHOVASCULAR INVASION.
+MULTIPLE LEIOMYOMAS INVOLVED BY PAPILLARY SEROUS CARCINOMA.
+CERVIX: MIXED PAPILLARY SEROUS CARCINOMA AND FOCAL CLEAR CELL CARCINOMA INVOLVING
+ENDOCERVIX AND VAGINAL CUFF.
+TUMOR EXTENSIVELY INVOLVES PERICERVICAL SOFT TISSUE WITH FOCAL EXTENSION INTO
+PARAMETRIAL RESECTION MARGIN.
+RIGHT OVARY: HIGH GRADE PAPILLARY SEROUS CARCINOMA.
+RIGHT FALLOPIAN TUBE: HIGH GRADE SEROUS CARCINOMA (SEE COMMENT).
+(E) LEFT PELVIC LYMPH NODE, LYMPHADENECTOMY:
+THREE OUT OF FIVE LYMPH NODES INVOLVED BY METASTATIC CARCINOMA (3/5)
+IGHT PELVIC LYMPH NODES, LYMPHADENECTOMY;
+FOUR OUT OF TEN LYMPH NODES INVOLVED BY METASTATIC CARCINOMA (4/10).
+(G) PARAAORTIC LYMPH NODES, LYMPHADENECTOMY.’
+TEN LYMPH NODES INVOLVED BY METASTATIC CARCINOMA (10/10).
+(H) RIGHT GONADAL VESSEL, EXCISION:
+FOCAL HIGH-GRADE SEROUS PAPILLARY CARCINOMA ADJACENT TO VESSEL WALL. 0.5 CM IN GREATEST
+DIMENSION.
+(I) LEFT COMMON LYMPH NODE, LYMPHADENECTOMY:
+TWO OUT OF THREE LYMPH NODES INVOLVED BY METASTATIC CARCINOMA (2/3).
+
+ 
+
+COMMENT
+
+favored.
+
+UUID:41sureas-67sa-4461-9523-EBAA4A1FBA55
+TCGA-DI-AZQT-Bi
+
+III IIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIt Ed
+III IIIIIIIIIIIIIIIIIII IIIIIIIIIIIIIIIIIIIIIIIIIIIII IIIIIIII
+III IIIIIIIIIIIIIIIIIII IIIIIIIIIIIIIIIIIIIIIII II IIIIIIIII IIII III
+
+  
+ 
+ 
+  
+
+Crltem
+£2120“: Discrepanw
+Primarv Yuma: 5.1: Discrepancy
+HIPAA Discrepancrxm
+Prior Mali‘nancy Histotv
+Dual/Synchronous Wig:
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+SECTION CODE: A1, fibrotic tissue; A2-A5, additional representative sections.
+
+(B) OMENTUM ~ A fragment of fatty soft tissue measuring 30.0 x 16.0 x 1.0 cm. No focal lesions are identiﬁed within the
+specimen. Representative sections are submitted.
+
+SECTION CODE: 81-820, representative sections.
+
+(C) LEFT TUBE, LEFT OVARY - An unilateral salpingo-oophorectomy.
+
+The ovary measures 6.0 x 4.0 x 3.0 cm. Cut surface shows complete replacement of the ovary with a multilobulated,
+glistening yellow tumor with focal white areas.
+
+The fallopian tube measures 7.0 cm in length x 1.0 cm in diameter. The fallopian tube has a small 0.2 cm white nodule.
+Otherwise, the fallopian tube is unremarkable. Sections are submitted as follows.
+
+SECTION CODE: C1-C3, representative sections of ovary for frozen section; C4, representative section of fallopian tube
+with nodule for frozen section; C5-C10, representative sections of ovarian tumor; C11, representative sections of unremarkable
+fallopian tube.
+
+'FS/DX: HIGH-GRADE CARCINOMA WITH CL CELL FEATURES INVOLVING OVARY, FAVOR METASTASIS FROM
+ENDOMETRIUM. .
+
+(D) UTERUS, RIGHT FALLOPIAN TUBE, RIGHT OVARY - A 9.8 x 7.0 cm uterus with attached 4.0 x 4.0 x 3.0 cervix and right
+ovary and fallopian tube which measure 40 x 3.0 x 1.5 cm ovary, 5.0 cm in length and 0.5 cm in diameter fallopian tube. The
+uterus is markedly distorted by multiple nodules. The serosal surface is tan-red, glistening and unremarkable. There is a fungating
+mass protruding from the cervical 05 which is friable in consistency. After being bisected, there is a 3.5 x 3.0 x 0.8 am lesion
+located in the cervical canal protruding through the cervical 05. The third portion of the cervical canal has no grossly identiﬁable
+lesion. The endometrial cavity is distorted by a large nodule which upon sectioning has tan-gray, rubbery and has whorled
+appearance. The endometrium measures 5.0 x 4.0 cm and is ﬁlled by a soft friable hemorrhagic tumor throughout the whole
+endometrial cavity. The right ovary is distorted by multiple nodules. Fallopian tube is grossly unremarkable. There is a small
+portion of vaginal cuff attached to the cervix and is grossly unremarkable.
+
+INK CODE: Cervical margin, vaginal cuff margins are inked black.
+L SECTION CODE: D1, D2, anterior vaginal cuff en face; D3, posterior vaginal cuff, en face; 04-06, lower portion of the
+egg submitted perpendicularly from anterior to left quadrant; D7-D10, cervix anterior to right quadrant; D10-D12 cervix,
+
+pos error to right quadrant; D13-D15, cervix posterior to left quadrant; D16, representative section of the tumor located in the
+
+D23-D25, tumor in the posterior endometrium; D26. D27, remaining parametrium submitted en face; D28, right fallopian tube and
+ovary; D29-D34, representative sections of fibroids. .
+(E) LEFT PELVIC LYMPH NODE - Multiple lymph nodes ranging in diameter from 2.0 cm to 2.9 cm. A 2.1 cm lymph node has a
+possible focus of carcinoma measuring 1.6 cm. Sections are submitted as follows.
+
+SECTION CODE: E1, E2, one lymph node trisected with possible gross tumor; E3, E4, one lymph node bisected; E5,
+
+submitted as follows.
+
+SECTION CODE: F1. F2, one lymph node serially sectioned; F3, four possible lymph nodes; F4, two possible lymph
+nodes; F5, one lymph node bisected; F6, two possible lymph nodes; F7-F11, one lymph node serially sectioned. ‘
+(G) PARAAORTIC LYMPH NODES - An elongated piece of tan-red. rubbery tissue intermixed with adipose-like tissue which
+
+SECTION CODE: G1, one lymph node bisected; G2, one lymph node bisected; 63, one lymph node bisected; G4, one
+ymph node bisected; GS, one lymph node bisected; GG, one lymph node bisected; G7, one lymph node bisected; G8, G9, one
+arge lymph node serially sectioned; GlO-G12. multiple matted lymph nodes.
+
+H) RIGHT GONADAL VESSEL - An unoriented 5.0 cm segment of vessel with attached fatty tissue measuring 2.0 x 5.0 x 2.0
+:m. There is a small focus of firmness adjacent to the vessel and compressing the wall, measuring approximately 0.3 x 0.3 x 2.0
+:m. The entire specimen is submitted.
+
+SECTION CODE: H1. proximal and distal vessel; H2-H8, serial sections.
+
+I) LEFT COMMON LYMPH NODE - An irregular piece of tan-red adipose tissue like tissue with grossly recognizable lymph
+odes. Specimen measures 2.8 x 2.3 x 0.9 cm. The specimen is submitted in toto in two cassettes.
+
+. .5“.
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Specimen Date/Time: f
+
+SECTION CODE: l1. one lymph node bisected; l2, three lymph nodes with adjacent adipose like tissue. I
+
+.19.;
+c 5’” CAL HISTORY
+
+Endometrial cancer
+
+SNOMED CODES
+
+"Some tests reported here may have been developed and performance characteristics determined by l _ These tests have not been
+specifically cleared or approved by the US. Food and Drug Administration.'
+
+Entire report and diagnosis completed by:
+
+------END OF REPORT------
+
+ 
+
+ 
+

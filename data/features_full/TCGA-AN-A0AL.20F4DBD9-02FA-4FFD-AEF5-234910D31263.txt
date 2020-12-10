@@ -1,0 +1,38 @@
+UUID: 26F40309- OIFA- AFFD- AEFS- 234912D3126eBd
+TCGA- AN- AGAL- DIA- PR
+
+I II I III I III IIIII I II IIIIIIIIIIlIII||I||IIII|IIIIIIIIlIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIIIII I||II|III III
+IIIII I I II I I IIIIIIIIIIIIIII III IIIIII I IIIIIIIIIIII IIII III
+
+Case #: DOB ; Sex: Female EthnicityIRace):=
+
+TSS Patient lD:
+
+Cancer Sample
+
+Diagnosis: Breast Cancer Histological description: lnfiltrative ductal carcinoma
+
+Date of Procurement ' l Anatomic Site: Left Breast Tumor location: Primary
+Tissue Specification: Tumor Specimen Matrix: Tissue Specimen Format: OCT
+Container: block Type of Procurement: surgery Grade: 2
+
+T Stage: 4 N Stage: 0 M Stage: 0 Treatment: none
+
+Treatment Details: n/a
+
+Normal Sample
+
+Anatomic Site: Blood Sample Type: Normal Type of Procurement: bIood draw
+Matrix: Blood Specimen Format: frozen Container: tube
+
+Date of Procurement:
+
+”Am. 5
+mam haw/Mm M W 95043
+57/1: W ””5 0503? W
+
+lat/21]"
+
+ 
+

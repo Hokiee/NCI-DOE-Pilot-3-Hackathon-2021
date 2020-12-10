@@ -1,0 +1,53 @@
+TCGA - CJ - 4872
+
+ 
+
+DIAGNOSIS
+(A) RIGHT RADICAL NEPHRECTOMY AND EN BLOCK LYMPH NODES:
+
+RENAL CELL CARCINOMA, CONVENTIONAL (90% CLEAR CELLS, 10% EOSINOPHiLlC
+CELLS), FUHRMAN'S NUCLEAR GRADE 4. (SEE COMMENT)
+TUMOR MEASURES 4.5 CM IN MAXIMUM DIMENSION.
+NO EXTENSION iNTO THE PERINEPHRIC ADiPOSE TISSUE. (SEE COMMENT)
+Vascular and ureteral margins free of tumor.
+One lymph node with lipid granulomas, no tumor present (011).
+
+COMMENT
+The tumor measures 4.0 x 3.0 x 3.0 cm and contains areas with marked
+
+anaplasia; however, these areas are not diagnostic of sarcomatoid
+dedifferentiatlon.
+
+The tumor focally bulges into the renal sinus adipose tissue without
+infiltrative borders.
+
+GROSS DESCRIPTION
+
+(A) RIGHT RADICAL NEPHRECTOMY AND EN BLOCK LYMPH NODES - A radical
+nephrectomy specimen Including the kidney (12.0 x 5.0 x 5.0 cm) with
+
+attached Gerota's fascia (18.0 x 11.0 x 7.0 cm overall). No adrenal
+
+gland is identified.
+
+Located in the middle portion of the kidney is well-circumscribed
+brown-yellow tumor with focai hemorrhage (4.5 x 3.0 x 3.0 cm). No
+necrosis is identified. The tumor is confined to the kidney and
+approaches the renal capsule but the renal capsule stili intact. No
+invasion of the renal sinus or renal vein is Identified. The Gerota‘s
+fascia is free of tumor.
+
+One unremarkable lymph node is identified (2.0 x1.5 x 1.0 cm).
+
+SECTION CODE: 01, vascular and ureteral resection margin; A2-A10,
+tumor with adjacent kidney and renal capsule; A11, A12, tumor with renal
+sinus; A13-A15, one lymph node; A16, Gerota's fascia, en face.—
+
+CLiNlCAL HISTORY
+None given.
+
+SNOMED CODES
+T—71000, [VI-83123
+
+ 
+

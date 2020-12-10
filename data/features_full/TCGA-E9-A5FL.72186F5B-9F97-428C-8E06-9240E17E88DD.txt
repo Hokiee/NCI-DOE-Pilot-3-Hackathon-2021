@@ -1,0 +1,86 @@
+UUID: 72186FSB- 9F97- 428C- 8E06- 9240E17E88DDd
+TCGA— E9- ASFL- BlA- PR
+
+llllllllll|||llllllllllmllllllllllllllllllllllllllllllllllllllllad
+| ||
+
+Gross Description: There is a breast with cystic tumor up to 5.5x4 cm in size. In the fatty tissue there are
+dense hyperemic lymph nodes with lipomatosis.
+
+Microscopic Description: Metaplastic squamous cell carcinoma of the breast. Ten examined lymph
+nodes demonstrated sinus histiocytosis.
+
+lHC-stainings: ER/PR/ Her-Z/neu - negative reactions. Ki-67 - 30%.
+
+Diagnosis Details: Tumor Features: indeterminate, Tumor Extent: T3 tumor size more than 5 cm, Venous
+invasion: Absent, Margins: Absent, Treatment Effect:
+
+Comments: ’FCtD/(S ’5
+Formatted Path Re orts: BREAST TISSUE CHECKLIST
+
+p paramom,me/Z¢Zisj’e U05
+Specimen type: Radical mastectomy 357D/ 3
+
+Specimen size: Not specified BULK @18'3437’“ N05 C50 9
+
+9%) 1/10/15
+Tumor site: Breast
+
+Tumor size: 4 x O x 5.5 cm
+
+Grossly evident lesion: Yes
+
+Histologic type: Metaplastic carcinoma
+
+Histologic grade: Not specified
+
+Tumor extent: Not specified
+
+Lymph nodes: 0/10 positive for metastasis (Axillary 0/10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+
+Nottingham Histologic Score
+
+Tubule formation: Not specified
+
+Nuclear pleomorphism: Not specified
+
+Mitotic count (25x): Not specified
+
+Mitotic count (40x): Not specified
+
+Total Nottingham Score: Score cannot be determined
+
+Evidence of neo-adjuvant treatment: Not specified
+
+Additional pathologic findings: lHC-stainings: ER/PR/ Her-2/neu - negative reactions. Ki-67 - 30%.
+
+Comments: Right
+
+ 
+   
+ 
+   
+
+Criteria
+
+  
+
+Tumor Site
+
+   
+
+HlPAA
+Prior
+
+Cla'”
+
+  
+    
+   
+ 
+
+Ease i:
+Pet-sewer
+

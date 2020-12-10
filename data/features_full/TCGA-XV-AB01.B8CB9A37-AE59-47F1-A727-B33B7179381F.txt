@@ -1,0 +1,91 @@
+Date:
+
+Patient ID:
+
+Age:
+
+Sex:
+
+Clinical Dx:
+Tumor Location:
+Localization:
+Source:
+
+Clark Level (1-5):
+Breslow (mm):
+Tumor:
+
+Normal:
+Metastasis:
+
+Stage (l-lV):
+
+Tumor size (mm x mm):
+
+NeoAdj ImmunoTx:
+
+Pathology Report
+
+F
+Melanoma
+
+Skin
+
+Subclavicular L/N
+Epithelial melanoma
+n/a
+
+n/a
+
+3
+
+O
+
+0
+
+III
+
+4x5
+
+N0
+
+UUID: BBCBSA37- AE59- 47F1- A727- 5333717Rs3eBlFa
+TCGA- XV- ABGI- OSA- PR
+
+llill”"l'llll"l"”l"'ll "lllll'lll'll""l"""
+
+ 
+
+ 
+
+ 
+
+131303
+”WW5 9740/3
+
+5:1: Slime
+Mia/L (15"1‘CZA7/gfja
+9%) 5/151 / ) a;
+
+ 
+
+Crltull Ad //}7/"/
+
+Di Isagno is Dlsu up." '5 No
+”In"! Irv Tumorsite Discrlplncy
+HIPAA Discrepancy
+
+PM rMalIm "‘"CV Hi Iszory —-—
+Du! IIISvnchronous Prim.
+F252 is kink);
+Reviewer Initials
+
+ 
+
+ 
+
+ 
+
+UALIFI I DISQUAUFIED
+ale RwieWed:
+

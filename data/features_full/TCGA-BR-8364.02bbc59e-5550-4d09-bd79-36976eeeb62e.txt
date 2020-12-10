@@ -1,0 +1,68 @@
+—croscopic Description
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Diagnosis Details
+
+ 
+
+Comme Formatted Path Report
+
+nts
+
+ 
+
+STOMACH TISSUE CHECKLIST
+
+Specimen type: Excision of tumor
+
+Tumor site: Fundus
+
+Tumor size: 8 x 6 x 1.7 cm
+
+Tumor features: Ulcerated
+
+Histologic type: Adenocarcinoma, diffuse type
+Histologic grade:
+
+Tumor extent: Adjacent structures (specify) -
+Omentum
+
+Lymph nodes: 3/11 positive for metastasis
+(Intraabdominal 3/11)
+
+Lymphatic invasion: Not specified
+
+Venous invasion: Not specified
+
+Perineural invasion: Not specified
+
+Margins: Not specified
+
+Evidence of neo-adjuvant treatment: Not
+specified
+
+Additional pathologic findings: Not specified
+Comments: None
+
+ 
+
+ 
+
+ID Excision Date Lateralit
+
+y
+_
+

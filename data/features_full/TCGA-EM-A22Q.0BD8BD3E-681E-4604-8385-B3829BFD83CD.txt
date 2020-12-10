@@ -1,0 +1,185 @@
+/CA~0-3
+
+amm‘m‘ mar/1% Emu» 1/wa
+
+Surgical Pathology Consultation Report
+
+ 
+
+Patient
+Name:
+
+MRN:
+DOB:
+Gender: M
+
+HCN:
+Ordering MD:
+
+Copy To:
+
+Service:
+Visit #:
+Location:
+Facility:
+
+ 
+
+Specimenisl Received
+
+1. Lymph-Node: right paratracheal node dissection
+2. Lymph node: Left paratracheal node dissection
+3. Thyroid: Total thyroidectomy stitch Rt. superior polo
+
+Diagnosis
+
+UUID:OBDEBD3E-681E-
+
+9340/3
+8H4: ‘Hufwi‘d, MOS 073.7
+jhr q/ae/n
+Accession #:
+Collected:
+Received:
+Reported:
+
+TCGA- EM-A
+
+4504-5335-533295ruaaco
+
+miiiiminimmmtiriiii'iﬁiiﬁmnnnIiirliiﬁii'iiii“
+
+lll ll
+
+1. No pathological diagnosis: Lymph nodes, 3 (right paratracheal) dissection specimen
+
+2. No pathological diagnosis: Lymph nodes, 3 (left paratracheal) dissection specimen
+
+3. Papillary carcinoma, follicular variant, 5.4 cm, right; focal thyroiditis: Thyroid
+No pathological diagnosis: Lymph nodes, 2, left perithyroidal
+No pathological diagnosis: Lymph node, isthmic
+No pathological diagnosis: Parathyroid, left perithyroidal
+
+- Total thyroidectomy specimen
+
+Synoptlg Data
+
+Procedure:
+Received:
+Specimen Integrity:
+Specimen Size:
+
+Specimen Weight:
+Tumor Focality:
+
+Other:Total thyroidectomy with bilateral paratracheal dissection
+
+Fresh
+Intact
+Right lobe:
+7.0 cm
+
+4.1 cm
+2.5 cm
+Left lobe:
+3.9 cm
+
+2.9 cm
+
+0.9 cm
+Isthmus +/- pyramidal lobe:
+4.0 cm
+
+2.4 cm
+
+0.3 cm
+41.0 g
+Unifocal
+
+--------------- DOMINANTTUMOR--------------
+
+Tumor Laterality:
+Tumor Size:
+
+Right lobe
+Greatest dimension: 5.4cm
+Additional dimension: 4.0 cm
+
+lHlllllllllllllllllllllllllllllllllllll l
+lllllllllllllllllllllllllllllllllllPill'llﬂllﬂl'“:l'l'lllllll'lllll
+
+%,
+
+ 
+
+Additional dimension: 2.4 cm ‘
+Histologic Type: Papillary carcinoma, follicular variant Z’rrfr, Wm M = (002
+
+Follicular architectij‘r'e'"""" W " WT‘M'"
+
+Classical cytomorphology
+
+Histologic Grade: Not applicable
+
+Margins: Margins uninvolved by carcinoma
+
+Tumor Capsule: Totally encapsulated
+
+Tumor Capsular Invasion: Present, extent minimal
+
+Lymph-Vascular Invasion: Not identiﬁed
+
+Perineural Invasion: Not identiﬁed
+
+Extrathyroidal Extension: Not identiﬁed
+
+TNM Descriptors: Not applicable .
+
+Primary Tumor (pT): pT3: Tumor more than 4 cm, limited to thyroid or with minimal
+extrathyroidal extension (eg, extension to sternothyroid muscle or
+perithyroid soft tissues)
+
+Regional Lymph Nodes (pN): pNO: No regional lymph node metastasis
+
+Number of regional lymph nodes examined: 9
+Number of regional lymph nodes involved: 0
+Distant Metastasis (pM): Not applicable
+Additional Pathologic Findings: Thyroiditls, focal (nonspeciﬁc)
+Parathyroid gland(s), within normal limits
+
+*Pathologic Staging is based on AJCC/UICC TNM, 7th Edition
+
+ 
+
+Electronically veriﬁed
+by:
+
+9
+
+Gross Description
+1. The specimen labeled with the patient's name and as "Lymph Node: Right paratracheal node
+
+dissection" consists of a fragment of reddish yellow tissue that measures 1.0 x 0.8 x 0.6 cm.
+1A submitted in toto
+
+2. The specimen labeled with the patient's name and as "Lymph Node: Left paratracheal node dissection"
+consists of 3 pieces of reddish yellow tissue that measures from 0.2 x 0.2 x 0.1to 1.0 x 0.8 x 0.6 cm.
+2A submitted in toto
+
+3. The specimen labeled with the patient's name and as "Thyroid: Total thyroidectomy stitch right superior
+pole" consists of a thyroid gland that is oriented with a stitch and weighs 41.0 g. The right lobe measures
+7.0 cm Sl x 4.1 cm ML x 2.5 cm AP, the left lobe measures 3.9 cm SI x 2.9 cm ML x 0.9 cm AP and the
+isthmus measures 4.0 cm Sl x 2.4 cm ML x 0.3 cm AP. The external surfaces have ﬁbrous adhesions and
+are painted with silver nitrate. No parathyroid glands or lymph nodes are identified grossly. The upper mid
+to lower pole of the right lobe,.contains a well delineated nodule that measures 5.4 cm SI x 4.0 cm ML x
+2.4 cm AP. The remainder of the thyroid tissue is unremarkable. Sections of right lobe nodule and normal
+tissue are stored frozen. The remainder of the specimen is submitted as follows:
+
+3A-S right lobe, superior to inferior
+
+3T-U isthmus
+
+3V-AA left lobe, superior to inferior
+
+ 
+

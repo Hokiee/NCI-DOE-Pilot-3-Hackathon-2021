@@ -1,0 +1,44 @@
+Formatted Path Report
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STOMACH TISSUE CHECKLIST
+
+Specimen type: Gastrectomy
+Tumor site: Stomach
+
+Tumor size: 4.5 x 5 x 1.2 cm
+Tumor features: None specified
+Histologic type: Adenocarcinoma
+Histologic grade: Undifferentiated
+Tumor extent: Adjacent structures
+(specify) - greater omentum
+Lymph nodes: 0/4 positive for
+metastasis (Regional 0/4)
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Perineural invasion: Not specified
+Margins: Not specified
+
+Evidence of neo-adjuvant treatment:
+Not specified
+
+Additional pathologic findings: Not
+specified
+
+Comments: None
+
+ 
+
+ 
+
+ 
+

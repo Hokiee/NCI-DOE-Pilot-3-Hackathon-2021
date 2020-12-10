@@ -1,0 +1,168 @@
+l
+l
+l
+
+Path (First Tumor)
+
+ 
+
+ 
+
+Tumor Site:
+
+ 
+
+IHepatic Flexure Proximal 3
+
+ 
+
+ 
+
+Date of Cancer Sample Procurement:
+
+r————-——_——_—
+
+ 
+
+ 
+
+Histology:
+
+ 
+
+[Adenocarcinoma
+
+ﬂ
+
+ 
+
+ 
+
+Description of other histology:
+
+r.___________
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UUID:4SSEEF9A-F77A-4FOD-A57S-CBS2AABS E93
+TCGA-DM-AZSK-GlA- 4
+
+PR Redacted
+lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+llllllllllllllll llllll l llll l lllllllll I ll ll
+lllllllllllllllllllllllllllllllllllllllllllll'llllﬂl'lﬂll'l'lll'lllll:
+
+Grade: lWeII Differentiated 3
+Mucinous: C No 5 Yes (23:2; (‘ Unknown
+Signet Ring Feature: 5 No C Yes (23:25 P Unknown
+Histologic Heterogeneity: @ No (‘ Yes (‘ Unknown
+Host Response: I 3
+Crohn's like reaction F None (3 Yes F Unknown
+Plasma cell rich stroma F No C Yes F Unknown
+. . F Expansile 7
+Growth Pattern: 5 Expansrle F Invaswe and invasive C Unknown
+Inﬂammatory Bowel Disease (‘ No (‘ Yes (6 Unknown
+Angiolymphatic Invasion: (0‘ No C Yes (‘ Unknown
+Mutator Phenotype: F No 5 Yes r Unknown
+Number of Slides [7——
+F Yes
+Garland Necrosis present: (3 No C Yes (Focal) F Unknown
+TlL Cells / HPF F__+
+Pathologist Comment: r__—___
+/CA «a , 5
+pm WW,WM w; Moro/3
+COCF ,
+who: Mme WW W} p {la/ll
+
+ 
+   
+  
+ 
+ 
+
+_niagrcsisgsuep.my
+
+-_._.._ _
+Tumor Sltn: Di 1:!
+
+   
+ 
+ 
+
+'llerA
+r im
+
+ 
+
+ 
+

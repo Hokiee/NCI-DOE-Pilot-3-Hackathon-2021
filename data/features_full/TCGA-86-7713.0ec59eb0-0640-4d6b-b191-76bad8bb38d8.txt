@@ -1,0 +1,77 @@
+TCGA Pathology Reports
+—
+
+Asterand Case ID Open Clinica TCGA Gross Microsc Diagnos
+Subject ID Descript opic is
+
+ion Descript Details
+ion
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Formatted Path Report
+
+ 
+
+LUNG TISSUE CHECKLIST
+
+Specimen type: Lobectomy
+Tumor site: Lung
+
+Tumor size: 6 x 6 x 6 cm
+Histologic type:
+Adenocarcinoma
+
+Histologic grade: Moderately
+differentiated
+
+Tumor extent: Not specified
+Other tumor nodules: Not
+specified
+
+Lymph nodes: 0/1 positive for
+metastasis (Regional 0/1)
+Lymphatic invasion: Not
+specified
+
+Venous invasion: Not specified
+Margins: Not specified
+Evidence of neo-adjuvant
+treatment: Not specified
+Additional pathologic findings:
+Not specified
+
+Comments: None
+
+ 
+
+ 
+
+Date of Procurement
+
+ 
+
+ 
+
+ 
+
+ 
+

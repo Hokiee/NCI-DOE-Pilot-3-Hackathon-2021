@@ -1,0 +1,257 @@
+SURGICAL PATHOLOGY
+
+Case Number:-
+
+Surgical Pathology Report
+Diagnosis:
+A: Anus and rectum, abdominal perineal resection
+
+Tumor Histologic Type: Colorectal adenocarcinoma
+
+Histologic Grade: moderately differentiated
+
+Depth of Invasion: through muscularis propria and into peri-rectal soft tissues (A29)
+Lymphatic Invasion: not identified
+
+Venous Invasion: not identified
+
+Perineural invasion: not identified
+
+Margins:
+
+Proximal margin: negative (4 cm)
+
+Distal margin: negative (4.2 cm)
+
+Circumferential (radial) margin (rectal tumors only):
+
+- Carcinoma is 1 mm from right perirectal soft tissue margin (FSA1)
+
+- Carcinoma is 5 mm from left perirectal soft tissue margin (FSA2)
+
+- Carcinoma is 3 mm from the anterior perirectal soft tissue margin (FSA3)
+
+- Posterior soft tissue and bone margin is negative
+
+Distance of carcinoma from closest margin (specify): 1 mm to the right perirectal soft tissue margin (block FSA1)
+
+Regional lymph nodes:
+Total number with metastasis: 0
+Total number examined: 11
+
+Additional pathologic findings: none
+
+AJCC PATHOLOGIC TNM STAGE: ypT3 pNO
+Note: This pathologic stage assessment is based on information available at the time of this report, and is subject to change pending
+clinical review and additional information.
+
+B: Soft tissue, left anterior pelvic sidewall margin, biopsy
+- Fibroadipose tissue, negative for carcinoma.
+
+C: Small bowel and skin, resection
+
+- Benign skin with ulceration, dense dermal sclerosis, fistula formation, and adherent segment of small bowel with foreign body giant
+cell reaction and embedded foreign polarizable material (surgical mesh).
+
+- Negative for carcinoma.
+
+D: Colon, transverse, partial resection
+
+- Benign segment of colon with serositis, serosal adhesions, foreign body giant cell reaction, and embedded foreign polarizable
+material.
+
+- Negative for carcinoma.
+
+E: Small bowel, jejunum, partial resection
+- Small bowel segment with acute and chronic serositis and serosal adhesions.
+
+- Negative for carcinoma.
+
+Comment:
+
+This case was delayed in order to complete the lymph node dissection, which required re-examination of the gross specimen after
+tissue digestion with Dissect-Aid.
+
+Intraoperative Consult Diagnosis:
+An intraoperative consultation was requested in by.
+
+FSA1: Right pelvic sidewall margin, biopsy
+- Margin negative.
+
+FSA2: Left pelvic sidewall margin, biopsy
+- Margin negative.
+
+FSA3: Anterior pelvic sidewall margin, biopsy
+
+- Margin negative.
+
+Frozen Section Pathologist:
+
+Clinical History:
+with rectal adenocarcinoma, previous abdominal surgeries and hernia repair, and likely entero-cutaneous fistula.
+
+Gross Description:
+Received are five appropriately labeled containers.
+
+Container A is additionally labeled "anus/rectum".
+Specimen fixation: formalin
+Parts of bowel received: Colon/distal rectum, anus, perianal skin, pelvic sidewall, posterior bone (sacral or coccyx), perirectal fat.
+
+Specimen dimensions: Superior inferior 15 cm, lateral to lateral 11 cm and anterior posterior 5 cm. The specimen came with the
+rectum open from the frozen room.
+
+Orientation: Perirectal soft tissues are inked as follows: right=b|ue, left=black, bone=green, posterior soft tissue above and below
+bone=also green, and anterior=red.
+
+Tumor location: At dentate line and proximal to it.
+
+Gross appearance of tumor: Bosselated tan surface, white/tan and firm on cross section, infiltrative borders.
+
+Tumor dimensions: 5.5 x 5 x 2 cm
+
+Gross depth of invasion: Tumor grossly involves perirectal soft tissue posteriorly and may involve bone present in the specimen.
+Gross evidence of perforation through visceral peritoneum: no
+
+Luminal obstruction: partial
+
+Bowel circumference at tumor site: 7.5 cm after fixation
+
+Gross distance of tumor from margins: 4.2 cm to distal margin and 4 cm to proximal margin
+
+Lymph nodes: per block summary
+
+Tissue submitted for special investigation: yes
+
+Digital photograph taken: no
+Block Summary:
+
+A1 - distal soft tissue margin, anterior, en face
+
+A2 - distal soft tissue margin, posterior, en face
+
+A3 - distal soft tissue margin, right, en face
+
+A4 - distal soft tissue margin, left, en face
+
+A5 - anterior soft tissue margin, en face, midway
+
+A6 - posterior soft tissue margin, en face, midway, above bone
+A7 - right pelvic sidewall soft tissue margin, en face, midway
+A8 - left pelvic sidewall soft tissue margin, en face, midway
+A9 - superior soft tissue margin, en face
+
+A10 - colonic resection margin, en face
+
+A11 - tumor, full thickness cross section
+
+A12-A13 - tumor, full thickness cross section, bisected
+
+A14 - interface of tumor with normal colonic mucosa
+
+A15 - tumor at left posterior perirectal soft tissue margin (black ink), perpendicular sections
+A15 - dentate line
+
+A17 - anal skin
+
+A18 - three lymph node candidates
+
+A19 - one lymph node candidate
+
+A20 - two lymph node candidates
+
+A21 - two lymph node candidates
+
+A22 - one lymph node candidate
+
+A23 - two lymph node candidates
+
+A24 - four lymph node candidates
+
+A25 - two lymph node candidates
+
+A25 - superior bone margin, en face, status post decal
+
+A27 - inferior bone margin, en face, status post decal
+
+A28 - posterior margin soft tissue margin, perpendicular section
+A29-A30 - tumor at bone, status post decal, bisected slice
+A31-A33 additional lymph node candidates
+
+A34 - one additional lymph node candidate, bisected
+A35-A38 - additional lymph node candidates
+
+Container B is additionally labeled "left anterior pelvic sidewall margin". The container holds one unoriented yellow-tan soft tissue
+fragment measuring 4 x 1.8 x 1.1 cm. The specimen is totally submitted in B1-B3,-
+
+Container C is additionally labeled "small bowel". The container holds a tortuous segment of bowel with attached adipose tissue and
+an ellipse of skin adherent to the bowel wall. The specimen is not oriented as to distal and proximal ends. Overall fragment
+measurements are 15 x 17 x 7 cm. The length of bowel measures approximately 22 cm. The skin ellipse measures 9 x 5 cm. There
+
+is an ulcer with an overlying scab present on the skin ellipse measuring 0.5 x 0.5 cm. The abdominal wall feels very firm and on cross
+section it reveals a synthetic mesh in the wall likely from previous hernia repair. A fistula tract to the skin surface is also identified. At
+one of the ends the bowel lumen is greatly narrowed with lumen circumference of 3.5 cm. Sectioning through this narrowed bowel
+segment reveals a firm nodule on the serosal side of the bowel wall.
+
+A firm spherical mass is present in the pericolonic soft tissue close to the ellipse of skin on the specimen measuring 3.5 x 3.5 x 3 cm
+with intact serosal covering, inked red. Sectioning through the mass reveals what appears to be a fragment of the intestine walled
+off from the rest of the bowel and encased in gelatinous material. Surgical staples are also found suggesting that this was sequelae
+of surgical manipulation.
+
+The bowel mucosa is pink tan and unremarkable.
+
+Block Summary:
+
+C1-C2 - undesignated bowel resection margin, en face
+
+C3-C4 - representative sections through the narrowed bowel segment
+C5-C7 - representative sections of the walled off wad of intestine
+
+C8-C10 - en face margins of the skin ellipse, unoriented
+C11 - interface of the node and skin
+
+C12 - cross sections of the ulcerated lesion in the skin
+C13 - abdominal wall mesh
+
+C14 - cross section of bowel from an adhesed area
+C15-C15- representative cross sections of bowel
+
+Container D is additionally labeled "transverse colon". The container holds an unoriented fragment of bowel measuring 5.5 cm in
+length and 5.5 cm in the luminal circumference. The mucosa is unremarkable, the serosal surface has many lysed adhesions.
+Sectioning through the bowel wall reveals areas of firmness with whitish streaks that may represent mural calcifications.
+
+Block Summary:
+
+D1-D2 - bowel ends, unoriented
+
+D3 - representative section of bowel
+
+D4 - representative section of firm bowel wall, status post decal
+
+Container E is additionally labeled "jejunum". The container holds an unoriented fragment of bowel with pink-tan unremarkable
+mucosa and multiple lysed adhesions on the serosal surface. The length of the specimen is 38 cm. Several areas of narrowing are
+present with luminal circumference measuring 5 cm in one area and 3.4 cm in another area. There are staples embedded in the
+bowel wall with fibrous adhesions covering them suggesting that these are remnants of a previous surgery.
+
+E1-E2 - bowel ends, unoriented
+
+E3 - representative section through a narrowed area
+
+E4 - representative section through another narrowed area
+E5-E7 - representative sections of bowel
+
+Grossing Pathologist:
+
+Light Microscopy:
+
+Light microscopic examination is performed by. Sections of the colo-rectum show a moderately-differentiated adenocarcinoma
+widely invading muscularis propria with a pushing border, and with focal invasion into perirectal soft tissue (A29). Lymphovascular,
+venous, or perineural invasion is not identified. Tumor approaches multiple perirectal soft tissue margins as demonstrated in
+perpendicular margin sections taken at the time of intraoperative evaluation.
+
+Signature
+
+Resident Physician:
+
+Attending Pathologist: I have personally conducted the evaluation of the above specimens and have rendered the above
+diagnosis(es).
+

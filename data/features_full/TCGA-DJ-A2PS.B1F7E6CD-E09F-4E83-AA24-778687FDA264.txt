@@ -1,0 +1,223 @@
+ 
+
+Date of Procedure:
+
+Date of Receipt:
+- ' Date of Report:
+" Account #:
+Billing Type: lNPATlENT
+Additional Copy to:
+
+ 
+
+Clinical Diagnosis‘8t History:
+Papillary thyroid cancer.
+
+Specimens Submitted:
+
+1: Right para~tracheal tissue; biopsy
+
+2: Right superior mediastinal tissue; biopsy
+3: Thyroid. total thyroidectomy
+
+4: Delphian lymph node; biopsy
+
+ 
+
+5:"
+
+DIAGNOSIS' UUID: 81F7E6CD- EBSF- 4E83- AA24- 778687FDA26e4d
+
+1.
+
+2.
+
+3.
+
+TCGA- DJ- A2PS- 01A- PR
+
+IIllIIIlIllIlIIlIIlIIlIIllIIIlIIIIlllIIllIlIIlllIIIIIIIIlIelIlIlIIlIMI
+
+llIlIIlIllIIlIlIIlllIIIllIIlIll‘IllIlIllIIIlIlIlI IlIllI lllIIlI ~
+Right swam, New um; MW llllllIllllllllllllllllllllllll IIllllllllllllllllllllllll
+Lymph 'Node Dissection:
+
+Metastatic papillary thyroid carcinoma consisting of a few psammoma bodies.
+Number of lymph nodes examined: 1
+Number of lymph nodes with metastatic disease: 1
+Size of the largest lymph node involved by tumor: 0.2cm.
+Extranodal extension is not identiﬁed
+Comment: The psammoma bodies diagnostic of carcinoma were not present on the frozen section slide.
+
+Right para-tracheal tissue; biopsy: ll
+- Benign ﬁbroadipose tissue. I
+
+ 
+
+Thyroid, total thyroidectomy:
+Tumor Type:
+
+Multlcentric papillary carcinoma, classical , tall and microcarclnoma variants.
+
+Mitotic Activity:
+Not identiﬁed
+
+Tumor Necrosis: / L A ’ 0 I 3
+
+, . A gum/5
+Not ldentrﬁed d [,0 ”19’" II M? M11
+
+3 7
+Other Tumor Features: 5 h : Wet W5 0 7
+Psammoma bodies
+
+a I II
+Tumor Location: 3/ /
+Left lobe
+Right lobe
+isthmus
+
+Tumor Size:
+Greatest diameter is 1.1 cm.
+, for the classical type, tall cell (0.3 cm), microcarcinoma (0.25 and 0.35 cm)
+
+Tumor Encapsulation:
+
+Page 1 of3
+
+The classical type is encapsulated, the other foci are unencapsulated
+
+Capsular invasion:
+Extensive invasion
+of tumor capsule by the classical type.
+
+Blood Vessel invasion:
+Not identiﬁed
+
+Extrathyroid Extension:
+Very focal extra~thyroid extension into adipose tissue by the isthmic microcarcinoma
+
+Surgical Margins:
+Free of tumor
+
+Non-Neoplastic Thyroid:
+Exhibits chronic lymphocytic thyroidltis
+
+Parathyroid Glands: "'~ "
+One intrathyroldal parathyroid involved by carcinoma
+
+Lymph Nodes:
+One benign lymph node (0/1)
+
+ 
+
+4. Delphian lymph node; biopsy:
+Lymph Node Dissection:
+' Benign lymph nodes
+Number of lymph nodes examined: 2
+
+ 
+
+l ATI'EST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL). AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT. .
+
+Report maimur"
+
+ 
+
+Gross Description:
+
+‘— -»4 .. w ..
+amann-
+
+1)The specimen is received fresh for frozen section consultation labeled "Right para~tracheal tissue". and consists of three
+fragments of yellow/pink soft tissue measuring 1.0 x 0.6. x 0.3 cm in aggregate. The specimen is entirely submitted for frozen
+section diagnosis. - . H _. ' ' ' - ‘ '
+
+Summary sections:
+FSC — frozen section control
+
+ 
+
+r.
+
+2) The specimen is received fresh for frozen section consultation labeled "Right superior mediastinal tissue", and consists of fatty
+yellow soft tissue measuring 1.0 x10 x 0.3 cm. The specimen is entirely submitted for frozen section diagnosis.
+
+Summary sections:
+FSC - frozen section control
+
+Wow-1-
+
+3) The specimen is received fresh. labeled "total thyroidectomy stitch marks right lobe of thyroid” and consists of a thyroid weighing
+10.05 g. The right lobe measures 4.0 x 2.2 x 1.1 cm. the left lobe measures 3.8 x 2.5 x 0.8 cm and the isthmus measures 1.0 x 0.8
+
+ 
+
+Page 2 of 3
+
+x 0.3 cm. There is a 2.5 x 0.8 x 0.5 cm portion of skeletal muscle attached to the right lower lobe. The external surface is covered
+by a thin ﬁbrous capsule. The posterior surface of the specimen is inked black, and the anterior is inked blue. Sectioning reveals a
+1.1 x 0.8 x 0.7 cm white solid nodule in the right lower lobe (N1), and a 0.3 cm white solid nodule in left mid lobe (N2). The
+remaining thyroid parenchyma is red tan and beefy. Representative sections of the specimen are submitted for TPS. The
+remaining tissue is serially sectioned and entirely submitted.
+
+Summary of sections:
+
+N1 - nodule in the right lobe
+
+N2 - nodule in the leftlobe
+
+RL - right lobe
+
+LL ~ left lobe
+
+is — isthmus and skeletal muscle
+
+4) The specimen is received in formalin. labeled "Delphian lymph node" and consists of single fatty lymph node measuring 0.5 x
+0.4 x 0.3 cm. Entirely submitted.
+
+Summary of sections:
+LN — lymph node
+
+Summary of Sections:
+Part 1: Right para-tracheal tissue; biopsy
+
+Block Sect. Site PCs
+1 FSC 3
+
+Part 2: Right superior mediastlnal tissue; biopsy
+
+Block Sect. Site P03
+1 FSC 1
+
+Part 3: Thyroid, total thyroidectomy
+
+Block Sect. Site PCs
+1 iS 4
+
+2 LL 4
+
+2 N1 3
+
+1 N2 2
+
+2 RL 4
+Part 4: Delphian lymph node; biopsy
+Block Sect. Site PC:
+
+1 LN 1
+
+Intraoperative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample examined at the time of the lntraoperative consultation.
+
+1. Frozen Section Diagnosis: Right para-tracheal tissue (fs): Benign
+Permanent Diagnosis: Same
+
+2. Frozen Section Diagnosis: Right superior medlastinal tissue (ts): Benign "
+Permanent Diagnosis: See ﬁnal
+
+ 
+
+Page 3 of 3 END OF REPORT
+

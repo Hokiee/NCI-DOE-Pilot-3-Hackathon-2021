@@ -1,0 +1,170 @@
+UUID: EE821F76- OGCF- 4781-3341: 3FAA1
+TCGA- SN- -A84W-6 61A A-P aERGDeMIEa
+
+Illlllll|||IllIIIIIIIlllllllllllllllllllllll
+SURGICAL PATHOLOGY llH IIIllllllllllllllllllllllllllllllIllllllllilllilliiiillilﬁrlﬂﬁfund
+
+I“ ”llllIIIIIIIIIIIIIIIHHHHllllllllllllllllllllllllillllilll
+
+Accession #: Collected: ‘ \ Received:
+
+PATHOLOGIC DIAGNOSIS
+
+TESTICLE, LEFT, RADICAL ORCHIECTOMY:
+
+- MIXED GERM CELL TUMOR
+
+- CLASSIC SEMINOMA 80%, MATURE TERATOMA 10%, EMBRYONAL
+CARCINOMA 5%, YOLK SAC TUMOR 5%
+
+- 4.7 CM IN THE LARGEST DIMENSION
+
+- INVASION INTO TUNICA VAGINALIS
+
+- NO LYMPHOVASCULAR OR PERINEURAL INVASION
+
+- MARGIN FREE
+
+- INTRATUBULAR GERM CELL TUMOR
+
+College of American Pathologist Synoptic Report:
+
+Specimen type: Radical orchiectomy Serum tumor
+
+markers
+
+Specimen laterality: Left HCG: 21
+
+Tumor size (cm): 4.7 cm in the largest dimension LDH: 133
+
+Macroscopic extent of tumor: Conﬁned to the testis AF P:
+
+6.5
+
+Microscopic tumor extension: Invasion into tunica vaginalis
+
+Histologic type: Seminoma, classic type; mature teratoma,
+
+embryonal carcinoma and yolk sac tumor Ids?) ~O~ 5
+
+Lymphovascular invasion: Not seen )4: . i (gm (140 M 9&85)&
+
+Primary tumor (T): pT2 by} _ “:8
+
+Lymph node (N): NX slit; “,5; 0(0qu
+Distant metastasis (M): MX I I25 craggy
+Stage grouping: Stage 18 {71,013,111—
+
+Site of distant metastasis: Not known Q43 ll ’29) 13>
+Surgical margins: Free
+
+Comment: The ﬁndings were communicated via secure email with and
+
+at on ‘
+
+Staff Pathologist
+
+Pertinent Clinical Information
+History of left testicular mass.
+
+Gross Description
+
+Specimen Material: Left testicular mass.
+
+Received fresh labeled "LEFT TESTICULAR MASS“ is a testis (46 grams, 4.5 x
+4.0 x 3.0 cm) with attached spermatic cord (11.0 x 1.0 cm).
+
+The tunica vaginalis and lower spermatic cord are inked blue, and the testis
+is bisected to show two masses in the inferior pole. The larger mass (3.0 x
+2.0 x 2.0 cm) is tan-white, friable, and focally hemorrhagic, with a bulging
+cut surface. The other mass (1.7 x 1.1 x 0.7 cm) has a tan-yellow, focally
+erythematous, solid cut surface. Both masses are well circumscribed and
+noncapsulated, and both appear conﬁned to the testis. Both masses abut the
+tunica albuginea. A third possible mass (0.7 x 0.5 x 0.5 cm) is identiﬁed
+within the testicular parenchyma of the mid-superior pole. This third mass
+
+is located 1.1 cm from the nearest tunica albuginea, 1.7 cm from the
+epididymis and 12.0 cm from the spermatic cord margin (The largest mass is
+located 14.0 cm from the margin. The other inferior pole mass is located
+13.0 cm from the margin). The remaining testicular parenchyma displays two
+foci of erythema in the superior pole which average 0.7 cm in greatest
+dimension. No other lesions are seen.
+
+Representative sections are submitted:
+
+1 - spermatic cord margin
+
+2 - mid sperrnatic cord
+
+3 - lower spennatic cord
+
+4-5 - larger inferior pole mass to tunica vaginalis
+6 - smaller inferior pole mass to tunica albuginea
+7 - mid—superior pole mass to tunica albuginea
+
+8 - grossly uninvolved testis and epididymis
+
+Additional sections: 9-13 - tumor
+
+Pathology Resident ‘
+
+Microscopic Description
+
+c-Kit highlights the classic seminoma. Weak positivity is seen in the
+embryonal carcinoma.
+
+Consult: concurs
+
+The staff pathologist listed below has reviewed this case.
+
+Pathology Resident .
+
+”Electronically Signed Out** 8“) T35, 4“ “MW? 1"” M“)
+Mia (Ma 5'03 Mk :w 4' 57%
+
+Staff Pathologist ”in *W- [5%
+
+Yes
+
+ 
+
+ 
+
+ 
+
+TCGA Pathoiogic Qiagnosis Discrepancy Form 433$ IE
+
+ 
+
+ 
+
+atria; 'suisjé'ct' ,
+ID: ; i
+Study/Site: “l'CGA'i'esticular Germ Cell Tumors » (Testicular Germ 3Age: N/Aé
+Ceil 'liimors) g
+; l
+Event: PathDiscrepancy EBate of l
+(Birth: i
+doterviewer: :Sex: M ‘
+Tumor Identiﬁer Provided on Initial Case Quality ovide the tumor identiﬁer documented on the initial case quality control form
+Control Form for this case.
+Pathologic Diagnosis CLASSIC SEMINOMA 80%, MATURE TERATOMA Provide the diagnosis] histologic subtype(s) documented on the initial
+Provided an Initial 10%, EMBRYONAL CARCINOMA 5%, YOLK SAC pathology report for this case. If the histology For this case is mixed,
+Pathology Report TUMOR 5% provide all listed subtypes.
+Histologic features of the sample provided for MATURE TERATOMA 20%, Provide the histologic features selected on the TCGA Case Quality
+TCGA, as reﬂected on the CQCF YOLK SAC TUMOR 80% Control Form completed for this case.
+Discrepancy between Pathology Report and Case Quality Control Form
+Provide the reason for the discrepancy The tissue collected for research Provide a reason describing why the diagnosis on the initial
+between the pathology report and the was taken from an area that was pathology report for this case is not consistent with the diagnosis
+TCGA Case Quality Control Form primarily Yolk Sac Tumor selected on the TCGA Case Quality Control Form,
+Name of TSS Reviewing Pathologist or Biorepository Provide the name of the pathologist who reviewed this case for
+Director TCGA.
+
+ 
+
+ 
+
+ 
+
+ 
+

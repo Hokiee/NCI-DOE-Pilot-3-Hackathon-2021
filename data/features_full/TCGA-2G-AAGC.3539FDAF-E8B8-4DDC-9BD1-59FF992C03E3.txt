@@ -1,0 +1,183 @@
+ 
+
+MV\
+
+, ﬂ
+UUID:3531mm:-E898-4001C-9301-59FF992C0eB§3cted
+
+||l|||||||l|||||Il|lll||ll|llllllllllllllllllllllllllllll||||||
+
+ll
+lll‘lllllllll‘l‘lllll'lll‘ll‘l‘ll‘ll'llllllll'llllll‘llnu
+
+ 
+
+Concerning
+
+Summary pathology report
+
+Department of Pathology
+
+Direct dial
+
+Mobile:
+
+lntemal postal address
+
+E-mall
+
+Date
+Postal address
+Street address
+
+Left orchidectomy; nonsemlnoma (MT 70%, EC 15%, SE 10%, ChC >4%, YST <1%, in
+addition scattered trophoblastic giant cells in EC component); diameter 2 cm; tumor conﬁned to
+
+testis; angio-invasion present; no invasion of rete testis.
+
+Date of procurement (= date of orchidectomy):
+
+pathologist
+
+professor of pathology
+
+WWW W705,
+Mame 90 ,
+I0 r;
+
+by”: no
+
+164D ,0 - :3
+“Mali/1L7 0mm adj-4L iii/ms?
+
+54/5» @LjCc/Um Hbf)
+"Vb 3/ 77/40
+
+40% 6/5
+(651 a?
+
+ 
+
+ 
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+V4.00
+
+ 
+
+ 
+
+ 
+
+ 
+
+W The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+
+documented on the initial pathology report for a case submitted for 'l‘CGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (T 88): 1‘88 Identiﬁer: TSS Unique Patient identiﬁer:
+
+Completed By (Interviewer Name on OpenCIinica): Completed Date: _ _ u t- -
+
+lﬁagnosis information
+
+# Data Element Entry Alternatives Working Instructions
+’ . . CT: SE (10%) + EC (15%) I MT (70%) I Provide the diagnosis/ histologic subtype(s) documented on
+Pathologlc Diagnosrs h % i; the initial pathology report for this case. If the histology for
+1 Provided on lnitial C C (>4 ) ' YST (<1 ) this case is mixed, provide all listed subtypes.
+Pathology Report
+. . I Provide the histologic features selected on the TCGA Case
+MT 7 % , EC % , T 1 95 .
+$St010gl: feat“??? 3f plus IT ( O ) (2 0 ) YS ( 0 ) Quality Control Form completed for this case.
+8 samp e provr e
+2
+
+for TCGA, as reﬂected
+on the CQCF.
+
+Discrepancy between Pathology Report and Case Quality Control Form
+
+3 Provide the reason for Due to the histological heterogeneous Provide a reason describing why the diagnosis on the initial
+. . . _ . . th pathology report for this case is not consistent with the
+22:53:35,223ng ::::::::::::o:f02°:h:e:::::::nt 6 WWW
+I'EDOI‘t and the TCGA elements can and is in fact: expected
+C359 Quality Control to differ between the FFPE and frozen
+Form. samples of the same case .
+However , the components are monoclonal
+in origin .
+Name of TSS Reviewing Provide the name of the pathologist who reviewed this case
+4 Pathologist or f°r TCGA'
+
+ 
+
+ 
+
+Biorepository Director
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled.
+
+ 
+
+TSS Reviewing Pathologist or Biorepository Director
+
+ 
+
+Date
+
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled. The Attending Pathologist or the
+Department Chairman has been Informed or is aware of the above discrepancy in diagnoses.
+
+ 
+
+Principal Investigator Signature
+
+Date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

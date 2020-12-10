@@ -1,0 +1,138 @@
+ 
+
+REPORT DATE:
+l
+
+BIRTHDATE:
+
+PROCEDURE: SPDX
+
+PROCEDURE: SPHS
+
+PROCEDURE: SPGD
+
+PREVIOUS DIAGNOSIS INQUIRY
+
+PAGE #: 4
+SEX: F
+ADM DATE:
+
+ 
+
+OPER DATE: LCD-O {5
+
+W,W
+
+?I7OI.5
+
+(i) Uterus, excision: focal residual adenocarcinoma in-situ of endometrium. I: . z . $12.0
+Adenomatous hyperplasia of endometrium. Squamous metaplasia of cervix. :5. '
+
+(2) Ovaries and fallopian tubes, excision: tube-ovarian adhesions. 9L.) 3']ﬂ’//J
+
+Follicular cysts.
+
+(3) Right interiliac and external iliac lymph nodes, excision: four lymph
+nodes. all negative for neoplasm.
+
+UUID: 8CE9741B- 9210- 4315- 97FE- E61722535975
+TCGA- KR- A7K7- 91A- PR
+
+Code: Service: aCtEd
+III II II I III I II I IIIII II IIIIIII I IIIIIIIIIIIIIIIIIIII I IIIIIII III III III
+
+‘5‘ 23209 III IIIIIII IIIIIIIII I I IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+III IIIIIIIIII I II II IIII II IIIIIIIIIIIIIIIIIII IIIIII III
+
+M-TZODO M-72420 M-81403 T-82000
+
+*********i******l*****
+
+OPER DATE:
+
+History with mass in left hepatic lobe. Tissue Submitted: Left lateral segment
+liver.
+
+1. "Left lateral segment of liver” Received in formalin in an extra large
+container is a 2040 gram the lobe of liver designated left and is 20 x B x 10
+cm. Extending from the anterior aspect is a protuberant partially encapsulated
+massive lesion, 14 x 13 x 10.2 cm. Capsule surrounding the liver segment is
+tan and focally nodular. The margin of resection is inked blue. Cut surface of
+the liver is a tan-brown nodular tissue. It is remarkable for the
+aforementioned mass that has a hemorrhagic necrotic red-tan softened cut
+surface with bright focal areas of fat necrosis. A central yellow-gray scar is
+identified. The tumor is 2.2 cm away from the margin of resection. it extends
+to the capsule and appears to press into the attached liver parenchvma. No
+other lesions are identified. Photographs have been taken.
+
+1A. Tumor to margin of resection.
+
+18. Tumor to liver and capsule.
+
+18. Tumor to necrotic area.
+
+iD. Possible viable tumor to liver.
+
+15. Tumor to capsule.
+
+1F. Normal liver.
+
+ 
+
+REPORT DATE:
+NAME:
+BIRTHDATE:
+
+PROCEDURE: SPMI
+
+PROCEDURE: SPDX
+
+PREVIOUS DIAGNOSIS INQUIRY
+
+PAGE #:
+SEX: F
+ADM DATE:
+
+ 
+
+OPER DATE:
+
+LIVER: HEPATOCELLULAR CARCINOMA
+HAS THE TUMOR PREVIOUSLY TREATEDT: No
+TUMOR TYPE: Ordinary
+SINGLE ON MULTIPLE MASSES: Single
+MAXIMUM DIAMETER 0F LARGEST MASS: 14 cm
+ARE THE MARGINS OF RESECTION FREE OF TUMOR?: Yes
+VASCULAR INVASION7: Yes
+INVASION THROUGH THE CAPSULE TO THE SEROSAL SURFACE?:
+LYMPH NODE METASTASES?: Unknown
+DISTANT METASTASES?: Unknown
+15 THE LIVER CIRRHOTIC?: Yes
+
+p12 NX
+
+VERIFIED BY:
+
+No
+
+1. Left Lateral segment of liver, excision: Nepatocellular carcinoma (14cm),
+with vascular invasion. Margins free. Please see template for full details.
+
+Background liver with cirrhosis and steatohepatitis.
+
+I, the signing staff pathologist, have personally
+
+examined and interpreted the slides from this case‘
+
+Code:
+
+criteria
+Diagnosls Discrepanr
+Primary Tumor Site Discrepancy
+
+ 
+
+ 
+
+ 
+

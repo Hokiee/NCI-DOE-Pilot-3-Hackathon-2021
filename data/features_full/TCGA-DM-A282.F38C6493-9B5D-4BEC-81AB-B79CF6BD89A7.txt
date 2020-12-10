@@ -1,0 +1,152 @@
+l Path (First Tumor)
+
+ 
+
+ 
+
+Tumor Site:
+
+ 
+
+[Hepatic Flexure Proximal 3
+
+ 
+
+ 
+
+Date of Cancer Sample Procurement:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Histology: [Adenocarcinoma j
+Description of other histology: I
+Grade: IWell Differentiated E]
+. 5 Yes
+Mucmous: 5 No 5 Yes 5 Unknown
+(Focal)
+. . . 5 Yes
+Signet Ring Feature. 5 No 5 Yes 5 Unknown
+(Focal)
+Histologic Heterogeneity: 5 No 5 Yes 5 Unknown
+Host Response: |Lymphoid Aggregates 3
+Crohn's like reaction 5 None 5 Yes 5 Unknown
+Plasma cell rich stroma 5 No 5 Yes 5 Unknown
+Growth Pattern: 5 Expansile 5 invasive C Expansile 5 Unknown
+and lnvasrve
+Inﬂammatory Bowel Disease 5 No 5 Yes 5 Unknown
+Angiolymphatic Invasion: 5 No 5 Yes 5 Unknown
+Mutator Phenotype: 5 No 5 Yes 5 Unknown
+Number of Slides I1
+Garland Necrosis present: 5 No 5 Yes F Yes 5 Unknown
+(Focal)
+
+ 
+
+ 
+
+TIL Cells / HPF
+
+ 
+
+ 
+
+Pathologist Comment:
+
+ 
+
+ 
+
+UUID: F38C6493-935D-4BEC-81AB- B79CF63D89Ae7d
+TCGA- DM- A282- 01A- PR
+
+/CA/J/3
+WW, .mwim, NM 9420/3
+57%;; W1 ﬂew/vb (us/,3
+
+// {/3/14
+
+cmula
+
+umor Site
+HIPM Discrepancy
+Prior
+
+0M
+Reviewer Initials '
+
+ 
+
+ 
+
+ 
+

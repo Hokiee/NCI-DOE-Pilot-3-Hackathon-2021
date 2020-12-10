@@ -1,0 +1,286 @@
+UUID: 55259128- 2024-433B-A555-6323901DOE6eFd
+TCGA- FD- ASCB- 01A- PR
+
+ted
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIeIIIIIaIIII - _ -
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIImum 16D 0 3:1 m1 .4
+V‘ / o 4.; V, I ‘
+6a C" m a 85201.5
+
+P9117 5H2 ,7 Bladder “was farmr Mal,
+[ahead [Mall 5 41,7 g
+Gender: Male
+
+(QM/=5”? I'B/azlolif/ pasr'erior WI
+Race: White €67 4
+
+9w 12/24/1 7—
+
+Pathology Report:
+
+A. Right pelvic lymph node; dissection:
+
+- Four of eleven lymph nodes, positive for metastatic carcinoma (4/ 1 l).
+
+- Largest lymph nodal tumor focus measures 16 mm, with extranodal
+extension.
+
+- Metastatic tumor includes urothelial carcinoma and small cell carcinoma
+components, see comment.
+
+B. Left pelvic lymph nodes; dissection:
+— Twelve lymph nodes, no tumor (0/ 12).
+
+C. Urinary bladder, prostate & seminal vesicle; cystoprostatectomy:
+
+- Invasive high grade conventional urothelial carcinoma (50%) admixed with
+small cell carcinoma (50%) component, invading thru the bladder wall and into
+the perivesical soﬁ tissue, see pathologic parameters.
+
+- Bladder mucosa with extensive urothelial carcinoma in situ.
+
+- Prostate with prostatic adenocarcinoma, Gleason 3+4=7, with focal
+extraprostatic extension, see pathologic parameters.
+
+— Metastatic urothelial carcinoma in one of one perivesical lymph node
+( l / l ).
+
+D. Left distal ureter; dissection:
+- Portion of ureter, no tumor.
+
+Urothelial Carcinoma Pathologic Parameters
+
+1. Tumor type: Invasive mixed conventional urothelial carcinoma (50%) and small
+cell carcinoma (50%), see comment.
+
+2. Grade of tumor: High grade.
+
+3. Depth of invasion: Extravesicular soft tissue (macroscopic).
+
+4. Tumor distribution: Invasive carcinoma: solitary, 5 cm, right posterior and
+lateral walls; In situ carcinoma: multifocal, dome, anterior, posterior and left
+lateral walls.
+
+5. Ureteral margins: Negative for tumor.
+
+6. Distal urethral margin: Negative for tumor.
+
+7. Soft tissue margin or serosa: Negative for tumor.
+
+8. Lymph nodes: Negative for tumor (5/24), with extranodal extension.
+9. pTNM: pT3b,N2,MX.
+
+, , his Checklist utilizes the 7th edition TNM staging
+system for Bladder of the American Joint Committee on Cancer (AJ CC) and the
+International Union Against Cancer (UICC).
+
+Radical Prostatectomy Pathologic Parameters
+
+. Gleason Score: 3+4=7.
+
+. Perineural Invasion: Present.
+
+. Tumor Location: Peripheral zone left.
+
+. Tumor Volume Estimate: 15%.
+
+. High-grade P.I.N.: Multifocal.
+
+. Seminal Vesicles: Negative for tumor.
+
+. Extraprostatic Extension: Present.
+
+. Peripheral Margin: Negative for tumor.
+
+. Distal (apical) Margin: Negative for tumor.
+
+10. Proximal (basilar) Margin: Negative for tumor.
+11. Regional Lymph Nodes (right and left): Negative for tumor (0/24).
+12. pTNM: pT3a,N0,MX.
+
+\OOOQOU‘c-D-UJNr—t
+
+. . is Checklist utilizes the 7th edition TNM staging
+system for prostatectomy of the American Joint Committee on Cancer (AJ CC) and
+the International Union Against Cancer (UICC).
+
+Comment
+
+The lymph node metastasis contains both urothelial and small cell carcinoma
+components. The urothelial carcinoma component in the lymph node focally
+exhibits micropapillary feature, which is not exhibited by the urothelial
+carcinoma in the bladder.
+
+Immunohistochemical stains performed show that the small cell carcinoma
+component is diffusely and strongly positive for synaptophysin, conﬁrming the
+diagnosis. Controls appropriate.
+
+xx
+
+[1 MD
+
+Interpretation performed by the Attending Pathologist and reviewed with the
+Resident/Fellow, [] MD
+
+Electronically Signed Out by U, MD
+
+Clinical History:
+Patient is a year-old male with bladder cancer undergoing radical
+cystoprostatectomy.
+
+Specimens Received:
+
+A: Right pelvic lymph node
+
+B: Left pelvic lymph nodes
+
+C: Bladder, prostate & seminal vesicle
+D: Left distal ureter
+
+Gross Description:
+The specimens are received in four containers each labeled with the patient‘s
+name and medical record number.
+
+A. The ﬁrst container is additionally identiﬁed as, "right pelvic lymph
+
+node". Received fresh and placed in formalin is an aggregate of rubbery
+lobulated yellow ﬁbroadipose tissue measuring 9 x 5.3 x 1.9 cm. The specimen is
+dissected for lymph node candidates. Eleven lymph node candidates are identified
+measuring 0.4-3.4 cm in greatest dimension. The lymph node candidates are
+entirely submitted as follows:
+
+Al: 4 lymph node candidates
+
+A2: 2 lymph node candidates
+
+A3-A4: One lymph node candidate, bisected, each cassette
+
+A5-A6: One lymph node candidate, bisected, one half in each cassette
+
+A7-A8: One lymph node candidate, bisected, one half in each cassette
+
+A9-A11: One lymph node candidate, sectioned
+
+B. The second container is additionally identiﬁed as, "left pelvic lymph
+nodes". Received fresh and placed in formalin is an aggregate of lobulated
+yellow ﬁbroadipose tissue measuring 7.5 x 4.0 x 1.3 cm. The specimen is
+dissected for lymph node candidates. Multiple lymph node candidates are
+identiﬁed measuring 0.2-2.5 cm in greatest dimension. The lymph node candidates
+are entirely submitted as follows:
+
+B1: 4 lymph node candidates '
+
+B2: 3 lymph node candidates
+
+B3-B5: One lymph node candidate, bisected, each cassette
+
+86-37: One lymph node candidate, bisected, one half in each cassette
+88-89: One lymph node candidate, sectioned
+
+C. The third container is additionally identiﬁed as, "bladder, prostate and
+
+seminal vesicle". Received fresh and placed in formalin is a 285.4 g, 16.5 x 14
+
+x 3.6 cm cystoprostatectomy specimen consisting of a 7 x 6.5 x 3 cm bladder with
+attached mesenteric fat and a 4.4 x 4 x 3.3 cm prostate. The right seminal
+
+vesicles measure 2.9 x 1.4 x 0.5 cm and right vas deferens measures 9 x 0,6 cm.
+The left seminal vesicles measures 2.5 x 1.2 x 0.7 cm and left vas deferens
+
+measures 8 x 0.6 cm. The right ureteral stump measures 2.4 x 0.9 cm and is not
+probe patent to the trigone. The left ureteral stump measures 2 x 0.6 cm, and
+is probe patent to the tri gone.
+
+The right half of the prostate and bladder is inked blue and the left half is
+
+inked black. The bladder and prostate are opened anteriorly along the urethra.
+The prostate is surrounded by a thin, intact membranous capsule and sectioning
+demonstrates rubbery, pink—tan, pen-urethral modularity with no discrete
+masses.
+
+The opened bladder reveals a 5 x 4 cm ulcerated area located in the right
+posterior and right lateral wall. On cut section, a ﬁrm white-tan lesion
+
+extends through the muscularis propria into the perivesical fat with a maximum
+depth of 1.2 cm and is 0.5 cm from the deep margin. The surrounding bladder
+mucosa is edematous and pink-tan with a uniform 1.0 cm wall thickness. Gross
+photographs are taken.
+
+Representative sections are submitted as follows:
+
+C1: Left ureter resection margin
+
+C2: Right ureter resection margin
+
+C3-C4: Distal prostatic urethral margin (apex), shaved and
+perpendicularly sectioned
+
+C5-C7: Mass, deepest extent of invasion
+
+C8: Mass and adjacent seminal vesicle (right)
+
+C9—C10: Mass and closest approach to deep resection margin, submitted in
+tandem
+
+C1 1-C12: Additional sections of mass
+
+C13: Uninvolved bladder mucosa bladder dome
+
+C14: Uninvolved bladder mucosa anterior wall
+
+C15: Uninvolved bladder mucosa posterior wall
+
+C16: Uninvolved bladder mucosa left lateral wall
+
+C17-Cl9: Representative right lobe of prostate submitted from apex to base
+C20-C22: Representative left lobe of prostate submitted from apex to base
+
+D. The fourth container is additionally identiﬁed as, "left distal ureter".
+Received fresh and placed in formalin is a 1.2 cm in length by 0.7 cm in
+diameter rubbery white tube-shaped structure grossly consistent with ureter.
+There is 2.4 x 1.6 x 0.6 cm of attached yellow lobulated ﬁbroadipose tissue.
+There is a stitch on one aspect of the ureter that is not further designated.
+The specimen is entirely submitted as follows:
+
+D1: Ureter, stitch side
+
+D2: Ureter, non-stitch side
+
+D3: Remainder of ureter
+
+XX
+
+[]
+
+ 
+   
+  
+  
+  
+
+ 
+ 
+
+Criteria '
+I.
+HMO!
+
+  
+
+HIPﬂA Discrepancy
+
+___.._.._—.——
+
+Prior
+
+     
+  
+
+devi:
+
+   
+
+war
+
+ 
+

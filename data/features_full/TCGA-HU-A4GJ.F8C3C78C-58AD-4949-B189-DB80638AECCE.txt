@@ -1,0 +1,198 @@
+UUID: F8C3C78C- SSAD- 4949- 3189- DBEOG3BAECCEd
+TCGA- HU- MGJ- OlA- PR
+
+ted
+l I III lllIllllllllllllllllllllllllllllllllllllllllldlllllll
+lll MINI llllllllllllllllllllllllllllllllllllllllllllllllllllll
+IlllllllllllllllllllllllillIllllllllllllllllllllllllllllllllllll
+
+GROSS:
+Specimen submitted: Distal gastrectomy, unfixed
+Measurement: Greater curvature 24.3 cm W
+
+Lesser curvature 12.7 cm
+Proximal resection margin 13.8 cm
+Distal resection margin 5.7 cm
+Duodenum 0.7 cm
+Tumor location:
+Stomach: Lower 1/3 (antrum), lesser curvature
+From proximal resection margin - 18 cm
+From distal resection margin - 1.8 cm
+Tumor size: 5.5 x 4.4 cm
+Tumor type: AGC (Borrmann type) III
+Gross serosal invasion: Puckered
+Representative sections are submitted.
+
+Blocks
+
+T1-4, tumor and surrounding tissue x 4
+A, antral mucosa x 1 .
+
+8, body mucosa x 1
+
+F! pr0ximal resection margin x 1
+
+D, distal resection margin x 1
+
+LN1-3, superior gastric lymph nodes x 3
+
+LN4—S, inferior gastric lymph nodes x 2 I Q L , a , 3
+
+LN6, '1' lym h nodes x 1 . 9‘ I I ’
+
+LN7 '4b‘ lyrgph nodes x 1 “‘u'wwww‘ ' a“ 48% 9"” [3
+In (ace gill- W,WW Cit-.3
+
+LN8, 5 lymph nodes x 1 5M,
+
+LN9. '6‘ lymph nodes x 1 PM: W ”WM“ 0": ﬂog/3.7/ID—
+
+LN10, '7' lymph nodes x 1
+
+ 
+
+LN11, '8' lymph nodes x l
+LN12, '9' lymph nodes at 1
+LN13, ‘llp‘ lymph nodes x l
+LN14, '12' lymph nodes x 1
+
+MICROSCOPIC: .
+Tumor type: Adenocarcinoma — tubular, poorly differentiated
+
+(pooriy cohesive carcinoma, by WHO classification)
+Depth of tumor invasion:
+
+ 
+
+T4: Tumor penetration of serosa (visceral peritoneum)
+
+Margins: Proximal resection margin (-)
+Distal resection margin (-)
+
+Lauren classification: Diffuse
+Ming classification (Growth pattern): Infiltrative
+Lymphoid reaction: Present
+Lymphovascular invasion: Present
+Venous (large vessel) invasion: Absent
+Perineural invasion: Present
+Lymph node metastasis: Present
+
+DIAGNOSIS:
+Stomach, distal gastrectomy:
+Adenocarcinoma, poorly differentiated, infiltrating (advanced cancer)
+
+<Addendum> TCS
+Final diagnosis: Stomach Adenocarcinoma, Diffuse Type 9.0) elm-it"“ﬁ” I“? “3 '
+_______'——-’-
+
+Lymph node, perigastric, distal gastrectomy:
+Superior gastric: Metastatic carcinoma. primary in stomach (8/8)
+Extranodal tumor extension
+Inferior gastric: No tumor present (0/9)
+
+Lymph node, regional, biopsy:
+Labeled '1‘: No tumor present (0/3)
+Labeled '4b': No tumor preSent (0/9)
+Labeled '5': Fibrofatty tissue
+Labeled '6‘: No tumor present (0/7)
+Labeled '7': No tumor present (0/1)
+Labeled '8‘: No tumor present (0/3)
+Labeled ‘9': Metastatic carcinoma, primary in stomach (2/7)
+Labeled '11p': Metastatic carcinoma, primary in stomach (3/3)
+Labeled '12': Metastatic carcinoma, primary in stomach (1/1)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+# DamEIemmt mam-mum , _V WWW
+
+ 
+
+Pamologie Diagram mm" “‘"mdm’m‘ ' mm“ 5333:: ﬁ‘ﬁiﬂﬂ‘lﬁoﬁm‘f for on
+1 Provided on Initial Pm‘y‘d‘ﬁe’m‘mdr mm“ case. if :iio histolom' far this one is mixed. Provide
+
+Pathology Report all listed subtypes.
+
+ 
+
+Histologic features of
+
+2 the sample pravided Stomach Manual-mom. Dime Provide the histologic feamres selected on the TCGA
+for TCGA. as reﬂected Type Case Quality Continl Form completed for this case.
+on the CQCF .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+   
+
+ 
+
+ 
+
+Provide the reason According to the orig?! pathology
+for the discrepancy ”9°": ‘5 9m“ "3 9“de 35' 5“ Provide a reason describing why the diagnosis on the
+3 between the poolyv’diﬂ’erentiated: tubular Initial pathology report for this case is not consistent
+pathology report and adenorarcinoma. In addendum, we with tbs 4138110!!! selected on tho TCGA Case Quality
+ELF“: C25; r clariﬁed the ﬁnal diagnosis as an am“ PM“
+i = on cm
+W ' stomach adenawdnomai diffuse. type
+Name of TSS
+4 Reviewing Pathologist Provide the name of the pathologist who reviewed this
+or Blorep'osltoiy - - use for TCGA
+Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Immwmmmqmmommmmm-mmm
+
+ 
+
+ 
+
+TSS Reviewing Pathologist or Biorepository Director Date
+
+(«mommmwummmmbymmommmmmmm'mm mm
+WWWWWMMMMkamd’WMWhW
+
+ 
+
+Principal. investigator Signature Date
+

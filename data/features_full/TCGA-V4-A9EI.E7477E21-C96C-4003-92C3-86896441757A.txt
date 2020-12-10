@@ -1,0 +1,188 @@
+(4395’ mm o g
+Date of surgery: >3Laé£tawnw elaﬂwltao‘z (112114
+
+Na 3771/”
+wtqume QMWL dig» WWWME
+
+Right eye enucleation (LC/Q (nu/(if, Y 7 0157
+
+Macroscopy SJ; é) Cywwwvl C (0‘? 5
+
+3/20/14
+The eyeball measures 25 by 23 by 2 mm with a posterior segment of optic nerve of 9V mm of
+length and 3 mm in diameter. At the surface there is an extrasclérale extension of 4 mm.
+Samples have been made for cryopreservation. At the section, presence of a black tumor
+measuring 19 by 18 by IO mm. The specimen has been entirely included in 14 blocks
+
+Microscopy SWPM‘ MWW’I fim 5” 11m IWMA
+
+M SWW
+The tumor seen macroscopically correspond to a choroidal melanoma. This tumor
+proliferation is made of epithelioid (97%) and fusiforrn (3%) cells gathering in diffuse sheets
+or tumor cluster in a poor quantity of stroma heavily vascularised. Tumor cells present
+
+marked cytonuclear atypias. Cytoplasms contain rarely some melanin pigment.The mitotic
+index is estimated at 10 mitosis at the 40 magniﬁcation.
+
+The tumor invades the sclera with the presence of extrascle’rale extension.
+
+Presence of tumor embolus in the vessels with tumor cells around the nerve ending.
+Absence of tumor extension to the iris or ciliary body
+
+There is an associated retinal detachment
+
+The prelaminar and post laminar optic nerve as well as the optic foramen and the cut end are
+free
+
+The meningeal sheaths are free
+
+UUID: E7477E21- -C96('.- 4003- 92C3 8689644R17eS7Aac
+TCGA- V4- ASEI- 91A- -PR
+
+IIIIIIIIIIIlIIIIII|III|I|IIIIII|IIIIIIIIIIIIIIIIIIIIIIIIIIIIIcIIeel
+IIIIIIIIIIIIIIIIIIIIIIIIIIIII IIIIII|III|II|IIIIIIII
+IIIIIIIIII I IIIIIIIIIIIIII IIII II IIIIIIII IIIII I II II III
+
+Conclusion
+
+Melanoma with epithelioid and fusiform cells
+Size ofthe tumor: 19 by 18 mm
+
+The tumor invades the sclera with focal extra sclera extension
+
+Presence of tumor embolus as well as tumor cells around the nerve ending
+Absence of tumor extension to the ciliary body and the iris
+
+The optic nerve , the meningeal sheaths and the cut end of the optic nerve are free.
+
+ 
+     
+    
+
+ 
+
+, .ic.
+3.1:. __ ._.______I:._ _I:f’. —
+, ._, 13:15.: §%,
+'m anoint”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+woo
+TKCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mm;- The T6621 Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+
+documented on the initial pathology reportfur a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Con trot Form completedfor the submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (T35): m’i‘SS identiﬁer: TSS Unique Patient ldentiﬁer: _
+Completed By {Interviewer Name on OpenClinica]: ,. Completed Date: _
+IDiagnosis information
+i # l Data Element Entry Alternatives Working Instructions
+I 3 - . . . Provide the diagnosis! histologic subtype{s) documented on
+. o .
+I Fathologic Diagnosis 97 /° epithelimd cells the initial pathology report for this case. lfthe histology for
+3 pm: «,1de on Initial 0 ’ i this case is mixed, prcwde all listed subtypes.
+" m [e
+9atl3ology Report 3 ’6 ”p d cells
+» . b . . ,, . . . Provide the histologic features selected'on the TCGA Case
+2 ”3010316 feamr‘gs Of 61-90%) epithelimd cells Quality Control Form completed for this case.
+j 2 ; the sample protected
+for TCGA, as reﬂected 130% spindle cells
+on the CQCF.
+
+ 
+
+ 
+
+ 
+
+ 
+
+lDiscrepancy between Pathology Report and Case Quality Control Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 i Provide the yeaggn for Provide a reason describing why the diagnosis on the initial
+the discrepancy The section of the frozen sample used for sending §?fh°I°$yf‘§p°fté°’ LS: fééfém cornsifffgtlvgfflfg
+{getween the pathology to TCGA corresponds to a section of the tumor ”gm“ 5“” on e ‘ age Q‘Ia ‘On 0 r rm.
+report and the TCGA where the epithelioid part is predominant.
+
+Case Quality Control
+Foam. The percentages mentioned on the initial
+: ﬁsheiogy Report correspond to an average on the
+whole embedded sections used for establish the
+Pathology Report,
+Name OfTSS Reviewing Provide the name ofthe pathoIogzst who reviewed this case
+4 Pathologist or i for resist
+
+ 
+
+; f Bioreposmorv Director l
+
+ 
+
+ 
+
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled,
+
+ 
+
+ 
+
+TSS Reviewing Pathologist-or Biorepository Director Date
+
+:7 acknowledge that the above information provided by my institution is true and correct and has been quality controlled, The Attending Pathologist or the
+Department Chairman has been informed or is aware of the above discrepancy in diagnoses.
+
+ 
+
+Principal lnvestigator Signature Date
+

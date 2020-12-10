@@ -1,0 +1,245 @@
+  
+ 
+   
+
+Criteria
+
+Di Ignosis Discrepancy
+Primary Tumor site Discrepancy
+HIPAA Discrepancy
+“Prior Mali nancy History —
+ou-n/Svnchmnouxrrim “—
+Imam-5m
+:, , .
+
+  
+
+ 
+
+  
+
+  
+
+Ref. Source: '
+
+Clinical Dla nosis & Histo :
+Patient with right thyroid nodule positive FNA for papillary carcinoma. Papillary thyroid carcinoma on F NA.
+
+3 eclmens Submitted:
+
+1: "Pparathyroid"; biopsy (is)
+
+2: Thyroid, right lobe; iobectomy
+3: Thyroid. left lobe; lobectomy
+
+Date of Procedure:
+
+"' Date of Receipt:
+a_' Date of Report:
+" Account #:
+‘ Billing Type:
+. Additional Copy to:
+
+UUID:ESCCGBSB-5202-4433-8597-630196D94MC
+TCGA-DJ-AZQA-OlA-PR R
+
+eda
+immmmmmmmmwmmmmmmmmm
+
+ummmmmmmmmmi
+hWWMHWM%hMMWMMWMHWWW
+
+ 
+
+DIAGNOSIS:
+
+1.
+
+Parathyroid; biopsy:
+- Benign parathyroid tissue.
+
+Thyroid, right lobe; lobectomy:
+
+Tumor Type:
+Papillary carcinoma, follicular variant
+inﬂitrative
+
+Histologic Grade:
+Well differentiated
+
+Mitotic Activity.
+Not identiﬁed
+
+Tumor Necrosis:
+Not identiﬁed
+
+Tumor Location:
+Right lobe
+
+Tumor Size:
+Greatest diameter is 1.3 cm.
+
+Tumor Encapsulation:
+None identiﬁed
+
+Blood Vessel invasion:
+Not identiﬁed
+
+Extrathyrold Extension:
+
+MD — a ,3 J
+. «// . yard/W W"
+CMMW' PW M11 335‘0/3
+5176: WI: NW 673' ?
+3/3”]!
+
+invadeszfocaliy into pert-thyroid ﬁbroadipose tissue
+
+Surgical Margins:
+Free of tumor
+
+Tumor Muiticentricity:
+
+Two separate foci of papillary microcarclnoma, 0.1 and 0.5 cm in greatest size.
+
+Page 1 of 3
+
+lNPATlENT
+
+cted
+m
+
+ 
+
+Non-Neoplastic Thyroid:
+
+No abnormalities identified
+Parathyroid Glands:
+
+Not identiﬁed
+
+Lymph Nodes:
+One benign lymph node (0/1)
+
+ 
+
+3. Thyroid, left lobe; lobectomy:
+Tumor Type:
+Papillary. mlcrocarcinoma (occult sclerosing) variant
+Two foci
+
+Mitotic Activity:
+Not identiﬁed
+
+Tumor Necrosis:
+Not identiﬁed
+
+Tumor Size:
+0.15 cm and 0.1 cm in greatest size respectively
+
+Blood Vessel invasion:
+Not identiﬁed
+
+Extrathyrold Extension:
+Not identiﬁed
+
+Surgical Margins:
+Free of tumor
+
+Non-Neoplastic Thyroid:
+
+No abnormalities identiﬁed
+Parathyroid Glands:
+
+Not identiﬁed
+
+ 
+
+i ATTEST THAT THE ABOVE DIAGNOSIS iS BASED UPON MY PERSONAL EXAMiNATiON OF THE SLlDES (AND/OR OTHER MATERIAL). AND THAT i HAVE
+REVIEWED AND APPROVED THIS REPORT.
+
+C.
+
+-
+*" Report Elec!ronllc'aiiy SignefDu M
+
+ 
+
+Gross Description:
+
+I \ :
+
+1. The specimen is received fresh for frozen section labeled "exclude parathyroid“ is a 0.2 cm red soft tissue fragment. The
+specimen is submitted in toto for frozen section.
+
+Summary of sections:
+FSC-frozen section control
+
+ 
+
+Page 2 of 3
+
+ 
+
+ 
+
+l _
+2). The specimen is received fresh and is labeled "Right thyroid lobe. long stitch superior, short stitch isthmus". It consists of a
+thyroid lobe measuring 5.3 x 3 x 1.7 cm and weighing 8 g. The surface is disrupted in the posterior superior aspect. The lobe is
+inked black posterior and blue anterior. Serial sectioning reveals two lesions: 1.3 x 0.7 x 0.6 cm white solid nodule in superior/mid
+
+lobe abutting posterior margin (N1) and 0.5 x 0.3 x 0.2 cm solid white nodule in lower lobe (N2). The specimen is entirely submitted
+to include TPS from both nodules.
+
+Summary of sections:
+N1 - larger nodule
+N2 - smaller nodule
+RL - remaining lobe
+
+i ~ isthmus
+
+~_._--mmm
+
+W
+3). The specimen is received fresh and is labeled "Left thyroid lobe, stitch marks superior pole". it consists of a thyroid lobe
+measuring 4.3 x 2.8 x 1.4 cm and weighing 7.5 g. The lobe is inked black posterior and blue anterior. Serial sectioning reveals a
+0.3 x 0.3 x 0.2 cm white ﬁbrotic area abutting the posterior margin in the mid lobe. The remaining cut surface is unremarkable. The
+specimen is entirely submitted.
+
+Summary of sections:
+
+L - lesion
+RL - remaining lobe
+
+Summagr of Sections:
+Part 1: "Pparathyrold"; biopsy (fs)
+
+Block Sect. Site PC:
+1 fee 1
+
+Part 2: Thyroid, right lobe; lobectorny
+
+Block Sect. Site P08
+1 I 3
+2 N1 4
+1 N2 1
+3 RL 3
+
+Part 3: Thyroid, left lobe;iobectomy
+
+Block Sect. Site P03
+1 L 1
+6 RL 6
+
+Intraoperative Consultatiog;
+
+Note: The diagnoses given in this section pertain only to the tissue sample examined at the time of the intraoperative
+consultation.
+
+1. Frozen section diagnosis: Exclude parathyroid (is): Parathyroid tissueq
+Permanent diagnosis: same
+
+ 
+
+Page 3 of 3 END OF REPORT
+

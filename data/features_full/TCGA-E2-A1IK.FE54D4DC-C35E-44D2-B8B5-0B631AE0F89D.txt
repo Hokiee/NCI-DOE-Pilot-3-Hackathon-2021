@@ -1,0 +1,219 @@
+TSS ID
+
+SPECIMENS: /6 I5 _ 0 ’3
+
+A. SENTINEL LYMPH NODE #1 LEFT AXILLA ‘ ‘ ‘
+
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA (WM, “DH/uh"? M”: N05 3500/3
+
+C. LEFT BREAST MEDIAL NEEDLE LOCALIZATION 31’ C5 .
+
+D. LEFT BREAST LATERAL NEEDLE LOCALIZATION L‘ W [\le d 9 #?//2J
+SPECIMEN(S): m _,
+
+A- SENTINEL LYMPH NODE #1 LEFT AXILLA uum:rsswwc-casE-MD:-saas-oasa1nserasu
+
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA TCGA-EZ-AIIK-BlA-PR Redacted
+
+0 LEFT BREAST MEDIAL NEEDLE LOCALIZATION III II IIIIIIIIIIIIIIIIIIIIIIIII IIII I III IIIIIIIIIIIIIIIIIIII III III III
+
+0' LEFT BREAST LATERAL NEEDLE LOCAL'ZAT'ON III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIIIIIIIIII
+GROSS DESCRIPTION: III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+A. SENTINEL LYMPH NODE #1 LEFT AXILLA
+
+Received fresh are 4 tan pink lymph nodes ranging from 0.5cm to 1.50m in greatest dimensions. Four
+touch preps are taken.
+
+A1: 1 lymph node
+
+A2: 1 lymph node
+
+A3: 1 lymph node
+
+A4: 1 lymph node
+
+B. SENTINEL LYMPH NODE #2 LEFT AXILLA
+
+Received fresh are 2 tan pink lymph nodes 0.5cm and 1 ,2cm in greatest dimensions. Two touch preps
+are taken.
+
+B1: 1 lymph node
+
+32: 1 lymph node
+
+C. LEFT BREAST MEDIAL NEEDLE LOCALIZATION
+
+Received fresh labeled with the patient’s identiﬁcation and "left breast medial needle localization" is an
+oriented 38g. 8 x 5 x 2.2cm needle localized lumpectomy. lnk code: anterior-yellow, posterior-black,
+superior-blue. inferior-orange, medial-green, lateral-red. Specimen is serially sectioned from medial to
+lateral into 6 slices revealing a 1.3 x 1.3 x 1.20m tan pink well circumscribed ﬁrm mass, closest to the
+posterior margin at 0.1cm and 0.2cm from the anterior margin in slices 3-4. Tissue is procured.
+Representatively submitted:
+
+01-02: medial margin slice 1
+
+C3-C6: slice 2
+
+07-010: slice 3 with mass in CS
+
+C11-C15: slice 4 with mass in C13
+
+C16-C19: slice 5
+
+CZO—C23: lateral margin slice 6
+
+D. LEFT BREAST LATERAL NEEDLE LOCALIZATION
+
+Received fresh labeled with the patient’s identiﬁcation and ”left breast lateral needle localization" is an
+oriented 119. 4.5 x 3.5 x 20m needle localized lumpectomy. Ink code: anterior-yellow, posterior-black,
+superior-blue, inferior-orange, medial-green, lateral-red. Specimen is serially sectioned from medial to
+lateral into 6 slices revealing a 0.5 x 0.5 x 0.4cm tan pink well circumscribed ﬁrm mass. closest to the
+inferior margin at 0.5cm in slice 3. Entirely submitted:
+
+D1: medial margin slice 1
+
+D2-03: slice 2
+
+D4-DS: slice 3 with mass in 05
+
+06-07: slice 4
+
+DB: slice 5
+
+D9: lateral margin slice 6
+
+DIAGNOSIS:
+
+A. SENTINEL LYMPH NODE 1. LEFT AXILLA, BIOPSY:
+- MICROMETASTATIC CARCINOMA IN ONE OF FOUR LYMPH NODES (1/4).
+- NO EXTRANODAL EXTENSION IS SEEN.
+
+NOTE: Several foci of tumor are seen in one lymph node with the largest measuring 0.5 millimeters. A
+cytokeratin AE1/3 stain is positive in tumor cells.
+
+B. SENTINEL LYMPH NODE 2. LEFT AXILLA, BIOPSY:
+- TWO LYMPH NODES, NO TUMOR SEEN (0/2).
+
+TSS ID
+
+C. BREAST, LEFT, MEDIAL, NEEDLE LOCALIZATION EXCISION:
+- INVASIVE DUCTAL CARCINOMA, SBR GRADE 2, WITH MUCINOUS
+FEATURES AND SIGNET RING CELLS.
+- TUMOR MEASURES 1.4 CM.
+- TUMOR IS 0.1 CM FROM THE DEEP MARGIN.
+- SEVERAL FOCI OF ATYPICAL DUCTAL HYPERPLASIA (ADH).
+
+D. BREAST, LEFT, LATERAL, NEEDLE LOCALIZATION EXCISION:
+- INVASIVE DUCTAL CARCINOMA. SBR GRADE 2. WITH MUCINOUS
+FEATURES.
+- TUMOR MEASURES 0.7 CM.
+- MARGINS, FREE OF TUMOR.
+- ATYPICAL DUCTAL HYPERPLASIA (ADH).
+
+NOTE: The two tumors are morphologically similar.
+
+SYNOPTIC REPORT - BREAST
+Specimen Type: Excision
+
+Needle Localization: Yes
+
+Laterality: Left
+
+Invasive Tumor: Present
+Multifocality: Yes
+
+WHO CLASSIFICATION
+
+Invasive ductal carcinoma, NOS 8500/3
+Tumor size: 1.4cm
+
+Margins: Negative
+
+Tubular Score: 3
+Nuclear Grade: 2
+Mitotic Score: 1
+Modiﬁed Scarff Bloom Richardson Grade: 2
+
+Necrosis: Absent
+Vascular/Lymphatic Invasion: None identiﬁed
+Lobular neoplasia: None ..
+
+Lymph nodes: Sentinel lymph node only
+Lymph node status: Positive 1 l6
+Micrometastases: Yes
+
+Non-neoplastic areas: ADH, intraductal papilloma with usual ductal hyperplasia
+
+ 
+
+DCIS not present
+
+ 
+
+ER/PR/HERZ Results
+ER: Positive
+
+PR: Positive
+
+HER2: Negative by lHC
+
+ 
+
+Pathological staging (pTN): pT 10 N 1 mi
+
+CLINICAL HISTORY:
+None provided
+
+PRE-OPERATIVE DIAGNOSIS:
+Left breast carcinoma
+
+INTRAOPERATIVE CONSULTATION:
+
+TPA1-TPA4: SLN #1 left axilla: 4 lymph nodes- Negative for carcinoma.
+TPB1-TPBZ: SLN #2 left axilla: 2 lymph nodee Negative for carcinoma.
+Diagnoses called to Dr. I (A, B) by Dr
+
+Gross Dictation:. .
+Microscopic/Diagnostic Dictation: M n P=*““"‘""°‘
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Final Review: , M.D., Pathologist, mun. “! .772.“ '
+Final: ' MHD' Pa‘hOIOQISI Dillnasis Discrepancy
+Primary Tumor Sit: Discrepincv
+HIPAA Dlsaepancy f
+Prior Malignancy History
+Dual/Synchrnnnusl’ri Na d '
+UFI / DI U D
+
+can in (Chile): A
+..—__——
+Review/u r Initials
+
+Date II: we.
+
+ 
+

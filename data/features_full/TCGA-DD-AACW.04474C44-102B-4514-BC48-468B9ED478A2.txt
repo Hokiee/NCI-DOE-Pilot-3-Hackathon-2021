@@ -1,0 +1,93 @@
+UUID:04474C44-1925-4514-BC48-46859ED478A2
+
+TCGA- DD- AACN- 91A- PR
+
+lllllllll|||||||||||||||||||||||||||||||||||||||||||||||||||||
+II IIIIIII IIIIIIIIIIIIIII II II II II IIII II III IIIIIIIIIIIIIIIIIIII I "III I III
+
+CLINICAL DIAGNOSIS: I-ICC
+Specimen: HCC
+Gross Photo ‘-
+
+GROSS:
+Specimen status: Fresh
+Operation: Laparoscopic segmentectomy (segment 2)
+Organ: Liver (15.0 X 6.0 X 4.5 cm, 142.5 gm)
+Lesion: Hepatic mass
+Size: 2..0x18x1.5cm
+Cut surface Encapsulated, yellowish tan, round and solid with central necrosis
+Gross type: Multinodular confluent
+Extent: Confined to the capsule
+Resection margin: Not involved, grossly (safety margin: 1.2 cm)
+Remaining parenchyme: Cirrhosis
+Representative sections are submitted. m ~O~ 33
+
+Q 2 '6) f
+Gross photo: Present ()ﬂWrerva), WEOLLOQLLOIM “Dad %I 7 2‘5
+Blocks 541:2, 084W 6 62:9 .0
+
+T1~4, mass of liver x 4
+
+RM, mass with resection margin x 1 Qﬂb 6)]9/11’;
+
+A, nontumorous liver parenchyme x I
+
+MICROSCOPIC:
+Tumor type: Hepatocellular carcinoma
+Edmondson-steiner grade
+
+The worst differentiation III
+
+The major differentiation III
+Histologic type: Trabecular
+Cell type: Hepatic clear cell and solid pattern
+Fatty change: No
+Cholangiocarcinoma: No
+Fibrous capsule formation: Yes
+Capsular infiltration: Yes
+Septum formation: Yes
+Surgical resection margin invasion: No
+Serosal invasion: N0
+Portal vein invasion: No
+Lymphovascular invasion: Yes
+Bile duct invasion: N0
+Remaining liver parenchyme: Cirrhosis
+
+NOT reported. Gross:
+
+Peritoneal fluid, smear, negative
+
+Pleural fluid, smear, inflammation
+
+Pleural fluid, smear. negative
+
+Peritoneal fluid, smear, negative
+
+Pleural fluid, smear, negative
+
+Pleural fluid, smear, negative
+
+Pleural fluid, smear, negative
+
+Pleural fluid, smear, negative
+
+Stomach, prepylorus, scopic, no pathologic finding
+Iiver,ectomy,hepatocellular carcinoma,cirrhosis
+
+T565000, P10, M81703, M49500
+DIAGNOSIS:
+Liver, lateral segment, left, laparoscopic segmentectomy:
+Hepatocellular carcinoma
+Cirrhosis
+Suggestion I
+
+4‘) [/13/1‘,’
+
+Tumor
+HIPAA
+
+Case is
+Revuewer
+
+ 
+

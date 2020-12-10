@@ -1,0 +1,189 @@
+.ZILCD ,0- :3
+W W
+‘E‘Eg‘iii‘i‘iii‘iiiiiiiiii'iii‘iiIm W’ 3
+||||||||||||||||| “III III II
+IN ”Hill |||||||| II |||||l||||||||||||| ||||||||||| ||| I|||I||||| diam MW %$ 4.
+III lilllllllll ||I||||||||||||||||||Illllll III II llllllllllllllll 4) 5
+490 :3 ' -
+Collect date: . * Wig) W (34 90103
+i 5:"& £3221, azalzfmgﬁadﬂfﬁb“
+PATHOLOGY REPORT: GLYQD
+‘ iel/q
+PRIMARY SITE: Stomach (Gastroesophagealjunction) 979° 69/
+
+l-Inferior paraesophageal lymph node:
+Connective and fat tissue uninvolved by neoplasia.
+
+2-Group S lymph node:
+Connective and fat tissue uninvolved by neoplasia.
+
+3- Group SA lymph node:
+Connective and fat tissue uninvolved by neoplasia.
+
+4- Resection of esophagus + stomach:
+Adenocarcinoma with the following features:
+Histolo ic attern:
+iublinar ’1» 755 - {M ‘2 ﬁlm!”
+Mucinous
+Histologic grade:
+
+II — Moderately differentiated
+Lauren classiﬁcation: diffuse type
+Largest tumor size: 2.8 cm
+Lauren pattern: diffuse
+Ulceration: present
+Local invasion:
+
+Mucosa
+
+Muscularis Mucosa
+
+Submucosa
+
+Muscularis Propria
+
+Adjacent adipose tissue
+Tumor invasion type:
+
+Spiculated
+Inﬂammatory reaction:
+
+Mild
+Tumor implant in perivisceral fat tissue:
+
+Not observed
+Proximal margin:
+
+Uninvolved by neoplasia
+Distal margin:
+
+Uninvolved by neoplasia
+Radial margin:
+
+I’M/73g dK ﬂbWéW
+5W“ 15414.”wa [00 ”(a
+
+I #1:}
+
+VII
+
+    
+
+Initials
+
+ 
+
+Uninvolved by neoplasia
+
+Neural invasion:
+Not observed
+
+Lymphatic invasion:
+Present
+
+Blood vessel invasion:
+Not observed
+
+Lymph nodes:
+Involved by neoplasia: 4 of 10 lymph nodes (4/10)
+Capsular invasion: not observed
+Lymph node clusters: not observed
+Description of lymph nodes:
+Periesophageal: 4/5
+Lesser curvature: 0/5
+
+5- Esophageal margin:
+F ocally involved by neoplasia (area of less than 1.0 mm size in adventitia).
+
+ 
+
+ 
+
+Vii/ii
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+W The TCCA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+ocumented on the initial pathology report for a case submitted for ’I‘CGA. is inconsistent with the diagnosis provided on the-
+ase Quality Control Farm completed for the submitted case.
+
+ 
+
+ssue Source Site (TBS): __ . . > TSS Identiﬁer: _ ___"I‘SS Unique Patient Identiﬁer: __
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+impleted By (Interviewer Name on OpenClinico) g Completed Date: , _ . .
+iagnosis information i ' I. _ _ _
+# Data Element Entry Alternatives Working Instructions , ,
+u . Provide the diagnosis] hismlomc subtypeLs'} documented on.
+Patholo ic Diagnosis ~ the initial pathology report for this case. lfrhc histology for
+1 Provides on initial W this cascis mixed. provide all listed subtypes.
+Pathology Report.
+. _ . ' Provide the histologic features selected on the TCGACasc
+Histologic features 0f 0 Quality Control Form completed for this case.
+2 the sample provided . “)0 A Tum!“
+for TCGA, as reﬂected
+on the CQCF;
+iscrepancy between Pathology Report and Case Quality Control Forum ' I ’ '_ I
+3 Providé‘ the reason for i V ’ . Provide a reason describing why the rllagnosism the initial
+the discrepancy Case was reviewed based on Top Slide [0 be paliwlogy report for this case is not consistent with the
+V diagnosis’selected on the TCGA Case Quality Control Form.
+between the pathology sent to BCR
+report and the 'I‘CGA
+Case Quality Control
+Form.
+Name ofTSS Reviewing Provide the name ofthe pathologist who rciricwcd this case
+4 Pathologist or t f“ “:5":
+
+ 
+
+ 
+
+Biorepository Director
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above information provided by my institution is true and eon-eat and has been quality controlled.
+
+ 
+
+TSS Reviewing Pathologist s} Biorepository Director 2 Date
+
+1 acknowledge that the above information provided by my institution is true and correct and has been quomy continued. Mendendiug Pathologist or the
+Department Chairman has been inform-J 1" is aware afthe above discrepancy in diagnoses.
+
+Principal investigator signature Date
+
+ 
+

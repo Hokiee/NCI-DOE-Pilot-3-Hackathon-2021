@@ -1,0 +1,320 @@
+UUID:A6E4263E-CFAA-4784-BuB-BSSBAOEGDABF
+chA-XK-AAIw-em-PR Reclllﬁﬁlted
+
+l|| |||||||||||ll||||||||||||||||||||||||||||||||l|||||||||||
+||| |||||||||||I|||||| |I|||||||l|||||l||||||||l|llll||l|l|||||
+||| |||||||||||||||||||||||ll|l|||||lllllllllllll||ll||||lll|l|||
+
+Surgical Pathology Report
+moo-:3 .
+admoaamumhwitos 8/4313 _
+5:12» Wtaﬁﬁ U05 0101.0;
+<34 3 5/25/29
+
+Patient Name: Accession #:
+Clinic Number: Procedure Date:
+
+ 
+
+Date of Birth: (Age: Gender: M Received Date:
+Requested By: Account #2 ..
+Report Signed:
+
+ 
+
+Final Diagnosis:
+Procedure: Radical prostatectomy and bilateral pelvic dissection.
+Histologic type: Prostatic adenocarcinoma.
+Histologic grade:
+Primary pattern: 5, Secondary pattern: 4, Tertiary pattern: Not applicable.
+Total Gleason Score: 9 of 10.
+Tumor quantitation and location: Tumor is identiﬁed in both lobes of the prostate for a total of 12 out of 16
+sections of prostate and seminal vesicle being involved by carcinoma. The largest focus of carcinoma measures at
+least 2.2 cm, (measured, however, in a single slide with tumor extending to the edges of the section). Areas involved
+are identified in sections from the proximal urethral margin to the apices of prostate.
+Extraprostatic extension: Present in left mid and right mid of the prostate, in the left base and the right base of the
+prostate, and around the left and right seminal vesicles.
+Margins: Surgical margin involved by prostatic adenocarcinoma in the left apical area (17 mm involvement), in the
+left bladder neck margin (8 mm length of involvement of margin).
+Lymph-vascular invasion: Present.
+Perineural invasion: Present.
+Seminal vesicle invasion: Present, bilateral.
+Treatment effect on carcinoma: Not recognized.
+Lymph nodes: Seven lymph nodes retrieved, all negative for malignancy (0/7).
+Additional pathologic ﬁndings: None of additional relevance.
+Ancillary studies: Not performed.
+Pathologic staging: pT3b, pNO, pM not applicable.
+Blorepository sample (if applicable): The sample obtained is completely involved by carcinoma (100% of nuclei are
+malignant).
+
+Bloek(s) containing malignancy suitable for additional testing: A7 through A16.
+
+Interpreted by:
+Report eleclronically signed out by
+'l'ranscribed by.
+
+Clinical Information:
+
+’ ”3° ‘ “2
+
+ 
+
+ 
+
+ 
+
+Prostate carcinoma.
+
+1
+Sp ‘imen(s):
+A:Pnostate with bilateral lymph nodes
+
+Gr s Description:
+Perxrmed by Pathologist's Assistant
+AlA2A3A4A5A6A7A8A9AlOAl1A12A13A14A15A16A17A18A19A20A21A22
+A. iReceived fresh labeledmnd "prostate and bilateral pelvic lymph nodes":
+Pro edure: Radical prostatectomy, pelvic lymph node dissection.
+Pro tate size: Weight. 102 grams; Dimensions. 6 x 5 5 x 5.5 cm; Seminal vesicles: 4.5 x 2.5 x 0.7 cm.
+Gr notes: Grossly evident tumor: There is a diffuse solid gold pattern involving the posterior prostate from the
+apeit to the base. It Is poorly deﬁned and cannot be adequately measured
+Symmetry. The left side IS larger than the right side.
+Gross nodular hyperplasia: Moderate to severe.
+; Gross capsular bulge/defect: None.
+1 hiking: left- black, right—blue
+3 Biorepository sample collected: Yes. See block key Urology
+Lymph nodes: Pelvic lymph node dissection 13 present 4 x 4 x 1 cm. Eleven lymph nodes are found ranging in size
+from 2 0 x 0.8 x 0.6 cm to 0. 4 cm in diameter. The light side of the specimen is inked blue, the left side 15 inked black.
+
+Block key for specimen : Representative sections are submitted in twenty-two cassettes labeled -Al
+throilgh A22.
+
+1) 'oximal urethral margin
+
+2) stal urethral margin
+
+3) l R apical margin, perpendicular
+
+4) r ght apical margin, perpendicular
+
+S) l ﬂ bladder neck margin, perpendicular
+6) r ght bladder neck margin, perpendicular
+7) 1 ft apical prostate
+
+8) ght apical prostate
+
+9) left mid prostate
+
+l0) iright mid prostate
+
+l 1)§left mid prostate
+
+l2)iright mid prostate
+
+l3)ileft base of prostate
+
+l4)iright base of prostate
+
+15)ileft seminal vesicle
+
+16);: right seminal vesicle
+
+Additional sections:
+l7)isample corresponding to research tissue
+
+18-22) lymph nodes. AIS-A20) one lymph node each. A2l-A22) four lymph nodes AW ’85 dz MW 5 W’
+' Tee/i W 6% I 54'
+
+3 Criteria / a3 a I
+
+Tumor
+
+HIPAA
+
+Ease ls
+1 Reviewer :niliils
+
+ 
+
+ 
+
+Support for the diagnosis in this case may haveincluded the uscol‘ immunohistochemisry tests that were developed and whose performance characteristics were delennined by
+
+They have not been cleared or approved by the U S. Food and Drug Administration (FDA). The DA has dclemiined tlnt such clearance or approval is
+not necessary. these tests should not be regarded as invenrgational or for research. This laboratory is certiﬁed under the Clinical Laboratory lmpnvemem Amentmems of I988 (‘Cl lA') as
+qual‘ ted to erl'orm hi I: complexity iimenl laboratory testmg
+
+END OF REPORT Page 2 0l'2
+
+ 
+
+ 
+
+ 
+
+.. 1.1.41.1
+
+V4. 0!}
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+, _, '_ % Menorah Eric .7 '
+docirmented .n'the initial pathology report for a case submitted for TCGA is inconsis
+Case Quality dontr'ol Form completed for the submitted case.
+
+   
+
+Hagl'lOSlS Discrepancy arms a
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+ 
+   
+
+      
+
+,_____'_ﬁ ...... - _ . . __ _._
+
+tent 'with the din
+
+ 
+
+ 
+
+nosi
+
+ 
+
+rovided on the}
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (TSS): _ TSS Identiﬁer: , ﬂ TSS Unique Patient identiﬁer: _
+Completed By (Interviewer Name on OpenClI'nica): . Completed Date: __ __ _ ..
+[Diagnosis Infarmation ,
+# Data Element Entry Alternatives Workinglnsu‘uctions
+’1 Pr 1 Nay-9 5 Provide the diagnosis] histologic subtype[s) documented on
+Pathol gic Diagnosis 9;: . I theinitial pathology report [or this case. lithe histology for
+1 Provid d on Initial ——‘Z———LL——q "' ~ this case is mixed, provide all listed subtypes.
+r" l
+Pathol igy Report (04%
+. i . ‘ ,... E , r ' Provide the histologic features selected on the TCGA Case
+mel [c features Of Pa ‘7 5 Quality Control Form completed for this case.
+2 the sa pie prowded Qua-«Ag; 5
+for TCCIA, as reﬂected ﬁrm 5
+on the CQCF. ‘ I
+Discrepancy between Pathology Report and Case Quality Control Form _ _ J
+3 Provide the reason for m" l" (ngw . ‘4. PrXi1E a reasonrriescﬂzibing why th‘e diagnpsri: ongfhiniual
+- ' ' pa 0 ogy report or is caseisno consis 9 WI e
+intivggdiﬁirigthology boot 8 a O JKQr 1~ - ,1 , diagnosis selected on the TCGA Case Quality Control Form.
+repor and the TCGA 2 s 9“ ,9 m“
+Case (uality Control 0 k .
+Fermi F :H ('99 ,4. ,3
+r i Z 6 A
+59 IGie/(M’ “M"
+I AQ/krﬂx‘tra ‘?
+l
+1
+Namd of TSS Reviewing ¥ro¥itglgAthe name ofthe pathologist who reviewed this case
+4 Path ‘logist or °' -
+BtoéLository Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘; I acknowledge that the above information provided by my institution is true and correct and has been quality controlled.
+
+i
+
+ 
+
+iI‘SS Reviewing'l’athologist or Biorepository Director
+
+i
+l ncknowleiige that the above
+1
+
+4
+
+_l_._.
+
+Date
+
+information provided by my institution is true and correct and has been quality controlled The Attending Pathologist or the
+Department Chairman has been informed or is aware of the above discrepancy in diagnoses.
+
+Date
+

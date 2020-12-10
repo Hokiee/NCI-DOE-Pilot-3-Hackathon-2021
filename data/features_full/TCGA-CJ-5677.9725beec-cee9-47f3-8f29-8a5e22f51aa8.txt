@@ -1,0 +1,60 @@
+    
+
+Pathology Report
+
+DIAGNOSIS
+(A) RIGHT KIDNEY AND ADRENAL, RADICAL NEPHRECTOMY:
+
+KIDNEY:
+RENAL CELL CARCINOMA, CLEAR CELL TYPE, FUHRMAN GRADE IV/IV.
+TUMOR SIZE: 6.5 X 6.5 X 2.3 CM.
+TUMOR INVADES INTO PERINEPHRIC FATTY TISSUE AND APPROACHES TO WITHIN
+<0.1 MM OF THE INKED SOFT TISSUE RESECTION MARGIN.
+TUMOR INVADES RENAL SINUS FAT.
+VASCULAR/LYMPHATIC INVASION BY TUMOR IS PRESENT.
+
+Renal artery segment, unremarkable.
+Renal vein resection margin, free of tumor.
+Ureter segment, unremarkable.
+
+Adrenal gland, no tumor present.
+
+(B) GALLBLADDER, CHOLECYSTECTOMY:
+Cholelithiasis.
+Mild chronic cholecystitis.
+
+GROSS DESCRIPTION
+
+(A) RIGHT KIDNEY - A nephrectomy specimen (18.0 x 7.0 x 4.0 cm) includes: the tumor-distorted right kidney (14.0 x 6.0 x 2.2
+cm), segment of unremarkable renal artery, renal vein segment, unremarkable ureter segment (9.0 cm in length and 0.5 cm in
+average diameter), and unremarkable adrenal gland (5.0 x 1.8 x 0.4 cm).
+
+There is a 6.5 x 6.5 x 2.3 cm well circumscribed tumor in the upper pole of the kidney. The tumor is predominantly yellow
+with pink areas and about 60-70% random areas of necrosis. The tumor appears to invade the perinephric adipose tissue but do
+not extend to the Gerota’s fascia. The adjacent kidney parenchyma is unremarkable..
+
+INK CODE:
+
+Black: Gerota’s fascia.
+SECTION CODE:
+A01, ureter, renal vein and renal artery margin;
+A02-A05, mass with Gerota’s fascia (inked black);
+A06-A08, mass with adrenal gland;
+A09,A10, mass with normal portion of the kidney;
+A11-A14, mass;
+A15, A16, normal kidney, representative sections.
+[NOTE: Portions of the tumor have been submitted for electron microscopy (from formalin in glutaraldehyde) and research
+protocols.]
+(B) GALLBLADDER - An intact gallbladder measuring 11.0 cm in length and 6.5 cm in maximum circumference. The bile is dark
+green. The mucosa is pink-green. The wall of the gallbladder is 0.2 cm in thickness. Multiple irregular small yellow-green
+gallstones measuring 1.0 x 1.0 x 0.3 cm, the largest one.
+SECTION CODE:
+B1 , cyst duct;
+B2, representative sections of the gallbladder. -
+
+CLINICAL HISTORY
+
+Right renal mass.
+
+ 
+

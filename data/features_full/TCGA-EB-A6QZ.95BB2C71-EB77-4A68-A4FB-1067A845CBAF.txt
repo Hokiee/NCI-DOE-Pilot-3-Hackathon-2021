@@ -1,0 +1,49 @@
+Patient ID:
+Surgical Date:
+
+Gross Description: There is a skin flap with a black spot up to 2 x 1.6 cm in its size. Tumor gross
+thickness is up to 4 mm. Resection margins are of the normal structure.
+
+Microscopic Descrlption: Malignant melanoma of the skin, pigmented. Tumor Breslow thickness is 3
+mm.
+
+Diagnosis Details: Tumor Features: Pigmented, Tumor Extent: Tumor 2.01?4mm with or without
+ulceration, Venous Invasion: Absent, Margins: Absent, Treatment Effect:
+
+Comments: Id®~0 - 3 J‘N 08
+WW, Wm
+Formatted Path Reports: SKIN TISSUE CHECKLIST S? 7 520 A3
+. . . at!“
+Specimen type: Excusuon of skin lesion 811, W I103 QH‘L"
+Tumor site: Skin, hip 11,:
+
+- ‘ a 44-7
+Tumor size: 1.5 x 0.3 x 2 cm 610w. 8M
+
+l
+Tumor features: Pigmented W D 7] 5! I ‘3
+Satellite nodules: Not specified
+
+Histolo ic e: Malignant melanoma ,
+3 typ UUID.T95352C71-£577-4Asa-A4Fe-1967Aa4scsAr
+
+umriiﬁiiiiiiiﬁiiiii'iﬁumumu'iﬁii'iiifed
+mummmumumm
+dyed. neeed Ned ededded mmummmmmumiiiiii'ii'ii'iiiiiiiiii“iii/iii
+
+Lymphatic invasion: Not specified
+
+Histologic grade: Not speciﬁed [If]!
+
+Venous invasion: Absent
+
+Margins: Uninvolved
+
+Evidence of neo-adjuvant treatment: Not specified
+
+Additional pathologic ﬁndings: Tumor Breslow thickness is 3 mm.
+
+Comments: None
+
+ 
+

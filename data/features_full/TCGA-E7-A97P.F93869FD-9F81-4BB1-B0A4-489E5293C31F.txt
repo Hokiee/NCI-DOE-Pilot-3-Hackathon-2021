@@ -1,0 +1,184 @@
+UUID: FSBBGSFD- 9F81- 4531- BOM- 489E529RBgBﬁac
+
+lllllllliilliiiiilillili'll l'il'illili'll
+
+ 
+
+II” | I
+TSS Patient ID: HHIII II {II
+
+Surgical Date:
+
+Gross Description: in bladder, it is invasive and protruded masse, ill — margins with 5x4x4cm in size,
+soft and gray surface.
+
+Microscopic Description: Tumor cells are hyperplastic to form nest or groups or cords or tubules. Tumor
+cells have moderate and eosinophilic or clear cytoplasm. Nuclei are very enlarged and varriability in
+
+shape and size, irregular nuclear membranes, nucleoli and abnormal chromatin patterns. Mitoses are
+present. Tumor invades in muscle propria or nerves.
+
+Diagnosis Details: infiltrating urothelial carcinoma, high-grade, infiltrating muscularis propria
+Comments:
+
+Formatted Path Reports: BLADDER TISSUE CHECKLIST
+
+Specimen type: Cystectomy
+
+Tumor site: Bladder (PW—:35, 3H2 rs LMJw and!)
+
+Tumor size: 5 x 4 x 4 cm
+
+Tumor features: None specified C 136.130 “'3 .
+“MM N03
+Histologic type: Transitional cell carcinoma . 1 8/205
+
+Histologic grade: Poorly differentiated ' a \ WM. LIQS
+
+a; 20/5
+Tumor extent: Muscularis prOpria D. E W LUCILQQ N03
+U107,
+Lymph nodes: Not specified ‘7
+
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+
+Margins: Not specified
+
+Evidence of neo-adjuvant treatment: No
+
+Additional pathologic findings: Extracapsular extension: present, focal
+
+Comments: None
+
+mm 5m. MW by 1’55 4v Lg
+le%.w the; dchcupwwu/
+
+6014!!- .
+
+    
+
+w/o
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+V4.00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+W The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+docum en ted on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site [TSS):.
+
+TSS Identiﬁer: __..
+
+_TSS Unique Patient Identiﬁer: _
+
+ 
+
+ 
+
+ 
+
+ 
+
+Completed By (intervieWer Name 0. Completed Date: -
+lﬁagnosis information 1
+# Data Element Entry Alternatives Working instructions
+Provide the diagnosis/ histologic subtypeEs) documented on
+Patholo to Die nosis ‘ 1,. 9 l the initial pathology report for this case. if the histology for
+1 Provideg on [Dita] val this case ls mixed, provide all listed subtypes.
+Pathology Report WM WW
+Provide the histologic features selected on the TCGA Case
+Histologic features of g \
+liCtiF ltdf thl .
+2 the sample provided WW hWVm VOL, Qua or on to arm comp e e or scase
+for T CGA, as reﬂected
+on the CQCF.
+
+ 
+
+ 
+
+[Discrepancy between Patholo
+
+gy Report and Case Quality Control Form
+
+.J
+
+ 
+
+Provide a reason describing why the diagnosis on the initial
+
+ 
+
+ 
+
+ 
+
+Biorepository Director
+
+id th f - _ I E-
+
+3 51:: ‘(Iiisgre 63:16:50" or 5 Eu" LVE‘ C.- ‘1 ‘6 V ‘ pathology report for this case is not consistent with the
+between the mythology diagnosis selected on the TCGA Case Quality Control Form.
+report and the TCGA ' k UWLD 1' Wl‘H/UIM “HAL WM
+Case Quality Control .. ..
+
+Form. WOS: “0+ \Vd/V1 \ V1 'Pm
+VPWOFX‘. 190+ was. give/v1
+0‘” 053 C”? with ~HM, +uvvwr
+had/i VB beached 0 v1 MM.
+Wool/i, of W W
+Name of TSS Reviewing Provide the name or the pathologist who reviewed this case
+4- Pathologist or for TCGA.
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge that ”13 above information "mound L-- ,ny institution is true and correct and has been quality controlled.
+
+~«_...._
+
+TSS Reviewing Pathologist or Biorepository Director
+
+Date
+
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled The Attending Pathoiogist or the
+Department Chairman has been informed or is aware ofthe above discrepancy in diagnoses.
+
+ 
+
+ 
+
+Principal investigator Signature
+
+Date
+

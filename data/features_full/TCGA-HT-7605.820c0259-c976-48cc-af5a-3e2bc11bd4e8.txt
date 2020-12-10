@@ -1,0 +1,21 @@
+Tumor:
+Normal:
+Slide:
+
+ 
+
+Microscopic Description:
+
+Sections demonstrate a variably cellular glial neoplasm that diffusely infiltrates the gray
+and white matter. The majority of the tumor is only mildly hypercellular but some areas
+having conﬂuent hypercellularity are seen. The tumor cells have mildly atypical,
+enlarged, round nuclei and either perinuclear halos or microgemistocytic cytoplasm. Only
+a single mitosis is seen after extensive examination. There is no microvascular
+proliferation or necrosis.
+
+Addendum Description: Scattered MIB-l reactive cells are present in the most
+proliferative areas with a calculated labeling index of 0.6%
+
+Addendum Diagnosis: Low grade Oligodendroglioma (Who Grade II)
+MIB-l Labeling Index: 0.6%
+

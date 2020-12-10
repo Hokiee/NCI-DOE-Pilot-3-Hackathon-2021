@@ -1,0 +1,242 @@
+UUID: CBSSDBSC- TDCD- 474B— SACS- BBISDBBRA1eC31c
+TCGA- BG- ABOT- 91A- -PR
+
+I|| ||||IIIIIIIIIIIIIIIIIIIIIII III||II|III|I||||||IIIIIIIIIIIIIIaIICIIEd
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII||I|II|II|II
+I IIIIIIIIIIIIIIIIIIII||||||||I IIIIIII II III II I IIII I II III||I|I I III
+
+Accession: ”
+
+Specimen Date/Time :
+
+******* MODIFIED REPORT - REVIEW ADDENDUM SECTION ****’;*'*
+DIAGNOSIS '
+
+(A) PLEURAL IMPLANT: F
+THYMOMA IN CONNECTIVE TISSUE (4.0 CM).
+(B) DIAPHRAGMATIC-PLEURAL IMPLANTS:
+THYMOMA IN CONNECTIVE TISSUE (LARGEST NODULE 7.0 CM).
+(C) LEFT LOWER LOBE WEDGE RESECTIONI D .x ,3) ‘
+Lung parenchyma no tumor present. . (up? 1C L j
+([3) AORTIC PLEURA: 3
+' Fibroconnective tissue with focal lymphoid follicle no tumor present “Rik-’7 ”L4“ 140* IﬂLﬂ1I‘Sb?
+(E), RIGHT DIAPHRAGMATIC PLEURA; Hg 3 5ERIC
+F ibroconnective tissue with focal lymphoid follicle, no tumor present. (1):» 0 f"
+(F) ESOPHAGEAL PLEURA; ”(A a???
+Fibroconnective tissue with focal lymphoid follicle, no tumor present. {jktiﬂun LA” N as B 55:13) 5
+(G) COSTO~PHRENIC ANGLE K/jI, (7. <
+THYMOMA IN CONNECTIVE TISSUE (0 8 CM) L. 03L; .55 7 ’57
+(H) CARDIAC PLEURA: Wt: to 7’ M
+THYMOMA IN CONNECTIVE TISSUE (LARGEST MODULE 0 6 CM). [4% ,
+0) ADDITIONAL CARDiAC PLEURA2' Iaollwdlquzot‘} (’0 ‘3“ 5
+(J) ETHEIEMOMA IN CONNECTIVE TISSUE (LARGEST NODULE 2.7 CM). 97‘) 63/5/ILI
+
+For gross examination only.
+
+Entire report and diagnosis completed by
+
+GROSS DESCRIPTION
+
+’
+
+(A) PLEURAL IMPLANT- A tan- red membranous tissue fragment (8 O x 3. 0 x 1 5 cm). In the midportion of the specimen there Is
+a tan ﬁrm nodular mass (4.0 x 1.? x1 5 cm)
+
+INK CODE: Blue— edges of specimen
+SECTION CODE: Representative sections submitted from tumor to peripheral specimen edge. A1-A7.
+(B) DIAPHRAGMATICIPLEURAL iMPLANTS- .A tan-red membranous tissue fragment (24.0 x 13.0 x 2. 7 cm). The specimen
+
+contains multiple nodules ranging from 0 3 to 7 0 cm in greatest dimension Cut sections of these nodules reveal a tan firm
+partially necrotic surface.
+
+Representative sections submitted ”1 81-87
+(C) LEFT LOWER LOBE WEDGE RESECTION- A dark red wedge lung resection (4 0*): 3. O x 0.6 cm) containing a 4 0 cm long
+stapie line Cut sections reveal unremarkable pulmonary parenchyma
+INK CODE: Blue- adiacent to stapled parenchymal margin.
+SECTION CODE: Ct parenohymal margin en face; C2—C4 entirely submitted specimen
+(0) AORTIC PLEURA— A tan irregular membranous tissue fragment (5. 5 x 4 0 x 0.2 cm). Cut section is unremarkable.
+SECTION CODE: Entire specimen submitted in [31:06.
+(E) RIGHT DIAPHRAGMATIC PLEURA A tan-red membranous tissue fragment (2 5 x 2. 3 x D 3 cm) Cut section reveals a
+ﬁbrous surface.
+SECTION CODE: E1, entire specimen submitted an E1 —E3.
+
+(F) ESOPHAGEAL PLEURA - A ten irregular membranous tissue fragment (3.0 x 1.7 x,0.3 cm). Cut section is unremarkable.
+SECTlON CODE: Entire specimen submitted in F1 and F2.
+
+Page: 2
+
+M‘” —
+
+Accession: 4,:
+
+Sbecimen Date/Time:
+
+,3
+
+(G) COSTO—PHRENIC ANGLE - A tan irregular membranous tissue fragment (2.5 x 1.7 x 0.2 cm). A tan nodular firm mass (0.8 x
+0.6 x 0.3 cm) is noted. _ .
+
+SECTION CODE: Entire specimen submitted in 61-62.
+
+(H) CARDIAC PLEURA - Multiple ten irregular tissue fragments (5.0 x 4.0 x 0.2 cm in aggregate). Cut Section reveals multiple
+nodules ranging from 0.3 to 0.6 cm in greatest dimension.
+Representative sections submitted in H4 and H2.
+
+(l) ADDITIONAL CARDIAC PLEURA ~ Multiple tan irregular membranous tissue fragment (5.5 x 4.5 x 0.3 cm). The specimen
+containsmultiple nodules ranging from 1.0 to 2.7 cm in greatest dimension.
+SECTION CODE: Representative sections submitted in l1 and l2. "'
+
+(J) 6TH RIB - Four tan-red rib segments (ranging from 1.0 x 1.0 x 0.9 cm to 5.5 x 1.6 x 0.5 cm). The specimen is submitted to the
+bone tab for further processing. ‘
+
+CLlNlCAL HISTORY
+
+Mass, left lung.
+
+SNOMED CODES
+T-ZQOOO, hit-80506
+
+"Some tests reported here may have been developed and performance characteristics determined by
+speciﬁcally cieared or approved by the US. Food and Drug Administration."
+
+These tests have not been '
+
+Released by:
+
+r
+
+Start of ADDENDUM.
+
+.BNTSdedaWW
+
+Primary Tumor Sit: Discrepancy
+HIPAA Discrepanw
+
+ 
+
+Page: 3
+
+Specimen Date/Time:
+
+ADDENDUM
+
+Addendum com-pieted by
+
+DIAGNOSIS
+
+(J) 6TH RIB:
+Bone tissue submitted for decalcification is free of tumor.
+
+Released by;
+
+. ~—.-~~-END OF REPORT—«m,
+
+til—rm -.
+Accession: . . . .
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form ”‘00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Wong; The TCGA Pathologic Diagnosis Discrepancy Form should be com pleted when the pathologic diagn osis.
+documented on the initial'pathology repartfor a case submitted for TC GA is inconsi'Stent with the diagnosis provided on the
+Case Quality Control Form completed far the submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (T88); T55 identifier: _ 4 TSS Unique Patient Identiﬁer:
+Completed By (Interviewer Name on Completed Date:
+[Diagnosis information _ g
+# Data Element Entry Alternatives Working Instructions
+, Provide the diagnosis] histologic subtype[s} documented on
+Patholcigic Diagnosis Thymoma the initial pathology report forthis case; lithe histology for
+1 Provided an Initial W this case is mixed, provide all listed subtypes.
+Pathology Report
+, . Provide the histologic features selected on the 'I‘CGA Case
+Elsmmglc features 0f Bl Quality Control Form completed for this case.
+2 the sample provxded
+' for TCGA, as reﬂected
+on the CQCF.
+
+ 
+
+ 
+
+ 
+
+Discrepancy between. Pathology Reynrtand Case Quality Control Form
+
+ 
+
+3 Provide the reason for Prozixile a reason (geocgbing why the diagnosis on the initial
+the discrepancy pat o ogy report or t is case is not. consxstent With the
+between the pathology H lStOiogIC subtype was not done diagnos 3 selected on the TCGA Case Quality Control Form
+report and the TCGA at initial pathologic diagnosis.
+
+Case Quality Control
+Form.
+
+Reviewing Pathologist has re—
+reviewed the case slide and
+provided the WHO subtype
+
+ 
+
+Name of TSS Reviewing Provide the name ol‘the pathologist who reviewed this case
+4 Pathologist or for TCGA.
+
+Biorepository Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+! acknowledge that the above information provided by my Institution Is true and correct and has been quality controlled.-
+
+ 
+
+TSS Reviewing Pathologist or Bioreposu'ory Director Date
+
+I acknowledge ﬁmtgthe above information provided by my lnstiala‘on Is true and correct and. has been quality convened. TheAwending Pathologist or the
+Department Chairman has been informed or is aware aftlie above discrepancy in diagnoses.
+
+ 
+
+Principal investigator Signature Date
+
+ 
+

@@ -1,0 +1,29 @@
+UUID: FDSCCOAD- OEDC- 486F- -BE5E- -ACBBOISJEABeFd
+TCGA- QH- -A6EX- 91A
+
+II IIIIIIIIIIIIIIIIIIIIIHIIIIIIIIHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIICIIced
+IllIlIlIllIlI IlHllIll lIllIIlllIIIllIllI |lI|I|lIl||l
+
+I II Illlll IIIl
+IIIHI I II IIHIIIIIIIIHIHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+OBJECT: PATHOLOGIST REPORT
+
+ 
+
+Code:
+
+Gender: M
+
+Age:
+
+Date of surgery:
+
+Localisation: L temporal
+
+Diagnosis: Astrocitoma (grade II WHO)
+
+Name of Pathologist:
+
+ 
+

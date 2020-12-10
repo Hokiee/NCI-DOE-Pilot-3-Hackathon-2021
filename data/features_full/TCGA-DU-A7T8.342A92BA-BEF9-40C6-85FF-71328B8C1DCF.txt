@@ -1,0 +1,98 @@
+Anato mic Pathology / Cytology Document State: (version )
+
+Update Date/Time:
+
+Final 1
+
+Patient Name: MRN: Service Date/1‘ ime:
+DOB/AgeIGender: Male Provider:
+
+Location Responsible Staff:
+
+UUID:342A923A-BEF9~40C6-85FF-7132858C1DCF
+TCGAwDU-A7T8-91A-PR Rﬁlﬁiifed
+
+l IlHIIlHlIIIIlII|||l||||||||||||||||||||l||ll|||||||
+||||||||II|||||l||llI||I||||ll"I||||||||||||||||||||||||||
+|l|||ll|ll||||||||||I|||||||I|V|||||ll|l||l|||l|||||||||||
+
+PATHOLOGICAL DIAGNOSIS :
+
+A. BRAIN, RIGHT FRONTAL, EXCISIONAL BIOPSIES: GLIOMA WITH ATYPICAL
+FEATURES.
+
+B. BRAIN, RIGHT FRONTAL, EXCISION: MIXED OLIGOASTROCYTOMA,
+ANAPLASTIC. MIB—l PROLIFERATION INDEX 3%.
+
+SEE COMMENT.
+
+Operation/Specimen: Brain, right frontal, excision.
+
+Clinical History and Pre—Op Dx: year old man with large right
+frontal brain tumor with focal enhancement.
+
+GROSS PATHOLOGY: '
+
+A. Received fresh, three fragments, 1.5 cm across in aggregate.
+Soft, mucinous, grayish—pink. #leS.
+
+INTRAOPERATIVE CONSULTATION: Brain, smears: Glioma.
+
+B.
+
+SPECIMEN: Brain tumor permanent.
+
+FIXATIVE: Saline.
+
+GENERAL: Two glassy to pale tan soft tissue fragments, 1.0 cm. in
+greatest dimension, and 2.0 X 1.0 x 0.7 cm. Largest
+
+fragment is sectioned.
+
+SECTIONS: All submitted in cassettes 6 and 7.
+
+COMMENT: In part A there is a moderately cellular neoplastic
+proliferation of glial cells. The neoplastic cells are predominantly
+round, somewhat pleomorphic and disposed in a mucinous background with
+microcystic change. Mitotic figures are rarely observed and
+microvascular cellular proliferation or necrosis is absent.
+
+In part B there are focal areas of a similar neoplasia. In addition,
+there are zones with a better defined astrocytic or oligodendroglial
+phenotype. In this specimen, however, there are zones of tumor
+necrosis and microvascular cellular proliferation.
+
+The findings are interpreted as a glial neoplastic proliferation,
+probably mixed oligoastrocytic but predominantly astrocytic, that has
+undergone focal anaplastic transformation (WHO grade III).
+Microvascular proliferation and mitoses in the WHO classifications of
+astrocytomas merit a grade IV category.
+
+IMMUNOHISTOCHEMISTRY: Immunoperoxidase methods for GFAP, CD34, p53,
+and MIB—l were performed on sections from block #7. The GFAP
+demonstrates sparse gliofibrilogenesis by neoplastic cells. The CD34
+depicts the rich vascularity within the neoplasm. About 5% of cells
+over—express the p53 antigen. With the MIB—l, a proliferation index of
+3% is determined in the more cellular areas.
+
+TISSUE COMMITTEE CODE:
+ICD9: l9l
+
+ 
+
+BILLING CODES:
+
+Criteria
+
+Tumor Site
+
+HIPAA
+Prior
+
+Gas: is
+Ravxsvner
+
+ 
+
+[—1
+

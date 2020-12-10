@@ -1,0 +1,67 @@
+UUID:3F43AE57-OEBB-4F48-980F-6E2C8C2BBA74
+
+TCGA-EB-A54Y-01A-PR R
+
+edacted
+lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+
+lllllllllll||||||||||ll|l|||ll|lllllllllllllllllllllllllll
+llllllllllll|||||||Illllllllllllllllllllllllllllllllllllll
+
+Gross Description: There is a breast with tumor of irregular shape up to 3 cm in its largest dimension. At
+the distance of 1.5 cm from the lst tumor node there is the 2nd node up to 1 cm in size. In the axillary
+fatty tissue there are lymph nodes with lipomatosis (suspicion of metastases).
+
+Microscopic Description: lnfiltrating lobular carcinoma of the breast, 6-3, with multicentric type of
+growth. There are single Signet-ring cells. Ten examined lymph nodes demonstrated metastases.
+
+IHC-stainings: ER - positive reaction 98% 3+; PR - positive reaction 50% 3+; Her—2/neu - negative reaction
+1+; Ki-67 - 6%.
+
+Diagnosis Details: Tumor Features: indeterminate, Tumor Extent: T2 tumor size more than 2cm not
+more than 5 cm, Venous invasion: Not speciﬁed, Margins: Absent, Treatment Effect:
+
+Comments: Original records read pT1N2MO. But tumor size is up to 3 cm in largest dimension, which
+corresponds to T2.
+
+Formatted Path Reports: BREAST TISSUE CHECKLlST
+Specimen type: Radical mastectomy
+
+Specimen size: Not speciﬁed
+
+Tumor site: Breast (L l t I 0.15,]me I‘M} N05
+Tumor size: 0 x O x 3 cm 3540/3
+Grossly evident lesion: Yes
+
+Histologic type: Lobular carcinoma
+Histologic grade: Poorly differentiated
+Tumor extent: Not specified
+
+Lymph nodes: 8/10 positive for metastasis (Axillary 8/ 10)
+Extracapsular invasion of the lymph nodes: Not specified
+Margins: Uninvolved
+
+Nottingham Histologic Score
+
+Tubule formation: Not specified
+
+Nuclear pleomorphism: Not specified
+
+Mitotic count (25x): Not specified
+
+Mitotic count (40x): Not specified
+
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not specified
+
+Additional pathologic findings: Tumor Features: indeterminate, Tumor Extent: T2 tumor size more than
+2cm not more than 5 cm, Venous Invasion: Not specified, Margins: Absent, Treatment Effect: iHC-
+stainings: ER - positive reaction 98% 3+; PR ~ positive reaction 50% 3+; Her-Z/neu - negative reaction 1+;
+Ki—67 - 6%.Original records read pT1N2MO. But tumor size is up to 3 cm in largest dimension, which
+corresponds to T2. lHC—stainings: ER - positive reaction 98% 3+; PR - positive reaction 50% 3+; Her-2/neu
+- negative reaction 1+; Ki-67 - 6%.
+
+Comments: Breast-right
+
+ 
+

@@ -1,0 +1,23 @@
+Tumor:
+Normal:
+Slide:
+
+ 
+
+Microscopic Description:
+1. Sections demonstrate midly hypercellular white matter that is infiltrated by mildly to
+moderately atypical fibrillary astrocytes. No mitotic figures are seen. There is no
+
+microvascular proliferation or necrosis.
+
+2.Sections demonstrate gray matter with only a rare, mildly atypical cell scattered
+throughout. These likely represent infiltrating tumor cells.
+
+3. Sections demonstrate gray and white matter. The gray matter demonstrates little
+involvement with tumor. The white matter is mildly hypercellular due to diffuse tumor
+infiltration as described in specimen #1.
+
+Diagnosis:
+
+Positive for infiltrating astrocytoma.
+

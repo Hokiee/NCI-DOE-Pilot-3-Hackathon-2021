@@ -1,0 +1,177 @@
+UUID:3691EAED-C9C7 4437 -92A5-7B
+TCGA-SN-A84Y- -PR 37E954‘M0
+
+Ill lllHlllHI|lllllHllllllllllllllllllllllllllllllllllllllelllllilﬁlted
+l” 1 ll llllllllll ll ll lllllll ”II I III“ I lllll
+lH lllllllllll l llHllllll ll lllllll ll lllllll illiillillliliilllilll
+
+SURGICAL PATHOLOGY
+
+Accession #2 Collected: Received:
+PATHOLOGIC DIAGNOSIS
+
+RIGHT TESTICLE, RIGHT RADICAL ORCHIECTOMY:
+- MIXED GERM CELL TUMOR
+
+— YOLK-SAC TUMOR, 50%; EMBRYONAL CARCINOMA, 50%;
+
+IMMATURE TERATOMA, LESS THAN 2%; ISOLATED
+SYNCYTIOTROPHOBLAST CELLS (SEE COMMENT)
+
+- TUMOR SIZE: 4.5 CM
+
+- MACROSCOPIC EXTENT OF TUMOR: CONFINED TO TESTIS
+
+- LYMPHOVASCULAR INVASION: PRESENT
+
+- SEE CAP SYNOPTIC REPORT W 1109‘ 5
+
+W MW ”5‘5
+
+I
+
+PATHOLOGIC STAGING: Feb 95 70/5
+Primary Tumor (pT): pT2 ‘ 11 dead It; i441”
+
+Regional Lymph Nodes (pN): pNX my I ‘ﬁ' 40 95,3
+Distant Metastasis (pM): Not applicable 5‘ (E g)
+
+Staff Pathologist .
+9M) IIIZ 13
+Comment 4)
+
+Approximately equal portions of yolk sac tumor and embryonal carcinoma are
+present with a very small amount of immature teratoma (less than 2%) and
+isolated syncytiotrophoblast cells. The presence of intratubular- germ cell
+neoplasia is supported by strong staining with CD117. The control is
+appropriate. Multiple foci of lymphovascular invasion are seen.
+
+Intradepartmental consultation: has been consulted on
+representative sections and concurs with the interpretation.
+
+Pertinent Clinical Information
+History of testicular mass
+
+Gross Description
+Specimen Material: Testicle
+
+Received in formalin labeled "TESTICLE" is an 80 gram testicle (7.5 x 4.5 x
+2.5 cm) with attached spermatic cord (1 1.5 cm in length, 1.2 cm in diameter)
+and epididymis (4 x 1 x 0.7 cm). The spermatic cord margin is inked violet.
+The tunica vaginalis is inked black. The tunica albuginea is gray—white
+
+and smooth. The opened testicle reveals a 4.5 x 4 cm well-circumscribed,
+bulging heterogeneous tan-white mass with hemorrhage which appears conﬁned
+to the testis. The mass is located 2 cm from the tunica vaginalis and 0.8
+cm from the tunica albuginea. Representative sections are submitted as
+follows: 1 upper spermatic cord margin
+
+2 middle spermatic cord
+
+3 distal spermatic cord
+
+4 epididymis
+
+5-6 mass and tunica albuginea
+
+7-8 mass with tunica albuginea and epididymis
+
+9-10 mass, tunica vaginalia and tunica albuginea
+
+12-16 mass in relationship to tunica albuginea
+
+Pathology Resident
+
+Microscopic Description
+
+CAP Synoptic Report:
+
+Specimen Laterality: Right
+
+Tumor Focality: Unifocal
+
+Tumor Size: Greatest dimension of main tumor mass: 4.5 cm
+Macroscopic Extent of Tumor: Conﬁned to the testis
+Histologic Type: Mixed germ cell tumor
+
+Embryonal carcinoma, 50%
+
+Yolk sac tumor, 50%
+
+Teratoma, immature, less than 2%
+
+Isolated syncytiotrophoblast cells
+
+Margins: Spermatic Cord Margin: Negative
+
+Microscopic Tumor Extension: None (spermatic cord, tunica
+vaginalis, scrotal wall)
+
+Lymph-Vascular Invasion: Present
+
+Pathologic Staging: Primary Tumor (pT): pT2
+
+Regional Lymph Nodes (pN): pNX
+
+Distant Metastasis (pM): Not applicable
+
+The Staff pathologist listed below has reviewed this case.
+
+This immunohistochemistry test(s) was developed and its performance
+characteristics determined by the ,
+. . and/or afﬁliated institution. It has not
+been cleared or approved by the US. Food and Drug Administration. The FDA
+has determined that such clearance or approval is not necessary. This test
+is used for clinical purposes. It Should not be regarded as investigational
+or for research. This laboratory is certiﬁed under the Clinical Laboratory
+Improvement Amendments of 1988 (CLIA) as qualiﬁed to perform high
+complexity clinical laboratory testing. PM T55 I 4" “MW in“ {W
+Tcéﬂ W4, l," .thh‘aﬂ‘l. IWLZ.
+
+gmeria A” H l{ll‘3 _,l_m_,__l»”_”.
+‘_._-_ ' V ' ’
+
+mal Site l‘Iisue'Enrv
+
+   
+
+ 
+
+M‘ ﬂ-‘l—y'T—fﬁ
+
+TCGA Pathologic Diagnosis Discrepancy Perm £3.95
+
+Discrepancy between Pathology Report and Case Quality Control Form
+
+Provide the reason for the discrepancy The tissue collected for research was Provide a reason describing why the diagnosis on the initial
+
+between the pathology report and the taken from an area that was pathology report for this case is not consistent with the diagnosis
+TCGA Case Quality Control Form primarily embrynal carcinoma. selected on the TCGA Case Quality Control Form.
+
+Name of TSS Reviewing Pathologist or Biorepository Provide the name of the pathologist who reviewed this case for
+Director TCGA.
+
+ 
+
+ 
+
+3:33"? ginger“ "’ "" " ' ' argues; ' ‘iiiA'i
+ID: l
+Study / Site: TCGA Testicular Germ Coil 'l"umors ~ ("Testicular Germ EAge: N/Ag
+Cell Tumors) i i
+Event: I‘Jatl'IDiscrepancy iDate of i
+{sirthz Z
+2 i
+éInterviewer: gSex: M 2
+Tumor Identiﬁer Provided on Initial Case Quality Provide the tumor identiﬁer documented on the initial case quality control form I
+Control Form for this case.
+Pathologic Diagnosis YOLK-SAC TUMOR, 50%; EMBRYONAL Provide the diagnosis/ histologic subtype(s) documented on the initial
+Provided an Initial CARCENOMA, 50%; IMMATURE TERATOMA, pathology report for this case. If the histology for this case is mixed, provide
+Pathology Report LESS THAN 2%; all listed subtypes.
+Histologic features of the sample provided for TCGA, EMBRYONAL Provide the histologic features selected on the TCGA Case Quality
+as reﬂected on the CQCF CARCINOMA, 100% Control Form completed for this case.
+
+ 
+
+ 
+

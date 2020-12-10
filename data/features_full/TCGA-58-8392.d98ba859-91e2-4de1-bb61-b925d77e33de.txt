@@ -1,0 +1,27 @@
+TSS Name=—
+
+Tss Identifier:.
+TSS Unique Patient #:-
+
+Pathology Report-Summary:
+
+Material:
+Lung, left, upper lobe: 19.0 x 17.0 x 5.5 cm
+
+Tumor: 4.8 x 4.2 x 3.8 cm
+
+Diagnosis:
+Squamous Cell Carcinoma (NOS), partially basaloid
+
+pT2a, pNO (0/23), pr, G3
+
+Supplementary examination:
+EGFR mutation analysis (sanger sequencing, Ex 18 — 21)
+EGFR mutation positive
+
+p.L856R (c.2573T>G)
+
+Pathologist: _
+
+— Dae-
+

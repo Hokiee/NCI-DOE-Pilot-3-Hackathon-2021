@@ -1,0 +1,70 @@
+ 
+
+ 
+   
+ 
+
+Case ID Gross Description Microscopic Description
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Diagnosis Details
+
+ 
+
+Comments
+
+ 
+
+Formatted Path Report
+
+LUNG TISSUE CHECKLIST
+
+Specimen type: Pneumonectomy
+Tumor site: Lung
+
+Tumor size: 4.5 x 3.5 x 3 cm
+Histologic type: Squamous cell
+carcinoma
+
+Histologic grade: Moderately
+differentiated
+
+Tumor extent: Not specified
+Other tumor nodules: Not specified
+Lymph nodes: 2/12 positive for
+metastasis (Hilar 2/12)
+
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Margins: Not specified
+
+Evidence of neo-adjuvant
+treatment: Not specified
+Additional pathologic findings: Not
+specified
+
+Comments: None
+
+ 
+
+ 
+
+Excision Date
+
+ 
+
+Laterality
+
+Right— lower
+

@@ -1,0 +1,63 @@
+a"
+
+******* MODIFIED REPORT - REVIEW ADDENDUM SECTION *******
+DIAGNOSIS
+
+Crlterll
+
+Patient ID - Sample ID __
+
+(A) LEFT lNGUINAL SUPERFICIAL AND FEMORAL LYMPH NODES, EXCISION: W 1'
+CONSISTENT WITH METASTATIC MELANOMA. " may-d.
+Tumor measures 10 x 20 x 35 mm in gross description. /gq/n
+
+ 
+
+Eight deﬁnite lymph nodes negative for metastatic melanoma.
+COMMENT
+
+It is possible that this metastatic focus of melanoma represents a completely effaced lymph node and thus one of nine lymph
+nodes would be positive. Immunohistochemistry will be performed to confirm this diagnosis and reported as an addendum. No
+pigment is noted in tumor cells.
+
+/ GA - 0 ’ 3
+Entire report and diagnosis completed by W, W 5 5772013
+
+J/fx/r WM W, W
+
+c 77%
+M7/a’f/II
+GROSS DESCRIPTION
+
+(A) LEFT lNGUINAL SUPERFICIAL, TUMOR AND LYMPH NODES - A 23.0 x 7.5 x 2.0 cm portion of yellow. lobulated
+fibroadipose tissue. A 3.5 x 2.0 x 1.0 cm solid, gray, poorly circumscribed mass is present. Nine lymph nodes ranging from 0.6 to
+1.0 cm are identiﬁed.
+
+SECTION CODE: A1, A2, tumor. representative sections; A3, one possible lymph node; A4, four possible lymph nodes;
+A5, two possible lymph nodes; A6, one possible lymph node, bisected; A7, A8. one possible lymph node, serially sectioned; A9,
+A10, one possible lymph node, serially sectioned. Tissue from tumor submitted to tissue bank.
+
+CLINICAL HISTORY
+Melanoma.
+
+SNOMED CODES
+
+"Some tests reported here may have been developed and performance characteristics determined by 3. These tests have not been
+Speciﬁcally cleared or approved by the US. Food and Drug Administration."
+
+Re'eased by: "umz$%?§§3’3'.7§33L‘7§§A9$°§'ga‘lssAEAﬁeeBdacted
+PHI I {IIIIII IIIIIII III Start of ADDENDUM
+
+ADDENDUM
+
+Addendum completed by _
+
+COMMENT
+
+An immunohistochemical study is performed for pan-melanoma cocktail (HMB-45 and anti-MART 1) showing diffuse reactivity
+within the tumor cells and strongly supporting the diagnosis of melanoma.
+
+Released by
+
+------ END OF REPORT------
+

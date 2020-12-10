@@ -1,0 +1,260 @@
+UUID: 3D167AD9- 276F- MM 907- D7ADSBZ£IDe59Fa
+TCGA- ou- A7TB B-e1A- pa mi?) 13
+
+III|I|I|I|||||I|II|||III||I||IIIIIIII|IIIIIIIIIIIIIIIIlIlIIIIIIIIIIIIecl I dual WW
+III IIIIIIIIIIIIIIIIIIIIIIIII'IIIIIIIIIIIIII'II'III'III'IIII We “‘37 ruse/3
+
+Surgical Pathology Report ﬁ‘ﬂw ,WWIE
+
+Patient Name: Phone #: Accession #: 6,7,: 5
+Med. Rec. #: Client: Taken: (,0 459m,
+
+DOB: ‘ (Age: ) Location: Received: ”‘1 1.
+
+Gender: M Accnt: Reported: ' €7j’ ”/1
+
+Physician(s): '
+Phy Location: . @Q 4kg, [/4
+Clinical History
+year-old man experienced a recent onset seizure and has a left facial droop. On imaging there is
+a mass in
+the medial and superior temporal lobe that extends into the insula, with mass effect and uncal herniation.
+Operative Diagnoses
+Benign brain neoplasm.
+Operation I Specimen
+A: Brain, right temporal lobe, excision biopsy
+B: Brain, temporal lobe, excision biopsy
+Pathologic Diagnosis
+A and B. Brain, right temporal, excisional biopsies:
+1. Oligodendroglioma, diffusely inﬁltrating.
+2. MlB-1 proliferation index: 3%.
+See Microscopy Description and Comment.
+Comment
+The sections contain portions of cerebral cortex and adjacent white matter that are diffusely and
+moderately infiltrated
+by a glial neoplastic proliferation made of rather uniform round nuclei, with some perineuronal satellitosis.
+The MlB-1
+proliferation index is somewhere between 1.5% and 3%. There is not mitotic activity, microvascular
+proliferation, or
+necrosis.
+In this limited sample the neoplasm has a phenotype consistent with an oligodendroglial origin, and is
+devoid of
+anaplastic features (WHO ll).
+“*Electronically Signed Out***
+
+Senior Staff Pathologist
+
+Consultant: , Senior Staff
+Pathologist
+Procedures/Addenda
+Loss of Heterozygosity 1p, 19q Assay (LOH)
+Date Ordered: Date Reported:
+
+Surgical Pathology
+
+Page 2 of 4
+
+Interpretation
+
+POSITIVE: Allelic loss on chromosome arm 19q is detected.
+
+Allelic loss on chromosome 1p is not detected.
+
+Informative loci are: D1S548, D181592, D18552, D198219, D198412, and PLAZG4C
+Results-Comments
+
+Testing was performed on DNA extracted from tumor parafﬁn block (B1). H&E stained slide
+was examined
+
+and marked by a pathologist for subsequent tumor dissection. Peripheral blood DNA was used for
+germline
+
+comparison,
+
+TEST DESCRIPTION: Allelic loss is assessed by PCR assay in Normal DNA (baseline)! Tumor DNA
+pairs using 3
+
+markers at both 1p and 19q. The 3 markers on 1p are D18548, D1S1592, and 018552 (with D18468.
+D1 81 612, and
+
+D1S496 as backup markers) and the 3 markers on 19q are D195219, D1QS412, and PLAZG4C (with
+D198606 and
+
+D1QS1182 as backup). All markers are microsatellites (2 or 4 nt repeats) except PLA2G4C which is a
+minisatellite (26
+
+nt repeat) polymorphism. The markers were selected based on heterozygosity score, amplicon size, and
+ease of
+
+interpretation. The backup markers are used if the first line markers at that chromosome arm are
+uninformative or
+
+otherwise ambiguous in their interpretation. LOH at all informative loci on each chromosomal arm
+represents the .
+
+typical ﬁnding in oligodendrogliomas with 1p and 19q deletion.
+
+FDA COMMENT: The above data are not to be construed as the results from a stand-alone diagnostic
+test. This test
+
+was developed and its performance characteristics determined by the
+
+as required
+
+by CLIA' 88 regulations. It has not been cleared or approved for speciﬁc uses by the US. Food and Drug
+Administration (FDA). The FDA has determined that such clearance or approval is not necessary. These
+results are
+
+provided for informational purposes only, and should be interpreted only in the context of established
+procedures
+
+and/or diagnostic criteria.
+
+TECHNICAL SENSITIVITY: The presence of >15% non-neoplastic cells in the sample may preclude the
+detection of
+
+allelic loss.
+
+***Electronically Signed Out***
+
+MGMT Promoter Methylation
+Date Ordered: . Date Reported:
+Interpretation
+NEGATIVE: No evidence of methylated MGMT promoter is detected.
+Results-Comments
+Testing was performed on DNA extracted from tumor parafﬁn block (B1). H&E stained slide
+was examined
+and marked by a pathologist for subsequent tumor dissection.
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT promoter have been shown to
+benefit
+from therapy with alkylating agents. Assessment of MGMT promoter methylation status Involves bisulﬁte
+treatment of
+DNA followed by real-time PCR ampliﬁcation of methylated and unmethylated DNA
+sequences. The
+analytic sensitivity of this assay was determined by serial dilution of methylated positive control DNA into
+unmethylated DNA, and was assessed to be 1% of methylated DNA in the background of unmethylated
+DNA. Factors
+such as the presence of >50% non-neoplastic cells in the sample. or extensive tissue necrosis, may
+preclude the
+detection of methylated MGMT promoter sequences.
+Surgical Pathology
+Page 3 of 4
+
+FDA COMMENT: The above data are not to be construed as the results from a stand alone diagnostic
+test. This test
+
+was developed and its performance characteristics determined by the
+as required
+by CLIA '88 regulations. It has not been cleared or approved for specific uses by the US. Food and Drug
+Administration (FDA). The FDA has determined that such clearance or approval is not necessary. These
+results are
+provided for informational purposes only, and should be interpreted only in the context of established
+procedures
+and/or diagnostic criteria.
+***E|ectronicallv Signed Out***
+, Senior Staff Pathologist
+Intra—Operative Consultation
+
+A. Brain, right temporal lobe, excision biopsy: Astrocytic proliferation, reactive. atypical; also
+undifferentiated cells
+
+(CNV neoplastic oligos, R/O astrocytic, non-diagnostic). 2 crush preparations and 4 touch preparations.
+Preparations
+
+performed at . No
+frozen
+
+section slides prepared, . Slides interpreted by . at the
+
+utilizing
+
+telepathology and reported on
+
+B. Brain, temporal lobe, excision biopsy: Brain, right temporal lobe, excision biopsy: Astrocytic
+proliferation, reactive,
+
+atypical, and undifferentiated ce||s(C/W neoplastic oligodendrocytes, RIO astrocytes, non-diagnostic). 2
+crush
+
+preparations and 4 touch preparations. Preparations performed at
+
+. No frozen section slides prepared, . Slides interpreted by
+at the
+main campus of utilizing telepathology and reported on
+Staff Pathologist
+, Senior Staff
+Pathologist
+Gross Description
+
+A.
+Brain, right temporal lobe, excision biopsy:
+CONTAINER LABEL: right temporal lobe.
+
+FIXATIVE: Formalin. NO. PIECES: num. SIZENOL: 13 x 10 x 4 mm. CASSETTES: 1,
+B
+
+Brain, temporal lobe, excision biopsy:
+CONTAINER LABEL: temporal lobe.
+FIXATIVE: Formalin. NO. PIECES: few. SIZENOL: 10 x 6 x 3 mm. CASSETTES: 1,
+
+Microscopic Description
+IMMUNOHISTOCHEMISTRY: The GFAP demonstrates a glioﬁbrillary background throughout the
+specimen, and
+numerous reactive astrocytes. About one fourth of neoplastic nuclei over express strongly the p53
+protein. With the
+MIB-1 the proliferation index of the total number of cells is about 1.5%, perhaps about 3% in the
+neoplasm assuming
+that one half of nuclei are native non-neoplastic cells.
+lCD-9(s): 225.0 225.0
+Billing Fee Code(s): A:
+Surgical Pathology
+
+Page 4 of 4
+
+LOH 1p19q:
+
+MGMT:
+
+Histo Data
+
+Part A: Brain, right temporal lobe, excision biopsy
+Taken: , -. . . Received: .
+
+Stain/cut Block Ordered Comment
+
+H&E x 1 1
+
+TPS Triage x 1 1
+
+Part B: Brain, temporal lobe, excision biopsy
+Taken: Received:
+
+Stain/cut Block Ordered Comment
+
+x1 1 ‘ For 1p, 19q LOH, microdissecti
+EMA-DA x1 1 '
+
+mGFAP—DA x 1 1
+
+H8IE x 1 1
+
+MGMT-curls x 1 1
+
+MIB1-DA x 1 1 .
+
+NeuN x 1 1
+
+P53DO7x11.' '
+
+Synap-DA x1 1
+
+TPS Triage x 1 1
+
+Emma
+
+Tumor Site
+
+Ciel}
+
+ 
+

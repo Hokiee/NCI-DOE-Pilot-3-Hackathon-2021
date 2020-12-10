@@ -1,0 +1,64 @@
+ 
+
+** Case imported from legacy comiuter sistem. The format of this report does not match the original case. **
+
+** For cases prior to he section “SPECIMEN" may have been added. *"
+
+ 
+
+ 
+
+mAGNOSS
+(A) RIGHT FACIAL LYMPH NODE:
+one node, no tumor present.
+(3) RIGHT HYPOGLOSSAL NODE:
+No tumor present.
+(C) LEFT HYPOGLOSSAL NERVE:
+, Nerve, no tumor present.
+(D)1h TOTAL GLOSSECTOMY, SUBMANDIBULAR:
+THREE FOCI 0F INVASIVE MODERATELY WELL DIFFERENTIATED SQUAMOUS
+CARCINOMA (SIZE RANGE 6.0 T0 1.2 CM) WITH PERINEURAL
+INVASION.
+Margins of resection free of tumor.
+(E) LEFT PARAPHARYNGEAL SPACE AND ANTERIOR TONSILLAR PILLAR:
+Fibrosis.
+(F) LEFT GINGIVAL NODULE:
+No tumor present.
+Fibrosis.
+(G) LEFT GINGIVAL NODE:
+one node, no tumor present.
+
+COMMENT
+
+The total g'lossectomy specimen shows three foci of we'l'l .
+differentiated squamous carcinoma ranging in size from 6.0 to 1.2 cm, show1ng
+' ern of invasion to a depth of 0.8 cm.
+
+ 
+ 
+ 
+ 
+
+SPECIMEN
+
+(A) RIGHT FACIAL LYMPH NODE:
+
+(B) RIGHT HYPOGLOSSAL NODE:
+
+(C) LEFT HYPOGLOSSAL NERVE:
+
+(D) TOTAL GLOSSECTOMY, SUBMANDIBULAR:
+
+(E) LEFT PARAPHARYNGEAL SPACE AND ANTERIOR TONSILLAR PILLAR:
+(F) LEFT GINGIVAL NODULE:
+
+(G) LEFT GINGIVAL NODE:
+
+SNOMEDCODES
+T-53000,M-80703
+
+Page 1 of 1
+
+History Case Pathology Report Hi story Case Pathology
+File under: Pathology
+

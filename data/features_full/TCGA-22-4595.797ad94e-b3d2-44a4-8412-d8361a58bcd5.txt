@@ -1,0 +1,34 @@
+— Surgical Pathology
+
+TISSUE DESCRIPTION:
+
+Left lower lobe lung (330 grams, 1? x 17 x 6 cm); pOrtion of left lung
+lingula (8.5 x 4.5 x 2.2 cm); aortic (aortopulmonary), inferior
+mediastinal (subcarinal, inferior pulmonary ligament) and left fissure
+
+lymph nodes
+
+I TCGA—22—4595
+
+DIAGNOSIS :
+
+Lung, left lower lobe, lobectomy: Invasive grade 4 (of 4) squamous
+cell carcinoma forming a 6cm mass in the lower lobe extending through the
+pleura to involve mediastinal fat. The margins of resection, including
+
+the bronchial margin, are free of involvement.
+
+Lymph nodes, intrapulmonary peribronchial, excision: Multiple (5 of 6)
+lymph nodes are involved by metastatic squamous cell carcinoma.
+
+Lymph nodes, aortic, inferior mediastinal and left fissure, excision:
+Multiple inferior mediastinal lymph nodes (1 of 3 subcarinal, 1 of 3
+inferior pulmonary ligament) are involved by metastatic squamous cell
+carcinoma. Multiple aortic (3 aortopulmonary) lymph nodes as well as a
+single left fissure lymph node are negative for tumor.
+
+Lung, left lingula, excision: Lung parenchyma without diagnostic
+abnormalities.
+
+ 
+

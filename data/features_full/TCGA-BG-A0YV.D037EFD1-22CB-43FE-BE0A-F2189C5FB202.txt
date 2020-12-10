@@ -1,0 +1,114 @@
+ 
+
+ 
+
+ 
+
+PATIENT HISTORY:
+CHIEF COMPLAINT/ PRE—OP/ POST-OP DIAGNOSIS: Endometrial cancer.
+LMP DATE: Not available.
+
+PROCEDURE: Robot assist total abdominal hysterectomy bilateral salpingo-oophorectomy, pelvic lymph node dissection.
+SPECIFIC CLINICAL QUESTION; thaprovided.
+
+OUTSIDE TISSUE DIAGNOSIS: Not provided. MA ' 0 ’ 5
+
+PRIOR MALIGNANCY: Not provided. M W, WI #05 ”HI/3
+
+CHEMORADIATION THERAPY: Not provided. . . ,
+
+OTl—IER DISEASES: Not provided. Jr: 5 WW“ C54" F i/a/n
+dﬂﬂﬁii
+
+ 
+
+FINAL DIAGNOSIS:
+
+PART 1: LYMPH NODE, LEFT COMMON AND PERIAORTIC —
+NO METASTATIC CARCINOMA IS IDENTIFIED IN ONE LYMPH NODE (0/1).
+
+PART 2: LYMPH NODES, RIGHT COMMON AND PERIAORTIC —
+NO METASTATIC ADENOCARCINOMA IDENTIFIED IN TWO LYMPH NODES (0/2).
+
+PART 3: UTERUS, BILATERAL ADNEXA, ROBOT ASSISTED TOTAL ABDOMINAL HYSTERECTOMY AND BILATERAL
+SALPINGO-OOPHORECTOMY -
+
+. CHRONIC ENDOCERVIX WITH NABOTHIAN CYSTS; MICROSCOPIC ADENOCARCINOMA EXTERNALLY
+INVOLVES THE DEEP SURFACE OF THE CERVIX. ‘ .
+
+SERQUS ENDOMETRIAL ADENOCARCINOMA, NUCLEAR GRADE 33/
+
+TUMOR E7(TEND'S THROUGH THE FULL THICKNESS OF THE MYOMETRIUM WITH SEROSAL
+
+INVOLVEMENT.
+
+LYMPHOVASCULAR SPACE INVASION IS PRESENT.
+
+BACKGROUND LEIOMYOMAS.
+
+MICROSCOPIC BILATERAL PERITUBAL METASTATIC INVOLVEMENT, BILATERAL.
+
+MICROSCOPIC BILATERAL OVARIAN INVOLVEMENT BY METASTATIC ADENOCARCINOMA.
+
+ammo on >
+
+PART 4: LYMPH NODES, RIGHT PELVIC, LYMPH NODE DISSECTION -
+NO METASTATIC ADENOCARCINOMA IDENTIFIED IN NINE LYMPH NODES (0/9).
+
+PART 5: LYMPH NODES, LEFT PELVIC, LYMPH NODE DISSECTION —
+. NO METASTATIC ADENOCARCINOMA IDENTIFIED IN EIGHT LYMPH NODES (0/8).
+
+UUID : D037EFD1-22CB-43FE-BE6A-F2189C5FBIO2
+TCGA- BG - AGYV- 91A- P
+
+R Redacted
+- IlllllllIllIlllllllllllllllllllllllllllllllllllllllllllllllllllllll
+COMMENT
+Companion peric wash cytology specimem negative. Ill lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+CASE SYNOPSIS: Ill lllllllllllllllllllllllllllllllllllllllllllllllllllllll llllll
+
+SYNOPTIC — PRIMARY UTERINE ENDOMETRIAL CARCINOMA & CARCINOSARCOMA : HYSTERECTOMY
+SPECIMENS
+
+TUMOR TYPE: Serous adenocarcinoma /
+
+HISTOLOGIC GRADE (epithelial neOpIasm) [combined architectural and nuclear]:
+Poorly differentiated (FIGO 3)
+
+ARCHITECTURAL GRADE: Poorly differentiated
+NUCLEAR GRADE: Grade 3
+TUMOR SIZE: Maximum dimension: 40 mm
+
+PERCENT OF ENDOMETRIAL SURFACE INVOLVEMENT:
+Anterior endomyometrium: 80 %, Posterior endomyometrium: 80 %
+
+DEPTH OF INVASION: Into serosa
+
+MARGINS OF RESECTION: Vaginal margin is negative for tumor. Parametrium margin is negative for tumor
+ANGIOLYMPHATIC INVASION: Yes
+
+OTHER: Leiomyoma
+
+MITOTIC RATE: Mitotic rate: 20/ 10 HPF
+
+LYMPH NODES POSITIVE: Number of lymph nodes positive:: 0
+
+LYMPH NODES EXAMINED: Total number of lymph nodes examined: 20
+
+EXTRANODAL EXTENSION: No
+
+DISTANT METASTASES (Excludes metastases to vagina, pelvic serosa, and adnexa. Includes lymph nodes other
+than regional lymph nodes):
+
+Present
+T STAGE, PATHOLOGIC: pT3a .
+N STAGE, PATHOLOGIC: pNO Mn... rumors“.
+M STAGE, PATHOLOGIC: Not applicable
+FIGO STAGE: lllA
+
+RESIDUAL TUMOR: Rx am.
+
+Reviewer Initials
+
+ 
+

@@ -1,0 +1,185 @@
+Surgical Pathology Report
+
+   
+
+Physician{s):
+
+STORY
+
+oman presented with partial seizyre, and has a
+left frontal mass with focal enhancement.
+
+OPERATIVE DIAGNOSES
+Not Given
+
+Operation/Specimen: Brain tumor, biopsy
+
+PATHOLOGICAL DIAGNOSIS:
+
+A. Brain, site not specifieds cxcisional biopsy: Olicodendro lioma.
+B. Brain, site not specified, excisional biopsies
+
+Oligodendroqlioma, focally anaplastic.
+Sec Comment and Microsc0py Description.
+
+COMMENT
+Part A is portions of cerebrum with an oligodendroglioma WHO
+
+grade II/IV.
+The morphology of the neoplasm is consistent with a positive LOH
+
+tumor.
+Part B contains tumor similar to that one in part B, but with a
+
+focal
+area of anaplasia, i.e. an oligodendroglioma WHO grade III/IV.
+Overall the neoplasm is a grade II oligodendroglioma, but it has
+a small
+zone with anaplastic change
+The morphological findings may be correlated with clinical,
+
+imaging, and
+operative findings for their final interpretation and patient's follow
+
+up.
+
+‘kfc‘k ' ' ***
+
+PROCEDURES/ADDENDA
+
+ 
+
+MGMT Promoter Meth lation
+Date Ordered: — Date Reported: _
+
+Interpretation
+NEGATIVE w No evidence of methylated MGMT premoter is detected.
+
+Results—Comments
+
+Submitted paraffin curls labeled dated-
+
+TEST DESCRIPTION: Bisulfite treatment of DNA followed by PCR
+amplification of
+
+both methylated and unmethylated MGMT promoter sequences, with
+products
+
+detected by gel electrophoresis.
+
+FDA COMMENT: The above data are not to be construed as the results
+from a
+
+stand-alone diagnostic test. This test was developed and its
+performance
+
+characteristics determined by the AP Molecular Pathology laboratory as
+required by-egulations. It has not been Cleared or approved
+for
+
+specific uses by the 0.8. Food and Drug Administration (FDA). The FDA
+has
+
+determined that such clearance or approval is not necessary. These
+results are
+
+provided for informational purposes only, and should be interpreted
+only in
+
+the context of established procedures and/or diagnostic criteria.
+
+1 Si ned Out***
+
+ 
+
+ 
+
+ 
+
+INTRA-OPERATIVE CONSULTATION
+Brain tumor, biopsy, touch prep and smears: Glioma (C/W
+
+oligodendro lioma).
+Part A. h
+
+GROSS DESCRIPTION
+
+A.
+Received fresh, several fragments, 1.8—cm. in aggregate. Semiufirm,
+tannish—grey, glistening. In total, Al and A2.
+
+B.
+
+Received from the Tumor Tissue Bank are 14 H-stained slides
+labeled
+
+_ from 1 to 7.
+
+ 
+
+ 
+
+— tootot otott totootootst
+
+MICROSCOPIC DESCRIPTION
+
+Part A.
+
+Portions of cerebrum diffusely infiltrated by a neoplastic
+proliferation of
+
+uniform round nuclei with perinuclear haloes and slight pleomorphism..
+The
+
+neoplasm infiltrates the cortex, with perinuclear satellitosis and
+intervening
+
+reactive astrocytes. The mitotic rate is about 2 mitoses/10 high
+power fields
+
+(40x). The vessels are focally prominent, but there is no
+microvascular
+
+cellular proliferation. There is no necrosis
+
+Part B.
+
+From the Tumor Tissue Bank, sections contain portions of cerebrum with
+a neoplasm similar to the one in part A. In this specimen, however,
+there is a
+
+focal area of tumor necrosis surrounded by neoplasm with microvascular
+cellular proliferation.
+
+IMMUNOHISTOCHEMISTRY: The GFAP depicts a spares gliofibrillary
+background.
+
+About 20% of the cells over express the p53 protein. With the MIB—l
+there is
+
+a proliferation index of about 12% in the more active areas.
+
+ICDw9(s):
+191.1 191.1
+
+ 
+
+Histo Data
+
+Part A: ' tum r biopsy
+Taken: & Received:
+
+Stain/cot Block Ordered Comment
+mGFAPHDA x l 1
+H/E x 1 1
+MIBl—DA x 1 1
+PS3DO7 x l 1
+H/E x l 2
+
+  
+   
+
+*** End of Report ***
+
+ 
+

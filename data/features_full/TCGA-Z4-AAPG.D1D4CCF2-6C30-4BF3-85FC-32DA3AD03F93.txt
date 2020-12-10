@@ -1,0 +1,30 @@
+UUID:01MCCF2--6C38-4BF3-85FC~320A3AD£3EF93ac
+TCGA- 24- MPG- -01A
+
+llIIII IIIIIIIIIIIRII||II|IIc|Iad
+iii IIIIIIII III IIIIIIIIIIIIEI‘IIIIIIIIIIIIIIIIIII IIIIIIIIIIIIIIIIIII
+
+ 
+
+Case #
+
+Patient: Age (years): Gender: F
+Clinical diagnosis: Sarcoma
+
+Date of procurement: (mm/dd/yyyy)
+Sample: ‘
+
+Gross description: Soft tissue from retroperitoneum measured 10x10x7 cm with
+subcutaneous adipose tissue 2 cm thick.. Section shows tumor mass in
+retroperitoneum 1
+
+Microscopic description: Sections reveal the tumor cells that are characterized
+by high cellularity with marked nuclear pleomorphism. Surgical margins are clear.
+Histology consistent with Undifferentiated Pleomorphic Sarcoma, Grade 3
+
+Final diagnosis: Undifferentiated Pleomorphic Sarcoma
+
+Conﬁdential
+
+ 
+

@@ -1,0 +1,115 @@
+   
+    
+
+\
+
+Tam/0am? '3'
+
+ 
+
+Sur ical Pathology Report
+
+CLINICAL HISTOR
+Not Given
+
+OPERATIVE DIAGNOSES
+Not Given
+
+Operation/Specimen: A: Brain,tumor, biopsy
+B: Brain,tumor, biopsy
+
+PATHOLOGICAL DIAGNOSIS:
+A and B. Brain biopsy: Glioblastoma multiforme, proliferation index { MIB—l
+
+) : 40%
+
+COMMENT
+This is a high grade glioma with increased mitotic figure, prominent vascular
+
+hyperplasia and areas of necrosis,.
+
+PROCEDURES/ADDENDA
+MGMT Promoter
+Date Ordered:
+
+ation
+
+       
+
+Interpretation
+
+NEGATIVE - No evidence of methylated MGMT promoter is detected.
+
+Results—Comments
+Received were paraffin curls labeled
+
+TEST DESCRIPTION: Bisulfite treatment of DNA followad by PCR amplification of
+both methylated and unmethylated MGMT promoter sequences, with products
+detected by gel electrophoresis.
+
+FDA COMMENT: The above data are not to be construed as the results from a
+
+stand—alone diagnostic test. This test was dev d its performance
+characteristics de ined by the laboratory as
+required by CLIA ‘ egulations. It has no d or approved for
+
+1'
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA has
+P
+
+    
+
+ 
+
+determined that such clearance or approval is not necessary. These results are
+provided for informational purposes only, and should be interpreted only in
+the context of established procedures and/or diagnostic criteria.
+
+ 
+
+ 
+
+INTRA-OPERATIVE CONSULTATION
+A. Brain, biopsy: Glioma, 1 block,-
+
+ 
+
+GROSS DESCRIPTION
+A. Multiple tissue fragmentsﬁ 0.3 to 0.6 cm, All in Al, A2
+
+B. One 0.5 cm tissue fragment, all in El
+
+ 
+
+ICDe9(s):
+191.2 191.2
+
+    
+
+Histo Data
+
+Part A: ‘ mor biopsy
+
+Stain/cut Block red Comment
+H/E x 1 1
+
+H/E X 1 2
+
+MGMT x l 2
+
+MIBl-DA x 1 2
+
+ 
+
+Part B: Brain tumor, biopsy
+Taken: Received:
+
+Stain/cut -Block rdered Comment
+H/E x l 1
+
+*** End of Report ***
+
+ 
+
+“a...“
+

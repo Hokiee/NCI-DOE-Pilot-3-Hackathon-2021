@@ -1,0 +1,100 @@
+UUID: BCIBDGCD- 6915- ADEA- A613- F2DE55-1C267eFd
+TCGA- FC- A66V- BiA- PR
+
+l|||||||||||||||||||||||||||||||||||||||||||||||||||||||||e|||| IIIIIEd
+|llllllllllllllllllllllllllll ||||||||||||
+(l) III|HI|IIHIIHII|I|IHIIIHI llllllllll l I ll Illlllllll I ||||||l|||| “II“ I“
+
+TSS Patient lD: OpenClinica lD: f
+Surgical Date:
+Gross Description: A. "Left pelvic node." A 3.5 x 2.0 x 0.4 cm lymph node.
+
+B. "Right pelvic node." A 1.0 cm lymph node admixed with 1.0 cm adipose tissue.
+
+C. "Prostate." A 52 gram, 5.0 x 4.0 x 3.8 cm prostatectomy specimen with attached seminal vesicles and
+an intact capsule. The prostate is inked as follows: Anterior red, right side black and left side blue. The
+apex is shaved, cut perpendicularly and submitted in C1 and C2. The bladder neck is shaved, cut
+perpendicularly and submitted in C3 and C4. The remaining prostate is serially sectioned transversely
+revealing a tumor in the left postero-Iateral aspect from apex to base, 2.5 x 1.5 x 0.5 cm. There is also
+yellow orange tumor in the right postero-lateral mid to base, 2.5 x 2.5 x 1.0 cm. The right seminal vesical
+
+had questionable tumor. D. "Prostatic apex." A 0.3 and 0.4 cm fragment.
+
+I60 -0 5
+E. "Bladder neck." A 0.7 x 0.3 x 0.2 cm fragment. W" W 91140 [é
+Microscopic Description: Gleason score: 4 + 3 = 7 (6.2/3— WW7: N o 3 649! C1
+
+.9799 q/quts
+
+Higher tertiary pattern: Absent
+Tumor quantity: 40% of prostatic tissue; maximum linear extent at least 23 mm
+Prostate size: 52 gram
+
+Location: Bilateral
+
+Histologic type: Conventional
+
+Therapy-related change: Absent
+
+Extracapsular extension: Present (Bilateral base, near seminal vesicles, at least 0.5 cm extent)
+Seminal vesicle invasion: Present (right side, suspicious for left side involvement)
+Angiolymphatic invasion: Present (focal)
+
+Margins: All margins free of tumor
+
+Lymph node (right pelvic, B): 1 lymph node free of tumor
+Lymph node (left pelvic, A): 1 lymph node free of tumor
+Pathologic stage: pT3b N0 Mx
+
+Diagnosis Details: Prostate: Adenocarcinoma, acinar cell
+
+Bladder neck: Benign smooth muscle, no prostate glands.
+
+Comments: Tumor involves the right seminal vesicle, and also involves the intraprostatic portion of the
+left seminal vesicle. Clear involvement of the extraprostatic left seminal vesicle is not seen in these
+
+sections.
+
+Formatted Path Reports: PROSTATE TISSUE CHECKLIST
+Specimen type: Robot assisted radical prostatectomy
+Tumor size: 2.3 cm
+
+Histologic type: Acinar cell adenocarcinoma
+
+Gleason's score: 4 + 3 = 7/10
+
+Focality: Not specified
+
+Laterality: Bilateral
+
+Extraprostatic extension: Present
+
+Lymph nodes: 0/2 positive for metastasis (Left and right pelvic 0/2)
+Lymphatic invasion: Present
+
+Venous invasion: Present
+
+Seminal vesicle invasion: Present
+
+Margins: Uninvolved
+
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+
+Comments: None
+
+ 
+   
+   
+
+,Crit nri-u
+
+ 
+
+... .
+”T l ‘5 - , .
+us P" i L
+_ ‘ DISQUALIFIE
+l ‘1 are REVIEWEI‘I
+.__‘—-——'.—-v ‘-
+

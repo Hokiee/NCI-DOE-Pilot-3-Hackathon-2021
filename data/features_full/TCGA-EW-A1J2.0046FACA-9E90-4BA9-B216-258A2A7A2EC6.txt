@@ -1,0 +1,361 @@
+ 
+
+Surgical Pathology Report
+
+V-
+‘ o -
+
+ 
+
+Name: Case #: .—
+DOB: ’ ‘ ‘ “ Collected:
+
+Gender: F Received:
+
+MRN: — Reported:
+
+Location: Copy To:
+
+Physician:
+
+ 
+
+ 
+
+Pathologic Interpretation:
+Right HS1 Axilla 1 count - FS:
+
+- No carcinoma seen on routinely stained section. Immunohistochemistry for keratin to follow.
+
+B. Right HS1 axilla 1 count FS: [CA (a ’3
+CWW WWII?“ [0% Na; Xﬂio/j
+
+- No malignancy seen in one lymph node (0/1).
+
+C. Right HSt axiila 1 count -'S: (OMS 3%.; W [WMWWM (150, 3’ 90/2,
+
+- No malignancy seen in six lymph nodes (0/6).
+
+D. Right HS 1 axilla 1 count
+- Fibroadipose tissue. no speciﬁc pathologic change.
+
+E. Right breast (1 suture- -superior; 2 sutures~medial):
+
+chF jib: Mm; 650-?
+
+‘- invasive Iobular carcinoma. well differentiated. Nottingham grade1 (3+1+1=5) 1. 1 cm in greatest linear diinension.
+
+- Resection margins free of tumor.
+
+- Lymphovascular Invasion not identiﬁed.
+
+Biopsy site present.
+
+Predictive markers performed on previous biopsy "
+E-cadherln by Immunohistochemistry.
+
+Please see tumor summary.
+
+F. Left breast (1 suture-superior; 2 sutures-medial):
+
+cell change.
+
+‘) were positive for ER and PR and negative For Her-2 and
+
+- Fibrocystic changes including adenosls, stromal ﬁbrosis. usual ductal hyperplasia ﬁnd microcysts with foc+ columnar
+
+- Microscopic Intraductal papilloma, 1.5 mm.
+
+G. Right axillary dissection:
+- No malignancy seen in seventeen lymph nodes (0117).
+
+ 
+
+UUID: OOAGFACA- 9E90- 4BA9- 3216- 258A2A7A2Ece6d
+TCGA- EW- A132- BlA- PR
+
+. . . IH||lHIllHIllllllllllllllllllllllllllllllllllllllllllRllllllllllled
+R'Qh‘ am' ““31 l llllllllllllllllllllllli ll llllllll
+
+. No maﬁgnancy seen in one ,ymph node (on). ||||||||||I|l|l|||| ill”
+
+I
+III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIlIlIlIIIIIIIHIIIIIIIIIII
+lNVASIVE CARCINOMA OF THE BREAST
+Specimen Type:
+- Total breast
+Procedure
+- Total mastectomy
+Lymph Node Sampling
+- Sentinel lymph node. axillary dissection
+Specimen Integrity
+- Single intact specimen
+Specimen Laterality:
+— Right
+Tumor Site: Invasive Carcinoma
+- Lower outer quadrant
+Tumor size: Size of Largest Invasive Carcinoma
+- Greatest dimension of largest focus of Invasion over 0.1 cm: 1.5 cm
+'Additional dimensions: 1.5 x 1.5 cm
+Tumor Focallty
+- Single focus of invasive carcinoma
+Macroscopic and Microscopic Extent of Tumor
+- Skin is not present
+Skeletal Muscle:
+- No skeletal muscle present
+Lobuiar Carcinoma In Situ (LCIS)
+
+ 
+
+’l SURGICAL PATHOL Report 0
+
+- Present
+
+Histologic Type of Invasive Carcinoma
+
+- Invasive lobular carcinoma
+
+Histologlc Grade: Nottingham Histologic Score
+
+- Score 3: <10% of tumor area forming glandular/tubular structures
+
+Nuclear Pleomorphls'm
+
+- Score 1: Nuclei small with little increase in size In comparison with normal breast epithelial cells. regular outlines, uniform
+nuclear chromatin. little variation in size
+
+Mitotic Count
+
+- Score 1
+
+Overall Grade
+
+- Grade 1: scores of 3, 4 or 5
+
+Margins
+
+- Margins uninvolved by invasive carcinoma; Distance from closest margin: 1.5 mm (medial)
+
+Treatment Effect: Response to Presurgical
+In the breast: No known presurgical therapy
+In the lymph nodes: No known presurgical therapy
+Lymph-Vascular Invasion:
+- Not identiﬁed.
+Dermal Lymph-Vascular invasion:
+- Not identiﬁed
+Lymph Nodes
+Number of sentinel lymph nodes examined: 13
+Total number of lymph nodes examined (sentinel and nonsentinel): 21
+Number of lymph nodes with macrometastases (>0.2 cm) 0
+Number of lymph nodes with micrometastases: 0
+Number of lymph nodes with isolated tumor cells: 0
+Size of largest metastatic deposit: 0
+Extranodal Extension:
+- Not Identiﬁed
+Method of Evaluation of Sentinel Lymph nodes
+- H8-E. one level
+- lmmunohistochemistry to follow
+Pathologlc Staging (pTNM)
+TNM Descriptors (multiple foci of invasive carcinoma)
+Primary Tumor (Invasive Carcinoma) (pT)
+pT1 c
+Regional Lymph Nodes (pN)
+pNO
+Distant Metastasis
+Not applicable
+Ancillary Studies
+- Perfumed on another specimen
+Specify specimen:
+Results: Immunoreactive tumor cells present (>1%)
+Progesterone Receptor:
+- Performed on another specimen
+Specimen:
+Results: Immunoreactlve tumor cells present (>1 %)
+Immunoperoxidase Studies
+- Performed on another specimen
+Specify specimen:
+Results: Negative (0)
+
+NOTE: Some I‘mmunohirrocliem'cal mth’n are analyre spam: redeem (ASh/ nil/dared brow laboratory. Than- 132: are diam/1y urg‘ul indium" that do nor require FDA WOW]. Th Lu clone: an and.
+ID! "-ER, Pgli dewPR, Alli-HER}, I'l-I l-EGFR. All Immunohinochauiml new are Mud with formalin or molecular ﬁxed. paraﬂin embedded [Lune Detection I”: by Emma Method The r .rqu are read by a
+[mthalogirl m mime ar «waive.
+
+ 
+
+ 
+
+‘ —. i pagan”
+
+ 
+
+.I SURGICAL PATHOL Report -
+
+As the attending pathologist. l arrest that I: (i) Examined the relev nr preparation“)
+for the specimen(s): and (ii) Rendered the diagnosishes).
+
+ 
+
+'“Electronically Signed Out By'“
+
+b-“‘
+
+Intraoperative Consultation
+
+A. Right H81 Axilla 1 count! . - FS: Microscopic focus of metastatic lobular carcinoma in lymph node.
+B. Right HSl axllla 1 count FS: No conclusive evidence of carcinoma, wait for permanent.
+C. Right HS1 axilla 1 count FS: No conclusive evidence of carcinoma, wait for permanent.
+
+W
+
+Clinical lst :
+
+Blopsy-proven carcinoma right breast. invasive carcinoma with lobular pattern and associated ductal carcinoma in sit .
+Please evaluate sentinel nodes and margins. lf sentinel nodes are H&E (negative). do IHC.
+
+Opgration Pgrfgrmed
+Right total mastectomy with sentinel lymph node biopsy, possible axillary node dissection, plus left total mastectomy
+
+Pre Operative Diggnosls:
+Carcinoma right breast. G1
+
+Specimen(s) Received:
+
+A: Right H61 Axilla 1 count: - .- - FS
+
+B: Right H51 axilla 1 count' FS
+
+C: Right HS1 axilla 1 countl FS
+
+D: Right HS 1 axilla1 count
+
+E: Right breast (1 suture-superior; 2 sutures-medial)
+F: Left breast “suture-superior: 2 sutures-medial)
+G: Right axillary dissection
+
+H: Right apical axilla
+
+Gross Descriptlgn;
+
+A. Received fresh is a segment of tan yellow ﬁbroadipose tissue measuring 4.5 x 3 x 1 cm. Examination of the speCImen
+includes multiple lymph nodes. Cassettes are submitted as follows:
+18.2 One lymph node. bisected per cassette submitted for frozen
+3 Four possible lymph nodes.
+
+8. Received fresh Is a segment of tan yellow ﬁbroadipose tissue measuring 1.2 x 0.8 x 0.6 cm. The specimen i bisected and
+submitted in one cassette for frozen.
+
+C. Received fresh is a segment of tan yellow ﬁbroadipose tissue measuring 6 x 4 x 1 cm. Examination of the sppcimen
+reveals four possible lymph nodes. Cassettes are submitted as follows:
+1&2 Largest lymph node bisected. submitted in toto in two cassattes for frozen
+
+3 One lymph node in toto submitted for frozen
+4&5 Two possible lymph nodes submitted in toto
+
+0. Received in formalin is a segment of tan yellow fibroadipose tissue measuring 5.5 x 4 x 1 cm. No lymph nodJs are
+identiﬁed. Representative sections of fibroadipose tissue submitted in one cassette.
+
+E. Received In formalin is a 1000 grams. 20 x 18.5 x 4 cm right mastectomy specimen with an ellipse of skin th+t measures
+
+Page 3 of 4
+
+ 
+
+- SURGICAL PATHOL Report
+
+17 x 9 cm. The nipple-areolar complex measures 5.5 cm and it appears unremarkable. The specimen Is ori nted with one
+stitch-superior. two stitches-medial. Resection margins are inked black. On serial section. there is a tan-whi
+deﬁned lesion with inﬁltrative borders present at the lower outer quadrant. at approximately 5 o'clock positi n. This lesion
+
+ 
+
+ 
+
+measures 1.5 x 1.5 x 1 cm. It is located 0.2 cm from the medial margin (closest), 2.5 cm deep margin. 3 cm om inferior
+margin, 8 cm from superior margin. 15 cm from lateral margin and 6 cm from nipple. A metal clip is identiﬁ within the
+lesion. No other lesions are grossly identiﬁed. No lymph nodes are present within the main specimen. Cass ties are
+
+submitted as follows:
+
+VQUtAO’Nd
+
+8-10
+
+Mass in relation to medial margin
+
+Deep margin
+
+Superior margin
+
+Inferior margin
+
+Lateral margin
+
+Nipple
+
+Skin closest to lesion
+
+Remainder of the lesion, submitted in toto
+
+F. Received in formalin is an 897-gm left mastectomy Specimen measuring 18 x 16 x 4 cm. An attached ellipse of skin is
+present. The nipple areolar complex is unremarkable. On serial sections, no lesions or suspicious areas are grossly
+
+identiﬁed. The breast parenchyma has a fat to
+stroma ratio of 70:30. Representative sections are submitted as follows:
+
+1&2 Upper outer quadrant
+3&4 Upper lower quadrant
+58-6 Upper Inner quadrant
+7&8 Lower inner quadrant
+9 Nipple
+G. Received in formalin is a segment of tan yellow fibroadipose tissue measuring 8 x 4 x 4 cm. Examination of the specimen
+reveals multiple possible lymph nodes. Cassettes are submitted as follows:
+1-6 One lymph node bisected per cassette
+7 Two lymph nodes in toto
+8.10 Three lymph nodes in toto per cassette
+H. Received in formalin are three fragments of tan yellow to gray ﬁbroadipose tissue measuring in aggregate. 2 5 x 1 x 0.6
+
+cm. The specimen is submitted in toto in one cassette.
+
+h - i. 'Page4 of4
+
+ 
+
+Criteria
+
+DiaInotis Discrepancy
+Primary Tumor Site Discrep
+HIPM Discrepancy
+
+I Prior Malignancy History
+Dual/Synchronous Pr Iy . v
+
+Can-islands): I QE‘HT
+Reviewerlniti-ls Ig’g‘r
+
+ 
+ 
+
+\
+em y
+
+ 
+
+    
+
+ 
+
+indurated ill-
+
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+  
+   
+ 
+

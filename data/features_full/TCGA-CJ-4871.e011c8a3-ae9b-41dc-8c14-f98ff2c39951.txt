@@ -1,0 +1,63 @@
+Pathology Report
+
+omenosas
+(A) LEFT KIDNEY:
+
+ 
+
+RENAL CELL CARCINOMA, CONVENTIONAL (CLEAR) CELL TYPE, FUHRMAN
+
+NUCLEAR GRADE 4 (12.0 CM).
+TUMOR EXTENDING FOCALLY INTO PERIRENAL ADIPOSE TISSUE.
+TUMOR iNVADING BLOOD VESSEL 1N RENAL HILUI'III. (SEE COMMENT)
+Vascular, ureteral, and soft tissue margins of resection free of
+
+tumor.
+Adrenal gland, no tumor present.
+
+COMMENT
+
+Grossly no renal vein invasion was identified .In one of the sections
+from the tumor in relation to the renal hiiar region (parts A7 and A8)
+there is tumor invading the lumen and partially the wall of a thick
+waEIed vessel. This is not consider diagnostic of renal vein invasion.
+
+GROSS DESCRiPTION
+
+(A) LEFT KIDNEY — A left radical nephrectomy(24.012.5 x 10.5 cm).
+Within the upper to mid pole is a partially poorly circumscribed,
+heterogenous, hemorrhagic, and necrotic mass (12.0 x 8.5 x 8.0 cm). The
+tumor displays multiple focal areas of extension through the renal
+capsule into the perirenal adipose tlssue. Medlally the tumor is seen
+
+at the perirenal soft tissue margin. The mass also extends into the
+
+slnus and also into the renal pelvis. No renal vein invasion is
+
+identified. The uninvolved renal parenchyma appears unremarkable. The
+left adrenal gland is present (3.2 x 1.5 x 1.0 cm) and Is unremarkable.
+
+A portion of renal parenchyma and tumor is submitted to the Tissue
+Bank.
+
+ENK CODE: Blue, medial soft tissue margin with tumor.
+
+SECTION CODE: A1, renal vein and ureter margin, en face; A2-A4,
+tumor with medial soft tissue margin, perpendicular; A5-A8, tumor in
+relation to renal pelvis and sinus; A9, tumor In relation to renal
+sinus; A10, tumor in relation to normal kidney; A11, A12 tumor in
+relation to periadipose tissue; A13, tumor in relation to normal kidney;
+A14, A15, representative sections of more viable appearing tumor; A16,
+representative sections of left adrenal gland; A17, A18, representative
+sections of normal kidney.
+
+(B) LEFT 12TH RIB - A portion of rib (8.5 x 1.3 x 0.!9 cm). There are
+no gross abnormalities. No tissue is submitted for histology. Gross
+diagnosis only.
+
+CLINICAL HISTORY
+Left renal mass.
+
+SNOMED CODES
+T-71000, I‘ll—821 23
+

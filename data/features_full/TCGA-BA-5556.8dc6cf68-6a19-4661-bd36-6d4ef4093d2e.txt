@@ -1,0 +1,279 @@
+ 
+
+Surgical Pathology Report
+
+Diagnosis:
+
+FSA: Left tongue base, biopsy
+
+- No dysplasia or carcinoma identiﬁed.
+
+FSB: Midline deep margin, biopsy
+- Skeletal muscle only, no invasive carcinoma identiﬁed.
+
+FSC: Right posterior tongue mucosal margin, biopsy
+- No dysplasia or invasive carcinoma identiﬁed.
+
+FSD: Right ﬂoor of mouth, anterior margin, biopsy
+- No dysplasia or invasive carcinoma identiﬁed.
+
+FSE: Right mid tongue mucosal margin, biopsy
+- No dysplasia or invasive carcinoma identiﬁed.
+
+FSF: Left mid lateral tongue mucosa, biopsy
+- No dysplasia or invasive carcinoma identiﬁed.
+
+FSG: Anterior left ﬂoor of mouth mucosa, adjacent to tooth #21, biopsy
+- Scant benign squamous epithelium with orthohyperkeratotic debris, without dysplasia.
+- No submucosal stroma for evaluation.
+
+FSH: Left posterior tongue mucosa, biopsy
+- No dysplasia or invasive carcinoma identiﬁed.
+
+FSI: Midline anterior ﬂoor of mouth mucosa, biopsy
+- Benign squamous mucosa and submucosa with extensive cautery artifact, no dysplasia or invasive carcinoma identiﬁed.
+
+J: Lymph node, left neck level 2, dissection
+- No metastatic carcinoma identiﬁed (0/14).
+
+K: Lymph node, left neck level 3, dissection
+- No metastatic carcinoma identified (0/8).
+
+L: Lymph node, left neck level 4, dissection
+- No metastatic carcinoma identiﬁed (0/11).
+
+M: Bilateral neck, level 1A, dissection
+- No metastatic carcinoma identiﬁed (0/2).
+
+N: Lymph node, level 1B, dissection
+- No metastatic carcinoma identiﬁed (0/6).
+- Submandibular gland, no carcinoma identiﬁed.
+
+0: Lymph node, right neck, level 1B, dissection
+- No metastatic carcinoma identiﬁed (0/3).
+
+P: Lymph node, right neck, level 2, dissection
+- No metastatic carcinoma identiﬁed (0/ 15).
+
+Q: Lymph node, right neck, level 3, dissection
+- No metastatic carcinoma identiﬁed (0/9).
+
+R: Lymph node, right neck, level 4, dissection
+- No metastatic carcinoma identiﬁed (0/ 12).
+
+S: Floor of mouth, excision
+- Invasive squamous carcinoma, poorly differentiated, 2.4 cm diameter, 0.7 cm depth.
+- Vascular invasion: not identiﬁed.
+
+- Surgical margins: negative but close (closest approach is 0.1 cm in S3).
+
+- Associated squamous carcinoma in situ (S7).
+
+- Lymph node with this specimen: no metastatic carcinoma identiﬁed (0/1).
+- AJCC Stage: pT2 pN0 pr
+
+Intraoperative Consult Diagnosis:
+Frozen section consultation was requested by Dr.
+
+FSA1: Left tongue base, biopsy
+- Benign squamous mucosa
+
+FSB1: Midline deep margin, biopsy
+- No tumor seen
+
+FSC1: Right posterior tongue mucosal margin, biopsy
+- No tumor seen
+
+FSD1: Right ﬂoor of mouth anterior margin, biopsy
+- No tumor seen
+
+FSE1: Mid tongue mucosal margin, biopsy
+- No tumor seen
+
+FSF1: Left mid lateral tongue margin, biopsy
+- No tumor seen
+
+FSG1: Anterior left ﬂoor of mouth mucosa (adjacent to Tooth #21), biopsy
+
+- No tumor seen
+
+FSH1: Left posterior tongue mucosa, biopsy
+
+- No tumor seen
+
+FS11: Midline anterior ﬂoor of mouth mucosa, biopsy
+
+- No tumor seen
+
+Frozen Section Pathologist:
+
+Clinical History:
+
+squamous cell carcinoma of mouth.
+
+Gross Description:
+
+Container A consists of a 3 x 2 x 2 mm in aggregate red/tan soft tissue fragments submitted in block FSA1,-
+Container B consists of an 8 x 5 x 5 mm red/tan soft tissue fragment submitted in block FSB1,-
+Container C consists of a 4 x 4 x 3 mm red/tan soft tissue fragment submitted in block FSC1,-
+Container D consists of a 5 x 2 x 2 mm red/tan soft tissue fragment submitted in block FSD1,-
+Container E consists of a 5 x 4 x 3 mm red/tan soft tissue fragment submitted in block FSE1,-
+Container F consists of a 6 x 4 x 4 mm red/tan soft tissue fragment submitted in block FSF1,-
+Container G consists of a 4 x 3 x 2 mm red/tan soft tissue fragment submitted in block FSG1,-
+Container H consists of a 3 x 3 x 2 mm red/tan soft tissue fragment submitted in block FSH1,-
+Container I consists of a 4 x 3 x 2 mm red/tan soft tissue fragment submitted in block FS11,-
+
+Container J is additionally labeled "L neck, Level 2." It consists of a 4.8 x 4.2 x 1.7 cm yellow/tan ﬁbroadipose tissue fragment with multiple
+lymph node candidates.
+
+Block summary:
+J 1 - four lymph node candidates
+
+J2 - one lymph node candidate, bisected
+
+J3 - three lymph node candidates
+
+J4 - ﬁbrovascular tissue with possible lymph node candidates
+Scant ﬁbromuscular tissue remains.
+
+Container K is additionally labeled "L neck Level 3." It consists of a 3.4 x 2.8 x 1.3 cm yellow/tan ﬁbroadipose tissue with multiple lymph
+node candidates.
+
+Block summary:
+
+K1 - one lymph node candidate, bisected
+
+K2 - two lymph node candidates
+
+K3 - ﬁbrovascular tissue with multiple lymph node candidates
+Fibromuscular tissue remains.
+
+Container L is additionally labeled "left neck Level 4." It holds a 4.2 x 3.5 x 1.3 cm aggregate of yellow/tan ﬁbroadipose tissue with multiple
+lymph node candidates.
+
+Block summary:
+L1 - three lymph node candidates
+
+L2 - four lymph node candidates
+Fibromuscular tissue remains.
+
+Container M is additionally labeled "Level 1A, bilateral." It holds a 1.5 x 2.4 x 1.2 cm yellow/tan ﬁbroadipose tissue.
+
+Block summary:
+M1 - three lymph node candidates
+
+M2 - ﬁbrovascular remnant,
+
+Container N is additionally labeled "L neck, Level 1B." It holds a 4.9 x 5.1 x 2.6 cm aggregate of yellow/tan ﬁbroadipose tissue with multiple
+lymph node candidates and submandibular gland.
+
+Block Summary:
+N1 - piece of submandibular gland with ﬁbrovascular tissue
+
+N2 - three lymph node candidates
+N3 - three lymph node candidates and submandibular gland
+N4 - one lymph node candidate and additional section of submandibular gland Submandibular tissue remains.
+
+Container 0 is additionally labeled "R Level 1B." It holds a 4.7 x 4.2 x 2.3 cm aggregate of yellow/tan ﬁbroadipose tissue, submandibular
+gland and lymph node candidates. Sectioning of the submandibular gland demonstrates tan parenchyma without masses.
+
+Block summary:
+01 - one lymph node candidate, bisected
+
+O2 - two lymph node candidates and sample of submandibular gland
+O3 - remnant ﬁbrovascular tissue with possible lymph node candidates
+O4 - sample of submandibular gland and additional ﬁbrovascular tissue
+Remnant submandibular gland remains.
+
+Container P is additionally labeled "left neck Level 2." It holds a 4.3 x 3.6 x 1.2 cm aggregate of ﬁbroadipose tissue with multiple lymph
+node candidates.
+
+Block Summary:
+P1 - two lymph node candidates
+
+P2 - four lymph node candidates
+P3 - three lymph node candidates
+Fibrofatty renmant remains.
+
+Container Q is additionally labeled "R neck Level 3." It holds a 4.1 x 3.3 x 1.7 cm aggregate of yellow/tan ﬁbroadipose tissue with lymph
+node candidates.
+
+Block Summary:
+Q1 - four lymph node candidates
+
+Q2 - three lymph node candidates
+Q3,Q4 - ﬁbrovascular remnant with possible lymph node candidates
+Fibroadipose tissue remains.
+
+Container R is additionally labeled "R neck Level 4." It holds a 5.4 x 3.6 x 2.2 cm aggregate of yellow/tan ﬁbroadipose tissue with lymph
+node candidates.
+
+Block Summary:
+R1 - three lymph node candidates
+
+R2 - three lymph node candidates
+
+R3 - two lymph node candidates
+
+Fatty tissue and muscle remains.
+
+Container S is additionally labeled "ﬂoor of mouth, short/ant., long/1t."
+
+Specimen ﬁxation: formalin
+
+Type of specimen: ﬂoor of mouth resection
+
+Size of specimen: 4.0 x 3.3 x 1.9 cm
+
+Laterality: The specimen is described as ﬂoor of mouth.
+
+Orientation of specimen: short=anterior, long="lt" (which is presumed lateral)
+
+Inking: anterior=blue, posterior=black. The specimen was sectioned from "Lt" (presumed lateral) to
+
+medial. The deep aspect is inked red.
+
+Description of specimen: Received is a brown/tan soft tissue fragment with a white/tan ulcerated mucosal surface on the anterior
+aspect. This island of mucosa is 3.9 x 1.8 cm in greatest dimensions.
+
+Tumor description: Tumor involves the mucosa and is white/tan, ﬁrm and rubbery.
+
+Location of tumor: ﬂoor of mouth
+
+Tumor size: 2.3 cm from lateral (long stitch) to medial, 0.7 cm superﬁcial to deep, 0.8 cm from mucosal surface to red inked non-
+mucosal surface
+
+Distance of tumor to surgical margins: The mass is 0.5 cm from the black inked posterior margin, 0.5 cm from the red inked
+margin opposite mucosa, 1.3 cm from the medial tip, 0.7 cm from the lateral tip (long stitch).
+
+Presence/absence of bone involvement: n/a
+
+Description of remainder of tissue: normal tan/brown fibromuscular and adipose tissue
+Tissue submitted for special investigations: none
+
+Lymph nodes: per block summary
+
+Digital photograph taken: yes
+
+Block summary:
+(Inking: anterior (side of short stitch)=blue, posterior=black, the mucosa goes from anterior to the lateral surface and the opposite lateral cut
+
+surface is inked red; The specimen was sectioned from lateral (long stitch) to medial).
+S1 - lateral tip
+
+S2 - medial tip
+
+S3-S12 - sequential sections from lateral (long stitch) to medial
+
+Light Microscopy:
+Light microscopic examination is performed by Dr.
+
+The frozen section diagnoses are conﬁrmed.
+
+Signature
+
+Resident Physician:
+
+Attending Pathologist: I have personally conducted the evaluation of the above specimens and have
+rendered the above diagnosis(es).
+

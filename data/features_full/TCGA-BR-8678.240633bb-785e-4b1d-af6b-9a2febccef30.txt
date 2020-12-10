@@ -1,0 +1,93 @@
+ 
+   
+ 
+
+Case ID Excision date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gross Microscopic Description Diagnosis Details
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Comments
+
+ 
+
+     
+ 
+   
+  
+ 
+   
+ 
+  
+ 
+  
+ 
+  
+  
+  
+   
+ 
+
+Formatted Path Report
+
+TOMACH TISSUE CHECKLIST
+
+pecimen type: Subtotal resection of stomach
+umor site: Fundus
+
+umor size: 6 x 5 x 4 cm
+
+umor features: None specified
+
+Histologic type: Adenocarcinoma
+
+Histologic grade: Moderately differentiated
+
+umor extent: Muscularis propria
+
+Lymph nodes: 0/12 positive for metastasis (Regional
+0/12)
+
+Lymphatic invasion: Not specified
+
+enous invasion: Not specified
+
+Perineural invasion: Not specified
+
+Margins: Not specified
+
+Evidence of neo-adjuvant treatment: Not specified
+dditional pathologic findings: Not specified
+omments: None
+
+ 
+
+  
+
+ 
+

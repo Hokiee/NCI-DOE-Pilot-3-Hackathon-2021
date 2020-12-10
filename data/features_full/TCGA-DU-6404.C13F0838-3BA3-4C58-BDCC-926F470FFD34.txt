@@ -1,0 +1,119 @@
+UUID: C13F9835- 33A!- “258- BDCC- 926F47BRFFeDMac
+TCGA- DU- H6494 BZA- PR
+
+Anatomic Pathology/Cytology Document 5m; (version)
+Update Datefl‘ime:
+Fina} '
+
+Patient Name: MRN: Service Datcfl‘ime:
+DOB/AgeJGender: Female Provider:
+Location: Responsible Staff:
+
+PATH.NO:
+NAME: MED. REC. NO:
+AGE/SEX: F DOB: SURGERY DATE:
+
+RECEIVE DATE:
+
+PATIENT PHONE NO.:
+
+PHYSICIAN:
+
+COPY TO: ‘
+
+UPDATED REPORT — SEE ADDENDUM REPORT, ADDENDUM DIAGNOSIS.
+
+PATHOLOGICAL DIAGNOSIS:
+
+A—C. BRAIN, SITE NOT SPECIFIED, EXCISION: OLIGODENDROGLIOMA /dA—'0"5 jiéﬂMVMMAVLC2
+WITH ATYPICAL FEATURES. f
+SEE COMMENT. Jagoded/MWI M05 7459/3
+ADDENDUM DIAGNOSIS:
+
+MIB—l PROLIFERATION INDEX: 7%. Sﬁp: W1), N05 07"9
+Operation/Specimen: UPDATED REPORT — Brain.
+
+Clinical History and Pre—Op Dx: year old woman with diagnosis of g
+oligodendroglioma with anaplastic features in P94
+Currently, recurrence.
+
+GROSS PATHOLOGY:
+
+A. Received fresh, one fragment, 1.2 cm across in largest dimension.
+
+Semi—firm, grayish tan. In total #1—2.
+
+INTRAOPERATIVE CONSULTATION: Brain, smears: Glioma (consistent with
+oligodendroglioma).
+
+B. Received fresh, one fragment, 0.8 cm across. Semi—firm, tannishbrown.
+
+In total #3.
+
+C.
+
+SPECIMEN: #1 brain tumor.
+
+FIXATIVE: None.
+
+GENERAL: A 15 x 12 x 3 mm. portion of soft pink—tan tissue.
+
+SECTIONS: 4C — submitted in toto.
+
+D.
+
+SPECIMEN: #2 brain tumor.
+
+FIXATIVE: None.
+
+GENERAL: A 7 x 5 x 2 mm. portion of soft pink—tan tissue.
+
+SECTIONS: 5D — submitted in toto.
+
+E.
+
+SPECIMEN: #3 brain tumor.
+
+FIXATIVE: None.
+
+GENERAL: A 1.7 x 1.5 x 0.8 cm. fragment of soft, pink-tan tissue.
+
+SECTIONS: 6E — submitted in toto.
+
+COMMENT: The neoplasm throughout has an overall morphology of
+oligodendroglioma with classical "chicken-wire" microvasculature,
+somewhat uniform cellularity, extensive microvascular calcification,
+and diffuse infiltration of the gray matter. However, focally the
+neoplasm appears fibrillary and somewhat astrocytic. In addition,
+mitotic figures are occasionally found, but microvascular cellular
+
+proliferation is absent, and there are no areas of necrosis. Special
+stains are being requested to better characterize the neoplasm, and an
+addendum report will follow.
+
+ADDENDUM REPORT
+
+SPECIAL STAINS: Bielschowsky stain was performed on section from block
+#4.
+
+The stain demonstrates various densities of axons throughout the tumor.
+IMMUNOHISTOCHEMISTRY: Immunoperoxidase methods for GFAP, p53,
+synaptophysin, and MIB—l were performed on sections from block #4.
+
+The GFAP depicts reactive astrocytosis throughout the zones of the
+brain parenchyma infiltrated by the tumor. In these zones there is
+background synaptophysin immunoreactivity, and rarely a ganglion cell
+has perikaryal positivity (interpreted as entrapped native neurons).
+Where there is solid tumor, there is no synaptophysin or GFAP reaction,
+and with the MIB-l a proliferation index of 7% is determined. The
+diagnosis remains as above.
+
+MICROSCOPIC: 6 blocks, 6 slides, 1 special stain, 4 immunoperoxidase
+stains.
+
+CONSULTANT:
+TISSUE COMMITTEE CODE:
+ICD9: 191
+
+BILLING CODES:
+

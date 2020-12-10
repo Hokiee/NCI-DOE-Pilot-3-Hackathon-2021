@@ -1,0 +1,403 @@
+ 
+
+dWch/ AMMf/u'mﬂj N65 8330/ 3
+5-ﬁ (1%: me “'44
+1/7/11
+
+Patient Name~
+
+Surgical Pathology Report
+
+‘ Flnol
+
+ 
+
+UUID:DeF32179-60D4-453C-9088-BO70862F772E
+TCGA-AX-AiCN-BiA-PR Reda cted
+
+lllllllllllllllIllIllllIllHlIll|IllllllllllllllIlllllllllllll
+llllllllIlllllllllllIlllllllllllllllIIIIIIIIIIHIIIIIlllllllll
+lllllllllllllllllllHHllllllllIllllllllllllllllllllllllllllll
+
+II
+II
+II
+
+SURGICAL PATHOLOGY REPORT
+
+ 
+
+ 
+
+ 
+
+FINAL
+A0003“!!! 0:
+Yukon:
+Mod:
+WW;
+Mon-u;
+9mm»:
+W
+
+UT ERUS, CERVIX. MODIFIED RADICAL. HYSTERECTOMY , -
+- ADENQCARCINOMA, ENDOMETBIQID TYPE, POORLY DIFFERENTIATED. FIGO GRADE 3 INVOLVING
+LOWER UTERINE SEGMENT AND UPPER 2/3 OF ENDOCERVIX (SEE COMMENT) '
+'TUMOR INVADES TO A DEPTH OF 14 MM, WHERE A TOTAL CERVICAL WALL THICKNESS MEASURES
+16 MM
+-LYMPHVASCULAR SPACE INVASION IS IDENTIFIED
+- FOCAL LYMPHVASCULAR SPACE INVASION IS PRESENT IN PARAMETRIAL SOFT TISSUE
+-THE RESECTION MARGINS ARE FREE OF TUMOR
+
+UTERUS. ENDOMETRIUM. MODIFIED RADICAL HYSTERECTOMY
+- ADENOCARCINOMA WITHIN THE LOWER UTERINE SEGMENT (SEE COMMENT)
+-PROLIFERATIVE ENDOMETRIUM
+
+UTERUS. MYOMETRIUM. TOTAL ABDOMINAL HYSTERECTOMY
+-ADENOCARCINOMA BY DIRECT EXTENSION
+-LEIOMYOMAS (LARGEST MEASURING 1.8 CM IN MAXIMUM DIMENSION)
+
+VAGINA, MODIFIED RADICAL HYSTERECTOMY
+-NO CARCINOMA IDENTIFIED
+
+OVARY. RIGHT. SALPINGO-OOPHORECTOMY
+-NO HISTOPATHOLOGIC ABNORMALITY
+
+FALLOPIAN TUBE. RIGHT SALPINGOOOPHORECTOMY
+-PARATU8AL PARAMESONEPHRIC CYST
+
+DVARY, LEFT. SALPINGO-OOPHORECTOMY
+-SEROSAL FIBROUS ADHESIONS
+
+ 
+
+FALLOPIAN TUBE, LEFT. SALPINGO-OOPHORECTOMY
+~PARATUBAL CYST
+
+LYMPH NODE. RIGHT EXTERNAL ILIAC. DISSECTION
+- NO CARCINOMA IDENTIFIED IN ONE LYMPH NODE (0/1)
+
+LYMPH NODE. RIGHT COMMON PARA-AORTIC. DISSECTION
+- NO CARCINOMA IDENTIFIED IN FIVE LYMPH NODES (0/5)
+
+ 
+
+PmIdS
+
+Page: 1 M 5
+
+_wmgm=un - .» 1‘55!
+
+Patient Namn‘ - -
+‘ m" “ ' _
+
+Surgical Pathology Report
+
+FInaI
+
+ 
+
+SURGICAL PATHOLOGY REPORT
+
+ 
+
+ 
+
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+  
+
+ 
+
+FINAL
+
+Pat/om N
+Address: Service: Accession It _ - _ .
+
+ocaIIon Takpn:
+Gender: 1 Received:
+DOB; Iospital II: Accessionod:
+
+Pationt'fypo: Reportod: .
+Physicians):
+DI N SI -
+
+UTERUS, CERVIX. MODIFIED RADICAL HYSTERECTOMY
+- ADENOCARCINOMA, ENDOMETRIOID TYPE, POORLY DIFFERENTIATED, FIGO GRADE 3 INVOLVING
+LOWER UTERINE SEGMENT AND UPPER 2/3 OF ENDOCERVIX (SEE COMMENT)
+~TUMOR INVADES TO A DEPTH OF 14 MM. WHERE A TOTAL CERVICAL WALL THICKNESS MEASURES
+16 MM
+-LYMPHVASCULAR SPACE INVASION IS IDENTIFIED
+- FOCAL LYMPHVASCULAR SPACE INVASION IS PRESENT IN PARAMETRIAL SOFT TISSUE
+'-THE RESECTION MARGINS ARE FREE OF TUMOR
+
+UTERUS. ENDOMETRIUM. MODIFIED RADICAL HYSTERECTOMY
+- ADENOCARCINOMA WITHIN THE LOWER UTERINE SEGMENT (SEE COMMENT)
+~PROLIFERATIVE ENDOME’RIUM
+
+UTERUS, MYOMETRIUM. TOTAL ABDOMINAL HYSTERECTOMY
+-ADENOCARCINOMA BY DIRECT EXTENSION
+-LEIOMYOMAS (LARGEST MEASURING 1.8 CM IN MAXIMUM DIMENSION)
+
+ 
+
+VAGINA. MODIFIED RADICAL HYSTERECTOMY
+~NO CARCINOMA IDENTIFIED
+
+OVARY. RIGHT, SALPINGO-OOPHORECTOMY
+-NO HISTOPATHOLOGIC ABNORMALIW
+
+FALLOPIAN TUBE, RIGHT SALPINGO-OOPHORECTOMY
+-PARATUBAL PARAMESONEPHRIC CYST
+
+OVARY, LEFT, SALPINGO-OOPHORECTOMY
+~SEROSAL FIBROUS ADHESIONS
+
+FALLOPIAN TUBE, LEFT, SALPINGO-OOPHORECTOMY
+-PARATUBAL CYST
+
+LYMPH NODE, RIGHT EXTERNAL ILIAC, DISSECTION
+- NO CARCINOMA IDENTIFIED IN ONE LYMPH NODE (0/1)
+
+LYMPH NODE. RIGHT COMMON PARA-AORTIC, DISSECTION
+- NO CARCINOMA IDENTIFIED IN FIVE LYMPH NODES (0/5)
+
+@ Pagno/S
+
+Page-51615 ‘ ' ' “ " ‘ -_--_-__‘_
+
+,.. ”Wu-mmmuam-C‘ ‘12: ' ‘2 ' z. ’35
+
+Patient Namez~ V . ,
+
+Surgical Pathology Report ,
+
+. 00:00 Flnel
+
+SURGICAL PATHOLOGY REPORT -
+- SPECIME ENTIRELY SUBMITTED
+
+LYMPH NODE. RIGHT OBTURATOR. DISSECTION
+oNO CARCINOMA IDENTIFIED IN THREE LYMPH NODES (0/3)
+- SPECIMEN ENTIRELY SUBMITTED
+
+LYMPH NODE. RIGHT INTERNAL lLIAC. RESECTION
+-ONE LYMPH NODE NEGATIVE FOR TUMOR (0/1)
+- SPECIMEN ENTIRELY SUBMITTED
+
+LYMPH NODE. LEFT EXTERNAL lLIAC. DISSECTION
+-NO CARCINOMA IDENTIFIED IN FIVE LYMPH NODES (0/5)
+- SPECIMEN ENTIRELY SUBMITTED
+
+LYMPH NODE, LEFT COMMON PERIAORTIC. RESECTION
+- FIBROADIPOSE TISSUE WITH NO CARCINOMA IDENTIFIED
+-NO LYMPHOID TISSUE IDENTIFIED (TISSUE ENTIRELY SUBMITTED)
+
+LYMPH NODE. LEFT OBTURATOR. DISSECTION
+- NO CARCINOMA IDENTIFIED IN THREE LYMPH NODES (0/3)
+- SPECIMEN ENTIRELY SUBMITTED
+
+OMENTUM. PARTIAL OMENTECTOMY
+- NO CARCINOMA IDENTIFIED
+
+ 
+
+ 
+
+In '
+
+An htraoperative non-microscopic consultation: 'Ceiled to pick up 'uterua. cervix, bilateral tubee and overlea.’ weighing
+320 grams. The uterus and cerle measure 12 cm (tundue to cervix), 7 cm (oomu to oomu), 6.5 cm (anterior to
+poaterior). Unremarkabie bilateral tubes and overiee are present Tumor tissue is identified protruding from the cervieei
+0e. Therelore. II surgeon's requeet. cervix is inked clrcumierentlaiiy. Opened to show a poiypoid man measuring 4.5 x
+2.5 x 2 cm. originating train the lower uterine segment or endocerle and extending to the ca. Sectioned to show
+putative myornetrial invasion. Normal smearing endocervicei lining is identiﬁed interior to the poiypoid mesa. Tumor
+end normal Ieiloplen tube taken Ior study. Remainder Ior pennanenta,‘ by ‘
+
+While the built at the tumor and the most deeply invasive tumor is in the cervix, there is A lower uterine segment
+
+Peg-e72 01.3 T
+
+ 
+
+Patlent Name:
+, DOB:
+
+   
+
+Surgical Pathology Report
+
+-- ,00:00 FInaI
+
+q SURGICAL PATHOLOGY REPORT
+monoclonal CEA. BC is positive in the more glandular areas. About 10% of tumor cell nuclei in the more glandular
+
+and less solid areas are positive for estrogen and progesterone receptor. Vlmehtln is largely negative with only local
+positive staining. Despite the primarily endocervical location. except for the positive CEA. these results are more
+consistent with an andometrlai primary. Note that about 15% ol endomettiai primary tumors are CEA positive. In situ
+hybridization for HPV is pending and the results will be reported in an addendum. Correlation at this inlormation with
+clinical data Is recommended in determining the site of origin. ’
+
+Histgu'.
+
+The patient is a woman with s FIGO grade2-3 andometrlold carcinoma of the endometrium. Operative
+
+procedure: examiner-on under anesthesia. exploratory laparotomy, modiﬁed radical hysterectomy, bilateral
+salpingo-oophorectomy, and lymph node dissection. ' '
+
+W
+
+A: UTERUS. CERVIX. BiLATERAL TUBES AND OVARIES
+B: LYMPH NODE. RIGHT EXTERNAL iLlAc
+
+C: LYMPH NODE. RIGHT COMMON PERIADRTIC
+
+D: LYMPH NODE, RIGHT OBTURATOR
+
+E: LYMPH NODE, RIGHT lNTERNAL lLlAC
+
+F: LYMPH NODE. LEFT EXTERNAL lLlAC
+
+G: LYMPH NODE, LEFT OBTURATOR
+
+H: LYMPH NODE, LEI-‘l' COMMON PERIAORTIC
+
+l: OMENTUM
+
+ 
+
+" s
+The specimens are received in nine iormalimillied containers labeled with the patients name ' The iirst
+container is further labeled 'uterue. cervix. bilateral tubes and ovaries.‘ it contains a uterus and cervix with attached
+bilateral evades and iailoplan tubes weighing 300 grams post ﬁxation. The uterus and cervix measure 11.3 cm from
+lundus to tip of cervix x 7.5 cm irom comu to come it 8.5 cm from anterior to posterior. The sarosai surface is tan-pink
+to purple and without lesions. There is a probable subserosal ielomyoma measuring 1.3 cm in diameter. it is we!
+clrcurnscribed and has a tan-gray whoried cut surface. The cervix measures 3.0 x 5 x 5 cm. The pericervical soft tissue
+resection margin has been previously inked in black. There is a scant amount at parametrial soft tissue measuring 2.5
+x 2.0 x 0.3 cm on the right and 2.0 x 1.0 x 0.2 cm on the leit. The tan-pink ectocerle has been previously incised. it
+roughly measures 5.0 x 3.7 cm. There is a portion at vaginal cuff antarloriy measuring 4 x 0.5 cm. There is also a
+portion of vaginal cuff located along the posterior cervix measuring 3.0 x 0.6 cm. The comical and vaginal mucosa is
+without lesions except for a few petechial hemorrhages noted on the ectocervix posteriorty. The external 08 measures
+~1.3 x 0.7 cm. Ten to maroon hemorrhagic tissue is seen within the as. The uterus and cervix have been previously
+opened to reveal a poiypold tuner mass located within the upper endocervlcal canal. The point 01 attachment is within
+the upper two-thirds oi the endocetvlcal canal. The tumor measures 4.9 x 2.8 x 3.0 cm. Sectioning through the tumor
+reveals a tan-pink cut surface. The tumor appears to invade into the wall of the cervix. The maximal depth at hvaslon
+appears to be 1.2 cm where the total ceniical wall thickness measures 1.4 cm. This deepest point of invasion is located
+within the anterior cervix at approximately the 12 o'clock position. The tumor appears to to 0.2 cm Item the
+paracervlcal sott tissue resection margin and 1.2 cm away from the vaginal cuff margin where it most closely
+approaches deep margin. There are also some poiypold excrescencee noted more inferior to this main tumor mass
+within the endocervlcal canal. They measure, in aggregate, 0.7 x 0.5 x 0.15 cm. This smaller mass appears rather
+superficial and is located 1.0 cm from the extamai as. The endometrtsi cavity measures 3.7 x 3.2 cm. The endometriai
+mucosa appears thickened and contains pciypoid tumor in both the anterior and posterior endometrlal wall. The
+maximal endometrisi thickness measures 0.5 cm. The depth oi mycmetrlal invasion appears to be 1 mm where the
+total myometriai wall thickness measures 22 cm. Within the myomatriutn. there are multiple probable leiomyomas with
+clrcmnscribed borders and tan-pink to white whoried cut sudeces. They range in size from 0.7 to 1,7 cm in diameter.
+The right ovary measures 3.5 x 1.3 x 1.3 cm. The serosal surlace is tan to purple and unremantable. Sectioning
+reveals a tan-white to grey variegated cut surface with a yellow-orange corpus Iuteum. The right fallopian tube has
+been previously cut and measures 5.0 cm in length with a diameter ranging item 0.3 to 0.9 cm. The serosel surtace is
+pink to purple and contain a few subserosal cysts ranging in size from 0.1 to 0.6 cm in greatest dimension. Sectioning
+reveals a pinpoint lumen with a wall thickness measuring 0.2 cm. The leit ovary measures 3.9 x 2.0 x 1.5 cm. The
+serosal surface is tan-pink to purple and unremarkable. Sectioning reveals a tan-gray to purple variegated cut surlace
+with yellow-orange corpora lutea. There is one hemorrhagic focus measuring 0.9 x 1.1 x 0.5 cm. The left fallopian tube
+measures 0.3 cm in length with a diameter ranging from 0.3 to 0.9 cm. The serosal surface is purple to grey with a few
+
+ 
+
+Pageants
+
+Page: 315i 5'
+
+Patient Name: ~
+°°°’ ‘ —... '
+, ~ __ _ . .. _ maIntuitDiscrepancy
+
+Surgical Pathology Report
+
+HIPAA Discrepancy
+Final
+
+   
+ 
+  
+  
+ 
+
+ 
+
+Prior Malignancy History
+Dusl/Synchron
+
+   
+
+SURGICAL PATHOLOGY REPORT
+
+paratubai cysts ranging in size from 0.1 to 1.7 cm in greatest dimension. The cysts contain clear fluid and have smooth
+inner linings. On sectioning. the lurnen ls plnpoht with a maximal wall thickness measuring 0.3 cm.
+
+Labeled A1 - subserosal leiomyoma; A2 and A3 - vaginal cuff margin from 9 to 3 o'clock; A4 and A5 - vaginal cuff
+margin from 3 to 9 o'clock: A5 - anterior cervix at 12 o‘clock; A7 - contiguous sections of endocervical canal; A3 -
+contiguous sections of endocervical canal and lower uterine segment; A9 and A10 - contiguous sections of anterior
+endomyometrlum, section cut in half: A11 - additional section of anterior endocervical canal where tumor is seen
+closely approaching the paracetvical resection margin; A12 - additional section of anterior endomyometrium containing
+poiypoid configuration of andometrlal mucosa; A13 - posterior cervix at 5 o'clock; A14 and A15 - contiguous sections of
+tumor within endocervical canal; A15 and A17 - contiguous sections of posterior endomyomeirlutn; A18 - additional
+segment of posterior endomyornefnum containing poiypoid conﬁguration of andometrlal mucosa; A19 - right ovary and
+fallopian tube; A20 - left ovary; A21 - left fallopian tube; A22 - largest lelomyoma measuring 2.5 cm in greatest
+dimension; A23 - right parametrial tissue; A24 - left parametrial tissue. Jar 3.
+
+The second container is labeled 'rlght axtemal iiiac lymph node.‘ it contains multiple fragments of yellow and maroon
+flbroiatty tissue measuring 5 x 4 x 2 cm. Within this tissue. seven possible lymph nodes are dissected. ranging in size
+from 0.2 to 2.7 cm in greatest dlrnenslon. Labeled Bf - four possible lymph nodes; 32 and 83 - one possible lymph
+node each bivalved; 34 and 85 - one possible lymph node bivalved; as - remaining fibrolstty tissue. Jar 0.
+
+The third container is labeled 'rlght comrnon/periaortlc lymph node.‘ it contains two maroon-yellow flbrofatty tissue
+tragmenta measuring 8 x 2 x 1.1 cm and 2 x 1.7 x 0.7 cm. Within this tissue. four possible lymph nodes are dissected
+ranging 'n size from 1.0 to 5.3 cm in greatest dimension. Labeled Cf - two possible lymph nodes; C2 - one possible
+lymph node bivalved: C3 through 05 - one possbia lymph node sectioned; CB - remaining flbrofatty tissue. Jar 0.
+
+The fourth container is labeled 'rlght obturator lymph node.‘ it contains multiple fragments of yellow and maroon
+‘ iibrofatty tissue measuring a x 4.3 x 1.5 cm in aggregate. Within this tissue. five possible lymph nodes are dissected
+(E ranging in size from 0.8 to 7.5 cm in greatest dimension. Labeled D1 - our possible lyrriph nodes; D2 through 05 - one
+possible lymph node sectioned; Do - rernalning flbrofetty tissue. Jar O.
+
+The fifth container is labeled 'rlght lntamal lilac lymph node.‘ it contains one yellow and maroon flbrolatty soft tissue
+fragment measuring 2.5 x 2.0 x 1.0 cm. Within this tissue, one possible lymph node is identified measuring 2.5 cm lti
+greatest dimension. Labeled E1 - one possible lymph node is entirely subrnittsd. Jar 0.
+
+The sixth container is labeled 'laft axtemal lilac lymph noda.‘ It contains multiple fragments of yellow and maroon
+llbrofatty tissue measuring 5 x 4.5 x 2 cm in scar-eats. Within this tissue. six possible lymph nodes are dissected
+ranging in size from 1.0 to 2.5 cm in greatest dimension. Labeled F1 and F2 - two possible lymph nodes each; F3 and
+F4 - one possible lymph node each bivalved; F5 - remaining flbrofatty tissue. Jar 0.
+
+The seventh container is labeled 'left obturator lymph node.‘ it contains a single yellow and maroon flbroiatty soil
+tissue fragment measuring 0.4 x 2.2 x 1.5 cm. Within this tissue. three possible lymph nodes are dssected ranging in
+size from 1.8 to 5.5 cm in greatest dmension. Labeled Gt - two possible lymph nodes; G2 through as - one possible
+lymph node sectioned; G5 - remaining flbrofatly tissue. Jar 0.
+
+The eighth container is labeled 'left common/penaortlc lymph node.‘ it contains two fragments of yellow and maroon
+fibrolatty soft tissue measuring 1.5 x 0.7 x 0.3 ctn and 3.5 x 1.5 x 0.5 cm. Within this tissue. two possible lymph nodes
+are dissected measuring 0.5 and 2.0 cm in greatest dimension. Labeled H1 — two possible lymph nodes; H2-
+remalnlng fibrofatty tissue. Jar 0.
+
+The ninth container is labeled 'omentum.‘ it contains a single portion of iibrofatty yellow and maroon to tan soft tissue
+measuring 7 x 4.7 x 0.8 cm. No obvious lesions are identified. On sectioning. it has a yellow-maroon cut surface
+consistent with omentum. All of the tissue is submitted in cassettes l1 through is. Jar 0.
+
+ 
+
+ 
+
+Surgical PetthgyLeport is available on-llne or
+
+ 
+
+Paggoofs
+
+Page: 4615'
+

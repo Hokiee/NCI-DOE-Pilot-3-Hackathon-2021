@@ -1,0 +1,101 @@
+UUID: 65C051CF- IMC- 4814- 99C4- SJFDECESSSSeZd
+TCGA- EL- A4K1- --91A PR
+
+III IIIIIIIIIIIIIIIIIIIIIIIIIIIII||I|IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIEd
+' III IIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+‘ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+ 
+
+ 
+
+ 
+
+DOB: Sex: F
+g Physician:
+Collected: Accession
+Received Case type: Surgical Case
+DIAGNOSIS
+
+(A) RIGHT CENTRAL NECK:
+METASTATIC PAPILLARY THYROID CARCINOMA IN THREE OF FIVE LYMPH NODES (3/5).
+Extracapsular extension present.
+(B) RIGHT INFERIOR PARATHYROID GLAND:
+Parathyroid tissue, negative for tumor.
+@TOTAL THYROID:
+PAPILLARY THYROID CARCINOMA. CONVENTlONAL TYPE
+Location: Right lobe
+Multi-focal: No
+Size = 2.9 cm
+Extrathyroidal extension: Present. extending into skeletal muscle
+Lymphcvascular invasion: Absent
+Resection Margins: Tumor abut resection margin [CA » 0 — 3~
+
+Lymph nodes: - 006%!)
+No lymph nodes present CW, p50 tilt/147, W4 /5
+. .- 7 3- 9'
+17 {Z Mnﬁi N0 5 C, A
+
+GROSS DESCRIPTION
+
+(A) RIGHT CENTRAL NECK — Multiple fragments of ﬁbroadipose tissue (3.0 x 2.0 x 0.7 cm). Specimen is dissected to reveal
+one possible lymph node measuring 0.4 cm in greatest dimension. Specimen is submitted entirely.
+
+SECTION CODE: A1, one possiblelymph node; A2, remainder of the specimen submitted entirely.
+(B) BIOPSY RIGHT INFERIOR PARATHYROID GLAND — A piece of tan—red soft tissue (0.2 x 0.1 x 0.1 cm and 0.0028
+grams). A touch prep is performed and the specimen is entirely frozen for intraoperative consultation in B.
+(C) TOTAL THYROID, STITCH MARKS LEFT LOBE — Total thyroidectomy (left lobe 4.5 x 2.2 x 1.5 cm; isthmus 1.5 x 1 x 0.5
+cm, and right lobe 3.4 x 2.4 x 2 cm).
+
+The right lobe is almost completely replaced (>75%) by a ﬁrm well-circumscribed and encapsulated nodule (2.9 x 1.6
+x 1.5 cm) that is partially calciﬁed and admixed with soft friable pink-tan parenchyma. The nodule extends to the disrupted
+capsule.
+
+The left lobe has a single multicystic nodule (1.2 x 1 x 1 cm) that is well-circumscribed and encapsulated with yellow
+tan colloid parenchyma at the inferior portion of the left lobe.
+
+SECTION CODE: C1-C3, right lobe nodule, representatively submitted from superior, middle, inferior aspects,
+respectively (C3 pending decalciﬁcation); C4, isthmus, representative; C5, superior left lobe, representative, and inferior
+colloid nodule; CS, remaining inferior colloid nodule (entirely submitted); total 6.
+
+CLINICAL HISTORY
+Papillary thyroid carcinoma.
+
+Page 1 of 2
+
+ 
+
+Surgical Pathology Report
+File under: Pathology
+
+DOB.“ Sex: F
+
+ 
+
+ 
+
+Physician:
+Collects: 7 Pathologist: Accession:
+Received Case type: Surgical Case
+SNOMED CODES
+
+T—BSOOO. M-80503, T—C4200
+
+"Some tests reported here may have been developed and performance characteristics detennlned by
+These tests have not been speciﬁcalty cleared or approved by the US. Food and Drug Administration."
+
+Entire report and diagnosis completed by:
+
+ 
+ 
+
+File under.
+
+ 
+
+"‘l
+
+  
+
+‘40
+

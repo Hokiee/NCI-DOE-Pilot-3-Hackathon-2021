@@ -1,0 +1,121 @@
+UUID:1CDSA8AO- EC1A-495C~8A57-912C8AC067D8
+
+TCGA- LI- ABQ H- em- -PR edacted
+III III ||||||||||||||||||||I|||||||ll||||||l||||||||||||||||||l||||
+III III ||||||||||||||| ||||||||||||IIIIIIIIIIIIIIIIIIIII|||l||||
+|||||||||||||| ||||||||||||I|||||||||||||||||||||||||||
+
+Surgical Pathology Report
+—
+
+-
+
+_ —
+DATE OBTAINED: LOCATION:
+DATE RECEIVED: SUBMITTING MD:
+
+DATE REPORTED: CC:
+
+DIAGNOSIS
+
+#1. SOFI' TISSUE RESECTION, RIGHT CALF: UNDIFFERENTIATED PLEOMORPHIC SARCOMA (SEE
+COMMENT).
+
+Tumor type (WHO): Undifferentiated pleomorphic sarcoma (so called “MFH“); see comment
+Tumor size: 18.8 cm
+Tumor depth: Deep soft tissue tumor
+Histologic grade (FNCLCC): lll
+Type: 3 points (pleomorphic sarcoma)
+Necrosis: 1 point (<50% necrosis)
+Mitoses: 3 points (24 per 10 HPF: range from 16/1 OHPF to 24/1 OHPF)
+Margins: Negative
+
+Tumor at <O.5mm from lateral and posterior margins; ~1 mm proximal margin: all
+remaining margins more widely negative
+
+Ancillary studies: Negative MDM2 (on prior incisionai specimen
+Negative desmin, caldesmon, myogenin & 5100 (this specimen)
+Lymphovascular Invasion: None observed
+Lymph nodes: None dissected
+Treatment Effect: N/A
+AJCC stage: Stage III (assuming “cMO” status)
+pTNM status pT2b, pNx (with regional neural invasion, specimen #2; see comment)
+
+#2. RIGHT TIBIAL NERVE NODULE, EXCISION: PLEOMORPHIC SARCOMA INVOLVING SEGMENT OF
+PERIPHERAL NERVE (SEE COMMENT).
+
+37$ 4':- '3 _
+SLWI W “Mr ‘Pﬂg ***Electronica|iy Signed Out***
+1491145} 9805/8
+COMMENT ($41; $3 (’aﬂéuosﬁ (245i 2. 9); ”371,4
+
+Although more than 90% of the tumor is undifferentiated pleomorphic sarcoma (pleomorphic “MFH”) other portions of the tumor
+resemble low grade myxofibrosarcoma (low-grade "MFH"). Still other ioci resemble pleomorphic liposarcoma with multivacuoiated
+giant cells (suggesting the possibility of lipobiastic differentiation). 8100 immunostains however are negative in these vacuolated
+pleomorphic giant cells (and are also negative in the spindle cell component).
+
+With regard to the right tibial nerve nodule this constitutes regional neural/perineural invasion of the primary tumor (which does not
+factor into assigning primary tumor staging). This does not constitute evidence of distant metastases.
+
+88309, 88342X4, 88305
+
+ 
+
+Clinical Diagnosis and History.
+Right leg sarcoma >
+
+ 
+
+_
+Page 1 of 2
+
+Tissue(s) Submitted:
+1: RIGHT CALF MASS
+2: TIBIAL RIGHT NERVE NODULE
+
+Gross Description:
+
+Specimen #1 is received fresh and subsequently placed in formalin labeled right calf mass and consists of a 1,018 gram, 22.0 cm
+proximal to distal by 11.5 cm lateral to medial by 7.3 cm superficial to deep resection. There is a 4.7 x 1.7 cm ellipse of tan skin
+present on the superficial aspect of the specimen. The specimen is differentially inked proximal blue, distal green, lateral yellow,
+medial red, superficial orange and deep black and serially sectioned from proximal to distal. There is an 18.8 x 9.9 x 8.6 cm tan
+white focally necrotic mass identified which focally abuts the lateral and deep fascia coming to within less than 0.1 cm of the
+
+proximal fascia. One representative section is submitted for TCGA study Gross photographs are taken. Representative sections
+are submitted labeled:
+
+1A-1B: mass to proximal margin
+16-1 E: mass to lateral margin
+1F-1 K: mass to deep margin
+
+1L: mass to superficial (orange)
+
+1M: mass to medial
+
+1N-1 R: central sections
+
+13: representative skin
+
+1T—1 U: additional mass to deep margin
+
+1V: representative distal margin (green)
+
+Specimen #2 is received in formalin labeled tibial right nerve nodule and consists of two fragments of ten soft rubbery tissue
+measuring 2.6 x 0.6 x 0.3 cm and 1.6 x 0.2 x 0.1 cm, respectively, which are submitted in toto labeled 2A.
+
+      
+    
+  
+ 
+ 
+
+END OF REPORT
+
+Prior
+
+  
+ 
+
+is
+Reviewer
+

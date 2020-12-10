@@ -1,0 +1,171 @@
+: Date of :
+
+Sex I procuremen I
+I I
+
+I t I
+
+Renal
+E Cancer - - -
+I - —
+
+ 
+
+DOB
+(mm/dd/yyyy)
+
+Clinical
+Diagnosis
+
+Clinical
+Site #
+
+Specimen
+label
+
+Ethnicity
+
+Case # (Race)
+
+Index
+
+ 
+
+ 
+
+ 
+
+Renal
+Cancer -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I Tissue I
+
+ 
+
+I I I
+I - I - I - I I I I I
+IAnatomicalI Tumor ISpecificatioI Speclmen I Speclmen I Container I Number of IAmount/perI Unit I
+. SIte . LocatIon . . Matrlx . Format . . contalners . contaIner . .
+I I I I I I I I I I
+Kidney, left Primary Tumor Tissue Frozen cryomold 1 320 mg
+
+ 
+
+Blood n/a normal Blood Frozen tube 1 4 ml
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I T f I I I I I I Prior I Ch rn / I I
+
+' VP“ ' Histological ' 'TNM Stage ' TNM Stage'TNM Stage' Chemo/ ' ° ° ' Prior '
+
+IProcuremenI . . I Grade I I I I Horm Th I . . I
+
+. . description . . (1') . (N) . (M) . Hormonal . . . Radiation .
+
+t Details
+
+I I I I I I I Th I I I
+
+Surgery Renal cell 2 1 0 0 no no no
+carcinoma
+Blood draw n/a n/a n/a n/a n/a no no no
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+l_—f
+
+ill
+’I'T Cellular
+33%“ Tumor%
+
+a»: a.— —:
+
+22-—
+
+ 
+
+90
+
+ 
+
+n/a
+
+ 
+
+ 
+

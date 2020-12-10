@@ -1,0 +1,50 @@
+ 
+
+ 
+ 
+ 
+
+TCGA-CJ-4890
+
+ 
+
+DIAGNOSIS
+(A) PERIAORTIC LYMFH NODE:
+One lymph node, no tumor present.
+(B) LEFT KIDNEY AND ADRENAL:
+RENAL CELL CARCINOMA, CONVENTIONAL (CLEAR CELL) TYPE, FUHRMAN
+NUCLEAR GRADE 4 (14.0 CM).
+TUMOR INVADES RENAL PELVIS AND RENAL SINUS ADIPOSE TISSUE.
+TUMOR iNVADES RENAL VEIN.
+Ureter, hllar vascular and soft tissue margins free of tumor.
+Adrenal gland free of tumor.
+
+GROSS DESCRIPTION
+(A) PERIAORTIC LYMPH NODE - A single lymph node 2.5 x 1.0 x 1.0 cm.
+The specimen is serially sectioned and entirely submitted in A1 -A2.
+
+(B) LEFT KIDNEY AND ADRENAL - A nephrectomy specimen (21.0 x 18.0 x
+13.0 cm) with attached unremarkable adrenal gland (7.0 x 2.0 x 1.5 cm).
+
+A tan-yellow variegated solid tumor mass with focal hemorrhagic and
+cystic areas (14.0 x 14.0 x 12.0 cm) comprises approximately 80% of the
+entire kidney. The tumor grossly involves the renal sinus, renai vein,
+and is present in the pelvis. The tumor extends to perinephric fat and
+is 0.2 cm from the closest soft tissue margin. The ureter, rena! vein,
+and artery margins are free of tumor. Representative portions of tumor
+are submitted to tumor bank and electron microscopy.
+
+INK CODE: Black - closest external surface of tumor.
+
+SECTION CODE: B1, renal vein, artery and ureter margins; 32, tumor
+in pelvislureter; B3, tumor in renal vein; B4 tumor in renal sinus;
+B5-B6, tumor with closest external surface; BT-B15, additional sections
+of tumor'l B16, uninvolved kidney; B17, section of adrenal gland.
+CLINICAL HISTORY
+None given.
+
+SNOMED CODES
+T-71000, T424690, nil-83123
+
+ 
+

@@ -1,0 +1,246 @@
+ 
+
+  
+
+ 
+
+ 
+
+Specimen Number:
+
+ 
+
+Date of Birth: - Age:
+
+ 
+
+Ordering Physician: Phone if: Gender: Patient location:
+
+ 
+
+ 
+
+Collection date:
+Received date:
+
+ 
+
+ 
+
+ 
+
+Jéba ~
+SPECIMEN W
+A. URETER - 1. Right distal ureter margin (FS) ?’3 “/5
+
+B. URETER - 2. Left distal ureter margin (FS) Si ::ﬁ€‘: 2
+
+C. LYMPH NODE(S) - 3. Right pelvic lymph nodes ‘
+
+D. BLADDER — 4. Bladder prostate (fresh for Genome Project)
+
+E. LYMPH NODE(S) - 5. Left pelvic lymph nodes 22M N07 SQ
+
+CLINICAL INFORMATION 44,7. ‘7
+Transitional cell carcinoma bladder
+
+COPY TO:
+
+GROSS DESCRIPTION
+The specimens are received in five containers, each labeled with the patient‘s name
+
+Part A is received fresh for frozen section diagnosis labeled “distal ureter margin right" and consists of a
+0.7 x 0.4 x0 .2 cm portion of ten tissue, which is submitted in toto for frozen section diagnosis as FSA1.
+The frozen section residue is submitted as (A1).
+
+Frozen section diagnosis:
+FSA1 ~ Right distal ureter margin - “No tumor seen.”
+Examined by
+
+Part B is received fresh for frozen section diagnosis labeled “left distal ureter margin” and consists of a
+1.4 x 0.2 x 0.1 cm strip of ten soft tissue, which is submitted in toto for frozen section diagnosis as FSB‘l.
+The frozen section residue is submitted as (B1).
+
+uutn: 65FF34F8- 5504- ancs- aaoa- -Fsu4n3244r43d
+Frozen section diagnosis: TCGA- R3- Assx-e
+
+FSBi—Lef distal Ui'e rmarl —"N u or see ." Illlllllllllllllllllllllllllllli’lllAllrllll
+Examinedgv te 9" °t m " llllllllllllllmlllllllllmlllmllllil'l'iil'iiiii'l'l'lulm'a"l"ed
+
+Ill lllllllllllllllllllIllllllllllllllllllllllllllllllllIIHIIIIIHIIIl
+
+Page 1 of 4
+Patient Name
+
+Part C ls received in formalin labeled "right pelvic lymph nodes” and consists of a 5 cm portion of adipose
+tissue. which contains eight 0.2 cm — 1.7 cm lymph nodes. The lymph nodes are submitted In their
+entirety as (C1 HOS).
+
+SLIDE KEY
+C1 — four possible lymph nodes
+C2435 — one bisected lymph node per cassette
+
+Part D is received fresh labeled “bladder/prostate" and consists of a 8 x 5 x 4 cm urinary bladder. in
+continuity with 2 x 0.5 cm segments of bilateral ureters, symmetrical 4 x 3 x 3 cm prostate gland with
+bilateral 2 x1 x 0.5 cm seminal vesicles and a moderate amount of soft periveslcular adipose tissue.
+There are multiple staples over the mid anterior aspect of the prostate and bladder. The right side of the
+specimen is inked blue, the left side is black and the mid anterior aspect of the prostate Is inked orange.
+The bladder is opened to disclose a 3 x 1.9 cm ulcer over the right posterior wall. mid posterior walls,
+extending to left lateral wall and overlying the left ureteral orifice. Sections through the ulcer show a 2.9 x
+2.5 x 1.2 cm firm gray-white mass within the left posterior wall and left lateral wall. The mass extends
+through the bladder well, 1.6 cm from the left lateral soft tissue margin. The mass does not grossly
+involve the prostate gland and is located approximately 4.5 cm from the urethral margin. The mass does
+not grossly involve the right side of the bladder. The remaining bladder mucosa is tan and trabeculated
+without additional gross lesions. Sections through the prostate gland show a well-deﬁned 0.4 cm white
+nodule within the right side, near the apex. The remainder of the prostate gland consists of dense tan
+tissue with focal ﬁne honeycombing. No gross lesions can be identified within the seminal vesicles. No
+lymph nodes can be identiﬁed within the specimen. Fresh tumor is taken for TCGA. Representative
+sections are submitted as (D1)—(D24). .
+
+SLIDE KEY
+
+D1 — right ureter
+
+DZ — left ureter
+
+D3 - right prostate apex margin
+
+D4 — left prostate apex margin
+
+D5 - trigonelprostatlc urethra
+
+DB - trigonel'right ureteral orifice
+
+D7 — trigonei’left ureteral oriﬁce
+
+D8 — left lateral soft tissue margin
+
+DQ—Dtt — left lateral bladder lesion
+
+D12 - right posterior bladder
+
+013 - right lateral bladder
+
+D14 —- anterior bladder
+
+D15 — dome of bladder
+
+D16—Di 9 — right side of prostate, apex to base
+D20-023 — left side of prostate. apex to base
+D24 - seminal vesicles
+
+Part E is received in formalin labeled “left pelvic lymph nodes" and consists of a 3 cm aggregate of
+adipose tissue, which contains a 2.5 cm partially fatty lymph node. The lymph node is submitted in its
+entirety as (E1).
+
+Page 2 of4
+
+ 
+
+MICROSCOPIC DESCRIPTION
+Sections examined on multiple H&E-stained slides.
+
+Surgical Pathology Cancer Case Summary, Urinary Bladder — Radical Cystoprostatectomy:
+
+SPECIMEN: Bladder and prostate.
+PROCEDURE: Radical cystoprostatectomy.
+TUMOR SITE: invasive tumor ls noted along the left posterior and left lateral bladder wall.
+TUMOR SIZE: 2.9 x 2.5 x 1.2 cm.
+HISTOLOGIC TYPE: Urothellai cell carcinoma.
+ASSOCIATED EPITHELIAL LESIONS: Focal carcinoma in situ also present.
+HISTOLOGIC GRADE: High grade.
+MICROSCOPIC TUMOR EXTENSION: Through detrusor muscle Into perivesical fat.
+MARGINS: Not involved. Tumor does extend to within 0.7 cm of the left lateral perivesical fat margin.
+LYMPHOVASCULAR SPACE INVASION: Present, extensive.
+PATHOLOGIC STAGING:
+Primary Tumor: pT3, tumor invades perivesical tissue. Grossiy, the tumor did appear to extend
+through the detrusor muscle. However, a true extravesicular mass was not identiﬁed. As such, I
+would favor that this is best categorized as a pT3a rather than pT3b.
+Regional Lymph Nodes: pNO, no lymph node metastases.
+Number of lymph nodes examined: 7.
+
+Surgical Pathology Cancer Case Summary, Prostate Gland — Radical Prostatectomy:
+
+PROCEDURE: Radical cystoprostatectomy.
+PROSTATE SIZE: 4 x 3 x 3 cm. Cannot give accurate weight as the prostate was part of a larger
+cystoprostatectomy procedure.
+LYMPH NODE SAMPLING: Pelvic lymph nodes present.
+HISTOLOGIC TYPE: Adenocarcinoma (acinar, not otherwise speciﬁed).
+HISTOLOGIC GRADE:
+Primary Pattern: Grade 3.
+Secondary Pattern: Grade 4.
+Total Gleason Score: 7 (moderately poorly differentiated).
+TUMOR QUANTITATION: Tumor comprises approximately 2% of the submitted prostate tissue.
+EXTRAPROSTATIC EXTENSION: Not identified.
+SEMINAL VESICLE lNVASiON: Not identiﬁed.
+MARGINS: Not involved.
+TREATMENT EFFECT: Not identiﬁed.
+LYMPHOVASCULAR SPACE INVASION: Not identiﬁed.
+PERINEURAL INVASION: Present.
+PATHOLOGIC STAGING:
+Primary Tumor: pT2c, bilateral disease.
+Regional Lymph Nodes: pNO, no regional lymph node metastasis.
+Number of lymph nodes examined: 7, none involved (0/7).
+
+Pagi?’ of 4
+
+ 
+
+ADDiTiONAL PATHOLOGIC FINDINGS: High-grade prostatic lntraepitheiiat neoplasia.
+
+FINAL DIAGNOSIS
+RiGHT DISTAL URETER MARGIN
+— Negative for malignancy.
+
+LEFT DISTAL UREI'ER MARGIN
+- Negative for malignancy.
+
+RIGHT PELVIC LYMPH NODES, EXCISION
+~ Six iym ph nodes, all negative for metastatic carcinoma (0/6).
+
+BLADDER AND PROSTATE, RADICAL CYSTOPROSTATECTOMY
+
+BLADDER
+
+- High-grade urothellal cell carcinoma with invasion through detrusor muscle into perivesical
+
+fat.
+
+- See microscopic/cancer case summary.
+
+PROSTATE
+
+- P'rostatlc adenocarclnoma. Gleason pattern 3+4=7 (moderately poorly differentiated).
+- See microscopic/cancer case summary.
+
+LEFT PELVIC LYMPH NODE. EXCISION
+
+- Single lymph node, negative for metastatic carcinoma (0/1).
+
+CPT CODES: 88331X2, 88305x3, 88307X1. 88309X1
+
+(Electronically signed by) (Final)
+Verified:
+
+Page 4 of 4
+
+     
+   
+ 
+ 
+  
+  
+ 
+
+Criteria .
+Diagnosrs Discrepancy
+Primary Tumor Site Discrepancy ____
+THE-AA Discrepancy .
+Prior Malignancy History >
+WWW
+case is (circle):
+
+Nelle-Wet 1mm .9
+
+__..._....__m_.. _
+

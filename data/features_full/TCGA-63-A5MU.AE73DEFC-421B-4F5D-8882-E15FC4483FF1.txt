@@ -1,0 +1,122 @@
+Sample Number
+
+UUID: AE7EDEFC- 4213- -4F5D- 5582- -E15FC4483FFeld
+TCGA- 63- ASMU- OlA- PR
+
+ted
+WMWWWWWWMWWW HI
+MMWMMMWMWMMWWMMWWHRHWﬂm
+
+WMMWMMMWWWNWWMWWW
+
+Sample Type TUMOUR
+
+ 
+
+Diagnosis
+
+Squamous Cell Carcinoma, Not Otherwise Specified (NOS)
+
+ 
+
+Year of Sample Collection
+
+ 
+
+Age at Sample Collection (yrs)
+
+ 
+
+Days to Procedure Date
+
+ 
+
+ 
+
+Days to Diagnosis
+
+ 
+
+ 
+
+ 
+
+Type of Procedure RESECT
+Site of Tissue/Primary (Histology) Right lower lobe
+Tumour Size (cm) 5.5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Histology Squamous carcinoma
+Grade/Differentiation ll
+
+Pathological T T2b
+
+Pathological N N1
+
+Clinical M M0
+
+ 
+
+VALCSG Stage
+
+ 
+
+ 
+
+Histology Comments
+
+ 
+
+ 
+
+ 
+
+Sample Number
+
+Sample Type BUFFY
+
+ 
+
+Year of Sample Collection
+
+ 
+
+Age at Sample Collection (yrs)
+
+ 
+
+ 
+
+Days to Procedure Date
+
+ 
+
+ 
+
+Days to Diagnosis
+
+ 
+
+ 
+
+ 
+
+Ja$l45i3 all
+' ‘ d ' MOS
+mmom'WSUMIB
+8:11 @136”wa lobe,
+993°21th
+
+ChﬁduB
+
+ 
+

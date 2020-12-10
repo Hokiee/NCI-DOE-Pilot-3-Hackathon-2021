@@ -1,0 +1,205 @@
+UUID :ADGBZNSG; BZCB-49AB-A994-7927688C9523
+TCGA-v1-Aswv-oIA-PR e acted
+||||l||||||||||||||
+
+SURGICAL PATHOLOGY REPORT
+
+ 
+
+WW ”Mame amiss
+
+5 ﬁﬂmttbiqﬁw Ci
+(yo aisle} ibi
+
+ 
+
+FINAL PATHOLOGIC DIAGNOSIS
+
+A. Lymph nodes, right pelvis, dissection: No carcinoma in six lymph nodes (0/6).
+
+B. Lymph nodes. left pelvis, dissection: Metastatic carcinoma in one of four lymph
+nodes (1/4).
+
+C. Prostate and seminal vesicles, radical prostatectomy:
+- Prostate:
+
+1. Prostatic adenocarcinoma, Gleason score 4+5=9, with extra-prostatic extension;
+see comment.
+
+2. Stromal hypertrophy.
+- Seminal vesicles: Right seminal vesicle involved by prostatic
+adenocarcinoma; see comment.
+
+COMMENT:
+Synoptic Comment for Prostate Tumors
+
+- Type of tumor: Small acinar adenocarcinoma.
+
+- Location of tumor: Left mid gland, slides 03- C12, C22; left base, slide C20; right posterior mid
+gland slides C8, C21.
+
+- Estimated volume of tumor: » 7.9 cubic cm.
+
+~ Gleason score: 4+5; primary pattern 4, secondary pattern 5.
+
+- Estimated volume > Gleason pattern 3: >90%. (only a minor component of the tumor is Gleason
+
+pattern 3).
+
+- Involvement of capsule: Tumor invades capsule on left posterior quadrant (slides C11-C12).
+
+- Extraprostatlc extension: Present, limited in extent.
+
+- Margin status for tumor: Negative.
+
+- Margin status for benign prostate glands: Benign glands present at inked excision margins; left
+apex, slide C2 and right and left base, slides C16-C17.
+
+- High-grade prostatic intraepithelial neoplasia (HGPIN): Present; focally.
+
+ 
+
+ 
+
+- Tumor involvement of seminal vesicle: Tumor Invades into the muscular wall of the right seminal
+vesicle; slide C21.
+- Perineural Infiltration: Present.
+- Lymph node status: Positive;
+- Total number of positive nodes: 1.
+- Total number of nodes examined: 10.
+- Size of largest metastasis in node: 0.5 mm.
+- Extranodal extension: None.
+- AJCC/UICC stage: pT3bN1.
+
+ 
+
+has reviewed slides C11 and C21 and agrees with the diagnoses.
+
+ 
+
+Specimen(s) Received
+
+A:nght pelvic lymph nodes
+
+BzLeft pelvic lymph nodes
+C:Prostate & seminal vesicles (fresh)
+
+Clinical History
+
+The patient is a , -... .ud man with a history of prostate carcinoma, Gleason grade 4/5, clinical stage
+T3aNxMO. Review of the electronic medical records ’ reveals an elevated PSA of
+8.04, which led to subsequent ultrasound-guided needle mm hlnpsies of the prostate at an outside
+facility, which were reviewed at in consultation . Subsequent ultrasound performed
+by 3 reveals a large left posterior base nodule suspicious for extracapsular extension. The
+patient now undergoes robot-assisted radical prostatectomy with bilateral pelvic lymph node dissection.
+
+Gross Description
+
+The specimen is received in three parts, all labeled with the patient's name and unit number. Parts A
+and B are received in formalin, while Part C is received fresh.
+
+Part A, additionally labeled "right pelvic lymph nodes,” consists of multiple, small, soft, irregular,
+yellow-tan ﬁbrofatty tissue fragments (3.5 x 2.5 x 07 cm in aggregate). Careful examination reveals
+
+six, soft to firm, yellow-tan lymph node candidates (0.3 cm-1.5 cm). The entire specimen is submitted
+as follows:
+
+Cassette A1: One lymph node candidate, bisected.
+Cassette A2: One lymph node candidate, bisected.
+Cassette A3: Two lymph node candidates, intact.
+Cassette A4: Two lymph node candidates, intact. *
+Cassette A5: Entire fibrofatty remnant.
+
+Part B, additionally labeled “left pelvic lymph nodes," consists of a single, irregular segment of 500: to
+ﬁrm, yellow-tan fibrofatty tissue (6 x 2.5 x 1 cm). Careful examination reveals five soft yellow-tan
+lymph node candidates (0.4 cm-3 cm). The entire specimen is submitted as follows:
+
+Cassettes B1-BZ: One lymph node candidate, bisected.
+
+Cassette 53: One lymph node candidate, bisected.
+Cassette 34: Three lymph node candidates, intact.
+Cassette BS: Entire fibrofatty remnant.
+
+Part C, additionally labeled "prostate and seminal vesicles," consists of a single, intact radical
+prostatectomy (55 gm; 4 cm from apex to base x 5 cm in width x 4 cm from anterior to posterior) with
+an attached right seminal vesicle bundle and a detached left seminal vesicle/yes deferens bundle.
+
+GROSS PATHOLOGIC FINDINGS: There Is a single, poorly deﬁned, irregular, ﬁrm, white-tan mass (1.5
+x 1.5 x 1.2 cm. slices 6-8, cassettes C11-C12). The tumor abuts the capsule in multiple foci and abuts
+the inked proximal base margin (adjacent to bladder margin) and demonstrates possible extra-capsular
+
+extension in the posterior base margin (adjacent to left seminal vesicle/vas deferens junction). No
+other masses are identified..
+
+The remaining peripheral zone is light tan and unremarkable. The central/transitional zone is enlarged
+and nodular. The anterior ﬁbrous stroma is open and the remaining capsule appears intact. The
+seminal vesicle/vas deferens bundles (right 3.5 x 2 x 0.5 cm; left 3 x 2.2 x 0.5 cm) are soft and
+whorled, without direct evidence of tumor extension.
+
+ORIENTED BY: Anatomic landmarks.
+
+INKING: Right anterior surface in green, left anterior surface in blue, posterior surface in black.
+POTENTIAL STUDIES: Fresh tissue is harvested for research purposes.
+GROSS PHOTOGRAPHS: Yes; slice 7.
+
+TOTAL NUMBER OF SLICES: 8, inclusive of apical margin.
+AVERAGE SLICE THICKNESS: 0.5 cm.
+
+CASSETTES: Representative sections are submitted as follows:
+Apical margins, entirely submitted in perpendicular sections
+
+C1: Right apex.
+
+C2: Left apex.
+
+Right anterior quadrant
+
+C3: Slice 3.
+
+C4: Slice 5.
+
+CS: Slice 7.
+
+Right posterior quadrant
+
+C6: Slice 3.
+
+C7: Slice 5.
+
+C8: Slice 7.
+
+Left posterior quadrant
+
+C9: Slice 3.
+
+C10: Slice 5.
+
+C11: Slice 7, tumor.
+
+C12: Slice 8, additional posterior and proximal bladder margin (section inked red for
+identification).
+
+Left anterior quadrant
+
+C13: Slice 3.
+
+C14: Slice 5.
+
+C15: Slice 7.
+
+Bladder margins, entirely submitted in perpendicular sections
+C16-BZO: Sequentially submitted from right to leﬁ.
+
+Prostatic/seminal vesicle junction and crosssection of vas deferens
+C21: Right.
+C22: Left. *
+
+Diagnosis based on gross and microscopic examinations. Final diagnosis made by attending pathologist
+following review of all pathology slides.
+
+(Pathologist
+
+Electronically signed out on
+
+ 
+

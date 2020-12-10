@@ -1,0 +1,96 @@
+ 
+
+ 
+
+ 
+
+Page .7
+
+€733 €152 1 10:32 i/
+
+TCGA Missing Pathology Report Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+W The TCGA Missing Pathology Report Form should be completed for cases for which a pathology report is not
+available.
+
+ 
+
+Completed Date [MM/DD/YYYY):
+
+UUID:E£ED21CA- EO1B- 446- 8654- 57927ABRB£eCSAac
+
+A--13 0797- 91A- PR
+
+||||||| |T|c||||||||||||||| Illullllllllllll
+llllllmlll ll|||l|||||| l||I||I|l IIIHIIII
+
+|||||I|||||||||||||
+Illlllll
+
+l7/ / ii /$0l4—
+
+General Pathology Report information
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+# Data Element Entry Alternatives Working instructions
+Provide the tumor type of the case.
+1 Tumor type: _-_m"‘—"—
+Indicate to which BCR location the case was originally sent.
+2 BCR specimen originally sent E] N CH
+to: m iGC
+Provide the date (MM/DD/YYYY] of shipment arrival at the
+D t . e_ d t Biospecimen Core Resource [BCR).
+iv
+3 Bzéspeumen rec e a 6 a / L008
+[CD-0-3 Histology Code; Provide the histology code for the sample from the Case
+Quality Control Form (CQCF) and the overall case (patient
+_ . d' ' . 'f d‘ff t .
+- For Specxmen: (CQCF) 99 g 42 5 :F' ﬁbnmﬁ-cd lagnom l 1 mm 3
+4- ' - For Case: (patient
+diagnosis, if available V ﬁﬂﬁgl [ S
+elsewhere)
+[CD-0-3 Site Code: Provide the site code for the sample from the Case Quality
+. Control Form (CQCF) and the overall case (patient diagnosis, if
+. . d'ff t .
+- For Specimen: (mm W ”“3“
+5 - For Case: [patient
+diagnosis, if available ml;— 0‘
+elsewhere)
+
+ 
+
+ 
+
+ 
+
+ 
+

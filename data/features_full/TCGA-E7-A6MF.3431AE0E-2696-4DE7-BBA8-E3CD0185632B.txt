@@ -1,0 +1,72 @@
+Patient ID:
+Surgical Date:
+
+Gross Description: In bladder, there is an invasive and protruded masse, ill - margins with
+2.2x1..5x1cm in size, soft and gray surface.
+
+Microscopic Description: Tumor is density. Tumor cells are hyperplastic to arrange to form papillary or
+nest or groups or cords. Tumor cells have moderate and basophilic or vascuolated cytoplasm. Nuclei are
+enlarged and varriability In shape and size, irregular nuclear membranes, nucleoli and abnormal
+chromatin patterns. Mitoses are present. Tumor invades In inner muscle propria
+
+Diagnosis Details: infiltrating urothelial carcinoma, low-grade, infiltrating in inner muscularis propria
+
+Comments:
+
+Id!) ’6) *3
+
+Formatted Path Reports: BLADDER TISSUE CHECKLlST W, W W
+
+. ‘ wao/ 5
+Specimen type: Cystectomy
+_ F‘
+
+7.7
+Tumorsite: Bladder .3»); ‘Bé‘a l { M N03 db
+
+Tumor size: 2.2 x 1.5 x 1 cm PW N53 Cb 73 01
+Tumor features: None speciﬁed CW5 7’3] L3
+
+Histologic type: Transitional cell carcinoma, papillary
+
+UUID: 3431AE8E- 2696- 4DE7- BBAB- E CD 1
+TCGA- E7- AEMF- 91A- PR 3 0 85632eBd
+
+Histologic grade: Moderately differentiated l”
+Tumor extent: Superficial muscle (innner half) “I'm“
+Lymph nodes: Not specified
+
+Lymphatic invasion: Not speciﬁed
+
+Venous invasion: Not speciﬁed
+
+Margins: Not speciﬁed
+
+Evidence of neo-adjuvant treatment: Not speciﬁed
+
+Additional pathologic findings: Not specified
+
+Comments: None
+
+mm ' ﬂ & [9.1! I 3 .,
+Dinlnosu Disc: roan
+Primalyu iu mar Site Discrepan
+
+Hii'M Disrr evang_
+m I a ‘
+lQUALIFiED I DlSCUJAUF D
+
+pn rim-Mn lirlgna rlcvlliskloryi
+,._Il/!
+
+  
+  
+  
+
+ 
+
+ 
+
+ 
+        
+

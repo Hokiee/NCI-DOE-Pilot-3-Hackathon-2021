@@ -1,0 +1,63 @@
+SPECIMENS:
+A. GALLBLADDER
+B. FALCIFORM
+C. LEFT LOBE LIVER
+
+SPECIMEN(S):
+A. GALLBLADDER
+B. FALCIFORM
+0. LEFT LOBE LIVER
+
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+C. Left lobe liver: 1.1 cm nodule located 1.2 cm from closest margin.
+Called to
+
+GROSS DESCRIPTION:
+A. GALLBLADDER
+Received fresh in a single container labeled and designated "gallbladder" and consists of gallbladder
+measuring 7.0 x 3.0 x 1.0 cm. The external surface of the gallbladder is pink-tan and grossly looks
+unremarkable. Cystic duct remnant measures 0.4 cm in length x 0.5 cm in diameter. Gallbladder is
+opened to reveal large brown to yellow mucosa. A small amount of yellow bile is in the gallbladder
+lumen. No mass lesions or calculi are identified. Gallbladder wall measures up to 0.2 cm in thickness.
+Representative sections of gallbladder wall and cystic duct are submitted in cassette A1 .
+B. FALCIFORM
+Received fresh in a single container labeled and designated "falciform" and consists of piece of yellow-
+red fibroadipose tissue measuring 11.5 x 10.0 x 1.3 cm and weighs 80 gm. The specimen is serially
+sectioned and examined. No mass lesions or lymph node candidates are identified. Representative
+sections are submitted in cassette Bf and B2.
+
+C. LEFT LOBE LIVER
+Received fresh in a single container labeled and designated "left lobe liver" and consists of partial
+hepatectomy specimen weighing 290 gm and measuring 15.0 x 14.5 x 6.5 cm. The liver external
+surface is dark red. The surgical margin is grossly free of lesions. It is inked in black. Specimen is
+serially sectioned to reveal nodular mass/lesion measuring 1.1 x 1.5 x 1.2 cm. The lesion is ill-
+circumscribed and white-tan in color. It is located 1.2 cm from the closest resection margin. The rest of
+the liver parenchyma is dark red and grossly looks unremarkable. Representative sections are
+submitted for code of sections.
+Code of sections:
+
+Cf: lesion and closest resection margin
+
+C2: lesion
+
+C3: liver parenchyma, away from lesion
+
+DIAGNOSIS:
+A. GALLBLADDER,CHOLECYSTECTOMY:
+- GALLBLADDER WITHOUT PATHOLOGIC ALTERATION.
+
+B. SOFT TISSUE, FALCIFORM LIGAMENT, EXCISION:
+- BENIGN FIBROADIPOSE TISSUE
+
+C. LIVER, LEFT LOBE, PARTIAL HEPATECTOMY:
+- METASTATIC ADENOCARCINOMA (1.5 CM) CONSISTENT WITH COLONIC PRIMARY.
+- ADENOCARCINOMA 1.2 CM FROM THE RESECTION MARGIN.
+
+CLINICAL HISTORY:
+None given
+
+PRE-OPERATIVE DIAGNOSIS:
+Liver metastasis
+
+ 
+

@@ -1,0 +1,306 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RUN DATE: PAGE 1
+RUN TIME. Specimen Inquiry
+RUN USER:
+PATIENT:— " V . ACCT m~ :Loc: m
+. . . AGE/3x? ,1? my; I.“
+REG DR: DOB: BED: “;-.‘,1
+SUUU321IIII'
+SPEC a: RECD: STATUS: PERFORMED AT _n_
+COLL: TIME IN FORMALIN: hrs.
+COLD ISCHEMA TIME: mins.
+
+CLINICAL INFORMATION:
+Pre—Op Diagnosis:
+Remarks:
+Specimen(s):
+
+9?”?
+
+ 
+
+MICROSCOPIC DIAGNOSIS
+
+ 
+
+A. PANCREATIC DUCT MARGIN:
+— SQUAMOUS METAPLASIA
+— CHRONIC INFLAMMATION
+
+— NO EVIDENCE OF MALIGNANCY
+
+B. COMMON DUCT MARGIN:
+— CHRONIC INFLAMMATION
+
+llll
+Pancreatic duct margin MI
+Common duct margin MI
+Whipple contents
+
+UUID:24F1400A-8E12-4293-9695-525CD1F3A045
+TCGA-LB-A7SX-91A-PR
+
+llllIIHllllllllllllllllllllllllllllllllllllﬂllllllllllllll
+llllll||||||||||||||||l|||||||||||||||||||l|||l|||||||||||||
+||||I||lllllllll|||||||||||llllllllllllllll|||||||||ll|l||ll
+
+ICJD 4545
+
+C21 ! QMHOQ 5’50
+
+(5912’ ”9 W 025D
+
+Q4) )o/M/l3
+
+— N0 EVIDENCE OF MALIGNANCY
+
+C. WHIPPLE CONTENTS:
+~ ADENOCARCINOMA
+
+~ SEE COMMENT FOR DETAILS
+
+oomemt s )
+
+COLLEGE OF AMERICAN PATHOLOGISTS‘
+
+THE EXOCRINE PANCREAS, BASED ON AJCC/UICC TNM.
+
+PROTOCOL FOR EXAMINATION OF SPECIMENS WITH CARCINOMA OF
+7TH EDITION
+
+The following classification should be adjusted based on additional clinical information.
+
+Specimen:
+
+Procedure:
+
+Tumor Site:
+
+Tumor Size:
+
+Histologic Type:
+
+Histologic Grade:
+Microscopic Tumor Extension:
+
+Margins:
+Treatment Effect1,
+Lymph~Vascular Invasion:
+
+**
+
+Stomach. duodenum, pancreas
+
+Whipple
+
+Pancreatic head
+
+2.5 cm
+
+Duetal adenocarcinoma
+
+Grade 2
+
+Tumor invades ampulla of Vater: duodenal wall.
+peripancreatic soft tissue
+
+Margins involved by invasive carcinoma
+No prior treatment
+
+Present
+
+CONTINUED ON NEXT PAGE **
+
+ 
+
+Redacted
+Ill
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RUN TIME: Specimen Inquiry
+
+RUN USER: _ ‘ ‘ —
+
+SPEC u: PATIENT: ”—- d (Continued)
+COMMENT( S 1 (Continued)
+
+Perineural Invasion: Present
+
+Pathologic Staging: Primary Tumor: pT3
+
+Regional Lymph Nodes: le
+
+Number found: 26
+
+Number examined: 26
+
+Number involved: 7
+Distant Metastasis: Not applicable
+
+Additional Pathologic Findings: Pancreatic intraepithelial neoplasia III
+
+Acute and chronic pancreatitis
+Pancreatic abscess
+
+GROSS DESCRIPTION:
+
+A. The specimen is labeled “pancreatic duct margin". The specimen consist of two reddish
+tan pieces of tissue. I don't see any staple lines in the one. it looks like it may be
+clot or maybe a lymph node. The specimen is entirely frozen in one block.
+
+B. The specimen is labeled “common duct margin“. The specimen consist of a single gray
+membranous red piece of tissue measuring about i x 0.6 cm, entirely frozen in block B.
+
+C. The specimen is labeled “Whipple contents”. The specimen is received in the unfixed
+state in the operating room and consists of a single specimen consisting of stomach. The
+lesser curvature measures 6.5 cm. greater curvature 10.5 cm. proximal staple line measures
+7 cm. The serosal surface of the stomach is grossly unremarkable. The duodenum and small
+intestine measures 20 cm in length. The distal end is stapled closed. The surface of the
+small intestine demonstrates some hemorrhagic adhesions along the anterior surface. The
+gastric duodenal mucosa is opened revealing a small amount of mucoid blood. The attached
+pancreas measures 6 x 4.7 x 3.5 cm. One long staple line is running across the edge of the
+specimen. Some blue ink is placed along the uncinate process. A second smaller 1.3 cm
+staple line is present in the area of the bile duct. I could probe the ampulla about 1.5 cm
+then becomes stenotic. Representative sections of the unremarkable stomach and gastric
+lymph nodes submitted in cassette C1. The ampulla is probed through the specimen, sections
+of the ampulla and suspicious tumor in the pancreas in the area submitted for tumor banking
+submitted in cassette C2. This is a section along the length of the duct. One smear
+imprint is made of the suspicious area and this area is then sampled for tumor banking.
+
+TWo additional parallel sections are submitted in cassettes C3 and C4. Tumor estimation
+size on cross sectioning is 2.2 x 2.5 x 2.0 cm. Representative sections of tumor submitted
+through cassettes C10. One section including the inked margin. There is a small blue
+suture at one margin submitted in cassette C7. Suspected lymph node submitted in cassette
+C8, One complete crosg section including an area where the tissue is submitted for tumor
+banking submitted in cassettes C11. 12 and 13. One additional cross section submitted in
+cassettes 14 through 17.
+
+MICROSCOPIC DESCRIPTION:
+
+The invasive adenocarcinoma originates from in situ carcinoma in the pancreatic duct and
+extends into the wall of the duodenum and the mucosa of the ampulla. The tumor also
+extends outward outside the pancreas into the surrounding fibroadipose vascular connective
+
+** CONTINUED ON NEXT PAGE **
+
+ 
+
+ 
+
+ 
+
+ 
+
+RUN DATE : , ' 13th 3
+RUN TIME: Specimen Inquiry
+RUN USER!
+
+ 
+
+SPEC n: PATIENT: ’ “ (Continued)
+
+ 
+
+MICROSCOPIC DESCRIPTION: (Continued)
+
+tissue and inked margins. The tumor measures 2 mm from the uncinate process margin. There
+is a fair amount of acute and chronic inflammation with extensive squamous metaplasia of
+the pancreatic duct. This is also associated with the acute pancreatitis with abscess
+formation.
+
+INTRAOPERATIVE CONSULTATION:
+FROZEN SECTION:
+
+A. PANCREATIC DUCT MARGIN:
+
+B. COMMON DUCT MARGIN:
+
+CYTOLOGY SMEAR:
+C. WHIPPLE CONTENTS:
+
+~ ADENOCARCINOMA
+— TUMOR RETRIEVED FOR TUMOR BANKING
+
+INITIAL IMPRESSION:
+IMMEDIATE ASSESSMENT:
+
+A. PANCREATIC DUCT MARGIN:
+— NO EVIDENCE OF MALIGNANCY
+
+B. COMMON DUCT MARGIN:
+— NO EVIDENCE OF MALIGNANCY
+
+PHOTO DOCI JI-lEN'I‘ATILN
+
+   
+
+Image
+
+Signed
+
+(signature on file)-
+
+ 
+
+ 
+
+ 
+
+** END OF REPORT **
+
+ 
+
+ 
+
+rh l 3 Van
+Crile 3‘3
+
+Diagnosis Dlscrepanty
+
+anirv Turner Sue Discrepancy
+
+HIPAA Discrepancy
+
+Prior Malignancy History
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+is n: mnaus Primary
+:Lliiyl cl ): UALIFIE / DISQ IF
+lvmwed:
+Rewaw: ' V U
+
+ 
+

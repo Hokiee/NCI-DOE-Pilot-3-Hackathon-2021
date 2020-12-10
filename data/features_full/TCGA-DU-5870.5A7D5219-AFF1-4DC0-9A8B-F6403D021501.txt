@@ -1,0 +1,194 @@
+ 
+
+gecurfﬂucb
+
+1630-5
+
+5 g If 9451/3
+
+Anatomic Pathology/Cytology Document 5m: (version) 8.95; ﬂ, WNDS
+
+UmhthdT a i? .
+
+“"“a m Wee/«W Ileana Io
+. /
+
+Patient Name: MRN: Service Dathime:
+
+. I 61—:
+DOB/Agchendet: Female Provider: W9 [30,13 (17’
+Location: Responsible Staff
+
+Surgical Pathology Report
+
+Patient Name: Acce3sion #:
+Med: Rec.: Phone Number:
+DOB: ' Gender: F
+
+Client : - UUID: 5A705219-AFF1-4DC8-9ABB- Fawanensm
+Taken . TCGA-Du-sa7a-92A-PR Redacted
+
+Received: HHIIHIIHlllllllllllllllllllllllllllllllllllmllllllllllll
+l
+
+Reported: II I III" I III“ |||||I|||||||||l| | |||||||||||| | l l lllllll llll
+Physician(s):
+
+. ! llllllllllllHllllllllllllIHIllllllllllllllllllllllIll
+Phy Location:
+
+-year—old woman had a right temporal oligodendroglioma removed
+
+, a recurrence diagnosed on and currently has a
+focal area of enhancement.
+
+OPERATIVE DIAGNOSES
+
+Not Given
+
+Operation/Specimen: A: Brain, right temporal, excision biopsy
+PATHOLOGICAL DIAGNOSIS:
+
+A. Brain, right temporal, excisional biopsies: Oligodendroglioma,
+
+ana lastic. MIB—l proliferation index: 10%.
+We
+
+COMMENT
+
+The specimen is fragments of cerebrum heavily infiltrated and focally effaced
+by an oligodendroglial neoplastic proliferation. The neoplastic nuclei have
+moderate anaplasia, and there are some mitotic figures. There are also
+frequent gemistocytes, mostly mini gemistocytes. There is no appreciable
+microvascular cellular proliferation or necrosis. The MIB—l proliferation
+index is about 10% throughout the tumor. These features indicate the neoplasm
+has undergone anaplastic transformation.
+
+***Electronically Signed Out***
+
+PROCEDURES/ADDENDA
+
+MGMT Promoter Methylation
+Date Ordered: Date Reported:
+Interpretation
+
+POSITIVE - Methylated MGMT promoter is detected.
+
+Results—Comments
+
+Testing was done on block (A2).
+
+TEST DESCRIPTION: Bisulfite treatment of DNA followed by PCR amplification of
+both methylated and unmethylated MGMT promoter sequences, with products
+detected by gel electrophoresis.
+
+FDA COMMENT: The above data are not to be construed as the results from a
+
+stand—alone diagnostic test. This test was developed and its performance
+characteristics determined by the as
+
+ 
+
+required by CLIA ' 88 regulations. It has not been cleared or approved for
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA has
+determined that such clearance or approval is not necessary. These results
+are
+
+provided for informational purposes only, and should be interpreted only in
+the context of established procedures and/or diagnostic criteria.
+***E1ectronically Signed Out***
+
+Consultant: ‘ .
+
+INTRA—OPERATIVE CONSULTATION
+
+A.
+Brain, touch prep and smears: Glioma, C/W oligodendroglioma, atypical.
+Frozen section performed at and results reported to the
+
+Physician of Record.
+
+GROSS DESCRIPTION
+
+A.
+
+Received fresh, several fragments, 1.6 cm. in aggregate. Soft and semi firm,
+tannish—purple. In total, Al—A3.
+
+MICROSCOPIC DESCRIPTION
+IMMUNOHISTOCHEMISTRY: The GFAP demonstrates many gemistocytes (mini— and
+classical). About 5% of neoplastic cells over express the p53 protein. With
+
+the MIB—l, there is a proliferation index of about 10% throughout the tumor.
+ICD—9(s):
+
+191.2 191.2
+
+Billing Fee Code(s): @
+A:
+
+MGMT:
+
+Histo Data
+
+Part A: Brain, right temporal, excision biopsy
+
+Taken: Received:
+Stain/cnt Block Ordered Comment
+H/E x 1 1
+
+CD3l—DA x l 2
+mGFAP-DA x l 2
+
+H/E x 1 2
+
+MGMT X l 2
+
+MIBl—DA x l 2
+
+P53DO7 x 1 2
+
+H/E x 1 3
+
+*** End of Report ***
+
+‘ '-.t-e;
+
+  
+ 
+ 
+ 
+  
+ 
+ 
+       
+  
+ 
+
+criteria
+
+Dmgnags Dimepancv
+Pm“ lrv Tumor Site stcmpsncy
+._____.———v- ___,_4_._~———
+
+H:F.‘\A Discrepancy
+
+"a. __,_._—————-
+Pr‘m Mahgnancy Hbslurv
+'Suevsvnmonous Primary Noted —-V
+
+- ”I“ A
+Caseislcircle): 41mm”? / msqununen
+E‘ﬁwer lmﬂal ! . , , Dale Reviewed.—
+
+ 
+
+    
+
+  
+
+   
+ 
+
+   
+

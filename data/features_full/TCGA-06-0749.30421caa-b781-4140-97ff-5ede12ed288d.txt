@@ -1,0 +1,298 @@
+ 
+
+Surgical Pathology Report
+
+ 
+
+Wraith past history of migraine headaches and small strokes,
+
+has a large right temporal necrotic tumor with irregular enhancement and
+restricted central diffusion.
+
+OPERATIVE DIAGNOSES
+Not Given
+
+Operation/Specimen: A: Right temporal brain tumor
+
+B: Brain, excision biopsy
+
+C: Brain, medial and inferior temporal, excision biopsy
+D: Brain, posterior margin, excision biopsy
+
+PATHOLOGICAL DIAGNOSIS:
+
+A, B, C, and D: Brain, temporal lobe, excision:
+l. Glioblastoma.
+
+2. MIB—l proliferation index: 22%.
+
+See Microscopy Description and Comment.
+
+COMMENT .
+In all the specimens there is a glial neoplastic proliferation that
+
+extensively infiltrates and focally effaces the cerebral tissue. The neoplasm
+has anaplastic features, i.e. nuclear atypia, mitotic activity, microvascular
+cellular proliferation, and zones of necrosis with vascular thrombosis.
+Focally, the tumor has extensively infiltrated the leptomeningeal space.
+
+The neoplasm has a predominantly astrocytic phenotype, but in some
+infiltrative areas there is a capillary vascular network with focal
+mineralization. This feature suggests an oligodendroglial component.
+
+This neoplasm may probably be better classified as a glioblastoma, with
+possibly an oligodendroglial component (WHO IV/IV).
+
+The neoplasm is present in all specimens. In specimen D (”posterior”), the
+tumor is only moderately cellular and is devoid of necrosis.
+
+Molecular-genetic data may better characterize this tumor.
+
+ 
+
+PROCEDURES/ADDENDA
+
+   
+
+    
+   
+
+ 
+
+MGMT Promoter '
+Date Ordered: Date Reported: _
+
+Interpretation
+
+NEGATIVE: No evidence of methylated MGMT promoter is detected.
+
+Results—Comments
+Testing was done on block
+
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT promoter
+have been shown to benefit from therapy with alkylating agents. Assessment of
+MGMT promoter methylation status involves bisulfite treatment of DNA followed
+by real-time PCR amplification (MethyLight} of methylated and unmethylated DNA
+sequences.
+
+FDA COMMENT: The above data are not to be construed as the results from a
+
+stand alone diagnostic test. This test was develo ed and its performance
+characteristics determined by the# laboratory as
+required by CLIA ' .regulations. as no een c eared or approved for
+
+specific uses by the 0.3. Food and Drug Administration (FDA). The FDA has
+determined that such clearance or approval is not necessary. These results are
+provided for informational purposes only, and should be interpreted only in
+the context of established procedures and/or diagnostic criteria.
+
+ 
+
+NEGATIVE: Allelic loss on chromosome arm 1p and chromosome arm l9q is NOT
+detected.
+
+Informative loci are: 018548, D181592, D13468, 0181612, 018496, D198412,
+PLAZGéC, 0198606, D1981182
+
+Results—Comments
+
+Test performed on paraffin tumor block ' and peripheral blood for
+germline comparison.
+
+TEST DESCRIPTION: Allelic loss is assessed by PCR assay in Normal DNA
+{baseline}/ Tumor DNA pairs using 3 markers at both 1p and 19g. The 3 markers
+on lp are 018548, D181592, and D18552 (with D18468, D181612, and D18496 as
+backup markers) and the 3 markers on 19q are 0198219, 0198412, and PLA2G4C
+(with D19SGO6 and D1981182 as backup). All markers are microsatellites (2 or 4
+nt repeats) except PLAZG4C which is a minisatellite {26 nt repeat)
+polymorphism. The markers were selected based on heterozygosity score,
+amplicon size, and ease of interpretation. The backup markers are used if the
+first line markers at that chromosome arm are uninformative or otherwise
+ambiguous in their interpretation. LOH at all informative loci on each
+chromosomal arm represents the typical finding in oligodendrogliomas with 1p
+and 19g deletion.
+
+FDA COMMENT: The above data are not to be construed as the results from a
+stand—alone diagnostic test. This test was develo ed and its performance
+characteristics det 'ned by the laboratory as
+required by CLIA ' regulations. It has not been cleared or approved for
+specific uses by the 0.8. Food and Drug Administration (FDA). The FDA has
+determined that such clearance or approval is not necessary. These results are
+provided for informational purposes only, and should be interpreted only in
+
+ 
+
+ 
+
+ 
+
+ 
+
+the context of established procedures and/or diagnostic criteria.
+
+TECHNICAL SENSITIVITY: The presence of >15% non—neoplastic cells in the sample
+may preclude the detection of allelic loss.
+
+ 
+
+INTRA—OPERATIVE CONSULTATION
+
+A. Right temporal brain tumor:
+
+1. Touch prep and smears: Spindle cell neoplasm, glial.
+
+2. Frozen section: Glioma, infiltrative, with anaplastic features (gross
+
+lioma
+
+  
+ 
+ 
+
+ 
+
+necrosis and imaging studies C/W hi h rade
+FrOZen section performed at
+the Physician of Record.
+
+GROSS DESCRIPTION
+
+A.
+
+Received fresh, two portions of cerebrum; one is falciform, 6.5 x 2.0 x 1.5
+cm, and consists of cerebral cortex and adjacent white matter that appear to
+surround a central cystic cavity; the lesional tissue obliterates land marks,
+and is semi firm, homogeneous, and gray—glistening; The other fragment is
+somewhat lobulated, purplish—grey, and homogeneously glistening.
+Representative sections, Al~A3, frozen tissue A4.
+
+and results reported to
+
+B.
+Received fresh, one fragment, 2.0 cm. across. Semi firm, creamy—white. In
+
+total, El and 82.
+
+C.
+SPECIMEN: Medial and inferior temporal.
+
+FIXATIVE: None.
+
+GENERAL: Received is a 4.5 x 3 x 1.5 cm. aggregate of semi—firm homogeneous,
+gray—tan hemorrhagic glistening soft tissue. Arborizing vessels are
+identified on some of the surfaces. Sectioning reveals gray—white fleshy cut
+surfaces.
+
+SECTIONS: Entirely submitted in five cassettes.
+
+D.
+SPECIMEN: Posterior.
+
+FIXATIVE: None.
+
+GENERAL: Received is a 4.5 x 3.5 x 1.2 cm. aggregate of seminfirm homogeneous
+tan—gray glistening, hemorrhagic soft tissue fragments. Sectioning reveals
+pale gray—white fleshy glistening out surfaces.
+
+SECTIONS: Entirely submitted in five cassettes.
+
+ 
+
+MICROSCOPIC DESCRIPTION
+
+IMMUNOHISTOCHEMISTRY: The CPA? demonstrates overall gliofibrillogenesis by
+the neoplastic cells, with focal areas of sparse glial background. The tumor
+cells do not over express the p53 protein. With the MIBul there is a
+proliferation index of about 22% in the more active areas. The NeuN depicts
+neurons in the infiltrated cerebral cortex. The NFP demonstrates a handful of
+cortical neurons containing perikaryal phosphorylated NFP, but these cells are
+not morphologically atypical. The CD163 depicts a large population of
+
+positive cells, some with granular cytoplasm.
+
+ 
+
+The immunophenotype is consistent with a high histological grade,
+predominantly astrocytic glioma.
+
+  
+   
+   
+  
+   
+   
+
+ 
+
+ICD"9(S):
+||IIilIlIIIlll|||||||||||||||||||||||||||||||||||||||
+
+Histo Data
+
+Part A: ' rain tumor
+
+Taken: m Received: —
+
+Stain/cnt Block Ordered Comment
+
+H/E x 1 l
+
+H/E x l 2
+
+H/E x l 3
+
+H/E x l 4
+
+H/E x 1 5
+
+Part B: Brain excision biopsy
+Taken. — Received: —
+
+Stain/ant Block Ordered Comment
+H/E x l 1
+TPS H/E X 1 l
+H/E x l | 2
+H/E x 1 3
+
+Part C: Brain medial and inferior tem oral excision biopsy
+Stain/on Block Or ere omment
+
+H/E x 1 l
+H/E x l 2
+H/E x l 3
+H/E x l 4
+H/E x l 5
+
+Part D: Brain, posterior margin, excision bio s
+Takem — Received: —Eh
+
+Stain/ant Block Ordered Comment
+
+H/E x l l
+H/E x l
+
+H/E x 1
+
+H/E x l
+
+CD163 Vector x l
+mGFAP—DA X l
+H/E x l
+
+MIBl-DA x l
+
+NeuN x l
+
+NF2F11 x l
+P5300? x l
+
+LnU'lCﬂU'lU'IU'lLﬁhb-WN
+
+ 
+
+*** End of Report ***
+
+ 
+
+ 
+

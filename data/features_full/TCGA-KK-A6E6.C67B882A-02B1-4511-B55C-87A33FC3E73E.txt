@@ -1,0 +1,129 @@
+Specimen Date! Time:
+
+******* MODIFIED REPORT — REVIEW ADDENDUM SECTION *******
+DIAGNOSIS» 163330 3
+
+(A) RIGHT PELVIC LYMPH NODE: €46:ij M6 5' Flew/3
+
+One lymph node, no tumor present.
+
+(B) LEFT PELVIC LYMPH NODES: _
+Four lymph nodes, no tumor present. ,W 63/40} 5
+(C) PROSTATE AND SEMINAL VESICLES:
+
+Supplemental report to follow. 6741:. W [(16 5' 4a,?
+Entire report and diagnosis completed by 94“) 5147/43
+
+UUID: [673882A- 6231- 4511- BSSC- 87A33FC3E73eEd
+TCGA- KK- A6E6- 91A- PR
+
+GROSS DESCRIPTION
+
+(A) RIGHT PELVIC LYMPH NODE- The specimen consists of a segment of tibrofatty tissue measuring 6.0 x 3.0 x 1 0 cm.
+
+Embedded within the tissue' Is a lymph node measuring 1. 0 x 1. 0 x 0. 3 cm. The entire lymph node Is submitted for frozen section
+diagnosis.
+
+SECTION CODE: A1. A2, one lymph node bisected.
+*FS/DX: NEGATIVE FOR CARCINOMA.
+(B) LEFT PELVIC LYMPH NODES - A portion of red-tan adipose tissue (7.2 x 3.5 x 1.5 cm). Specimen is serially sectioned. Four
+
+possible lymph nodes are identiﬁed ranging in size from 0.3 x 0.2 x 0.2 to 3.2 x 1.0 x 0.6 cm.
+
+SECTION CODE: B1. two possible lymph nodes; BZ. one lymph node. bisected; BS, B4, one lymph node, bisected.
+(C) PROSTATE AND SEMINAL VESICLES - Supplemental report to follow.
+CLINICAL HISTORY
+
+Prostate cancer.
+
+SNOMED CODES:
+
+Released by: I
+
+Start Of ADDENDUM
+
+Page: 2
+
+Specxmen DatelTLme:
+
+ADDENDUM
+
+Addendum completed by
+
+ADDENDUM
+DIAGNOSIS;
+
+(C) PROSTATE AND SEMINAL VESICLES:
+PROSTATIC ADENOCARCINOMA, GLEASON SCORE 9 (4+5).
+(SEE COMMENT).
+TUMOR EXTENDING INTO EXTRAPROSTATIC TISSUE. (SEE COMMENT)
+Margins of resection free of tumor but carcinoma extending focally to < 0.1 mm from the margin of resection.
+PROSTATIC INTRAEPITHELIAL NEOPLASIA (PIN), HIGH GRADE.
+Right and left seminal vesicles, no tumor present.
+Segments of right and left vasa differentia, no tumor present.
+
+COMMENT:
+
+The prostate gland contains three separate foci of prostatic adenocarcinoma. All tumor foci are located In the peripheral zone.
+The dominant tumor focus is located in the right anterolateral, right lateral, right posterolateral and mid posterior peripheral zone.
+This tumor focus measures 2.0 x 1.8 cm In the largest cross sectional dimension and It is present in the three cross sections of the
+prostate and extensively in the apex and base regions. This tumor focus exhibits in the right posterolateral aspect of the prostate,
+right superior neurovascular bundle region and bladder neck region, extension into extraprostatic adipose tissue. The added
+length of extraprostatic tumor is 26.0 mm. The margin of resection Is free of tumor but tumor extends focally (right apex) to less
+than 0.1 mm from the inked margin of resection. The second largest tumor focus is located in the left anterolateral and left lateral
+peripheral zone. This tumor focus measures 0.4 x 0.3 cm in the largest cross sectional dimension and it is present in two cross
+sections and focally in the apical region. The third tumor focus is located in the left posterior peripheral zone. This tumor focus
+measures 0.4 x 0.3 cm in the largest cross sectional dimension and it is present in two cross sections. The non-dominant tumor
+foci are of lower histologic grade (Gleason score 6) and are conﬁned to the prostate.
+
+The dominant tumor focus exhibits Gleason grade 3, 4, and 5. The Gleason grade 5 component is located predominantly in the
+right lateral and right anterolateral aspect of the tumor.
+
+GROSSDESCRIPTION
+
+(C) PROSTATE AND SEMINAL VESICLES - A specimen consisting of a prostate, attached right and left seminal vesicles and
+attached segments of right and left vasa differentia.
+
+The prostate gland (6.4 x 3.3 x 3.5 cm, 49 grams, post ﬁxation) has the usual shape. The soft tissue present along the right
+and left posterolateral aspects of the prostate appears symmetrical. Tumor is palpated in the right posterolateral aspect of the
+prostate from the apex to the base. Serial cross sections have post ﬁxation demonstrating a ﬁrm area in the right peripheral zone
+of the three cross sections of the prostate.
+
+The seminal vesicles and segments of vasa differentia are grossly free of tumor.
+
+SECTION CODE: C1—C4, right seminal vesicle and segment of right vas deferens from the base towards the tip; C5-C7, left
+seminal vesicle and segment of left vas deferens from the base towards the tip; 08, prostatic base right border; 09-011, prostatic
+base right posterior border; 012-016. prostatic base central portion; 017, prostatic base left border; 018. 019, prostatic base left
+posterior border; 020-022, apex anterior; 023, C24, apex left; 025, 026, apex posterior; 027, 028, apex right; 029-042, sections
+of the three cross sections of the prostate according to specimen radiograph.
+
+The anterior aspect of the prostate is inked in green, left surface in red, right surface in yellow and posterior surface in black.
+Orange ink (05) denotes surfaces which do not represent the true margin of resection. Multiple blocks (031, 032, 036, 037, C41,
+
+Page: 3
+
+ 
+   
+
+SpeCLmen Date Time:
+
+and 042) submitted for decalcification.
+
+Released by:
+
+—-----END OF REPORT- -----
+
+     
+
+maa , n
+c SIS D‘scrzpam) Emu“,
+'1 films: at: 0'.er (I
+.z— /’
+
+ 
+    
+   
+
+  
+ 
+

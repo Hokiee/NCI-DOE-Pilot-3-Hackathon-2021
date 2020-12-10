@@ -1,0 +1,154 @@
+W » 10,be 3
+W’WM ’ 5%éoﬁjgm
+
+"”"Ii‘i‘i‘ciiiliiiéiiiiﬁiiiiiiiiﬁii‘m dwwﬁ $3,350 WWW
+IIIIIIII IIIIIIIIII I II IIII I III ’
+IIHIIHIIIIII IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIIIIIIIIIIIIIII Engels, W 511155
+
+N
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII 5,1,: wig/Mam:
+Collect date / Cb7 7
+gab til/8111+
+
+(MM/DDIYYYY)
+PATHOLOGY REPORT:
+
+PRIMARY SITE: Bladder
+
+1 - "Surgical excision of bladder + prostate + seminal vesicles”:
+. Urothelial high grade carcinoma, with extensive squamous differentiation.
+
+.Neoplasia’ssize: 4,5x42x3,.5cm Pm ’35 SW m66= O?”-
+. Presence of foci of necrosis.
+
+. Level of inﬁltration: muscular propria layer.
+
+. Angiolymphatic and perineural invasio: not detected.
+
+. Ureteral, urethral and soft tissues surgical margins uninvolved by neoplasia.
+. Gigantocellular foreign body reaction at the stroma.
+
+. Absence of neoplastic involvement of the prostate, seminal vesicles and deferens
+channels bilaterally.
+
+. Cystic Chronic cystitis.
+. Post atrophic prostate hyperplasia.
+. chronic nonspeciﬁc prostatitis.
+
+2 — "excision of leﬁ lymph nodes":
+. Absence os neoplastic involvement on the 5 lymph nodes identiﬁed (0/5).
+
+3 - "excision of right lymph nodes":
+. Absence os neoplastic involvement on the 7 lymph nodes identified (0/7).
+
+Topography: bladder, NOS
+Morphology: transitional cell carcinoma, NOS
+Staging: pT2b pNO M0
+
+ 
+
+ 
+
+ 
+
+W. J
+'TCGA Pathologic Diagnosis Discrepancy F orm‘ I I)
+
+ 
+
+ 
+
+ 
+
+ 
+
+managing; The TCGA IPathoIogic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+
+documented on the Initial pathology report fora case submitted for TCGA is inconsistent with the diagnosis provided on. the
+Case Quality Control Form compieoed for the submitted case. ‘_
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (T88): T35 identiﬁer: __ _ TSS Unique Patient Identiﬁer:
+.ompleted By (InterviewerName on OpenCIiniI‘ca]: Completed Date:
+Diagnosis Information I I . I _ I _ _ _ _ V .
+it Data Element _ ' Entry Alter-natives Workﬁgg Instructions
+_ ‘ ‘ . I Provide the diagnosis] hismlogic subtypﬂs) documented on
+Pathologic Diagnosis High grade mothehal carcinoma With extensive the initial paﬂielogymgort for this (35:. tithe histology for
+1 Provided on Initia} —-—---—-——-—- I misuse is mixed; provide all listed subtypes.
+Pathology Report squamous differentiation
+,. ‘, . . .. . . p'Im'IustoI‘re I I
+' Histologicfeatures of High grade urothehai cammoma With 0% of Q2123; C 02ml F :g: “ml ssiems°;ﬂ:m Case
+2 the sample prowded souamons ditferennanon _ _
+
+‘ {or TCGA. as reﬂected (there is no squamom differentiation)
+on'the CQCF.
+
+Discrepancy between Pathology Report and Case Quality Control Form . _
+
+3 pfovide mamas—on for Provirieareason damningwhyemdamsismummﬁai
+the discrepancy {radiology report for disease is not consistent with the
+between the pathology Case reviewed by Dr ; basedon diagnosxs selected on the TCGA Case Quality Control Form.
+report and the TCGA top slide image sent fromBClL
+Case Quality. Control
+Form.
+
+Name nfTSS Reviewing ‘ _ , , lifrovideﬁe namenfthe pathologist who reviewed this case
+4 Pathologist or ’ ”FTC“
+Bioreposito ry‘ Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the abm-iﬂﬁnnadon provided, by my institution is true and con-eat and has been quality controlled.
+
+T55 Reviewing Pathologist oriﬁiorepository Directo_i‘—__—— Date. ”I ' ’
+
+I qckmwledge that the minimal: provided bymy minimum: is true and oar-ran and hos-been quality :0an WAuending Pathologist or the.
+Demnent mam” Mum-n iufmmedoris aware niche above disavow in diagnoses.
+
+ 
+
+“I I Pﬁndﬁﬁnveﬁaﬂlwme I ’ Date ’ ’ ’
+
+ 
+
+ 
+
+ 
+
+ 
+

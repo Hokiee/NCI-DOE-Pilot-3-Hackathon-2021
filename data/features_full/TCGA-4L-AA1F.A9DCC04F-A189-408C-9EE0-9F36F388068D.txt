@@ -1,0 +1,59 @@
+fCCDOp
+
+Age/Sex: / M ﬂﬂmawmucn w... H05 3/453 5
+59141 (await ,UaSGéJ‘i
+
+Date: 7 I 1,;
+
+Procedure: Radical prostatectomy %v f/ 2 /
+
+Preoperative diagnosis: CARCINOMA OF THE PROSTATE
+Postoperative diagnosis: SEE MICROSCOPIC DIAGNOSIS BELOW
+
+Specimen(s): 1. PROSTATE 2. LEFT PELVIC LYMPH NODES 3. RIGHT PELVIC
+
+LYMPH NODES
+
+UUID: ABDCCB4F- HA189 4980 9EEO- 9F36F3886e68Dc
+TCGA-- 4-L -AA1F- 91A- -PR
+
+Diagnosis:
+1. PROSTATE:
+
+- Acinar adenocarcinoma, Gleason score 8 (4+4)
+- Tumor involves both lobes and seminal vesicles
+- Perineural and vascular invasion is present
+
+- Extracapsular invasion is not identiﬁed
+
+- Resection margins are positive for tumor
+
+2. LEFT PELVIC LYMPH NODES:
+
+- All (two) lymph nodes are negative for metastatic carcinoma
+
+3. RIGHT PELVIC LYMPH NODES:
+
+- All (two) lymph nodes are negative for metastatic carcinoma
+
+Gross description:
+
+1. PROSTATE:
+
+Received fresh, is a prostate 5.0 x 4.0 x 4.0 cm in dimensions with seminal vesicles. The prostate
+has a ﬁrm lobulated gray cut surface.
+
+2. LEFT PELVIC LYMPH NODES:
+
+Received fresh, is a portion of adipose tissue with two lymph nodes to 1.0 cm in greatest
+dimension.
+
+3. RIGHT PELVIC LYMPH NODES:
+
+Received fresh, is a portion of adipose tissue with two lymph nodes to 1.0 cm in greatest
+dimension.
+
+ 
+
+ 
+

@@ -1,0 +1,38 @@
+UUID: ASSASSSB- F18C- 4303- SBBF- 770DA218946eZd
+TCGA- AN- AOXL- OlA- PR
+
+IllllllllllHllllllllllllllllllllllllll II I I
+III Illlllllllllllllllllllllllllllll lllll llllllllllll IHIHIIIIH‘JIPIHI"Ml
+Ill lllllllllllllllllllllllllllllllllllllllllllllllllll lllll
+
+TSS Patient lD:
+Case #2 ‘. DOB: Sex: Female Ethnicity (Race):
+
+Cancer Sample
+
+Diagnosis: Breast Cancer Histological description: lnfiltrative ductal carcinoma
+Date of Procurement Anatomic Site: Breast Tumor location: Primary
+Tissue Specification; Tumor Specimen Matrix: Tissue Specimen Format: OCT
+Container: block Type of Procurement: surgery Grade: 2
+
+TStage: 2 N Stage: 0 M Stage: 0 Treatment: none
+
+Treatment Details: n/a
+
+Normal Sample
+
+Anatomic Site: Blood Sample Type: Normal Type of Procurement: blood draw
+Matrix: Blood Specimen Format: frozen Container: tube
+
+Date of Procurement: .
+
+lab-0?;
+
+arm/0mm ”W M NO; 35’00/3
+sir»: m N“ 05‘“ ”ii/mil.
+
+Cue
+Reviewer Initials Date Reviewed:
+
+ 
+

@@ -1,0 +1,191 @@
+UUID:1D97E5A9-6629-4545-98CE-2E7725C031A8
+TCGA-FY-A3R7-01A-PR RecilTlilitEd
+
+Report for— ||||||||||||||||||||l|||||||||||||l|||||||||||||||||||||||||
+Ill lllllllllllllIlllllllllllllllllll llllllllllllllllll Ill llll
+TEST: Surgical Pathology Illlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+
+Collected Date & Time:
+
+Result Name Results Units Reference Range
+
+Surgical Pathology SURGICAL P
+SURGICAL PATHOLOGY REPORT
+
+Patient Name:
+Accession #
+Med. Rec. #2
+
+Billing Type: Outpatient
+
+Location:
+
+DOB: (Age:
+
+Service: Surgery
+
+Gender:
+
+Billing -
+
+Taken Received Reported:
+Physician(s): '
+
+ 
+
+Specimen (3) Received ch,0—3
+
+A: Right thyroid lobe cafclmorha, Pa/Pjﬂalq’kﬁwqmgé
+B: Left thyroid lobe K‘ZUOIB
+
+C: Right paratracheal nodes, level 6
+84k. ‘H’\\{(0‘ cl C73“
+38012.29
+
+Pathologic Diagnosis
+
+Papillary thyroid carcinoma, right lobe.
+Size: 2.0 cm.
+Classical variant.
+Tumor focally extends to involve perithyroidal adipose
+tissue.
+— Papillary thyroid carcinoma focally approaches to within <1
+mm of the cauterized soft tissue margin.
+— No lymph—vascular invasion identified.
+B. Left thyroid, lobectomy:
+— Papillary thyroid carcinoma, left lobe, single focus.
+— Size: 3 mm.
+— Classical variant.
+— No extrathyroidal extension identified.
+— Resection margins negative.
+C. Right paratracheal lymph nodes, level 6:
+t
+
+A. Right thyroid, lobectomy:
+
+Zeof-Z lymph nodes positive for metastatic papillary
+hyroid carcinoma.
+~ Single oenign parathyroid gland identified.
+CAP CANCER CHECKLIST: THYROID GLAND RESECTION
+
+Procedure: Thyroid lobectomy, right and
+left
+Specimen Integrity: Intact
+Specimen Size:
+Right lobe: 4.5 X 2.4 x 1.5 cm
+Left lobe: 4 x 2 x 1.4 cm
+Specimen Weight: 11 g aggregate
+Tumor Focality: Multifocal bilateral
+
+Dominant Tumor:
+Tumor Laterality: Right lobe
+
+Tumor Size: 2.0 cm
+
+Histologic Type: Papillary carcinoma
+Variant: Classical
+Architecture: Classical
+Cytomorphology: Classical
+Margins:
+
+Distance of invasive
+Carcinoma to closest
+
+Margin: <1 mm
+Tumor Capsule: Partially encapsulated
+Tumor Capsular invasion: Present
+Lymph—Vascular Invasion: Not identified
+Extrathyroidal Extension: Present, minimal
+Second Tumor:
+Tumor Laterality: Left lobe
+Tumor Size: 0.4 cm
+Histologic Type: Papillary carcinoma
+Variant: Classical
+Architecture: Classical
+Cytomorphology: Classical
+Margins: Uninvolved
+Tumor Capsule: Partially encapsulated
+Tumor Capsular Invasion: Not identified
+Lymph—Vascular Invasion: Not identified
+Extrathyroidal Extension: Not identified
+PATHOLOGIC STAGE: pT3, lea, pMX
+NOTE: Information on pathology stage and the operative procedure
+
+is transmitted to this Institution' 8 Cancer Registry as required
+for accreditation by the Commission on Cancer. Pathology stage
+is based solely upon the current tissue specimen being evaluated
+and does not incorporate other relevant data. Pathology stage is
+only a component to be considered in determining the clinical
+stage and should not be confused with nor substituted for it.
+
+The exact operative procedure is available in the surgeon' s
+operative report.
+
+Additional Pathologic Findings: Thyroiditis,
+focal
+
+Primary Pathologist:
+’ Electronically Signed Out y:
+
+Clinical History
+Papillary thyroid cancer.*
+
+Gross Description
+
+A. Received fresh labeled "right lobe of thyroid" is a thyroid
+lobe weighing 7 g and measuring 4.5 x 2.4 x 1.5 cm. The specimen
+is oriented by two stitches, designated by the requisition form
+as "single stitch isthmus, double stitch superior pole." The
+entire thyroid lobe is inked blue, and the isthmus is inked
+orange (the isthmus is 0.9 x 0.5 x 0.3 cm).
+
+Sectioning demonstrates an ill—defined mass with firm, gray areas
+and soft, pink areas, measuring 2.0 cm in greatest dimension.
+
+The mass abuts the inked surface of the thyroid. The mass is
+located in the inferior portion adjacent to the isthmus.
+
+There are no additional lesions or suspicious areas identified.
+The remainder of the specimen consists of dark red normal thyroid
+parenchyma.
+
+The specimen is entirely submitted from inferior to superior in
+
+cassettes Al through A8.
+
+B. Received in formalin labeled "left thyroid lobe” is a thyroid
+lobe weighing 4 g and measuring 4.0 x 2.0 x 1.4 cm, with a
+portion of isthmus measuring 0.7 x 0.6 x 0.2 cm. The specimen is
+oriented by two sutures, designated by the requisition form and
+container label as "single stitch isthmus, double stitch
+superior pole."
+
+The thyroid lobe is inked black and the isthmus is inked yellow.
+Sectioning demonstrates mostly unremarkable red parenchyma with a
+few foci of ill—defined firm, gray—white tissue in the midportion
+to inferior third of the specimen, measuring up to 0.6 cm in
+greatest dimension.
+
+The specimen is entirely submitted from superior to inferior in
+cassettes Bl through BB. The ill—defined gray—white tissue is in
+cassettes BB and B4.
+
+C. Received in formalin labeled "right paratracheal nodes level
+6" is a portion of fibroadipose tissue containing lymph nodes
+measuring 4 x 2 x 0.7 cm in aggregate. The specimen is dissected
+
+for lymph nodes, and there are three lymph nodes identified
+ranging from 0.6 to 1.1 cm in greatest dimension.
+
+Cassette summary: Cl two lymph nodes, bisected (one uninked, one
+inked blue); C2 one lymph node, bisected; C3 and C4 remaining
+fibroadipose tissue, entirely submitted.
+
+Microscopic Description
+
+Microscopic examination has been performed on all slides. The
+pathologic diagnosis encompasses the essential microscopic
+findings of this case.
+
+Interpretation performed at
+

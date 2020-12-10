@@ -1,0 +1,334 @@
+   
+
+ 
+
+Surgical Pathology Report
+
+   
+  
+ 
+
+Med: Rec.: Phone Number:
+DOB: Gender: F
+Taken:
+
+Receive :
+Reported:
+
+ 
+
+CLINICAL HISTORY
+
+_oman has experienced headaches and difficulty
+
+with tasks
+at work for a few weeks. On imaging, there is a right frontal lesion
+
+that is
+mostly non—enhancing, but has internal nodular enhancing areas. The
+
+tumor
+extends to the body of the corpus callosum and minimally into the
+
+contralateral frontal lobe.
+
+OPERATIVE DIAGNOSES
+Brain tumor
+
+Operation/Specimen: A: Brain tumor, excision
+B: Brain tumor, excision
+
+PATHOLOGICAL DIAGNOSIS:
+A, B. Brain, site not specified, excision: Oligodendroglioma,
+
+anaplastic
+(WHO III).
+See Microscopy Description and Comment.
+
+COMMENT
+
+The sections contain portions of cerebrum that are moderately to
+
+heavily
+infiltrated by a neoplastic proliferation of glial cells that have a
+predominantly oligodendroglial phenotype. The neoplastic cells have
+
+nuclear
+anaplastic features, a high mitotic rate of up to 13 mitoses / ten
+
+high power
+fields, and a MIB—l proliferation index of about 50% in several, more
+
+active
+areas. There is focal microvascular mineralization. There is not
+
+appreciable
+microvascular cellular proliferation, and tumor necrosis is absent.
+
+The features are those of an anaplastic oligodendroglioma (WHO III).
+
+ 
+
+ 
+
+PROCEDURES/ADDENDA
+
+Loss of Heteroz osit 1p, 19q Assay (LOH)
+
+enema eeee eeeeeeee. _
+Interpretation
+
+POSITIVE: Allelic loss on chromosome arm lp and chromosome arm 19q is
+
+detected.
+
+Informative loci are: DlSS52, D181612, D195412 and PLA2G4C.
+
+Results—Comments
+
+Testing performed on DNA extracted from tumor paraffin block
+DNA extracted from a corresponding blood specimen was used as a normal
+reference control.
+
+a slide was examined and no micro dissection was
+needed.
+
+TEST DESCRIPTION: Allelic loss is assessed by PCR assay in Normal DNA
+(baseline)/ Tumor DNA pairs using 3 markers at both 1p and qu. The 3
+markers
+
+on lp are D13548, D131592, and D18552 (with DlS468, DlSl6l2, and
+D18496 as
+
+backup markers) and the 3 markers on 19q are D198219, D198412, and
+PLA2G4C
+
+(with D198606 and D1981182 as backup). All markers are microsatellites
+(2 or 4
+
+nt repeats) except PLAZG4C which is a minisatellite (26 nt repeat)
+polymorphism. The markers were selected based on heterozygosity score,
+amplicon size, and ease of interpretation. The backup markers are used
+if the
+
+first line markers at that chromosome arm are uninformative or
+otherwise
+
+ambiguous in their interpretation. LOH at all informative loci on each
+chromosomal arm represents the typical finding in oligodendrogliomas
+with 1p
+
+and 19q deletion.
+
+FDA COMMENT: The above data are not to be construed as the results
+from a '
+
+stand—alone diagnostic test. This test was developed and its
+performance
+
+characteristics determined by the laboratory as
+
+required by CLIA ' 88 regulations. It has not been cleared or approved
+for
+
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA
+has
+
+determined that such clearance or approval is not necessary. These
+results are '
+
+ 
+
+ 
+
+provided for informational purposes only, and should be interpreted
+only in
+the context of established procedures and/or diagnostic criteria.
+
+TECHNICAL SENSITIVITY: The presence of >15% non—neoplastic cells in
+the sample
+may preclude the detection of allelic loss.
+
+     
+
+romo er
+Date Ordered:
+
+Date Reported: —
+
+Interpretation
+POSITIVE: Methylated MGMT promoter is detected.
+Results-Comments
+
+Testing performed on DNA extracted from tumor paraffin block
+
+a slide was examined and no microdissection was
+needed.
+
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT
+promoter
+
+have been shown to benefit from therapy with alkylating agents.
+Assessment of
+
+MGMT promoter methylation status involves bisulfite treatment of DNA
+followed
+
+by real—time PCR amplification (MethyLight) of methylated and
+unmethylated DNA
+
+sequences. The analytic sensitivity of this assay was determined by
+serial
+
+dilution of methylated positive control DNA into unmethylated DNA, and
+was
+
+assessed to be 1% of methylated DNA in the background of unmethylated
+DNA.
+
+Factors such as the presence of >50% non~neoplastic cells in the
+sample, or
+
+extensive tissue necrosis, may preclude the detection of methylated
+MGMT
+
+promoter sequences.
+
+FDA COMMENT: The above data are not to be construed as the results
+from a
+stand alone diagnostic test. This test was developed and its
+
+performance
+characteristics determined by the — laboratory as
+
+required by CLIA '88 regulations. It has not been cleared or approved
+for
+
+specific uses by the 0.3. Food and Drug Administration (FDA). The FDA
+has
+
+determined that such clearance or approval is not necessary. These
+results are
+
+ 
+
+provided for informational purposes only, and should be interpreted
+only in
+
+the context of established rocedures and/or dia nostic criteria.
+
+     
+
+ 
+
+INTRA—OPERATIVE CONSULTATION
+
+A.
+Brain tumor, biopsy: Glial neoplasm, with microcalcifications, very
+
+cellular
+(C/W oligodendroglioma, high histological grade ?). - Touch
+
+preparation
+smears performed at— and results reported to the
+
+Physician
+of Record.
+
+ 
+   
+
+GROSS DESCRIPTION
+
+A.
+"Brain tumor," received fresh, several fragments, 3 cm across in
+
+aggregate.
+Soft, grayish—purple, glistening, and somewhat diffluent. In total,
+
+Al-AB.
+
+B.
+
+Brain tumor, excision:
+
+CONTAINER LABEL: brain tumor.
+
+FIXATIVE: Formalin. NO. PIECES: several pale red tan soft fragments.
+
+SIZE/VOL: 15 x l4 x 7 mm. in aggregate CASSETTES: 1, NS.
+
+MICROSCOPIC DESCRIPTION
+
+IMMUNOHISTOCHEMISTRY: The GFAP demonstrates a somewhat sparse
+gliofibrillary
+
+background, except in a zone where there are frequent gliofibrillary
+oligodendrocytes and mini gemistocytes. The synaptophysin, NeuN, N82,
+and
+
+neurofilament highlight the moderate to heavy infiltration of the
+tumor in the
+
+cerebral cortex. The DC99 and EMA weakly react with the
+neuropil. Only
+
+a small minority of neoplastic cells appreciably over expresses the
+
+p53
+protein. The CD34 demonstrates a rather organoid microvascular
+
+network with
+focal hyperplastic areas. With the MlB—l there is a proliferation
+
+index of
+about 50% in the more active areas.
+
+ 
+
+TOD—9(s):
+225.0 225.0
+
+is 0 Be a
+Part A: Brain tumor excision
+Taken: _ Received:
+Stain/cut Block
+CDBIWDA x l
+EMA-DA x l
+mGFAP—DA x l
+H/E x l
+LOB—curls x l
+MGMT~curls x l
+MIBIHDA x l
+CD99—DA x 1
+NeuN x l
+NF2F11 x l
+NSEHDA x l
+P53DO? x 1
+Synap—DA x 1
+H/E x l
+H/E X 1
+
+Part B: Brain tumor excision
+Stain/cnt Block — ere omment
+
+H/E x l
+
+Or!ere! Comment
+
+No charge
+
+  
+
+No charge
+
+No charge
+
+w M H14 H Hie H H H H H14 HIA
+
+ 
+
+No charge.
+
+ 
+

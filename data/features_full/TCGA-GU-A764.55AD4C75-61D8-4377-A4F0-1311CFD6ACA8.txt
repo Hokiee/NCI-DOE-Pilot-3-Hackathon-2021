@@ -1,0 +1,373 @@
+Results
+
+Patient information
+Datinnt Mama MRN
+' . ' ' i
+
+Result information
+
+Status
+Final
+
+Entry Date
+
+Provider Status
+Ordered
+
+Component Results
+
+Component
+Surgical Patholncv
+Patient Name:
+
+' “ ““j
+
+“-— l
+
+Final Diagnosis
+
+A. Right distal ureter. biopsy:
+- Segment of benign ureter
+- No carcinoma or dysplasia is seen
+
+- Frozen section diagnosis is conﬁrmed on permanent sections
+
+B. Left distal ureter, biopsy:
+~ Segment of benign ureter
+- No carcinoma or dysplasia is seen
+
+~ Frozen section diagnosis is conﬁrmed on permanent sections
+
+C. Urinary bladder and prostate. radical cystoprostatectomy:
+
+awe”
+
+BIOPSY OR SURGICAL SPECIMEN (Ordel'
+
+Sex one
+
+Lab
+
+I’CeDrAO'
+
+/'
+
+:5 ,
+b umoﬂcw “05
+
+@on 3
+
+(pl) 903/13
+
+~ invasive high grade urothelial carcinoma, invasiveJntdmusW and
+
+predominantly involving anterior bladder wall
+
+- Tumor measures 4.7 cm in greatest dimension (macroscopic measurement)
+
+- All surgical margins are free of carcinoma and dyspiasia
+
+— Nineteen pelvic lymph nodes. negative for metastatic carcinoma (0/19; see
+
+parts D, E and F)
+- TNM pathologic stage: pT2b N0 Mx
+
+- Bladder with acute and chronic inﬂammation and reactive urothelial atypia,
+
+biopsy site changes. cystitis cystlca and focal intestinal metaplasia
+
+- Benign prostatlc and seminal vesicle tissue with patchy acute inﬂammation
+- Urethral margin with patchy necrosis, acute inﬂammation and reactive
+
+urotheiial atypia
+
+- Frozen section diagnosis of urethral margins is conﬁrmed on permanent
+
+sections
+» See CAP template below for further details
+
+CAP Template for carcinoma of the urinary bladder.
+Specimen: Bladder and prostate
+
+Procedure: Radical cystoprostatectomy
+
+Tumor Site: Anterior bladder wall
+
+Tumor Size: 4.7 cminmgreatest dimension
+
+,...«-u
+
+“""l-iistologlc Type: Urotheiial (transitional cell) carcinoma“ """" ‘3
+
+“42:12:22: 3:21.131,
+
+(’73
+
+UUID: 55AD4C75 -61D8 -4377 -A4FB- 1311CFDGACA8
+
+TCGA-GU-A764-91A-PR
+
+Redacted
+||||||||||
+
+ 
+
+Page 1 of 6
+
+Associated Epithelial Lesions: None identiﬁed
+
+Histologlc Grade:
+
+Urotheliai Carcinoma (WHO 2004IISUP): High-grade
+
+Tumor Conﬁguration: Ulcerated
+
+Microscopic Tumor Extension: Tumor invades muscularis prepria
+Margins: Margins uninvolved by invasive carcinoma
+
+- t
+Lymph-Vascularlnvasion: Absent
+
+ 
+ 
+   
+
+Pathologlc Staging (pTNM :
+
+“Faun-M
+
+“Primary Tumor (pT): pT2b:
+muscle) _
+
+Regional Lymph Nodes (pN): pNO: No lymph node metastasis
+Specify: Number
+
+umor invades deep muscularis propria (detrusor
+
+examined: 19
+Specify: Number
+involved: 0
+
+Distant Metastasis (pM): Not applicable
+
+Additional Pathologlc Findings: Urotheilai inﬂammation, biopsy site changes,
+focal intestinal metaplasia
+
+Ancillary Studies: Not done. Blocks 05 & CG can be used for additional
+studies. if needed.
+
+The above pathology diagnosis incorporates data elements as outlined in the CAP
+Cancer Protocols and Checklists which are based on the AJCCIUICC TNM, 7th
+edition.
+
+D. Right pelvic lymph nodes, lymphadenectomy:
+~ Seven lymph nodes, negative for metastatic carcinoma (0/7)
+
+E. Left common iliac and presacrai lymph nodes, lymphadenectomy:
+— Four lymph nodes, negative for metastatic carcinoma (0/4)
+
+F. Left pelvic lymph nodes. Iymphadenectomy:
+- Eight lymph nodes. negative for metastatic carcinoma (0/8)
+
+Clinical History
+Bladder cancer
+Radical cystectomy. orthotoplc neobladder diversion. possible iieal conduit.
+
+Source:
+
+A: Right distal ureter margin
+
+B: Left distal ureral margin
+
+C: Bladder and prostate
+
+D: Right pelvic lymph nodes
+
+E: Common ileacs and presacral
+F: Left pelvic lymph nodes
+
+Page 2 of 6
+
+Gross Description
+
+Specimen A received fresh for frozen section labeled with the patients name and
+"right distal ureteral margin". The specimen is a pink—tan ring-shaped tissue
+fragment measuring 0.4 cm in diameter, 0.2 cm in length. The tissue is entirely
+submitted for frozen section, subsequently entirely submitted in A1.
+
+Specimen B received fresh for frozen section labeled with the patients name and
+"left distal ureteral margin“. The specimen is a pink-tan ring-shaped soft
+
+tissue fragment measuring 0.6 cm in diameter. 0.3 cm in length. The tissue is
+entirely submitted for frozen section. subsequently entirely submitted in Bi.
+
+Specimen C received in formalin labeled with the patients name and "bladder
+prostate".
+
+Type of specimen: Urinary bladder, ureteral stumps, prostate, seminal vesicles
+The patient' 3 name. requisition, and specimen containers all match.
+Procedure: Radical cystoprostatectomy
+
+Fixative: Received fresh. later placed in formalin
+
+Dimensions: Bladder superior to inferior 8.0 cm, right to left 7.0 cm. anterior
+
+to posterior 2.8 cm. Prostate superior to inferior 2.5 cm. right to left 3.2
+
+cm. anterior to posterior 2.7 cm. The right ureteral stump 2.2 cm in length and
+0.5 cm in diameter. The left ureteral stump 3.5 cm in length and 0.5 cm in
+diameter.
+
+Description of ﬁndings:
+
+Tumor: The anterior bladder wall reveals a hemorrhagic ulcerated firm tumor
+mass measuring 4.7 cm superior to inferior. and 2.9 cm left to right. The
+central portion of the tumor is ulcerated, hemorrhagic and necrotic. On
+sectioning, dense gray-white solid apparent tumor tissue can be seen invading
+the full-thickness of the muscularis: however. does not appear grossly to have
+extended beyond the overlying perlvesicular adipose tissue. The posterior
+bladder wall has a focally hemorrhagic somewhat edematous appearance. The
+bladder lining in the dome appears grossly unremarkable. The prostate has a
+normal gray~white lobuleted. somewhat spongy appearance. The urethral lining is
+red-brown. friable, and appears necrotic. The seminal vesicles appear grossly
+unremarkable. No lymph nodes are identified within the attached perivesicular
+adipose tissue.
+
+lnk Code: Anterior bladder wall blue, posterior black. Prostate right side
+orange. left side blue.
+
+Section key:
+
+Ct urethral margin #1 frozen section
+
+C2 urethral margin #2 frozen section
+
+C3 right ureteral resection margin and ureteral orifice
+
+C4 left ureteral resection margin and left ureteral orifice
+
+C5-CQ sections of tumor
+
+010, C11 sections of posterior bladder wall
+
+012 bladder dome
+
+C13 left lateral wall
+
+C14 right lateral wall
+
+C15 trigone
+
+C 16 right prostate apex sectioned radially
+
+Ci 7. C18 right prostate
+
+C19 left prostate apex sectioned radially
+
+020.021 left prostate
+
+022 right seminal vesicles and vas deferens
+
+023 left seminal vesicles and vas deferens
+
+Comment: Fresh tissue was obtained for tissue procurement
+Specimen D received in formalin labeled with the patient's name and "right
+
+pelvic lymph nodes". The specimen consists of two irregular fragments of
+focally hemorrhagic lobuleted yellow adipose tissue measuring in aggregate 8.5 x
+
+Page 3 of 6
+
+3.5 x 1.2 cm. Sectioning through the adipose tissue reveals eight apparent
+lymph nodes ranging in size from 0.7-2.6 cm. The specimen is submitted as
+follows:
+
+Di one node bisected
+
+DZ one node bisected
+
+D3 one node bisected
+
+D4 one node bisected
+
+D5 one node bisected
+
+DS three whole nodes
+
+Specimen E received in formalin labeled with the patient‘s name and "left common
+lilac and presacral pelvic lymph nodes“. The specimen consists of three
+fragments of focally hemorrhagic lobuleted adipose tissue measuring in aggregate
+4.0 x 1.8 x 0.8 cm. Sectioning through the adipose tissue reveals four apparent
+lymph nodes ranging in size from 0.6-2.9 cm. The specimen is entirely submitted
+as follows:
+
+E1 one node bisected
+
+E2 three whole nodes
+
+Specimen F received in formalin labeled with the patient's name and "left pelvic
+lymph nodes“. The specimen consists of multiple fragments of focally
+hemorrhagic lobuleted adipose tissue measuring in aggregate 4.8 x .40 x 1.4 cm.
+Sectioning through the adipose tissue reveals eight apparent lymph nodes ranging
+in size from 0.4~2.4 cm. The nodes are submitted as follows:
+
+F1 one node bisected
+
+F2 one node bisected
+
+F3 one node bisected
+
+F4 one node bisected
+
+F5 one node bisected
+
+F6 three whole nodes
+
+Microscopic Description
+The stain quality is acceptable.
+
+A—F. The microscopic findings are reflected in the diagnoses rendered.
+
+lntraoperative Diagnosis
+
+Time in: Time out:
+
+A1. Right distal ureter margin biopsy: "Negative for carcinoma or high grade
+dysplasia“.
+
+Time in: . Time out:
+
+Bl, Left distal ureter: "Negative tor carcinoma or high grade dysplasia".
+Time in: Time out:
+
+C1. Bladder and prostate urethral margin: "Necrotic tissue with scant viable
+epithelium with focal atypia. favor reactive. cannot rule out dysplasla".
+
+"*Eiectronicallv Stoned Out By
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ﬂ
+Results
+
+Egtholcgy Report - Scan 03 « : Intraogerative Consultation Report
+Result History . .
+
+BlOPSY OR SURGICAL SPECIMEN i ‘ - Order Result Historv Report.
+
+ 
+
+ 
+
+Collection information
+
+Page 4 of 6
+

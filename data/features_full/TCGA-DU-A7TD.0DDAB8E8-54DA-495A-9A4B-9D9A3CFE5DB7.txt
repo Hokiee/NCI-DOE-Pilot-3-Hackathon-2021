@@ -1,0 +1,308 @@
+22:30.3
+
+UUID: IDDAEIEEB- 54DA- 495A- 9A4B- -BDSA3CFE5DB7
+
+IIIIIIIIIIiIiiﬁIIiﬁIIiIiiirriiiiiIiiiIIIIIIIIIIIIIIIIIIIIIIII tad 9m .2)
+6235* a
+
+IIIIIIIIII llllilllllllllllllllllllllll IIIII IIIIIIIIIIIIIIIIIIIIII gait
+
+Ill |||||||||||||ll||||||||lIllllIIIIHIHIIIIIIHIHII|||||||||| 6‘12 / WWW
+
+M05
+
+Surgical Pathology Report p15? C 7/ 0 91
+Patient Name: Phone #: Accession #: 4
+Med. Rec, #: : Client: ' Taken: Wu“ ﬁﬂw LL
+DOB: (Age: ) Location: Received: Q7/ .2
+Gender: M Accnt: ' Reported: ..
+Physician(s)2 C)? 3 1/ g5? / I 1/
+Phy Location:
+Clinical History
+
+=-year-old man experienced falls ago. and was emergently decompressed of a large
+right temporal
+
+lobe tumor that extended to the frontal lobe and insula. with herniation.
+Operative Diagnoses
+Right temporal brain mass.
+Operation I Specimen
+A: Brain, excision biopsy
+Pathologic Diagnosis
+Brain, right temporal, excision: Mixed oligoastrocytoma, anaplastic (WHO grade III).
+See Microscopy Description and Comment.
+Comment
+The sections contain large portions of brain extensively inﬁltrated and effaced by a very cellular glial
+neoplastic
+proliferation. The neoplastic cells have a mixed oligo astrocytic phenotype. there is focally brisk mitotic
+activity. and
+the MlB-1 proliferation index is about 75% in the more active areas. There is also focal endothelial
+hyperplasia and
+some microvascular proliferation. There are focal areas of necrosis and hemorrhage with some pigment,
+most likely
+associated wit previous surgical procedure.
+The findings are interpreted as those of an anaplastic oligoastrocytoma.
+“Electronically Signed Out***
+
+. Senior Staff Pathologist
+
+Consurtant: .. Senior Staff
+Pathologist
+Procedures/Addenda
+PCR for EGFR variant Ill mutation
+Date Ordered: Date Reported:
+Interpretation
+
+Surgical Pathology
+
+Page 2 of 4
+NEGATIVE - No evidence of EGFvalI mutation is detected
+Results-Comments
+TEST DESCRIPTION: Testing performed on RNA extracted from parafﬁn tissue block (A1)
+H and E slide was examined and no microdissection was needed.
+The epidermal growth factor receptor (EGFR) is an attractive moleculartarget in glioblastoma because it
+is amplified,
+overexpressed. and/or mutated in up to 40% to 50% of patients. Epidermal growth factor receptor variant
+lll
+
+(EGFvaIl) is an oncogenic, constitutively active mutant form of EGFR that is commonly expressed in
+glioblastoma.
+
+Cell culture and in vivo models of glioblastoma have demonstrated EGFRvIlI as deﬁning prognostically
+distinct
+
+subgroups of glioblastomas. Additionally, the presence of EGFvall has been shown to sensitize tumors
+to EGFR
+
+tyrosine kinase inhibitors when the tumor suppressor protein PTEN is intact. RNA is extracted from
+formalin fixed.
+
+parafﬁn embedded tissue samples and reverse transcribed to cDNA. The cDNA is then amplified using
+standard PCR
+
+technique for DNA templates. PCR products are detected by gel electrophoresis. The limit of detection of
+this assay
+
+has been determined to be approximately 5 mutant cells in 100 normal cells.
+
+FDA Comment: The above data are not to be construed as the results from a stand alone diagnostic test.
+This test
+
+was developed and its performance characteristics determined by the
+
+as required
+
+by CLIA ’88 regulations. It has not been cleared or approved for specific uses by the US. Food and Drug
+Administration (FDA). The FDA has determined that such clearance or approval is not necessary. These
+results are
+
+provided for informational purposes only, and should be interpreted only in the context of established
+procedures
+
+and/or diagnostic criteria.
+
+***Electronical|y Signed Out***
+
+Senior Staff Pathologist
+Loss of Heterozygosity 1p, 19q Assay (LOH)
+Date Ordered: Date Reported: ,
+
+Interpretation
+
+NEGATIVE: Allelic loss on chromosome arm 1p and chromosome arm 19q is NOT detected.
+Informative loci are: D181612, 018496, D19SZ19, 0198412, and PLA2G4C
+
+Results-Comments
+
+Testing performed on DNA extracted from tumor paraffin block (A1). DNA extracted from a
+corresponding
+
+blood specimen was used as a normal reference control.
+
+H and E slide was examined and no microdissection was needed.
+
+TEST DESCRIPTION: Allelic loss is assessed by PCR assay in Normal DNA (baseline)/ Tumor DNA
+pairs using 3
+
+markers at both 1p and 19q. The 3 markers on 1p are D13548, D1S1592, and 018552 (with D18468,
+D1 S1612, and
+
+D13496 as backup markers) and the 3 markers on 19q are D198219, D198412, and PLAZG4C (with
+D198606 and
+
+D1981182 as backup). All markers are microsatellites (2 or 4 nt repeats) except PLAZG4C which is a
+minisatellite (26
+
+nt repeat) polymorphism. The markers were selected based on heterozygosity score, amplicon size, and
+ease of
+
+interpretation. The backup markers are used if the ﬁrst line markers at that chromosome arm are
+uninfom'iative or
+
+othenrvise ambiguous in their interpretation. LOH at all informative loci on each chromosomal arm
+represents the
+
+typical ﬁnding in oligodendrogiiomas with 1p and 19g deletion.
+
+Surgical Pathology
+
+Page 3 of 4
+
+FDA COMMENT: The above data are not to be construed as the results from a stand-alone diagnostic
+test. This test
+
+was developed and its performance characteristics determined by the
+as required
+
+by CLIA ’ 88 regulations. It has not been cleared or approved for speciﬁc uses by the US. Food and Drug
+
+Administration (FDA). The FDA has determined that such clearance or approval is not necessary. These
+resuits are
+
+provided for informational purposes only. and should be interpreted only in the context of established
+procedures
+and/or diagnostic criteria.
+TECHNICAL SENSITIVITY: The presence of >15% non-neopiastic cells in the sample may preclude the
+detection of
+allelic loss.
+***Electronically Signed Out***
+, Senior Staff Pathologist
+MGMT Promoter Methylation
+Date Ordered: Date Reported: -
+Interpretation
+NEGATIVE: No evidence of methylated MGMT promoter is detected.
+Results-Comments
+Testing performed on DNA extracted from tumor parafﬁn block —A1
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT promoter have been shown to
+benefit
+
+from therapy with alkylating agents. Assessment of MGMT promoter methylation status involves bisulﬁte
+treatment of
+
+DNA followed by real-time PCR amplification of methylated and unmethylated DNA
+sequences. The
+analytic sensitivity of this assay was determined by serial dilution of methylated positive control DNA into
+unmethylated DNA, and was assessed to be 1% of methylated DNA in the background of unmethylated
+DNA. Factors
+such as the presence of >50% non-neoplastic cells in the sample, or extensive tissue necrosis, may
+preclude the
+detection of methylated MGMT promoter sequences.
+FDA COMMENT: The above data are not to be construed as the results from a stand alone diagnostic
+test. This test
+was developed and its performance characteristics determined by the
+as required
+by CLIA ’88 regulations. It has not been cleared or approved for speciﬁc uses by the US. Food and Drug
+Administration (FDA). The FDA has determined that such clearance or approval is not necessary. These
+results are
+provided for informational purposes only. and should be interpreted only in the context of established
+procedures
+and/or diagnostic criteria.
+***E|ectronically Signed Out***
+
+M.D., Senior Staff Pathologist
+Addendum
+Date Ordered: Date Reported:
+Addendum Diagnosis
+
+Review of the slides confirms the diagnosis of a high-grade mixed oligodendroglial and astrocytic glioma.
+A regional
+
+area of increased cellular atypia and cellular density associated with focal microvascular proliferation is
+noted. Focal
+
+necrosis is also present. Considering these features, the differential diagnosis includes a high-grade
+oligoastrocytoma
+
+in transition to glioblastoma with oligodendroglial component, WHO grade IV. Clinical correlation is
+recommended.
+
+Addendum Comment
+
+This addendum is issued for the purpose of pathology review requested by the clinical oncology team for
+treatment
+
+protocol considerations.
+
+‘ Surgical Pathology
+Page 4 of 4
+
+***Electronically Signed Out***
+
+Senior Staff Pathologist
+Gross Description
+
+A.
+Brain excision biopsy:
+CONTAINER LABEL: brain tumor.
+
+FIXATIVE: Formalin. NO PIECES: many red to gray tan fragments. SIZENOL: 5 x 4. 5 x 2.0 cm; 15. 55
+grams
+
+CASSETTES: 1-3.
+
+Microscopic Description
+
+IMMUNOHISTOCHEMISTRY: The GFAP demonstrates an overall sparse gliofibrillary back ground. The
+CD34
+
+depicts a monotonous capillary-type microvascular network, with a few areas that have endothelial
+hyperplasia, and a
+
+couple of areas with few vessels with microvascular cellular proliferation. Many celIs weakly over express
+the p53
+
+protein, and only a small minority strongly over expresses the protein. With the MIB-1 there is very high
+proliferation
+
+index that reaches 75% in the more active areas.
+ICD-9(s): 191.21912
+
+Billing Fee Codelsl: A
+
+EGFRvIII:
+
+LOH 1p190:
+
+MGMT:
+
+Histo Data
+
+Part A: Brain, excision biopsy
+Taken: Received:
+Stainlcnt Block Ordered Comment
+CD34-DA x1 1
+
+EGFR-curls x 1 1
+
+mGFAP-DA x 1 1
+
+mGFAP-DA x 1 1
+
+H&E x 1 .1 ' ' '
+
+LOH—curls x 1 1
+
+MGMT—curls x 1 1
+
+MIB1-DA x 1 1
+
+P53DO7 x 1 1
+
+H&E x 1 2
+
+H&E x 1 3 '
+
+  
+
+I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

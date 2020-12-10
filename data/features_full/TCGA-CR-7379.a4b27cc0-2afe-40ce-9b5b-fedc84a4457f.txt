@@ -1,0 +1,597 @@
+SURGICAL PATHOLOGY REPORT
+
+  
+
+Accession number: - Final Report
+
+ 
+
+DIAGNOSIS:
+
+1-11) SKIN, NERVE, TONGUE AND ORAL MUCOSA, VARIOUS SITES AS LISTED, BIOPSY:
+NEGATIVE FOR MALIGNANCY AT EACH SITE.
+
+12) LYMPH NODES, LEVEL 1A, DISSECTION: TWO LYMPH NODES NEGATIVE FOR
+MALIGNANCY (0/2).
+
+13) LYMPH NODES, LEVEL 2, DISSECTION: 10 LYMPH NODES NEGATIVE FOR
+MALIGNANCY (0/10).
+
+14) LYMPH NODES, LEVEL 3, DISSECTION: 13 LYMPH NODES NEGATIVE FOR
+MALIGNANCY (0/ 13).
+
+15) LYMPH NODES, LEVEL 4, DISSECTION: EIGHT LYMPH NODES NEGATIVE FOR
+MALIGNANCY (0/8).
+
+16) TONGUE, JAW, FACIAL SKIN, BUCCAL MUCOSA, EXCISION: INVASIVE SQUAMOUS
+
+CELL CARCINOMA, MODERATELY DIFFERENTIATED, 4.2 CM IN GREATEST EXTENT, WITH
+INVASION INTO MANDIBLE; SURGICAL MARGINS NEGATIVE FOR MALIGNANCY, CLOSEST
+MARGIN POSTERIOR AND MEDIAL 0.3 CM; SUBMANDIBULAR GLAND WITH NO SIGNIFICANT
+HISTOPATHOLOGIC CHANGE; TWO LYMPH NODES INVOLVED BY SQUAMOUS CELL
+CARCINOMA. (SEE COMMENT).
+
+COMMENT: These findings correspond to AI CC stage p4a (pT4a,pN2,erMa)
+
+Upper Aerodigestive Tract and Minor Salivary Glands Carcinoma
+Summary of Findings:
+Incisional and Excisional Biopsy, Resection
+
+Note: Check 1 response unless otherwise indicated.
+
+MACROSCOPIC
+
+Specimen Type
+_ Incisional biopsy
+
+_ Excisional biopsy
+
+X Resection (specify type): composite resection of tongue, jaw, neck,
+ﬂoor of mouth.
+
+_ Other (specify):
+
+ 
+
+_ Not specified
+
+Tumor Site (check all that apply)
+_ Lip
+
+X Oral cavity
+
+_ PharynX, oropharynX
+
+_ PharynX, hypopharynX
+
+_ PharynX, nasopharynX
+
+_ Larynx, supraglottis
+
+_ Larynx, glottis
+
+_ Larynx, subglottis
+
+_ Paranasal sinus(es), maxillary
+_ Paranasal sinus(es), ethmoid
+_ Other (specify):
+_ Not specified
+
+ 
+
+Tumor Size
+
+Greatest dimension: 4.5 cm
+
+*Additional dimensions: 3.5 X 0.8 cm
+
+_ Cannot be determined (see Comment)
+
+MICROSCOPIC
+
+Histologic Type
+
+Carcinomas of the Upper Aerodigestive Tract
+X Squamous cell carcinoma, conventional
+
+Squamous Cell Carcinoma, Variant
+_ Verrucous carcinoma
+
+_ Spindle cell squamous carcinoma
+_ Adenosquamous carcinoma
+
+_ Basaloid squamous cell carcinoma
+_ Papillary squamous cell carcinoma
+
+_ Lymphoepithelioma-like carcinoma (non-nasopharyngeal)
+
+Sinonasal Carcinoma
+
+_ Keratinizing sinonasal carcinoma
+
+_ Non-keratinizing sinonasal carcinoma (Transitional type)
+_ Sinonasal undifferentiated carcinoma (SNUC)
+
+Nasopharyngeal Carcinoma
+
+_ Keratinizing nasopharyngeal carcinoma
+
+_ Non-keratinizing nasopharyngeal carcinoma
+
+_ Non-keratinizing nasopharyngeal carcinoma, differentiated
+
+_ Non-keratinizing nasopharyngeal carcinoma, undifferentiated
+(lymphoepithelioma)
+
+_ Non-keratinizing nasopharyngeal carcinoma, mixed differentiated and
+undifferentiated
+
+_ Adenocarcinoma, salivary gland type (specify type):
+
+ 
+
+Adenocarcinoma, Non-salivary Gland Type
+
+_ Papillary adenocarcinoma
+
+_ Intestinal-type adenocarcinoma
+
+_ Adenocarcinoma not otherwise specified (NOS), low grade
+_ Adenocarcinoma NOS, intermediate grade
+
+_ Adenocarcinoma NOS, high grade
+
+Neuroendocrine carcinoma
+
+_ Typical carcinoid tumor (well differentiated neuroendocrine carcinoma)
+_ Atypical carcinoid tumor (moderately differentiated neuroendocrine
+carcinoma)
+
+_ Small cell carcinoma (poorly differentiated neuroendocrine carcinoma)
+
+ 
+
+_ Other (specify):
+_ Carcinoma, type cannot be determined
+
+Histologic Grade
+_ Not applicable
+_ GX: Cannot be assessed
+
+_ G1: Well differentiated
+
+X G2: Moderately differentiated
+_ G3: Poorly differentiated
+_ Other (specify):
+
+ 
+
+Pathologic Staging (pT NM) (see appropriate site below)
+
+Note: The phrases in italics include clinical findings required for A] CC
+staging. This clinical information may be unknown to the pathologist. It is
+included here only for the sake of completeness.
+
+Primary Tumor (pT): Oropharynx
+
+_ pT X: Cannot be assessed
+
+_ pT0: No evidence of primary tumor
+
+_ pT is: Carcinoma in situ
+
+_ pT 1: Tumor 2 cm or less in greatest dimension
+
+_ pT 2: Tumor more than 2 cm but not more than 4 cm in greatest
+dimension
+
+_ pT 3: Tumor more than 4 cm in greatest dimension
+
+X pT 4a: Tumor invades larynx, deep/extrinsic muscle of tongue, medial
+pterygoid muscles, hard palate, or mandible
+
+_ pT 4b: Tumor invades lateral pterygoid muscle, pterygoid plates,
+lateral nasopharynx, or skull base, or encases carotid artery
+
+Regional Lymph Nodes (pN): All Aerodigestive Sites Except Nasopharynx
+_ pNX: Cannot be assessed
+
+_ pN0: No regional lymph node metastasis
+
+_ le: Metastasis in a single ipsilateral lymph node, 3 cm or less in
+greatest dimension
+
+_ pN2a: Metastasis in a single ipsilateral lymph node, more than 3 cm
+but not more than 6 cm in greatest dimension
+
+X pN2b: Metastasis in multiple ipsilateral lymph nodes, none more than
+6 cm in greatest dimension
+
+_ pN2c: Metastasis in bilateral or contralateral lymph nodes, none
+
+more than 6 cm in greatest dimension
+_ pN3: Metastasis in a lymph node more than 6 cm in greatest dimension
+Specify: Number examined: 35
+
+Number involved: 2
+
+*Extra-capsular Extension of Nodal Tumor
+* X Absent
+
+*_ Present
+
+*_ Indeterminate
+
+Distant Metastasis (pM)
+
+X pMX: Cannot be assessed
+
+_ le: Distant metastasis
+*Specify site(s), if known:
+
+ 
+
+Margins (check all that apply)
+_ Cannot be assessed
+X Margins uninvolved by tumor
+Distance of tumor from closest margin: 3 mm
+Specify margin, if possible: posterior and medial
+X Carcinoma in situ absent
+_ Carcinoma in situ present
+_ Carcinoma in situ, not applicable
+_ Margin(s) involved by tumor
+Specify margins(s), if possible:
+_ Not applicable
+
+ 
+
+*Venous/Lymphatic (Large/Small Vessel) Invasion (V/L)
+* X Absent
+
+*_ Present
+
+*_ Indeterminate
+
+Perineural Invasion
+X Absent
+_ Present
+
+*Additional Pathologic Findings (check all that apply)
+*_ None identified
+
+_ Carcinoma in situ
+
+_ Inﬂammation (specify type):
+_ Epithelial hyperplasia
+
+_ Epithelial dysplasia
+
+_ Other (specify):
+
+ 
+
+9999999999
+
+ 
+
+*Comment(s)
+
+Data elements with asterisks are not required for accreditation purposes
+
+for the Commission on Cancer. These elements may be clinically important,
+but are not yet validated or regularly used in patient management.
+Alternatively, the necessary data may not be available to the pathologist
+
+at the time of pathologic assessment of this specimen
+
+**Electronically Signed Out by —**
+
+ 
+
+CLINICAL DATA
+
+Clinical Features: received on towel with orientation to
+superior
+
+Operator: _
+
+Operation: Unspec1 1ed
+
+Operative Findings: Unspecified
+
+Operative Diagnosis: Unspecified
+
+Tissue Submitted: 1) anterior inferior skin margin, 2)
+anterior superior skin margin, 3)
+posterior inferior skin margin, 4)
+posterior superior skin margin, 5)
+lingual nerve, 6) ﬂoor of mouth, mucosal
+margin, 7) ventral tongue, mucosal
+margin, 8) retromolar trigone mucosal
+margin, 9) soft palate mucosal margin,
+10) buccal mucosal margin, 11) lip mucosa
+margin, 12) level A1 neck dissection, 13)
+left neck level 2, 14) left neck level 3,
+15) left neck level 4, l6) tongue, jaw,
+level 1B, facial skin and mucosal margin
+
+INSTRUCTIONS TO PATHOLOGIST: High risk HPV ISH and P16 IHC on permanent
+section.
+
+GROSS DESCRIPTION:
+1) SOURCE: Anterior Inferior Skin Margin
+
+Received fresh in a container labeled with the patient's name is a single
+portion of skin measuring 7.0 x 0.1 cm and excised to a depth of 0.3 cm.
+The specimen is entirely submitted for frozen section diagnosis, following
+inking for orientation: blue at superior or black at inferior.
+
+Summary of sections: lAFSC, 1/1.
+
+2) SOURCE: Anterior Superior Skin Margin
+
+Received fresh in a container labeled with the patient's name is a single
+portion of skin measuring 5.0 x 0.1 cm and excised to a depth of 0.2 cm.
+The specimen is entirely submitted for frozen section diagnosis, following
+inking for orientation: blue at superior or black at inferior.
+
+Summary of sections: 2AFSC, 1/1.
+
+3) SOURCE: Posterior Inferior Skin Margin
+
+Received fresh in a container labeled with the patient's name is a single
+portion of skin measuring 4.6 x 0.2 cm and excised to a depth of 0.3 cm.
+The specimen is entirely submitted for frozen section diagnosis, following
+inking for orientation: blue at superior or black at inferior.
+
+Summary of sections: 3AFSC, l/l.
+
+4) SOURCE: Posterior Superior Skin Margin
+
+Received fresh in a container labeled with the patient's name is a single
+portion of skin measuring 5.2 x 0.2 cm and excised to a depth of 0.3 cm.
+The specimen is entirely submitted for frozen section diagnosis, following
+inking for orientation: blue at superior or black at inferior.
+
+Summary of sections: 4AFSC, 1/1.
+
+5) SOURCE: Lingual Nerve
+
+The specimen labeled "lingual nerve" is received fresh for intraoperative
+consultation and consists of a 0.2 x 0.2 x 0.1 cm segment of ﬂat, tan to
+yellow tissue. The specimen is submitted en entirety for frozen section
+analysis.
+
+Summary of sections: 5AFSC, lingual nerve, l/ 1.
+
+6) SOURCE: Floor of Mouth Mucosal Margin
+
+The specimen labeled "ﬂoor of mouth mucosal margin" is received fresh for
+intraoperative consultation and consists of a ﬂat segment of tan to red
+tissue measuring 2.6 x 0.3 x 0.1 cm segment. The sample is received with a
+mark denoting the inferior portion of the sample. This area is marked in
+black. The sample is received on a cloth towel. The specimen is submitted
+in entirety for frozen section analysis.Summary of sections: 6AFSC, 1/1.
+
+7) SOURCE: Ventral Tongue Mucosal Margin
+
+The specimen labeled "ventral tongue mucosal margin" is received fresh for
+intraoperative consultation on a cloth towel and consists of a ﬂat, tan
+segment of tissue measuring 3.5 x 0.2 x 0.2 cm segment. The specimen is
+received with a mark denoting the inferior portion of the sample. This area
+is inked black. The specimen is submited in entirety for frozen section
+analysis. A portion of the specimen was destroyed during frozen section
+processing. The remainder of the specimen is submitted for permanent
+section.
+
+Summary of sections: 7AFSC, 1/1.
+
+8) SOURCE: Retromolar T rigone Mucosal Margin
+
+The specimen labeled "retromolar trigone mucosal margin" is received fresh
+for intraoperative consultation and consists of a ﬂat tan segment of
+
+tissue measuring 0.7 x 0.3 x 0.2 cm. The specimen is received on a cloth
+towel. The sample is received with a mark denoting the inferior aspect.
+
+This portion of the specimen is inked in black. The sample is submitted in
+entirety for frozen section analysis.Summary of sections: 8AFSC, retromolar
+trigone mucosal margin, 1/ 1.
+
+9) SOURCE: Soft Palate Mucosal Margin
+
+The specimen labeled "soft palate mucosal margin" is received fresh for
+intraoperative consultation on a cloth towel and consists of a ﬂat section
+of tan to pink tissue measuring 1.8 x 0.2 x 0.1 cm. The specimen is
+received with a mark denoting the inferior aspect of the specimen; this
+portion is inked in blue. The specimen is submitted in entirety for frozen
+
+section analysis.Summary of sections: 9AFSC, soft palate mucosal margin,
+1/ 1.
+
+10) SOURCE: Buccal Mucosal Margin
+
+The specimen labeled "buccal mucosal margin" is received fresh for
+intraoperative consultation on a cloth towel. The specimen measures 5.7 x
+0.3 x 0.2 cm segment. The sample is received with a mark denoting the
+inferior portion of the sample; this portion of the specimen is inked in
+blue. The specimen is submitted in entirety for frozen section
+analysis.Summary of sections: 10AFSC, 1/ 1.
+
+11) SOURCE: Lip Mucosal Margin
+
+The specimen labeled "lip mucosal margin" is received fresh on a cloth
+towel and consists of a segment of tan ﬂat tissue measuring 3.8 x 0.2 x
+0.2 cm segment. The sample is received with a mark denoting the inferior
+aspect of the sample; this area is inked in blue. The opposite end of the
+specimen has a focal black discoloration. The specimen is submitted in
+entirety for frozen section analysis.Summary of sections: 11AFSC, lip
+mucosa margin, 2/1 (sample separated during frozen section processing).
+
+12) SOURCE: Level 1A Neck Dissection
+
+The specimen labeled "level 1A neck dissection" is received fresh and
+consists of a 2.2 x 1.2 x 0.8 cm portion of lobulated fibroadipose tissue
+
+with two palpable lymph node candidates. The first is removed from the
+specimen that measures 0.2 x 0.2 x 0.2 cm. A second larger candidate lymph
+node is palpated measuring 1.1 x 0.6 x 0.2 cm. The remainder of the
+specimen is lobulated fibroadipose tissue. The specimen is submitted in
+entirety.Summary of sections: 12A, small candidate lymph node, 1; 12B,
+larger candidate lymph node #1, 1/ 1; 12C, remainder of tissue, 3/ 1.
+
+13) SOURCE: Left Neck Level 2
+
+The specimen labeled "left neck level 2" is received fresh and consists of
+
+a segment of lobulated fibroadipose tissue with candidate lymph nodes
+measuring 5.5 x 4.7 x 0.3 cm. The sample is examined revealing multiple
+candidate lymph nodes, the largest of which measures 3.1 x 1.1 x 0.6 cm.
+All candidate lymph nodes are submitted in entirety.Summary of sections:
+13A, four distinct candidate lymph nodes, 4/ 1; 13B, two distinct candidate
+lymph nodes, 2/ 1; 13C-13D, sections of largest candidate lymph node, 13C,
+4/ 1, 13D, 3/ 1; 13E, additional candidate lymph nodes (two) with
+representative sections of lobulated fibroadipose tissue.
+
+14) SOURCE: Left Neck Level 3
+
+The specimen labeled "left neck level 3" is received fresh and consists of
+
+a segment of lobulated fibroadipose tissue with candidate lymph nodes
+measuring 6.3 x 4.3 x 0.3 cm. Numerous small candidate lymph nodes are
+identified, the largest of which measures 0.7 x 0.4 x 0.2. The majority of
+the specimen is submitted.Summary of sections: 14A-14C, candidate lymph
+nodes, 4/1 each; 14D, candidate lymph nodes with fibroadipose tissue, 4/ 1;
+14E, representative section of fibroadipose tissue with possible lymph
+
+nodes, 1/1.
+15) SOURCE: Left Neck Level 4
+
+The specimen labeled "left neck level 4" is received fresh and consists of
+
+a 6.0 x 4.5 x 0.3 cm segment of lobulated fibroadipose tissue with
+
+candidate lymph nodes. The largest identifiable candidate lymph node is 1.0
+x 0.5 x 0.3 cm. Only one distinct candidate lymph node is identified. The
+specimen is submitted in entiretySummary of sections: 15A, candidate lymph
+nodes, 3/1; 15B-E, remainder of tissue, 15B, 2/1, 15C, 1/1, 15D, 2/1, 15E,
+
+3/ 1.
+
+16) SOURCE: Tongue, Jaw, Level 1B, Facial Skin and Buccal Mucosa
+
+The specimen labeled "tongue, jaw, level 1B facial skin and buccal mucosa"
+is received fresh and consists of an 8.0 cm from anterior to posterior, 7.0
+cm from superior to inferior and 5.0 cm from medial to lateral resection
+including mandible, skin, salivary gland and buccal mucosa. Within the
+buccal mucosa, there is an ill-defined necrotic, red-tan ulcerating mass,
+
+4.2 x 3.5 x 0.8 cm. Along the superficial surface of the specimen, there is
+
+an attached 6.5 x 5.5 cm roughly ovoid excision of tan wrinkled skin. The
+specimen is marked with inked as follows: anterior-orange; posterior-black;
+medial-red; lateral-blue; superior-yellow; and inferior- green. The specimen
+is serially sectioned revealing the lesion to extend through the mandible
+towards the anterior skin surface, with a maximum of the tumor 2.8 cm. The
+lesion extends into the dermis and is 0.3 cm from the skin surface. Within
+the inferior aspect of the mandible, just overlying the salivary gland,
+
+there is a 1.8 cm in greatest dimension grossly positive lymph node
+candidate. Sectioning through the salivary gland reveals a normal lobulated
+surface with no discrete, grossly suspicious lesions identified. The lesion
+also extends into the muscular tissue and lies 0.5 cm from the red medial
+margin. The lesion is 0.7 cm from the anterior margin, 0.9 cm from the
+posterior margin, 1.2 cm from the blue inked lateral margin and greater
+
+than 3.0 cm from the nearest green inferior margin. No additional lymph
+
+node candidates are identified. Re resentative sections are submitted. A
+portion of tumor is submitted” and placed in
+glutaraldehyde and within the - reezer on 0 or possible future
+studies.
+
+Summary of sections: 16A, buccal mucosa and lesion upon approach to
+superior and anterior margins, 1/ 1; 16B, lesion and muscular tissue upon
+approach to medial and posterior margins, 2/ 1; 16C, nearest superior
+margin, 1/ 1; 16D, nearest medial margin, 2/ 1; 16E, salivary gland and
+portion of lymph node candidate, 1/ 1; 16F, skin upon approach to blue inked
+lateral margin, 1/ 1; 16G, skin and lesion upon approach to posterior
+margin, 1/ 1; 16H, lesion and skin upon approach to anterior margin, 1/ 1;
+161, lesion and vessel mucosa upon approach to superior margin, 1/ 1; 16],
+lesion with posterior and superior margin, 1/ 1; 16K, positive lymph node
+candidate and salivary gland, 1/ 1; 16L, additional section of medial margin
+with lesion, 1/ 1; 16M, 16M, mandible with surrounding lesion, 1/1 each;
+160, anterior bone margin, 1/ 1; 16P, posterior bone margin, bisected, 2/ 1.
+
+Dictated bV
+
+    
+
+1 es and report reviewed by Attending Pathologist.
+
+ 
+
+SURGICAL PATHOLOGY INTRAOPERATIVE CONSULTATION
+1) SOURCE: Anterior Inferior Skin Margin
+
+FROZEN SECTION DIAGNOSIS: DYSPLASIA, NEGATIVE FOR TUMOR. - I
+2) SOURCE: Anterior Superior Skin Margin
+
+FROZEN SECTION DIAGNOSIS: NEGATIVE FOR TUMOR. - I
+
+3) SOURCE: Posterior Inferior Skin Margin
+
+FROZEN SECTION DIAGNOSIS: NEGATIVE FOR TUMOR. - I
+
+4) SOURCE: Posterior Superior Skin Margin
+
+FROZEN SECTION DIAGNOSIS: NEGATIVE FOR TUMOR. - I
+
+5) SOURCE: Lingual Nerve
+
+FROZEN SECTION DIAGNOSIS: BENIGN. .I
+
+6) SOURCE: Floor of Mouth Mucosal Margin
+
+FROZEN SECTION DIAGNOSIS: KERATOSIS AS DISCUSSED, NEGATIVE FOR HIGH GRADE
+DYSPLASIA.
+
+7) SOURCE: Ventral Tongue Mucosal Margin
+FROZEN SECTION DIAGNOSIS: BENIGN. -J
+8) SOURCE: Retromolar T rigone Mucosal Margin
+FROZEN SECTION DIAGNOSIS: BENIGN. -
+9) SOURCE: Soft Palate Mucosal Margin
+
+FROZEN SECTION DIAGNOSIS: BENIGN. -
+10) SOURCE: Buccal Mucosal Margin
+
+FROZEN SECTION DIAGNOSIS: BENIGN. -
+11) SOURCE: Lip Mucosal Margin
+
+FROZEN SECTION DIAGNOSIS: BENIGN. -
+
+ 
+
+The following special studies were performed on this case and the
+interpretation is incorporated in the diagnostic report above:
+1xDECALCIFICATION
+
+In some tests, analyte specific reagents (ASRs) are used. In the case of
+an ASR, this test was developed and its performance characteristics
+determined by this laboratory. It has not been cleared or approved by the
+US Food and Drug Administration. The FDA has determined that such
+clearance or approval is not necessary. This test is used for clinical
+purposes. It should not be regarded as investigational or for research.
+This laboratory is certified under the Clinical Laboratory Improvement
+Amendments of - (CLIA I as qualified to perform high complexity
+clinical laboratory testing.
+
+ADDENDUM FINDINGS:
+
+HPV analysis as performed by“
+Reference Laboratories shows the tumor to e P negat1ve y
+immunohistochemistry and HPV-16 negative by in-situ hybridization.
+Electronically signed by _
+
+Slides and report reviewed by Attending Pathologist
+

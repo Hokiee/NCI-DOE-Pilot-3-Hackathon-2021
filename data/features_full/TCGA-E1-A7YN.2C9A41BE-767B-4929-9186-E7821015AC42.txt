@@ -1,0 +1,320 @@
+ 
+
+ 
+
+UUID:2C9A415E-767B-4929-9186-E7821015AC42 ‘"“"””mq"m"“‘"";
+TCGA-El-A7YN-91A-PR
+
+WWI.“
+
+ 
+
+ 
+
+        
+
+ 
+
+Surg Path
+
+CLINICAL HISTORY:
+
+Brain tumor. Brain neoplasm NOS. HISTORY OF PRESENT ILLNESS: This is a
+«year—old female with a history of breast cancer status post bilateral
+mastectomies, hypertension, GERD who presented with complaints of visual and
+
+olfactory seizures, headache and right temporal well—differentiated
+
+astrocytoma status post brain biopsy and is being electively admitted for V
+craniotomy and tumor resection
+
+GROSS EXAMINATION:
+
+A. "Brain tissue", received fresh for frozen section and placed in formalin at
+on g is a 3.5 x 2.1 x 1.3 cm piece of tissue, representative
+sections frozen and submitted in AFl (some tissue taken by tissue bank).
+
+Tissue from block AFl is placed entirely in block Al the remaining tissue is
+submitted in block A2—3.
+
+B. "Brain tissue", received fresh and placed in formalin at on
+are multiple pieces of pink—white soft tissue consistent with brain (4 x 3 x
+1.3 cm in aggregate) which are submitted entirely in blocks 31—3.
+
+, INTRA OPERATIVE CONSULTATION:
+> A. "Brain‘tissue":AFl (rep)— glioma, low grade
+
+MICROSCOPIC EXAMINATION:
+
+Microscopic examination shows brain diffusely infiltrated by an astrocytic
+neoplasm. Endothelial proliferation and necrosis are not seen. There are some
+gemistocytes and a brisk perivascular and leptomeningeal lymphocytic
+infiltrate. Astrocytes are immunopositive for GFAP. HAM-56 and LCA highlight
+inflammatory cells and microglia. The MIB—l index is approximately 10%.
+
+IMMUNOHISTOCHEMICAL FINDINGS:
+The immunoperoxidase tests reported herein were develooed and their
+performance characteristics were determined by the
+
+Some of them may not be cleared or approved by
+the U.S. Food and Drug Administration. The FDA has determined that such
+clearance or approval is not necessary. These tests are used for clinical
+purposes. They should not be regarded as investigational or for research.
+This laboratory is certified under the Clinical Laboratory Improvement
+Amendments Of 1988 (CLIA) as qualified to perform high complexity clinical
+
+testing. ?
+zero-5 i
+
+:?A:ggﬁs-;ISSUE, CRANIOTOMY: [W‘PLWWME (ill/(“DIAS L
+-' zR/WPMEWQ N55 6779/
+
+ 
+
+ANAPLASTIC ASTROCYTOMA (WHO GRADE III). k:L£¥E [ _
+ﬂ ”. ‘ <1 ’ 4% 4
+' . F V/Wm M09 d ”'07
+B. BRAIN TISSUE, CRANIOTOMY. a I ’
+t ' 2”" _. iii
+ANAPLASTIC ASTROCYTOMA (WHO GRADE III) . AVA) DID
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+M.D.
+
+i
+
+A
+
+   
+
+it
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FISH INTERPRETATION SUMMARY:
+
+FISH MARKER INTERPRETATION % OF TUMOR CELLS FINDINGS/STATUS
+EXHIBITING ABNORMALITY
+
+EGFR (7p12) ABNORMAL 52% GAIN
+
+MET(7q3l) ABNORMAL 48% GAIN
+
+7 CE? ABNORMAL 45% GAIN
+
+PTEN(qu23) NORMAL_ INTACT
+
+10 CEP NORMAL INTACT
+
+CDKN2A(9pé1) NOT ORDERED
+
+9 CEP NOT ORDERED
+
+1p36 NOT ORDERED
+
+lq25
+
+lp32 NOT ORDERED
+
+lqtel
+
+19ql3 NOT ORDERED
+
+19p13
+
+EGFR, 7 CEP, PTEN, AND 10 CEP: 2 OF 4 ABNORMAL MARKERS.
+MET EXHIBITS GAIN.
+
+COMMENT: A MULTIVARIATE SURVIVAL ANALYSIS OF PATIENTS WITH ANAPLASTIC
+ASTROCYTOMAS REVEALS THAT THE HAZARD OF SHORT SURVIVAL AMONG PATIENTS WITH 0—2
+ABNORMAL MARKERS (OUT OF 4) WAS SIGNIFICANTLY LOWER THAN THAT FOUND WITH
+PATIENTS WITH >2 MARKERS (P—0.037) EVEN AFTER ADJUSTMENT FOR AGE EFFECT.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s] and have rendered the above diagnosis(es).
+
+M.D.
+
+Electronically s ignedvm'
+
+ADDENDUM é:
+
+BRAIN TISSUE CONTAINING ANAPLASTIC ASTROCYTOMA (WHO GRADE III?“
+
+BLOCK A2) . ' " "
+
+IHC Antibody: Interpretation Score % of Tumor Cells of ACIS III
+IHC (0—3+) Exhibiting Staining SCORE
+
+CD/45-LCA 10%
+
+Ki-67 HIGH 10% IN SURG PATH
+
+MGMT POSITIVE 20% 20%
+
+EGFR WT POSITIVE 2+ 80%
+
+EGFR VIII NEGATIVE 0% 0%
+
+PTEN NOT ORDERED
+
+p56 POSITIVE 2+ 25%
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.PAKT "NEGATIVE " " ""13 7 1.7.... ..'.'.."."L."_" " 7 22.935; ILL. 777”” " ' .IILIL7'7L‘ Ml. ., .r ._-. -.
+
+pMAPK NEGATIVE 2+ 5% f
+CA—IX '77'7'" NEGATIvE -7 I “‘D% 7 - ‘ F
+VEGF ‘ POSITIVE 2+ 60% - 120 1
+PDGE‘r Alpha WIDESPREAD 60% E
+PDGFr Beta WIDESPREAD 80%
+
+VEGFr-KDR NEGATIVE 2+ 5% = ID
+
+HIFZ Alpha: NOT ORDERED
+
+Please see Image Cytometry Repo
+tests.
+
+ 
+
+or results of supplementary
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es> .
+
+M.D. i
+
+Electronically signed: W.
+
+ADDENDUM 3:
+
+MGMT PROMOTER METHYLATION REAL TIME PCP. ANALYSIS ;
+
+Received w from _ _ . E
+is a copy of an MGMT Promoter Methylat' . obtained user. i
+
+of Dr. on paraffin bloo' ‘ . The {
+
+complete report from is on file in the i
+
+Result:
+
+MGMT PROMOTER METHYLAT ION IDENTIFIED
+
+Methodology:
+
+DNA is isolated from formalinwfixed, paraffin—embedded (FFPE) specimen.
+Molecular analysis of the MGMT gene is performed by methylation—specific PCR.
+
+Molecular-based testing is highly accurate but as in any laboratory test, rare
+diagnostic errors may occur.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis (es) .
+
+M.D.
+
+Electronically signed: m
+ADDENDUM 4:
+
+Please see MOLECULAR DIAGNOSTICS RepWor complete report.
+Testing was performed on sampWBLOCK A2.
+
+IDHl MUTATION TESTING WITH REFLEX TO IDHZ
+
+INTERPRETATION: NEGATIVE
+IDHl AND IDHZ MUTATIONs NOT DETECTED
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es} .
+
+M.D.
+
+     
+
+. .777. '.7.!7§K47..77 ., 7 ....." J7;
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Electronically I signed:
+
+EGFR VIII IMMUNOHISTOCHEMISTRY: NEGATIVE
+
+None of the tumor cells exhibit staining for EGFR VIII (Score
+
+I certify that I personally conducted the diagnostic evaluation of the above
+
+specimen(s) and haVe rendered the above diagnosistes) .
+
+Electronically signedr-‘M‘
+
+SURGICAL PATHOLOGY
+
+Performed by:
+
+Orderina Mn:
+
+ 
+
+ 
+
+Criteria
+
+Tumar Site
+HIPAA
+
+use is
+Reviewer Initials
+
+Date Revuewed.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

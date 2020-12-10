@@ -1,0 +1,48 @@
+Pat oogy eport
+
+DIAGNOSIS
+(A) LEFT KIDNEY:
+
+RENAL CELL CARCINOMA, CONVENTIONAL (CLEAR CELL) TYPE, FUHRMAN
+
+NUCLEAR GRADE 3
+(3.7 CM).
+TUMOR CONFINED TO THE KIDNEY.
+Focal granulomatous Inflammation. {See comment)
+Ureteral and renal vein margins, no tumor present.
+
+COMMENT
+
+There is an unusual granulomatous reactionlinflammation focally at the
+interface between the tumor and uninvolved renal parenchyma associated
+with fibrosis and chronic inflammation. No microorganisms were
+identified on AFB and GMS stains.
+
+GROSS DESCRIPTION
+
+(A) LEFT KIDNEY - A left kidney with surrounding perinephric fat
+measuring overali14.5 x 9.5 x 5.0 cm. The kidney (10.0 x 6.0 x 3.0 cm)
+contains a yellow variegated, red well-circumscribed mass (3.? x 3.5 x
+3.0 cm) located In the mid pole of the kidney. The mass is confined to
+the kidney, has a rim of renal parenchyma pushing against the
+perinephric fat. There is focal area of possible renal sinus invasion.
+The renal vein is not involved by tumor. The remainder of the renal
+parenchyma appears unremarkable. '
+
+SECTION CODE: A1, hilar structures; A2-A4, tumor to renal sinus;
+A5, tumor to perinephric fat; A6, perlnephric fat; A7, tumor with rim of
+normal kidney parenchyma; A8, tumor with possible invasion to renal
+sinus; A9, uninvolved renal parenchyma.
+
+CLINICAL HISTORY
+None given.
+
+SNOMED CODES
+T~71000, lid-83123
+
+ 
+
+ 
+
+ 
+

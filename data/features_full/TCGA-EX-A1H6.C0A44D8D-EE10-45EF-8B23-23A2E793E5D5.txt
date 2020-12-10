@@ -1,0 +1,232 @@
+SURGICAL PATHOLOGY [C I) ’ 0 ’ 3
+WW N05 W‘lt’IB
+3,?1-CW’VI,‘ N05 C53 ? 3'1"“
+
+Case Number: /
+
+ 
+
+Diagnosis:
+A: Uterus, cervix, radical hysterectomy, bilateral salpingectomy, and parametrectomy
+
+Location of tumor: tumor circumferentially involves the cervix, including the endocervix
+
+Histologic type: endocervical adenocarcinoma
+
+--‘_’—-—-——‘~—
+
+UUID: COAMDBD- EE10-45EF-8323- 23A2E793E50e5d
+TCGA- EX— A1H6- 61A- PR
+
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIeIIIII Illeﬂl
+IIIIIIIIIIIII I
+
+Histologic grade: well differentiated "H” IIIII ||| IIIIIIIIIIII H"
+
+IIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+Tumor size: 2.5 cm
+Extent of invasion:
+Cervical invasion: outer half
+
+Depth: 8 mm Wall thickness: 1.2 cm
+Percent: 67% (A2)
+
+ 
+
+Deep margin involvement: absent
+
+Lower uterine segment involvement: absent
+
+Parametrium: no tumor seen
+
+Cervical/vaginal margin and distance: free of tumor (8 mm to closest cervical vaginal cuff margin)
+Lymphovascular Space Invasion: absent
+
+Regional lymph nodes (see other specimens):
+
+Total number involved: 0
+Total number examined: 20
+
+Adnexal involvement: right and left fallopian tubes, no tumor seen
+
+Other Pathologic ﬁndings:
+- Endometrium shows atrophic endometrium.
+- Adenocarcinoma in situ is present adjacent to invasive endocervical adenocarcinoma in the cervix.
+
+- Myometrium with no significant pathologic abnormality.
+
+AJCC Pathologic stage: pT1b1 pNO pr
+
+FIGO Stage grouping: lBl
+
+These stages are based on information available at the time of this report, and are subject to change pending additional
+information and clinical review
+
+Fallopian tube, right, salpingectomy:
+
+- No tumor seen.
+
+Fallopian tube, left, salpingectomy:
+— No tumor seen.
+
+B: Right pelvic lymph node, dissection
+- Ten lymph nodes, no tumor seen (0/10).
+
+C: Left pelvic lymph node, dissection
+- Ten lymph nodes, no tumor seen (0/10).
+
+Clinical History:
+The patient is with cervical cancer.
+
+Gross Description:
+Specimen A is additionally labeled "uterus, cervix, parametrial tissue bilateral"
+
+Specimen fixation: Formalin
+
+Specimen type: Radical hysterectomy
+
+Adnexa: Bilateral fallopian tubes present with specimen
+Weight: 104.9 grams
+
+Shape: Pear
+
+Dimensions:
+
+Height: 9.0 cm
+
+Anterior to posterior width: 4.5 cm
+Breadth at fundus: 6.0 cm
+
+Serosa: Tan/pink without masses. The anterior surface was inked
+blue, posterior surface inked black.
+
+Cervix:
+
+Tumor size: Not identiﬁed grossly
+Other features: Cervix demonstrates recent surgical changes, possibly from previous cone biopsy.
+
+Endometrium:
+
+Length of endometrial cavity: 3.8 cm
+
+Width of endometrial cavity at fundus: 2.4 cm
+Thickness of lining: 0.1 cm
+
+Other findings: None
+
+Myometrium:
+Thickness of wall: 1.5 cm
+Other findings: Sectioning demonstrates no masses
+
+Adnexa:
+Right ovary: Not present
+
+Right fallopian tube
+Measurement: 8.6 cm x 0.4 cm
+Other ﬁndings Fimbriated end present
+
+Left ovary Not present
+
+Left fallopian tube
+Measurement: 8.7 cm x 0.4 cm
+Other ﬁndings Fimbriated end present
+
+Block Summary:
+lnking: Anterior/blue, posterior/black
+
+A1 - anterior cervix 12 to 1
+
+A2 - anterior cervix 1 to 2
+
+A3 - anterior cervix 2 to 3
+
+A4 - anterior cervix, additional lateral parametrial tissue
+
+A5 - anterior cervix 11 to 12
+
+A6 - anterior cervix 10 to 11
+
+A7 - anterior cervix 9 to 10 o' clock
+
+A8 - additional 9 o' clock tissue
+
+A9 - anterior cervix 3 to 4 o' clock
+
+A10-A11 - anterior cervix 4 to 5 o' clock, bisected
+
+A12 - anterior cervix 5 to 6 o' clock
+
+A13 - anterior cervix 6 to 7 o' clock
+
+A14 - anterior cervix 7 to 8 o' clock
+
+A15 - anterior cervix 8 to 9 o' clock
+
+A16 - left parametrial tissue, adjacent to cervix 3 to 6 o' clock
+A17 - right parametrial tissue, adjacent to cervix 6 to 9 o'clock
+A18 - right parametrial tissue, adjacent to cervix 9 to 12 o' clock
+
+A19 — right parametrial tissue, adjacent to cervix 9 to 12 o' clock
+A20 - right parametrial tissue, adjacent to lower uterine segment
+A21 - left parametrial tissue, adjacent to lower uterine segment
+A22 - anterior lower uterine segment
+
+A23-A24 - posterior lower uterine segment, bisected
+
+A25 — anterior mid corpus
+
+A26 - posterior mid corpus
+
+A27 - right fallopian tube
+
+A28 - left fallopian tube
+
+Specimen B:
+
+SITE: "Right pelvic node"
+
+METHOD: Lymph node dissection
+
+MEASURE: 5.9 x 5.4 x 1.6 cm
+
+COMMENT: Fibroadipose tissue with node candidates
+BLOCK#: Bl - Three lymph node candidates
+
+B2 - Four lymph node candidates
+
+BS - Four lymph node candidates
+
+B4 - Two lymph node candidates
+
+Fibroadipose tissue remains
+
+Specimen: C
+
+SITE: "Right pelvis"
+
+METHOD: Lymph node dissection
+
+MEASURE: 5.8 x 4.0 x 1.8 cm
+
+COMMENT: Yellow/tan fibroadipose tissue admixed with lymph node candidates
+BLOCK: C1 - Three lymph node candidates
+
+C2 - Four lymph node candidates
+
+C3 - Four lymph node candidates
+
+Fibroadipose tissue remains
+
+Grossing Pathologist:
+
+Light Microscopy:
+Light microscopic examination is performed by Dr.
+
+Signature
+Resident Physician:
+
+Attending Pathologist : I have personally conducted the evaluation of the above specimens and have rendered the
+above diagnosis(es).
+

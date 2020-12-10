@@ -1,0 +1,497 @@
+/CD/0 '3
+
+WM, Wag/m, Mal, up; 8500/3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. ‘ - {QM/,7 W N05 05/0,? //37/l/ % J#:’
+Pathology Form
+[Specimen Information]
+{\ , P I (
+Collected by: ‘ .1 ~ A" 1 . H Date: . ... .ime
+Preserved by: ’ . um _., c .v Date: ’ Time:
+( , ’ T'i"”rfo”\?ide'd) . ,, . ‘
+Frozen Parafﬁn Block (Blﬂdlgerum/Plasma Slide
+Diseased Normal Diseased Normal Wased Normal Diseased Normal
+K >0 96 >0 7°
+Time to LN2 Time to Formalin Time to LN2 ' ‘ W
+min AI) min 24: min 2S.
+v- DESCRIEI'IONé
+Primary Tumor
+grgan Size Extension of Tumor Distance to NAT
+‘ W- 1.x: x an we z an
+Lymph Nodes
+Location # Examined # Metastasized
+Ammo. /w 9
+Distant Metastasis
+Organ Detailed Location Size
+M
+Pathological Staging
+pTg A No M 0 Stage: LA-
+Notes:
+UUID: 76F67AA2- 4E17- ABFS- 8103- E4F4338902Dcd
+IllclillililzllIllllillliﬁlllllllll||||||||||||l||||
+IllllllllllTlcllll
+Ill||||||||||||||||||III||||||||||ll||||||l|||||||||Illlllllllll
+||||||||||||||||l||||||l||||||||||||ll|||Il|||||||||l||lll|l|
+
+ 
+
+ 
+
+ 
+
+ 
+
+lﬁicroscopic Descriptio_n]
+
+ 
+
+   
+
+~i'i‘HiStolo 'ét’ll‘l?éxttt'21'rl".3?fj
+
+" e): .:._~‘
+Structural Pattern
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+   
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cell Distribution + -
+Diffuse .9 Streaming
+Mosaic ' Storiform
+Necrosis —l’ Fibrosis
+Lymphocytic Inﬁltration ' PalisadLnL
+Vascular Invasion Cystic Degeneration
+Clusterized BleedinL
+Alveolar Formation Myxoid Change
+Indian File Psammoma/Calciﬁcation
+. ,. . V“Vieti‘llllﬁE;Diffét‘éﬁﬁﬁﬁé; A .. ., {
+Squamous + - Adenomatous + - Sarcomatous + Lymphomatous +
+Squamoid Cell Glandular cell v? Round Cell Large Cell
+Spindle Cell Cell Stratiﬁcation ' Fibroblast Small Cell
+Keratin Secretion Osteoblast RS Cell/RS Like
+Desmosome Intracyt. Vacuole Lipoblast Inﬂam. Cell
+Pearl Gland formation Myoblast Plasma Cell
+Cellular Differentiation: Poor
+: w it‘ll: "'1N'ﬁélé§ a ., _.
+Nuclear Atypla:
+Aniso Nucleosis
+Hyperchromatism
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic Activity "F
+Nuclear Grade: *1“
+
+ 
+
+Marker
+ER
+PR
+
+Result
+l: Positive
+
+a Positive
+
+D Positive
+
+neu
+
+Her-
+B-Cell Marker
+T—Cell Marker
+
+Other:
+Other:
+
+Histological Diagnosis:
+
+Cl Positive
+El Positive
+
+El Positive
+:l Positive
+
+Final Patholo Re
+
+ 
+
+We plow WW
+
+ 
+
+Comments:
+
+ 
+
+ 
+
+ 
+
+Principal Investigator
+
+Pathologist -
+
+Grade:
+
+ 
+
+T
+
+ 
+
+ 
+
+y ‘ CONSOLIDATED DIAGNOSTIC PATHOLOGY FORM*
+Microscopic Appearance.
+
+1.
+
+ 
+  
+
+ 
+
+Diffuse CELL DISTRIBUTION STRUCTURAL PATTERN
+. Storiform
+
+"mm" Fibmsis
+
+L Inﬁltration
+
+Vascular Invasion
+
+Clusterizcd
+
+Alveolar
+
+Indian File
+
+    
+
+_ __anmomI/Calcilication l l7 I
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Cellular features:
+
+Squamous + - Adenolnatous + - Sarcomatoos + - Lymphomatous + -
+mold Cell Glandular cell a” Round Cell Men
+S indle Cell Cell Stratiﬁcation U Fibroblm Small Cell *
+Keratin Secretion W Osteoblast RS Cell/RS Like
+Desmosome lnuacyr. Vacuole Lipoblast lnflam. Cell
+Pearl Gland formation X Myoblast Plasma Cell
+0 n a 7
+
+Otherwise Speciﬁed- 1), («32 p, / W i3.
+
+ 
+
+2. CellularDi exudation:
+Well Mo%mely Poor
+
+T
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Nuclear
+
+Nuclear Grade
+
+ 
+
+~ Histological Diagnosis: T I g\ 2
+
+omments:
+C - 4/1 . /M
+
+ 
+
+ 
+
+“no
+.Ecunso REPORT or FINDINGS or comm/To
+

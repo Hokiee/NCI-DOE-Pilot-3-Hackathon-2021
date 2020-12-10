@@ -1,0 +1,64 @@
+UUID: BZFOZSZD- -63F9- 4D7B- BAAS- D
+TCGA I'IV- -AABV-91 E49F64RA6eiDlac
+
+I II II I IIIIIIIIIIIII IIIIIIII I II II IIIIIIIIIIII’IIIIIIIIIIIIIIII IIIII Icllml
+
+IIIIIII IIII|||IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+CLINICAL DIAGNOSIS: R/O Pancreatic head cancer
+
+Specimen : CBD, Pancreatic head,
+
+GROSS:
+Specimen status: Fresh
+Operation: Pylorus preserving pancreaticoduodenectomy and cholecystectomy
+Organs:
+Small intestine (21.0 cm in length and 5.3 cm in greatest circumference)
+Pancreas, partial (6.5 x 5.5 x 3.8 cm)
+Common bile duct (2.8 cm in length and 1.4 cm in diameter)
+Gallbladder (13.0 cm in length and 3.7 cm in diameter)
+Lesions:
+An ill-defined pale tan solid and firm mass (3.5 X 3.0 x 2.8 cm) in pancreatic head
+Cut surface: Yellowish tan, firm and granular
+Extent: Extension to peripancreatic soft tissue and duodenal wall
+
+Resection margin: Involved grossly
+
+ICE «6 3 J
+MICROSCOPIC: WWW, Wkia‘ijégga 3500 3
+Tumor type: Ductal adenocarcinoma 5.;th W‘
+Tumor location: Pancreatic head quJ 4/2/14
+
+Histologic grade: Poorly differentiated
+Tumor size: 3.5 x 3.0 x 2.8 cm
+Extent: Peripancreatic soft tissue and duodenal wall (submucosa)
+Lymphovascular invasion: Present
+Perineural invasion: Present
+Surgical margins: All surgical margins are free from tumor
+Lymph nodes:
+Lymph node, 12: No tumor present (0/2)
+Lymph node, 13: Metastatic adenocarcinoma, primary in pancreas (1/1)
+
+Lymph node, peripancreatic: Metastatic carcinoma, primary in pancreas (2/19)
+
+DIAGNOSIS:
+
+Pancreas, head, pylorus preserving pancreaticoduodenectomy:
+Ductal adenocarcinoma, poorly differentiated, infiltrating
+
+Small intestine, duodenum, pylorus preserving pancreaticoduodenectomy:
+
+Direct tumor extension of pancreatic ductal iadenocarcinoma
+Common bile duct, pylorus preserving pancreaticoduodenectomy:
+Chronic inflammation
+Gallbladder, pylorus preserving pancreaticoduodenectomy:
+Chronic cholecystitis
+Cholesterolosis
+Lymph node, pylorus preserving pancreaticoduodenectomy:
+Lymph node, 12: No tumor present (0/2)
+Lymph node, 13: Metastatic adenocarcinoma, primary in pancreas (1/1)
+
+Lymph node, peripancreatic: Metastatic carcinoma, primary in pancreas (2/19)
+
+ 
+

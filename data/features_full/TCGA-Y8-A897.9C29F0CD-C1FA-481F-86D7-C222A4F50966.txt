@@ -1,0 +1,116 @@
+ 
+
+TCGA-YB-ABST—BlA-PR R d t d
+||l|llllllllllllllllllllllllllllﬁlllﬁil e ()me Mai
+||||||||||||||||||||||l l|||| (”mg ‘ 50/5
+Research Gross Description Sub- (de Amati» f7
+
+UUID:BCZBFOCD-ClFA-AMF-86D7-C222MF50966 m 0 ’3
+l
+lllllllllllllllllllllll Illllll llllllll
+“HI" I
+female with renal lesion
+99> 11/4251] I 3
+
+Research Dx
+Left renal mass, robotic left partial nephrectomy:
+Papillary renal cell carcinoma, type 2, see summary.
+
+CASE SUMMARY FOR NEPHRECTOMY FOR RENAL CELL CARCINOMA:
+Procedure: robotic left partial nephrectomy and robotic hysterectomy with bilateral salpingo-
+oophorectomy, regional lymph node dissections.
+Specimen laterality: left
+Tumor site: upper pole
+Tumor size: 1.8 cm
+Extent of disease: tumor limited to kidney
+Histologic type: papillary renal cell carcinoma, type 2.
+Sarcomatoid features: not appreciated
+Tumor necrosis: not appreciated
+Histologic grade (Fuhrman Nuclear Grade): grade 2
+Margins: free of tumor
+Lymphovascular invasion: not appreciated.
+Pathologic staging (pTNM):
+Primary tumor: Tumor 4 cm or less in greatest dimension, limited to the kidney
+Regional lymph nodes
+Number examined: 34
+Number involved: 0
+Distant metastasis: unknown
+Pathologic findings in nonneoplastic kidney: none
+Other tumors andlor tumor-like lesions: none in kidney
+AJCC Staging (7th edition) pT1a pNO pM not applicable
+
+Research QC
+Tumor:
+
+66% tumor nuclei
+0% necrosis
+
+35% normal stroma
+
+Normal:
+100% kidney
+
+Research Specimen
+
+Specimen Process Time
+Blood draw time:
+
+Plasma frozen time:
+
+Serum frozen time
+
+Buffy coat frozen time'
+
+Cold ischemia start time:
+Formalin fixation start time:
+
+ 
+
+ 
+
+Total cold ischemia time:
+
+Formalin ﬁxation stopped time:
+
+Total formalin ﬁxation time ‘
+Specimen Weight
+Normal-cortex
+
+1-290 mg
+
+Tumor
+
+1-200 mg
+
+Specimen Size
+
+Plasma x 3
+
+Serum x 2
+
+Buffy coat x 1
+
+Cryovials x 2
+Normal x 1
+Tumor x 1
+
+FF PE x 2
+Normal x 1
+Tumor x 1
+
+Studv
+
+Patient Consent
+Yes
+
+"in
+
+last is
+.wrr Initials ‘
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,305 @@
+Page 1 of 2
+
+ 
+
+UUID:15BF3FFE-B723~403A-AD20-CBBlDOC9E39d
+
+ 
+
+ 
+
+TCGA-ax-AAVE-MA-PR Redacted
+“II "II ||||l|||l||l||l|
+III
+
+I
+
+“II“ ||||||||||||l|l|||||||||||||||||l||l |
+lllliln .‘HiiiiilHiiHi1Pill!li'iiiill'l'illilIll
+
+ 
+
+CONFIDENTIAL
+SURGICAL PATHOLOGY REPORT
+Time Collected Time Received
+Time Reported Time Transmitted
+Order Number Ordering Provider
+Status Final Relevant information
+
+Location
+Report Patient Name ,
+Demographics (for p ICED b 6
+veriﬁcation purposes) Date of Birth: ‘ ' ~
+Sesz “Lb: WW 19/6013
+
+ 
+
+SURGICAL PATHOLOGY REPORT
+
+'****Surgical Pathology Rrr-“t***‘*
+Accession Number _
+Collected Date/Time'
+
+Received Date/Time
+Pathologist
+
+Specimen Description
+Liver tumor at
+
+Clinical Information
+Hepatitis E, liver tumor
+
+go 5/.21/14
+
+ 
+
+Biagnosis
+Liver, Resection:
+
+- Combined cholangiocarcinoma and hepatocellular carcinoma,
+moderately to poorly differentiated, see synoptic report
+- Maximum tumor dimension 3.5cm
+- Small to medium—sized vessel vascular invasion identified
+— Margins of resection are negative for carcinoma
+- No lymph nodes submitted or identified
+— Non—neoplastic liver shows features compatible with chronic viral
+hepatitis B, with grade 1 inflammation and stage 3 fibrosis
+
+(Betta-Ludwig)
+
+— Non—neoplastic liver shows multiple/frequent von Meyenburg complexes
+(bile duct hamartomas), see comment in synoptic
+
+Reported by:
+Electronically signed by:
+Verified:
+
+synoptic report
+
+CLS Intrahepatic Bile Ducts
+Specimen:
+
+Liver
+
+PROCEDURE:
+
+Wedge resection
+
+TUMOR SIZE:
+
+Greatest dimension: 3.5 cm
+
+TUMOR FOCALITY:
+Solitary (specify location):
+HISTOLOGIC TYPE:
+
+Parenchymal
+
+Combined hepatocellular and cholangiocarcinoma
+
+HISTOLOGIC GRADE:
+
+GII: Moderately differentiated
+
+TUMOR GROWTH PATTERN:
+Mass—forming
+MICROSCOPIC TUMOR EXTENSION:
+
+Tumor confined to hepatic parenchyma
+
+ 
+
+.——— . _ Page20f2
+
+HEPATIC PARENCHYMAL MARGIN: ' ' '
+Uninvolved by invasive carcinoma
+
+Distance of invasive carcinoma from closest margin: 3 mm
+
+Specify margin: Parenchymal
+BILE DUCT MARGIN:
+Cannot be assessed
+VENOUS (LARGE VESSEL) INVASION (V):
+Indeterminate
+SMALL VESSAL INVASION (Li:
+Present
+PRIMARY TUMOR (pT):
+pTZa: Solitary tumor with vascular invasion
+REGIONAL LYMPH NODES (pN):
+pNx: Cannot be assessed
+DISTANT METASTASIS (pM):
+Not applicable
+*ADDITIONAL PATHOLOGIC FINDINGS (select all that apply):
+Chronic hepatitis (specify type): hepatitis B Virus (HBV)
+ANCILLARY STUDIES:
+Immunohistochemistry: neoplastic cells are positive for cytokeratin 7 (variable, strong
+to moderate), cytokeratin AEl/AES (variable, strong to moderate), cytokeratin Cam5.2
+(variable, strong to moderate), HepParl (focal, weak), CD10 (focal, canalicular pattern),
+and pCEA (focal, canalicular pattern).
+*CLINICAL HISTORY: '
+Hepatitis B infection.
+*COMMENT(S) :
+The tumor shows morphologic features of combined cholangiocarcinoma and hepatocellular
+carcinoma, in roughly equal proportions. Although immunophenotype is predominantly of
+cholangiocellular type, cytokeratin staining is weaker in areas of morphologic ECG, and
+focal CDlO/pCEA staining is present in these areas. In addition, many bile duct
+hamartomas/von Meyenburg complexes (VMCs) are seen in non-neoplastic liver, as well as in
+direct continuity with neoplasm (no definite in situ/dysplastic transformation of VMCs is
+appreciated, however). Multiple VMCs is considered by many authors to represent a mild
+form of ductal plate malformation (DPM). Likewise, there is a documented though rare
+association of DPM/VMCs with cholangiocarcinoma. The significance of this finding, with
+regards to potential causality for (or contribution to) neoplasia, is unclear in the
+pathology literature. With regards to vascular invasion, scattered foci of tumor present
+in medium-sized portal/septal type veins are identified. "Major" venous invasion, per
+AJCC/CAP definition, cannot be assessed in this specimen.
+Gross Description
+Received is a single specimen cont-‘--“ "‘- "--"isirinn and specimen container are
+labelled with the patient‘s name, . The cassette and identifiers
+are labelled with the Surgical Number
+A. Specimen is received fresh. The container is designated as "A. Liver tumor“. The
+specimen consists of a portion of liver weighing 53.1 g and measuring 8.2 x 5.0 x 3.5 cm.
+0n the capsular surface is an area of puckering measuring 1.7 x 1.5 cm. Area is dyed
+orange. The resection margin is dyed blue. On sectioning a firm tan mass is identified
+measuring 3.5 x 2.6 x 2.6 cm. This mass corresponds to the area of capsular puckering and
+comes within 0.3 cm of the closest blue painted resection margin. The remainder of the
+liver parenchyma is grossly unremarkable.
+Representative sections are submitted as follows:
+
+Al/z. sections the mass in relation to the area of capsular pucksring
+A3. section of the mass relation to the blue painted resection margin
+A4/5. further sections of the mass
+
+A6. sections of grossly unremarkable liver parenchyma
+
+A7—A11 additional sections of unremarkable liver parenchyma
+
+Sample and Test Request Deficiency
+
+Minor sample and/or test request deficiency.
+
+Location of physician not provided.
+
+Pathologist Comment
+
+This case was also reviewed by _
+
+Representative neoplastic block: A1. Representative non-neoplastic block:.A7.
+
+19w 7’53, dz MWJM‘ ftéﬂ' W
+
+Accession Number. ,3 “mun! (gm/"yo W _ u my
+Encounter Number («ML 44 7;; W53)“—
+Patient Locationx
+
+I/JD/“l
+Di , nods Discrepancy
+Primlry Turner Site Di
+
+ 
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Wong/The. TCGA Pathologic Diagnosis Discrepancy Form should beca‘mpletedwhen the pathologic diagnosis
+documented on thei‘nitial pathology report-fora case submitted for TCGA is inconsistent with the diagnosis provided on the
+6032' Quality Control Form "completedfw the submittedcase.
+
+ 
+
+ 
+
+ 
+
+TiSSue Source-Site (T53): "T35 Identifier: . . ‘TSS Unique Patient Identiﬁer: ,.
+
+ 
+
+Completed By (InteprvfeWequme on OpenCIinica): COmp’leted Date:
+
+[Diagnosis Information
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+#' Data Element Entry Alternatives Working Instructions
+‘ . . . . Provide'the diagnosis]histblo'gics‘ubtygeﬁs) documenmd on:
+Pathologib DiagnOa‘is m l I. {‘5 H i L 3, L)“, \ w . ‘ui‘arig n a,“ A theinitizd pathology. repottfo’r this.case-..lf'the histology for
+1 Provided on‘lnitial ——-—-—l——— thls casein mixedlprovide' all listedsubtypes.
+Pathology Report-
+' . . I Provide the 'hlstoiog'ic features selected on the TCGA Case
+Histologm features of i . 3 v . .
+2 the sample provided C \nu\b\ at} l U C, guy i, imam. A Quality can“! Form command for thistase.
+' For TCGA, asreﬂscted '
+on the CQCF.
+Discrepancy between Pathology Report and Case Quality Control Form 7 I
+3 Provide the reason for ‘ g. « p g .3 Provide a reason'describing why the, diagnosis on the initial
+thedisarepancy “(Lb k W W (3“ W 8% pathology rapo'rt for-this case is not consistent with the
+between 1311 e pathology ‘ diagnosis-selectsd on'the TCGACa‘se Quality Controi'Form.
+
+reportand theTCGA H i, C.» / ONWKD CA f.
+Case, Quality Control ~ ‘
+Form. (5/qu {0’9“ ML)
+eludes/gas sawed”
+MC». W OWM;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name Of'TSS Reviewing ‘Frosii'de thetnam'e of'the pathologist who reviewedthismse
+4 Pathologist‘or m _> for TCGA;
+, Biorspository Director
+
+ 
+
+Int-knowledge that the above {Emmi}! provided by my institution is trueand carnectand has been quality manned.
+
+ 
+
+TSS Renewing Path‘slo‘gist, or Biorepository Director Date
+
+I acknowledge that thegb‘ove information-provided by my Institution is true and camsct amines been quality controlled. I‘Ije/lttenn‘lng Pathologist or the
+Department Clﬁmnqn has been ‘Informsd of Is aware oftlze abawdlscrepancy in diagnoses.-
+
+ 
+
+Principal l'nve, “a“- _ __ Date
+
+(.1
+

@@ -1,0 +1,94 @@
+ 
+
+ 
+
+1 .1 Diagnosis:
+Brain, right temporal lobe, excision: Negative for tumor.
+
+  
+
+TCGA - DB - 5275
+
+Brain, right temporal tumor, excisions #1 and #2: Grade 3 (of 4) oligoastrocytoma (WHO, grade III).
+
+FISH studies for 1p and 19q deletion will be performed and reported as an addendum.
+
+ADDENDA:
+1p and 19q FISH studies were performed on cells within parafﬁn sections from tumor. Two hybridizations were
+
+performed: one with a 19q probe/control 19p pair and one with a 1p probelcontrol lq pair. The 19q and 1p probes
+mapped to the regions that are commonly deleted in gliomas. The 19:21 to 19p probe ratio was 0.56. The 1p to lq
+probe ratio was 1.02. For both probes, the normal ratio is approximately 1. Any ratio less than 0.80 is consistent
+with deletion of the chromosomal region of interest.
+
+ 
+
+The results are less than the normal range and suggest deletion of 19q. Approximately 90% of cells had 2 copies
+of the 19q probe and 3-4 copies of the 19p probe, consistent with relative loss of 19q. In addition, approximately
+80% of cells had 3-4 copies of the lp and lq probe. The results have been observed in other glioma specimens
+with tumor aneuploidy (or polyploidy) and relative loss of 19q.
+
+T test was developed and its performance characteristics determined by Laboratory Medicine and Pathology,
+
+continued next page Page 1 of2
+
+ 
+
+ 
+
+ 
+
+. It has not been cleared or approved by the U.S. Food and Drug Administration, and IS to
+be used as an adjunct to existing clinical and pathological information. This test does not rule out other
+
+chromosome anomalies.
+
+   
+
+Preliminary Frozen Section Consultation:
+Brain, right temporal lobe, excision: Negative for tumor.
+
+Brain, right temporal tumor, excisions #1 and #2: Diffuse glioma, hold for final typing and grading.
+
+Gross Description:
+Right temporal lobe brain (3.4 x 2.3 x 0.8 cm) and right temporal tumor (#1: 4.7 x 3.6 x 1.1 cm, aggregating and
+
+#2: 6.0 x 6.0 x 2.5 cm)
+
+Block Summary:
+Part A: RT TEMPORAL LOBE
+
+1 rttemp lobe
+2 It temp lobe
+3 rt temp lobe
+
+Part B: RT TEMPORAL TISSUE
+
+1 Flt temporal lies
+2 Rt temporal tlss
+
+"it temporal ties
+
+it temporat ties
+5 Fit temporal Else
+6 Fit temporal lies
+7 Fit temporal ties
+8 Fit temporal ties
+9 Fit temporal ties
+
+Part C: RT TEMPORAL TISSUE #2
+1 Flt temporal ties #2
+2 Fit temporal tlse #2
+3 Fit temporai ties #2
+4 Fit temporal tier; #2
+5 Rt temporal lies #2
+6 Fit temporal tiss #2
+7 Fit tempera! lies #2
+8 Rt temporal lies #2
+9 Flt temporal ties #2
+10 Ht temporal ties #2
+
+ 
+
+END OF REPORT Page 2 of 2
+

@@ -1,0 +1,211 @@
+UUID: ADDB7ASE- 7DBF- “68- 93CF- 806C064R11e130a
+TCGA-VQ-A91E-91A- PR
+
+Ill ll||||||||||||||||ll|||||ll|l|||||||IIIIIIIIIIIIIIIIIRIIIIIIIIICIIMl
+||| Illllllll|||l|||||||lllHll|||I|||||lllllllllllIIIIIIIHIIIII
+||| IIIIIIIIIHIII||||||||||||||I||||l|l|| Illlllllllllllllllll
+
+Collect date: '
+
+PATHOLOGY REPORT:
+
+PRIMARY SITE: Stomach (Antrum)
+
+l - Biopsy of the peritoneum from the mesocolon root:
+Absence of neoplasia.
+
+2 — Gallbladder:
+Chronic cholecystitis.
+
+3 — Lymph node from chain 8p:
+Absence of neoplasia: (0/1).
+
+4 - "Part of hepatic segment I II (hepatic margin):
+Absence of neoplasia.
+
+5- Product of gastroduodenectomy, retroperitoneal lymphadenectomy and hepatic
+hilus:
+
+- Adenocarcinoma, characterized by:
+Histologic pattern(s) observed: solid ’ _
+Histologic grade III ~ poorly differentiated 801 7/55, TOM W“ ‘S
+Laure’n’s classiﬁcation: intestinal type I 00 ‘70 W
+Measure of the longest axis of the tumor: 95 cm
+Ulceration: present
+Compromise of adjacent adipose tissue
+Type of tumor invasion: expansive
+Inﬂammatory reaction: moderate
+Proximal margin: uninvolved by neoplasia
+Distal margin: uninvolved by neoplasia
+Neural inﬁltration: present
+
+Lymphatic vascular invasion: not detected aw? Ldeb C) 3
+
+Sangumeous vascular invasmn: not detected WW ,1, Ezhmub
+- Mesenteric lymph nodes in adjacent fat: IQ’L 8144/ 3
+Absence of neoplasia: (0/8)
+
+Lymph nodes from the lesser curvature: WWW/
+
+994/ [3
+Absence of neoplasia: (0/17)
+
+Suﬁ. : Harm (um/we lie ‘3
+Lymph nodes from the greater curvature:
+Absence of neoplasia: (0/4) 9&3 @ I 5,”?!
+
+    
+
+ 
+
+Epiplon:
+Absence of neoplasia. 9M, TSL be dbo ”new ﬁlm
+103% W i‘; {M 7: W
+Pancreas with neoplastic inﬁltration only in the adjacent tissues
+Criteria Ad //}/ﬂ(
+
+     
+ 
+    
+ 
+ 
+ 
+  
+
+Tumor Site
+
+ 
+
+HIPAA
+Prim
+
+ 
+ 
+
+  
+ 
+ 
+
+Case is
+Reviewer
+
+ 
+
+ 
+
+V4.0)
+TCGA Pathologic Diagnosis Discrepancy Form (
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mm The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+C use Quality Central Farm compietedfor the submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site [T85]: , TSS Identiﬁer: TSS Unique Patient Identiﬁer: ~__
+Com Ieted B Inten'ieweri’t’ame on 0 chIinica]: Com leted Date:
+_ Y P
+{Diagnosis Information
+If Data Element EntrywAIternatives Working Instructions
+Provide the diagnosis/ hismiogic subtypeis) documented on
+Parhoiogic DEZWI‘IOSES :, . , .. .. the initial pathology report tor ahis case. If the histology for
+1 Provided (m “ﬁlial W this case is mixed, provide all listed subtypes,
+Pathology Report
+. y . ‘ s .: Primes the histologic features selected on the TCGA Case
+ii: 2 :12: listing??? [00% Tubular Quality Control Form completed for this case.
+2 , - ‘
+for'l CGA, as reﬂected
+on the CQCF.
+iniscrepancy between Pathology Report and Case Quality Control Form 1
+3 Provide the magi) n for 1‘ . ’ ‘ ‘ . Provide a reason describing why the diagnosis on the initial
+the (I mmpamy ( me was reviewed based on lop Mule to bi: pathology report for this case is not Consistent with the
+" ' i A g I diagnosis selected an the TCGA Case Quality Control Form.
+between the pathology 5““ ‘0 ISCR “
+
+report and the 'i'iTIIA
+Case Quality Control
+
+ 
+
+Form.
+Name Of TSS Rem GWli’l-g Provide the name of the pathoiogist who reviewed this'caw
+4 Pathologist or ,, iorTCGA.
+
+ 
+
+ 
+
+ 
+
+B iorepository i) i recto r
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge (MEI the above information provided by my institution is true and correct and has been quality controlled.
+
+ 
+
+“I‘SS Reviewing radiologist or Biorepository‘ Director Date
+
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled The Attending Pathologist or the
+Uepurtmem Chairman has been informed or is aware of the above discrepancy in diagnoses.
+
+Principal investigator/Simian re Date" 7,
+
+ 
+

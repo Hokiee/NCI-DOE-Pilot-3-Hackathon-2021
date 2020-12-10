@@ -1,0 +1,388 @@
+ 
+
+RUN DATE:
+RUN TIME:
+RUN USER:
+
+ 
+
+ 
+
+PAGE 1
+
+ 
+
+UUID:F46AED6F-1C25-4CEB-ADA2- 753012733953
+
+TCGA-XS-A973-81A- PR
+
+ 
+
+||| ||||III||||IIIII IIIIIII I||I||||
+IIIIIIIIIIIIIIIIIIIII III
+
+II IIII IIIIIIIIIIIIIIIIIIIIIIE
+IIIIIIIIII IIIIII II IIII II “III II III
+
+ 
+
+SPEC #:
+
+RECV:
+
+STATUS:
+
+ 
+
+STATUS ﬁx:
+
+1
+
+ 
+
+ACTIVITY DATE
+
+ 
+
+ 
+
+0. /
+
+SJ:
+
+3121...
+
+RECORD
+
+ 
+
+   
+
+gé‘ EMS/(Ll LLt-F‘WLE-LL-x Q48 (‘3.
+IIIIIZEMT/ mgi’ﬂuzaa. (34/5
+
+(0% \5/I‘7/i‘}
+
+STATUS USER
+SENT
+
+REQ #: IIIIIIII
+
+SPEC: SUBM DR:
+0RD LOC TYPE: SURG PATH ASSN To:
+“‘ PT AGE AT REcv:
+ENTERED: ENT BY: OTHR DR:
+DEPT: RECV BY:
+LAST RPTD:
+LAST ACT:
+TAT HRS:
+SLIDES:
+ORDERED: G&M Level 3, G&M Level 6
+DELETED: NO CHARGE -
+0RD SITE: TRANSIT SITE:
+RCV SITE:
+PERFORM SITE: AT SITE:
+
+1212) C3 53
+RPT AUDIT= OQWWML. ITIIMLEL/J _j(<,
+' jLi/uﬁi‘ﬁﬂ}; aﬁwa ’ 866 3
+50533,:(7 (IthI/I‘I / ,
+
+ 
+
+ 
+
+Continued on next page .
+
+ 
+
+RUN DATE:
+RUN TIME:
+RUN USER:
+
+PAGE 2
+
+ 
+
+ 
+
+ 
+
+2 SENT
+3 SENT
+
+ 
+
+4 “‘ ""III”“"V SENT-II”
+
+ 
+
+CODES: TY6000 — Pelvis
+T11340IT11341 — Ilium
+Edited by:
+
+PROCEDURES: G&M Level 3
+G&M Level 6
+Edited by:
+
+TISSUES:
+
+A. BODE, ilium - RIGHT EXTERNAL ILIAC TISSUE
+
+B. pelvis - RADICAL RESECTION - RIGHT PELVIC SARCOMA
+Edited by:
+
+ 
+
+CLINICAL INFORMATION
+
+Suspected Diagnosis: Sarcoma
+Clinical Information: Unlisted
+Collected by:
+
+Other/Special Requests: -
+Edited by:
+
+GROSS DESCRIPTION
+
+A. Received in formalin, designated as "right external iliac tissue," are two
+segments of pink and yellow soft tissue aggregating to 3.5 x 1.3 x 0.8 cm. Each
+tissue segment is bisected and entirely submitted in cassettes Al—A2.
+
+B. Received without fixative, designated as "radical resection right pelvic
+sarcoma," is a 15 x 12 x 9.5 cm soft tissue mass. The outer surface is partially
+covered by fatty soft tissue and skeletal muscle. The outer surface is inked blue.
+The specimen is sectioned revealing an ill—defined 14.7 x 9 x 9 cm tumor with fleshy
+pink—tan cut surfaces. Central areas of necrosis and cystic regions are present on
+cut surface. Tissue is collected for cytogenetic analysis. Tissue is forwarded for
+Additionally, representative sections are submitted in cassettes Bl—Blo.
+
+Edited by:
+
+ 
+
+ 
+
+ 
+
+Continued on next page ...
+
+ 
+
+RUN DATE:
+
+RUN TIME:
+RUN USER:
+
+PAGE 3
+
+ 
+
+ 
+
+ 
+
+ICD 9 DATA CAPTURE
+
+ICD-S 171.6 77 Modifier
+
+ 
+
+Discrepancy CODER
+
+Entry Date Review by Review Date
+Edited by:
+
+ 
+
+MICROSCOPIC DESCRIPTION
+
+Slides were examined microscopically and the diagnosis for each specimen
+incorporates the pathologist’s interpretation.
+Edited by:
+
+ 
+
+DIAGNOSIS
+
+A. SOFT TISSUE, RIGHT EXTERNAL ILIUM (BIOPSY):
+- BENIGN FIBROADIPOSE TISSUE. ‘
+- NO MALIGNANCY SEEN.
+
+B. SOFT TISSUE, RIGHT PELVIS (RADICAL RESECTION):
+- PLEOMORPHIC UNDIFFERENTIATED SARCOMA (MFR). HIGH GRADE. SEE SYNOPTIC REPORT.
+
+SYNOPTIC REPORT:
+
+Procedure:
+Radical resection
+Tumor‘site:
+
+Specify (if known): RIGHT PELVIS
+Tumor Size:
+Greatest dimension: 14.7 cm
+Macroscopic Extent of Tumor:
+Deep
+Histologic Type (World Health Organization [WHO] classification of soft tissue
+tumors):
+
+Specify: PLEOMORPHIC UNDIFFERENTIATED SARCOMA, HIGH GRADE
+Mitotic Rate:
+
+Specify: > 5 /10 high-power fields (HPF)
+Necrosis:
+Present
+
+Extent: 20% -
+Histologic Grade (French Federation of Cancer Centers Sarcoma Group [FNCLCCII (Note
+D):
+Grade 3
+Margins:
+Margins negative for sarcoma
+
+Distance of sarcoma from closest margin: 0.1 cm
+
+Specify margin: CAPSULAR
+Lymph-Vascular Invasion:
+
+ 
+
+ 
+
+ 
+
+Continued on next page
+
+ 
+
+RUN DATE:
+RUN TIME:
+RUN USER:
+
+PAGE 4
+
+ 
+
+ 
+
+ 
+
+DIAGNOSIS (Continued)
+
+Not identified
+Pathologic Staging (pTNM):
+Primary Tumor: (pT)
+
+ 
+
+ 
+
+pTZb: Tumor more than 5 cm in greatest dimension, deep tumor
+Regional Lymph Nodes: (pN)
+
+pNX: Regional lymph nodes cannot be assessed
+
+Distant Metastasis (pM)
+
+Not applicable
+
+Review/Concur: This case was signed out by
+
+this case and agrees with the above interpretation.
+Edited by:
+
+has also reviewed
+
+9A CODES/COMPLIANCE
+
+   
+
+. Edited by:
+RESIDENT ASSIGNED
+
+NONE
+Edited by:
+
+ 
+
+SU?PLEMENTA:Y REPORT
+
+Addendum #1 Entered:
+
+Cytogenetics (_ results performed and interpreted at are as follows:
+
+RESULTS
+
+STAINING TECHNIQUES: NONE
+
+# CELLS COUNTED: O
+
+# CELLS ANALYZED: O
+
+# CELLS KARYOTYPED: 0
+
+RESULTS: SPECIMEN DID NOT GROW
+INTERPRETATION
+
+This specimen did not grow.
+Reason for no growth: No metaphases were seen.
+
+The Class I analyte-specific reagents used in some of the Immunohistochemistry tests
+
+ 
+
+ 
+
+Continued on next page
+
+ 
+
+RUN DATE:
+RUN TIME:
+RUN USER:
+
+PAGE 5
+
+ 
+
+ 
+
+ 
+
+   
+
+SUPPLEMENTARY REPORT (Continued)
+
+reported were developed and their performance characteristics determined by
+
+They have not been
+cleared or approved by the U.S. Food and Drug Administration. The FDA has
+
+ 
+
+Wdetermined that such clearance or approval is not necessary.
+
+Addendum Final:
+Edited by:
+
+Final:
+SIGN OUT AUDIT ‘ DATE g_ TYPE 2 ADDZPARC SEC ACTION ENTERED-BY DATE
+. ADD
+ADD
+
+ 
+
+TI
+
+ 
+
+*** End of Report ***
+
+Initials
+
+ 
+
+ 
+
+ 
+

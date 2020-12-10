@@ -1,0 +1,480 @@
+iI
+
+Surgical Pathology Report ’
+
+ 
+
+Name: “ Case #: ‘
+DOB: “ ' Collected:
+
+Gender: F Received:
+
+MRN: # Reported:
+
+Location: _ Copy To:
+
+Physician:
+
+ 
+
+ 
+
+Pathologlc lnterpmtgtion:
+
+C.
+
+E.
+
+F.
+
+LEFT BREAST SENTINEL NODE # 1 (COUNT
+- One lymph node negative for carcinoma (011), (see note). / CA ' 4 ' 3
+
+- ‘ ‘ " IDW 35'.» 3
+RIGHT BREAST SENTINEL nooE II 1. (COUNT (WW. inf/MM; 7 , ~95 /
+- One lymph node negative for carcinoma (0/1). (see note). (9%,, . W Am; C 5'0. 7’ é/P/l/ W
+
+RIGHT BREAST SENTINEL none I! 2, (COUNT ’
+- one ”mph "m "0983‘” for cardmma (0"). (so. "Ole,- UUID: DSZCABBE- -BD7E- 41E5- 4:9“?- 9EDO7E94E5Ce4da
+RIGHT BREAST SENTINEL MODE Ir 3. (coum “A“ ' “"13”“
+
+- One lymph node negative for carcinoma (on). (see note). I I I I IIIIIIIIIIII II IIIIIIIIIIIII IIIIIIIIIIIIIIIIIIIIII III I
+
+II III I I
+
+I IIIIIIIII IIIIIIIIIIIIIIlIIl IllIIIlllIIIII IIIIIIIIIIII IIIIIIIII
+
+RIcI-IT BREAST SENTINEL MODE II 4, Icoum III IIII I||| ||||
+- One lymph node negative for carcinoma (0/1). (see note).
+
+~ WINVASIVE LOBULAR CARCINOMA. moderately differentiated (see note)
+
+- Invasive carcinoma is present at least 0.3 cm from the nearest resection margin (slide F3).
+- Invasive carcinoma extensively involves the nipple and dermis.
+
+- No In situ carcinoma is identiﬁed.
+
+— No definitive lymphovascular invasion ls seen.
+
+- Microcalciﬂcations are present and associated with normal breast parenchyma.
+
+- AJCC staging. PT3 N0 (sh) Mx. Please see tumor summary.
+
+ted
+
+C
+III
+
+Note: The' Invasive carcinoma measures 4. 5 cm by gross measurement. However. based on adjacent sections in slides
+F9 through F12 the microscopic. measurement of tumor size is estimated as at least 6.1 cm. Receptor studies were
+reported previously I .Keratin stains on the lymph nodes will be reported In an addendum
+
+R_,!jI BREAST MASTECTOMY:
+
+- INVASIVE DUCTAL CARCINOMA. moderately differentiated. Nottingham grade 2 (3+3+1). measuring at least 1.1 cm in
+
+greatest dimension (slide 615). Two additional' Invasive loci each measuring 0 4 cm are found' "1 slides G12 and 617.
+- No Iyrnphovascular invasion is seen.
+
+- DUCTAL CARCINOMA IN SITU. high nuclear grade solid on cribrlform type. With central camedo necrosis and
+celeiMetions ls present In 10 of 17 blocks (EIC positive). located more than 1.0 cm from nearest margin.
+- AJCC staging PT1c N0(sh) Mx. See tumor summary.
+
+Note: Hormone receptor studies and keratin stains on the lymph nodes will be reported in an addendum.
+
+LEFT BREAST ADDITIONAL SUPERIOR SKIN:
+- Skin and benign breast parenchyma.
+
+LEFT BREAST ADDITIONAL MEDIAL SKIN:
+- Skin and benign breast parenchyma.
+
+TUMOR SUMMARY
+INVASI C :
+
+Specimen: Total breast (including nipple and skin)
+
+Procedure: Total mastectomy (including nipple and skin)
+
+Lymph Node Sampling: Sentinel lymph node(s)
+
+Specimen Integrity: Multiple designated specimens (eg. main excision and identiﬁed margins)
+
+Specimen Laterallty: Left
+Tumor Focallty: Single focus of invasive carcinoma
+
+ 
+
+“I suaoicu. PATHOL ReLort “
+
+Macroscopic and Microscopic Extent of Tumor .
+
+Skin: invasive carcinoma directly invades into the dermis or epidemic without skin ulceration
+Histologlc Type of invasive Carcinoma: lNVASlVE LOBULAR CARCINOMA
+
+Histologlc Grade: Nottingham Histologic ScoreIOverall Grade= 2 (scores of 6 or 7)
+Margins: Margins uninvolved by invasive carcinoma
+
+Lymph-Vascular Invasion: Not identiﬁed
+
+Dermal Lymph-Vascular Invasion: Not identified
+
+Lymph Nodes (required only If lymph nodes are present in the specimen)
+
+Number of sentinel lymph nodes examined: 1
+
+Total number of lymph nodes examined (sentinel and nonsentlnel): 1
+
+Number of lymph nodes with macnometastases (>0.2 cm): 0
+
+Number of lymph nodes with mlcrometastases (>02 mm to 0.2 cm and/or >200 ceile):0
+Number of lymph nodes with isolated tumor cells (50.2 mm and 5200 cells): 0
+
+Pathologic Staging (based on information available to the pathologist) (pTNM) (Note M)
+pT3: Tumor >50 mm in greatest dimension
+
+Regional Lymph Nodes (pN)
+
+000900! (PH)
+
+pNO: Ne regional lymph node metastasis identiﬁed histologically
+Note: isolated tumor cell (lTC) clusters are deﬁned as small clusters of cells not greater than 0.2 mm or single
+tumor cells. Or a cluster of fewer than 200 cells in a single histologlc cross-section.‘ lTCs may be detected by
+routine histology or by lmmunohlstochemical (Il-lC) methods. Nodes containing only lTCs are excluded from
+the total positive node count for purposes of N classiﬁcation but should be included in the total numberof
+nodes evaluated.
+
+Modiﬁer
+
+(en): Only sentinel node(s) evaluated. If 6 or more sentinel nodes and/or nonsentinel nodes are mmoved. this modlier
+
+should not be used. r
+
+Distant Metastasis (M) : Not applicable
+Ancillary Studies
+
+W
+Performed on another specimen:
+Results: lmmunoreactive tumor cells present (21%)
+
+W
+Perforated on another specimen:
+Results: Immunoreactlve tumor present (21%)
+
+Perfumed on another specimen:
+Results: Negative (Score 0)
+
+Microcalcllicatlons: Present in non-neoplastic tissue
+
+I N i OF
+
+Specimen : Total breast (including nipple and skin)
+
+Procedure : Total mastectomy (including nipple and skin)
+
+Lymph Node Sampling: Sentinel lymph node(s)
+
+Specimen Integrity: Single Intact specimen (margins can be evaluated)
+Specimen Latsrallty: Right
+
+Tumor Focellty: Multiple fool of Invasive carcinoma
+Number of tool: 3
+Sizes of individual foci: 1.1 cm, 0.4 cm. 0.4 cm
+
+ 
+
+en's- , ’. c— I made
+
+ 
+
+‘ ” SURGICAL PATHOL Report Q__
+
+Macroscopic and Microscopic Extent of Tumor
+
+Skin: Invasive carcinoma does not invade into the derrnls or epidermis
+
+Nipple: DCIS does not involve the nipple epidemic
+
+Skeletd muscle: No skeletal muscle present
+
+Ductal carcinoma In situ (DCIS): DCIS is present, EIC positive
+
+Size of (Extent) of DCIS
+
+Number of blocks with DCIS: 10
+
+Number of blocks examined: 17
+
+Architectural Patterns: Comedo, Cribrlform. Solid
+
+Nuclear Grade: Grade Ill (high)
+
+Necrosis: Present. central (expansive ‘comedo‘ necrosis)
+
+Lobular Carcinoma In Situ (LCIS): Not identified
+
+Histologlc Type of invasive Carcinoma: INVASIVE DUCT AL CARCINOMA (no special type or otherwise specified)
+Histologlc Grade: Nottingham Histologic Score
+
+Tubules: Score 3: <10% of tumor area forming glandular/tubular structures
+
+Nuclear Pleomorphlsm: Score 3: Vesicular nuclei. often with prominent nucleoli. exhibiting marked variation in size and shape.
+occasionally with very large and bizarre forms
+
+Mitotic Count: Score 1
+
+Overall Grade: Grade 2 (scores of 6 or 7)
+
+Margins : Margins uninvolved by invasive carcinoma and DCIS
+
+Treatment Effect: Response to Presurglcal (Neoadluvant) Therapy: No known presurglcal therapy
+Lymph-Vascular Invasion: Not identiﬁed
+
+Dermal Lymph-Vascular lnvasion:_ Not identified
+
+Lymph Nodes (required only If lymph nodes are present in the specimen)
+
+Number of sentinel lymph nodes examined: 4
+
+Total number of lymph nodes examined (sentinel and nonsentinel): 4
+
+Number of lymph nodes with macromelastases (>01 cm): 0
+
+Number of lymph nodes with mlcrometastases (>02 mm to 0.2 cm and/or >200 cells):0
+
+Number of lymph nodes with isolated tumor cells (50.2 mm and 5200 cells): 0
+
+Extranodal Extension: Not identified
+
+Method of Evaluation of Sentinel Lymph Nodes; Hematoxylln and eosin (HSE). one level and lmmunohistochemlstry
+Pathologic Staging (based on information available to the pathologist) (pTNM) (Note M)
+
+pT1c: Tumor >10 mm bdt"‘<20mm In greatest dimension
+Regional Lymph Nodes (pN)
+
+Cat-M (PNI
+
+pNO: No regional lymph node metastasis Identified histologically
+
+Note: Isolated tumor cell (ITC) clusters are defined as small clusters of cells not greater than 0.2 mm or single
+tumor cells. or a cluster of fewer than'200 cells In a single histologic cI'¢:Iss-seI::tion.‘I lTCs may be detected by
+routine histology or by immunohistochemlcal (ll-IC) methods. Nodes containing only lTCs are excluded from
+the total positive node count for purposes of N classification but should be included in the total number of
+nodes evaluated.
+
+Modifier (an): Only sentinel node(s) evaluated. If 6 or more sentinel nodes and/or nonsentinel nodes are removed. this
+modifier should not be used.
+Distant Metastasis (M): Not applicable
+
+Ancillary Studies
+
+Estrogen Receptor: Pending
+
+Progesterone Receptor : Pending
+
+HER: Immunoperoxldaaa Studies: Pending
+
+Microcalclflcatlons:
+- Present In DCIS
+
+N0":Se~fanmehbruhsalaelasﬂbodiummbnapec(ﬂcnwmﬂu vallderedbyearfoborow.nmdﬂ.rm lief raj-Item bards reg-m Aw.1'haueluar -
+IDs-El. Pg! (Jo-Pk. Alli-Nu}. ﬂ-II-EGFI. All Mischa-feel traits an read Mia's-lei «MM. W I m FD I m “I
+
+ 
+
+" a” Manubmlonisbyﬁnvmonﬂddﬂswiuenmdoys
+A: the attending pathologist, I arrest that I: (i) Examined the relevant preparation“)
+for the speculum,- and (ii) Rendered the diagnosisks).
+
+- ‘- ~
+
+Page3of6
+
+ 
+
+11—; suneIcAL mum «won a...
+
+"'Electronically Signed Out By'“
+
+ProcedureslAddenda
+Addendum Date Ordered: Status: Signed Out
+Date Complete: “
+Date Reported:
+en um i no
+
+A. Left Breast Sentinel Lymph Node # 1 (count
+- Negative for keratin staining cells.
+
+B. Right Breast Sentinel Lymph Node # 1 (count
+- Negative for keratin staining cells.
+
+C. Right Breast Sentinel Lymph Node # 2, (count
+- Negative for keratin staining cells.
+
+D. Right Breast sentinel node # 3, (count
+- Negative for keratin staining cells.
+
+E. Right Breast sentinel node # 4. (count :
+- Negative for keratin staining cells.
+
+G. Right Breast Mastectomy:
+- The tumor cells are positive for ER and HERZINeu (3+) and negative for PR.
+
+When
+A. Sentinel node # 1 count on left breast. FS: Lymph node. no carcinoma seen.
+B. Right breast sentinel node # 2. count , F S: Negative for earclnoma.
+
+C. Right breast sentinel node # 3. count . F S: Negative for carcinoma.
+D. Right breast sentinel node # 3. count FS: Negative for carcinoma.
+E. Right breast sentinel node it 4. count ’ FS: Negative for carcinoma.
+
+   
+
+Cilg l Histgry:
+
+Left breast biopsy - invasive lobular carcinoma with direct skin involvement 4.5 cm mass left breast anterior depth central to nipple.
+4.5 cm biopsy marking clip in upper outer quadrant (calcification) and one in posterior depth in superior lateral quadrant.
+
+O
+Bilateral mastectomy with sentinel node biopsy. possible axillary
+
+ 
+
+tive
+None Previded
+
+ 
+
+I- I. - mums
+
+. g SURGICAL PATHOL Report g__
+
+Specimen(s) Received:
+
+A: Sentinel node it 1 count ‘ on left breast. FS
+B: Right breast sentinel node it 2. ocunt F S
+C: Right breast sentinel node it 3. count a FS
+D: Right breast sentinel node it 3. count F S
+E: Right breast sentinel node fl 4. count. ., Fs
+F: Left breast
+
+G: Right breast
+
+H: Additional superior skin left breast
+l'. Left breast additional medial skin
+
+G
+A.
+
+ﬂ -—»._.
+
+De ti n-
+
+Received in formalin are four separate tissues. Submitted for frozen section.
+
+The first is one fragment of rubbery. brown-tan tissue that measures 1.5 x 1.0 x 0.3 cm. Submitted in late in cassette
+A1 F8.
+
+The second is one fragment of brown-tan rubbery tissue, measuring 2.0 x 1.1 x 0.3 cm. Submitted in toto cassette
+A2Fs.
+
+The third is one fragment of rubbery brOWn-tan tissue that measures 1.8 x 1.5 x 0.3 cm. Submitted in into in cassette
+A3F S.
+
+The fourth is one fragment of rubbery brown-tan tissue that measures 2.2 x 1.5 x 0.3 cm. Submitted in lots in cassette
+A4Fs.
+
+Received in formalin are two fragments of rubbery brown-tan tissue that measures 2.5 x 2.0 x 0.3 cm in aggregate.
+Submitted in toto in cassette B1FS.
+
+Received in formalin is one fragment of rubbery brown-tan tissue that measures 2.9 x 2.9 x 0.3 cm. The Esaue is
+submitted in toto in cassette C1 FS.
+
+Received in formalin is one fragment of brown-tan tissue that measures 2.2 x 0.6 x 0.3 cm. Submitted in late in cassette
+D1Fs.
+
+Received in formalin is one fragment of tan-yellow tissue, measuring 2.5 x 1.4 x 0.3 cm. Submitted in toto in cassette
+E1 Fs.
+
+Received in formalin is a 420 gram left partial mastectomy specimen (17.5 x 15.0 x 5.5 cm) with a white-tan skin ellipse
+(12.2 x 7.0 cm). The nipple measures 1.5 cm in diameter. the oracle measures 3.5 cm in diameter. The specimen
+resection margins have previously being inked black. The specimen has been previously out. There is a 4.5 x 3.5 x 2.5
+cm irregular firm. grey-tan poorly circumscribed mass located centrally in the specimen posterior to the nipple. This mass
+lies within 4.0 cm of the deep resection margin. 0.8 cm of the superior resection margin. 5.5 cm of the lateral resection
+margin, 2.0 cm of the medial resection margin and 2.0 cm horn the Inferior resection margin. This mass appears to
+grossly invade the nipple and skin. The mass also appears to contain minute amounts of hemorrhage and necrosis.
+There is a 1.5 x 1 .5 x 0.8 cm irregular white smoothly lobulated mass with a rubbery. firm consistency located 1.5 cm from
+the lateral resection margin and 0.1 cm from the deep resection margin. No additional lesions are seen. The remainder
+
+of the breast parenchyma consists of grossly unremarkable adipose tissue with dense white fibrous stroma. Sections
+submitted as follows:
+
+1 Nipple
+
+2&3 Superior margin with skin
+4 interior margin with skin
+5 Deep margin
+
+8 Medial margin
+
+7&8 Breast parenchyma adiacent to 4.5 cm mass
+9-12 Composite section of 4.5 cm mass
+
+13 Mass with necrosis
+
+14-17 Additional sections of 4.5 cm mass
+
+18 1.5 cm above described mass
+
+198120 Unremarkable breast tissue
+
+ 
+
+Page 5 of 6
+
+ 
+
+tale-4!; SURGICAL mm Report -._____.
+
+G. Received in formalin is a 420 gram right simple mastectomy specimen (15.5 x 15.0 x 4.5 cm) with a white-tan skin ellipse
+(11.5 x 9.0 cm). The nipple measures 1.7 cm in diameter and the areola measures 5.0 cm in diameter. The surgical
+resection margins have been previously inked black. The specimen has been previously out. There is a 3.5 x 3.0 x 1.0
+cm firm. grey-tan mass with areas of calciﬁcation and hemorrhage. located in the upper outer quadrant as well as the
+lower outer quadrant. This mass lies within 1 mm of the nearest resection margin. No additional lesions are seen. The
+
+remainder of the breast parenchyma is dense-white fibrous stroma with unremarkable adipose tissue. Sections submitted
+as follows:
+
+Nipple
+
+Skin
+
+Lower outer quadrant
+
+Upper outer quadrant
+
+Lower inner quadrant
+
+Upper inner quadrant
+
+Deep margin
+
+8-11 Mass with nearest resection margin
+12—1 7 Representative sections of mass
+
+Nam-5970‘
+
+H. Received in formalin is a fragment of skin with attached adipose tissue. measuring 14.0 x 1.5 cm. The skin is tan-white
+and rubbery. No lesions are grossly noted. The specimen is unoriented. Tissue submitted in toto in two cassettes H1-
+H7.
+
+l. Received in formalin is an unoriented portion of white-tan skin with attached adipose tissue, measuring 6.5 x 3.0 x 2.5 cm.
+No lesions are grossly appreciated. Submitted in toto in two cassettes A1 -A13.
+
+ 
+
+ 
+
+ 
+
+. "‘“‘ E u— " we...
+

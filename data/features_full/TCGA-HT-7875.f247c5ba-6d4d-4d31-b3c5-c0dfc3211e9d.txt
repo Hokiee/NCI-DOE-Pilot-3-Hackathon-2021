@@ -1,0 +1,18 @@
+Tumor Identifier:
+Normal Identifier:
+
+Microscopic Description:
+
+Sections demonstrate a mildly to moderately hypercellular glial neoplasm composed of
+cells with round mildly enlarged nuclei and prominent perinuclear halos. The tumor
+diffusely infiltrates both gray and white matter. No mitotic figures are identified in 25
+high-power fields examined. Neither microvascular proliferation nor necrosis are present.
+
+Addendum Discussion:
+A few scattered M[B-1 reactive cells are present. The labeling index is 1.1%, indicative a
+modestly proliferative neoplasm and consistent with the low grade histologic features.
+
+Diagnosis:
+Low-grade Oligiodendroglioma (who grade II)
+MIB-l Labeling Index: 1.2%
+

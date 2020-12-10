@@ -1,0 +1,28 @@
+TSS Name=—
+
+Tss Identifier-
+TSS Unique Patient #:-
+
+Pathology Report-Summary:
+
+Material:
+Lung, left, upper lobe: 21.5 x 16.5 x 4.5 cm
+
+Tumor: 3.5 x 3.0 x 4.5 cm
+
+Diagnosis:
+Squamous Cell Carcinoma, mostly basaloid
+
+pT2a, pNO (0/35), pr, G3
+
+Supplementary examinations:
+IHC:
+Tumor positiv for p63, CK5/6, some cells for CK14.
+
+Tumor cells negative for: CD56, Chromogranin A, SPA, synaptophysin, TTF1.
+Proliferation rate: 40 — 60%
+
+Pathologist: _
+
+Signature: Date:
+

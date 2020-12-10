@@ -1,0 +1,44 @@
+.TCGA-41-2572
+
+(GBM)
+
+SPECIMEN
+A. Left occipital tumor biopsy
+B. Left occipital tumor
+C. Left occipital tumor
+
+CLINICAL NOTES
+
+FROZEN SECTION DIAGNOSIS
+A“ Brain, left occipital tumor, biopsy: Glioblastoma multiforme.
+
+GROSS DESCRIPTION
+A. Specimen is received unfixed labeled ”left occipital
+tumor biopsy FS" and consists of multiple pieces of red
+
+and
+brown soft tissue measuring 1.2 cm in greatest aggregate dimension.
+
+B. Specimen is received in formalin labeled "left
+occipital tumor" and consists of multiple pieces of tan
+and
+
+red soft tissue, measuring 2.2 x 1.9 x 0.3 cm in a re ate. AS—B
+C. Specimen was received fresh by“ and was
+taken for research purposes. Specimen C was a piece of
+
+red
+soft tissue measuring approximately 1.5 cm in greatest dimension.
+
+MICROSCOPIC DESCRIPTION
+Sections show a hypercellular glioma with mitotic figures,
+some new vessel formation and areas of necrosis. The
+histologic features are those of glioblastoma multiforme.
+
+3X2, 8, 14
+
+DIAGNOSIS
+A, B. Brain, left occipital tumor, biopsy: Glioblastoma
+
+multiforme.
+

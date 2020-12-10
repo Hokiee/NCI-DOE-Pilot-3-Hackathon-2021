@@ -1,0 +1,28 @@
+- Pathology Report
+
+Microscopic Description:
+
+Microscopic examination reveals an infiltrating glioma. Many of the tumor cells
+demonstrate elongated to oval nuclei with moderate nuclear pleomorphism. Intermixed
+amongst these cells and seen separately in small clusters, are neoplastic cells with
+predominantly round nuclei and an apparent paucity of fibrillary processes. Overall,
+cytologic atypia appears moderate with scattered cells showing more significant atypia.
+The tumor cells are embedded in a variably fibrillary and myxoid background. In areas,
+the cells are arranged in distinct cellular nests with foci of prominent clustering around
+blood vessels. Neither necrosis nor microvascular proliferation are seen. Up to four
+mitotic figures per 10 high power fields are counted.
+
+Addendum Discussion:
+
+The tumor cells are negative for expression of synaptophysin. They demonstrate strong
+positivity for GFAP. The calculated MIB-l Labeling Index is 10.7%. Overall, the
+histologic features in conjunction with the MIB-l Labeling index are consistent with a
+high grade glioma.
+
+Addendum Diagnosis:
+
+Right Frontal Brain Tumor, Biopsy and Resection:
+
+Anaplastic Oligoastrocytoma, Oligodendroglial predominant (Who Grade III)
+MIB-l Labeling Index = 10.7%
+

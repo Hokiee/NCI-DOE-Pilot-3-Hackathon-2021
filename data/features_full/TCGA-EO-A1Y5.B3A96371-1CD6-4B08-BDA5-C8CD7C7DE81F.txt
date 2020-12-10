@@ -1,0 +1,242 @@
+ 
+
+,_ """" LABORATORY MEDICINE PROGRAM
+
+/¢A«0~3 ,
+CWW Wm), N05 WW] 3
+
+$.-rL-. WM 65““
+
+ 
+
+ 
+
+ 
+
+ 
+
+3Iu/u W
+Surgical Pathology Consultation Report 7
+* Addended *
+Patient
+Name: Accession #:
+MRN: Service: Collected:
+DOB: Visit #2 Received:
+Gender: Location: Reported:
+HCN: Facility:
+Ordering
+MD:
+Copy To:
+8 ecimen 3 Received
+1. Lymph-Node: Pre-Caval Lymph Node
+2. Uterus: Uterus, cervix & 880
+3. Omentum
+4. Lymph node: RT. Common & external iliac lymph node
+Diagnosis
+1. Pre-caval lymph nodes
+- Metastatic serous carcinoma in one lymph node. (1/1)
+2. "Uterus, cervix, bilateral fallopian tubes and ovaries, robotic-assisted total hysterectomy, bilateral
+salpingo-oophorectomy:
+Endometrium:
+-SEBQUS CARCEQMA.
+‘f ‘ . UUID:83A96371-1CD6-4BeB-BDAS.
+Myometrium. ‘ . TCGA'EO‘A1Y5-91A-pR C8CD7C7DE81F
+- Involved by serous carcmoma to uterine serosa . ll” Illllwllﬁl'i#IHIIWI'mW""m'mmm'”,”"ﬁﬁﬁmutw
+Cervix: Illl I ill I llHlllill ll illlilllll lil
+_ Serous carcinoma, present in lymphatic/vascular spaces iii illilliliillliilliilliliIlllllllHllllllHlililillilili Illil
+
+Right & left ovaries:
+- Serous carcinoma, present in lymphatic/vascular spaces
+- Epithelial inclusion cysts. at...“
+
+Right & left fallopian tubes:
+- Serous carcinoma, present in lymphatic/vascular spaces
+
+ 
+
+3. Omentum, partial omentectomy:
+- Negative for malignancy.
+
+4. Right common and external iliac lymph nodes:
+- Metastatic serous carcinoma in 8 out 17. (8/17)
+
+S no tic Data
+
+by:
+
+Specimen:
+
+Procedure:
+
+Lymph Node Sampling:
+Specimen integrity:
+Tumor Site:
+
+Tumor Size:
+
+Histologic Type:
+Histologic Grade:
+Myometrial Invasion:
+
+involvement of Cervix:
+
+Uterine corpus
+Cervix
+Right ovary
+Left ovary
+Right fallopian tube
+Left fallopian tube
+Omentum
+Simple hysterectomy
+Bilateral salpingo—oophorectomy
+Omentectomy
+
+Performed: Pelvic lymph nodes
+intact hysterectomy specimen
+Other: both sides
+Greatest dimension: 2 cm
+Serous adenocarcinoma
+G3: Poorly differentiated
+Present
+Depth of invasion: 10 mm
+Myometrial thickness: 10 mm
+Not involved
+
+Extent of Involvement of Other Organs:
+
+Lymph—Vascular Invasion:
+TNM Descriptors:
+Primary Tumor (pT):
+
+Regional Lymph Nodes (pN):
+
+Distant Metastasis (pM):
+
+Additional Pathologic Findings:
+
+Right ovary not involved
+Left ovary not involved
+Right fallopian tube not involved
+Left fallopian tube not involved
+Omentum not involved
+Present
+Not applicable
+pT3a (lllA): Tumor involves serosa and/or adnexa (direct extension or
+metastasis)
+pN1 (lllC2): Regional lymph node metastasis to para-aortic
+lymph nodes, with or without positive pelvic lymph nodes
+Pelvic lymph nodes examined: 17
+Pelvic lymph nodes involved: 8
+Para-aortic lymph nodes examined: 1
+Para—aortic lymph nodes involved: 1
+Not applicable
+None identified
+
+ 
+
+Electronically veriﬁed
+
+ 
+
+ 
+
+Clinical Histom
+Endo Ca
+
+Gross Descri tion
+
+1. The specimen container is labeled with the patient's name and as "Lymph Node: Precaval lymph node"
+consists of a piece of tissue measuring 1.5 x 1.1 x 0.5 cm received fresh. This is examined at
+intraoperative consultation by frozen section performed on part of the specimen. The specimen is
+submitted in toto as follows
+
+1A- frozen section block resubmitted.
+
+1B-1D— remainder of the specimen.
+
+ 
+
+2. The specimen container is labeled with the patient's name and as “Uterus: Uterus. cervix and B80"
+contains a uterus, cervix, bilateral fallopian tube and bilateral ovaries received in 10% buffered
+formalin.The uterus measures 8.0 cm Si x 5.7 cm ML x 3.0 cm AP and the cervix measures 2.9 cm. in
+diameter with a 0.9 cm slit~shaped 0s. The right and left fallopian tubes measures 7.5 cm in length and
+0.7 cm in diameter and 3.5 cm in length and 0.7 cm in diameter respectively. The right and left ovaries
+measure 2.4 x 1.4 x 0.7 cm and 2.5 x 1.2 x 1.0 cm respectively. The entire specimen weighs 102.8 g.
+The cut surface of the right and left ovaries are solid in consistency with a yellow-tan to gray-tan
+appearance otherwise grossly unremarkable. The left fallopian tube grossly appears ﬁmbriated but the
+right fallopian tube has no identiﬁable fimbria. The endocervical mucosa and ectocervical mucosa is
+congested but otherwise grossly unremakable. There is a polypoid tan-brown endometrial tumor mass
+noted on the anterior left side cornual area measuring 2.0 x 1.8 x 1.0 cm in depth. The remainder of the
+endometrium is ﬂattened, lush and slightly nodular. The uterine serosa is congested, with fibrous
+adhesions and an area on the posterior serosa which is nodular measuring 1.8 x 1.0 cm. Representative
+sections are submitted as follows:
+
+2A-28- remainder of right ovary submitted in toto.
+
+2C-ZD- remainder of right fallopian tube submitted in toto.
+
+2E-2F-remainder of left ovary submitted in toto.
+
+ZG-ZH—remainder of left fallopian tube and query left fimbria submitted in toto.
+
+2l-2K-full transverse sections of anterior endomyometrium with tumor
+
+2L-2M-longitudinal section of the anterior lower uterine segment
+
+2N-20- anterior cervix
+
+2P-2R-full transverse sections of the posterior endomyometrium
+
+2S-2U-transverse sections of the posterior left myometrium with serosal nodularity
+
+2V-2W-longitudinal section of the posterior lower uterine segment
+
+2X-2Y—posterior cervix
+
+One piece left fallopian tube, left ovary, right fallopian tube, right ovary, and one piece endometrial CA are
+stored frozen.
+
+3. The specimen container is labeled with the patient's name and as "omentum" contains a single piece of
+an unoriented fibroadipose tissue received in 10% buffered formalin. The tissue measures 10.5 x 7.5 x
+0.7 cm and weighs 24.7 9.
+
+On serial sectioning, the cut surface is predominantly fatty with no nodules identified grossly.
+Representative sections are submitted as follows:
+
+3A—3E-representative sections submitted
+
+4. The specimen container is labeled with the patient's name and as "Lymph Node: Right common and
+external iliac lymph node" consists of multiple fragments of unoriented fatty tissue measuring in aggregate
+6.5 x 3.0 x 1.3 cm received in 10% buffered formalin. Within the fatty tissue, multiple lymph nodes are
+identiﬁed ranging in size from 0.5 cm to 1.7 cm. The specimen is submitted in toto as follows:
+
+4A- one lymph node bisected
+
+4B- one lymph node bisected
+
+4C-multiple lymph nodes
+
+40- multiple lymph nodes
+
+4E-one lymph node bisected
+
+4F-4H-remainder of fatty tissue.
+
+Quick Section Diagnosis
+1. Pre-caval lymph node: Positive for high-grade adenocarcinoma.
+
+ 
+
+Called at ' .
+MD
+Addendum Status: Signed Out
+Date Reported:
+
+Addendum Diagnosis
+Tumor cells are show diffuse and strong positivity for P53, p16 and focal positivity for ER. They are
+
+negative for WT-1 and PR. MMR repair gene assessment for MSH-G, PMS-2, MLH-1 and MLH-2 show
+intact genes.
+
+ 
+

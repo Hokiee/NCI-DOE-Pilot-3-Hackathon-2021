@@ -1,0 +1,115 @@
+UUID:CBD3148F-A371-4983-9E62-DA5446385173
+-KK- BIM-BlA-PR Reda t
+
+TCGA A c ed
+I Ill|||||l||||llllllllllllllllllllllllIlll
+llllllllllllll|||llllllllll llll II I
+
+Specimen Dam—
+MODIFIED REPORT - REVIEW ADDENDUM SECTION
+
+DIAGNOSIS) 1 Ina-[>013
+(A) RIGHT OBTURATOR LYMPH NODES: 01W 3/1405
+Three lymph nodes, no tumor present. (0/3). ’
+(B) LEFT OBTURATOR LYMPH NODES: /
+Two lymph nodes, no tumor present. (0/2) W NOS 8 (JO/3
+(C) PROSTATE AND SEMINAL VESICLES:
+Supplemental report to follow. 5 . W w“: 010 LA]
+{I l .
+Entire report and diagnosis completed by 99> 11/24! I 3
+GROSSE DESCRIPTION‘I"
+
+(A) RIGHT OBTURATOR LYMPH NODES - Multiple pieces of irregularly shaped yellow-tan adipose measuring 6.2 x 2.5 x 1.0
+cm. Three potential lymph nodes are found. ranging in size from 1.0 to 4.1 cm in greatest dimension.
+
+SECTION CODE: A1, A2, one lymph node in each cassette, bisected; A3-A5, single largest lymph node, serially
+sectioned.
+(B) LEFT OBTURATOR LYMPH NODES — Multiple pieces of yellow-tan adipose measuring 4.5 x 4.0 x 1.0 cm. Specimen is
+palpated to reveal three potential lymph nodes, ranging in size from 0.7 to 2.2 cm in greatest dimension.
+
+SECTION CODE: 81, single lymph node; 32, Ba, single lymph node, serially sectioned; B4, BS, single largest lymph
+node, serially sectioned.
+(C) PROSTATE AND SEMINAL VESICLES — Supplemental report to follow.
+
+CLINICAL Hrsrorw:
+None given.
+SNOMED‘ CODES"
+
+"Some tests reported here may have been developed and performance Characteristics determined by These tests have not been
+speciﬁcally 0165er or approved by the US. Food and Drug Administration."
+Entire report and diagnosis completed by:
+
+Start of=ADDENDUM
+
+Page: 2
+
+Acce551on: — II. '—
+Specimen Date Tlme:
+
+ADDENDUM
+
+This modiﬁed report is being issued to provide additional information/results.
+
+Addendum completed bv‘
+
+DIAGNOSIS
+
+(C) PROSTATE AND SEMINAL VESICLES:
+PROSTATIC ADENOCARCINOMA, GLEASON SCORE 7 (4+3). (SEE COMMENT)
+TUMOR CONFINED TO THE PROSTATE.
+MARGINS OF RESECTION FREE OF TUMOR.
+PROSTATIC INTRAEPITHELIAL NEOPLASIA (PIN), HIGH-GRADE.
+Right and left seminal vesicles, no tumor present.
+Segments of right and left vasa deferentia. no tumor present.
+
+COMMENT:
+
+The prostate gland contains three foci of prostatic adenocarcinoma, two in the peripheral zone and one in the transition zone. The
+dominant tumor focus is located in the left lateral and left posterolateral peripheral zone. This tumor focus measures 1.0 x 0.8 cm
+in the largest cross-sectional dimension and it is present in three cross sections, focally in the apex and extensively in the base
+region. The second tumor focus is located in the right lateral and right posterolateral peripheral zone. This tumor focus measures
+0.6 x 0.2 cm in the largest cross-sectional dimension and it is present in two cross sections and focally in the apical region. The
+third tumor focus is located in the right transition zone. This tumor focus measures 0.3 x 0.2 cm in the largest cross sectional
+dimension and it is present in one cross section and focally in the base region.
+
+All tumor foci are confined to the prostate. The margins of resection are free of tumor.
+
+GROSS DESCRlPTION
+
+(C) PROSTATE AND SEMINAL VESICLES - A prostate, attached right and left seminal vesicles and attached segments of right
+and left vasa deferentia.
+
+The prostate gland (5.4 x 3.3 x 2.7 cm, 31.0 gm, post ﬁxation) has the usual shape. The soft tissue present along the right
+posterolateral aspect Of the prostate appears more abundant than along the left side. A nodule is palpated in the left base region.
+Serial cross sections after fixation demonstrative a ﬁrm area consistent with tumor in the left posterolateral peripheral zone of the
+three cross sections of the prostate.
+
+The seminal vesicles and segments Of vasa deferentia are grossly free of tumor.
+
+Also included in the container is a portion of tissue (1.8 x 0.9 x 0.5 cm) consistent with seminal vesicle.
+
+SECTION CODE: 01, 02, detached portion of tissue; 03-05, right seminal vesicle and segment Of right vas deferens
+from the base towards the tip; 06-08, left seminal vesicle and segment of left vas deferens from the base towards the tip; 09. 010
+prostatic base right border; C11, C12, prostatic base, right posterior border; 013-018, prostatic base central portion; C19, 020,
+prostatic base left border; 021. 022, prostatic base left posterior border; 023, 024, apex anterior; 025, 026, apex left; 027, 028,
+
+apex posterior; 029-031, apex right; 032-043, sections of the three cross sections of the prostate according to specimen
+radiograph.
+
+!
+
+Page: 3
+ACCESSlOH:
+Specimen Date Time:
+
+The anterior aspect of the prostate is inked in green, left surface in red, right surface in yellow and posterior surface in
+black. Blue ink (029-031, 34, 38 and 42) denotes surfaces that do not represent the true margin of resection.
+
+SNOMED CODES
+
+Entire report and diagnosis completed by:
+
+------ END OF REPORT--—---
+
+ 
+

@@ -1,0 +1,92 @@
+ 
+
+ 
+
+TSS ID:
+
+TSS ID: 0C ID: Date of Procurement:
+
+Gross Description:
+
+Breast with the tumor of 3.5 x33 cm in size, with extension under the skin. All ten examined lymph nodes demonstrate
+
+metastases.
+
+Microscopic Description:
+
+lnﬁltrating duct and lobular carcinoma; 62. Skin is involved. All ten examined lymph nodes demonstrate metastases.
+
+Diagnosis Details:
+
+Tumor Features: Unknown, Tumor Extent: T4 Chest wall or (and) skin involved, Venous Invasion: Absent, Margins: Absent,
+
+Treatment Effect:
+
+Comments:
+
+Postoperative staging reads as folloes: T4c N3a M0.
+Formatted Path Report:
+
+BREAST TISSUE CHECKLIST
+
+Specimen type: Radical mastectomy
+
+Specimen size: Not speciﬁed
+
+Tumor site: Breast
+
+Tumor size: 3.3 x 0 x 3.5 cm
+
+Grossly evident lesion: Yes
+
+Histologic type: lnfiltrating ductaland‘lo‘bularcarcinoma
+Histologic grade: Moderately differentiated
+
+Tumor extent: Skin
+
+Lymph nodes: 10/10 positive for metastasis (Axillary 10/10)
+Extracapsular invasion of the lymph nodes: Not speciﬁed
+Margins: Not specified
+
+Nottingham Histologic Score
+
+Tubule formation: Not speciﬁed
+
+Nuclear pleomorphism: Not speciﬁed
+
+Mitotic count (25x): Not speciﬁed
+
+Mitotic count (40x): Not speciﬁed
+
+/eA,a,3
+ems”. Ira/«1mm; M w ﬂaw «moi/9
+51%;) MANY)“ ¢5419 4/5/11
+
+UUID:D10M19F4161-4998-97DE-45DF70F4E 2d
+TCGA- E9-A1RC-61A-PR 21e
+
+MMWWMMMMWWMWMH
+WNW WIMMWMMMMlmmW%HWmm
+
+lHﬂHHHHHHHHHHHHHHHHHMHHHHHHHHHM
+
+ 
+
+ 
+
+ 
+
+ 
+
+TSS ID
+
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not speciﬁed
+Additional pathologic findings: Not speciﬁed
+
+Comments: None
+
+Laterality:
+
+Right, upper outer quadrant
+

@@ -1,0 +1,328 @@
+LABORATORY MEDICINE PROGRAM
+
+Surgical Pathology Consultation Report
+
+ 
+
+ 
+
+Patient Name: Accession #;
+
+MRN: Service: Collected:
+
+DOB: ' Visit #1 Receivect
+
+Gender: ‘— Location: . Reported: - _’
+
+HCN: .— Facility:
+
+Ordering MD:
+
+Copy To:
+
+Specimenls) Receiveg p‘ﬂr : WW , F414;“, w] MW“; 33 (fa/3
+
+1. Lymph-Node: RIGHT PARATRACHEAL LYMPH NODE AT THYMUS \ \ ' i 3
+2. Thyroid: Thyroid left paratracheal node—stitch left superior pole CW1" 0Wl P‘T'H‘MII W47 XJO /
+
+3. Lymph node: Left level 2 lymph node f ._
+4. Lymph node: Left level 3 lymph node 5 ‘ (7" W4, N a; c ’1? ‘7
+
+5. Lymph node: Right level 28 lymph node
+6. Lymph node: Right level 2,3,4 lymph nodes ,u/r IV
+
+Diagnosis
+1. No pathological diagnosis: Lymph node. 1 (right paratracheal at thymus) excisional biopsy
+
+2. Multifocal bilateral papillary carcinoma. dominant widely invasive mixed classical and follicular variant with focal tall cell
+change (<5%). 1.9 cm, isthmus; and follicular nodular disease with degeneration and oncocytic change: Thyroid
+Metastatic papillary thyroid carcinoma: Lymph node, 3 of 3. isthmic '
+Metastatic papillary thyroid carcinoma: Lymph nodes, 4 of 6, central compartment
+No pathological diagnosis: Parathyroid, right perithyroidal
+Simple epithelial cysts: Parathyroid, Central compartment
+Ectopic serous and mucinous glands: Soft tissue. central compartment
+- Total thyroidectomy specimen with central neck dissection
+
+3. No pathological diagnosis: Lymph nodes. 5 (left neck level ll) excisional biopsy
+. No pathological diagnosis: Lymph nodes, 6 (left neck level ill) excisional biopsy
+
+. No pathological diagnosis: Lymph nodes, 2 (right neck level "8) excisional biopsy
+
+Oat-h
+
+. Micrometastatic papillary thyroid carcinoma: Lymph node, 1 of 9 (right neck level ll. ill and IV) excisional biopsy
+
+ 
+
+W
+Procedure: Other-Total thyroidectomy with central and bilateral neck dissection specimen
+Received: Fresh
+Specimen Integrity: Intact
+Specimen Size: Right lobe:
+3.8 cm
+2.3 cm
+UUID:45A213AB-38E7-4D7F-8E38-5cc148579831
+TCGA-EM—AAFN-BlA-PR Redacted
+_ || |||||||||||||||||||||||||||||||||||||l|l||||||||||||ll|l|l|l Page 10“":- *
+
+Specimen Weight:
+Tumor Focality:
+
+Surgical Pathology Consultation Report
+
+1.2 cm
+
+Left lobe:
+
+3.4 cm
+
+2.3 cm
+
+1.0 cm
+
+isthmus +I— pyramidal lobe:
+3.2 cm
+
+2.1 cm
+
+1.4 cm
+
+Central compartment:
+
+4.3 cm
+
+3.8 cm s
+
+1.1 cm I
+Right-nemarsse‘ctronl
+6.8 cm "
+1.5 cm
+
+1.5 cm ' 3
+Left neck dissection:
+
+2.8 cm
+
+1.5 cm
+
+1.4 cm
+
+17.2 g
+
+Multifocal. bilateral
+
+Multifocal. midline (isthmus)
+
+--------------- DOMINANTTUMOR-------—-~--—
+
+Tumor Laterality:
+Tumor Size:
+
+Histologic Type:
+
+Histologic Grade:
+Margins:
+
+Tumor Capsule:
+
+Tumor Capsular Invasion:
+
+Isthmus
+
+Greatest dimension: 1.9cm
+
+Additional dimension: 1.7 cm
+
+Additional dimension: 1.6 cm
+
+Papillary carcinoma, classical (usual)
+
+Papillary carcinoma, follicular variant
+
+Papillary carcinoma, other variant with focal tall cell change (<5°/o)
+Classiwl (papillary) architecture
+
+Follicular architecture
+
+Classical cytomorphology
+
+Tall cell cytomorphology
+
+Not applicable
+
+Margins uninvolved by carcinoma-
+
+Distance of invasive carcinoma to closest margin: 0.2mm
+Partially encapsulated .
+
+Present, extent widely invasive
+
+Lymph-Vascular Invasion: Not identiﬁed
+
+Perineural Invasion: Not identiﬁed
+
+Extrathyroidai Extension: Not identiﬁed
+
+--------------- SECONDTUMOR-~-—--------—
+
+Tumor Laterality: Right lobe
+
+Tumor Size: Greatest dimension: 0.5cm
+
+Histologic Type: Papillary carcinoma, classical (usual)
+Papillary carcinoma, microcarcinoma (occult, small or microscopic) variant
+Classical (papillary) architecture
+Classical cytomorphology
+
+Histologic Grade: Not applicable
+
+Margins: Margins uninvolved by carcinoma
+
+Tumor Capsule: Parﬁally encapsulated
+
+Tumor Capsular Invasion:
+Lymph-Vascular Invasion:
+
+Perineurai Invasion:
+Extrathyroidal Extension:
+TNM Descriptors:
+
+Present, extent minimal
+Not identiﬁed
+
+Not identiﬁed
+
+Not identiﬁed
+
+m (multiple primary tumors)
+
+ 
+
+Pag< i'
+
+"it Surgical Pathology Consultation Report «‘3an
+
+ 
+
+Primary Tumor (pT): pT1b: Tumor more than 1 em but not more than 2 cm in greatest dimension, limited to
+the thyroid
+Regional Lymph Nodes (pN): pN1b: Metastases to unilateral, bilateral or contraiateralcervial or superior
+
+medastinal lymph nodes
+Number of regional lymph nodes examined: 32
+Number of regional lymph nodes involved: 8
+Lymph Node, Extranodal Extension Not identiﬁed
+Distant Metastasis (pM): Not applicable
+Additional Pathologlc Findings: Adenomatoid nodule(s) or Noduiar follicular disease
+Parathyroid gland(s), within normal limits
+Parathyroid gland(s), other. simple epithelial cysts
+Othen additional multiple papillary microcarcinomas: 0.1 cm. right lobe and 0.05 cm.
+left lobe
+
+*Pathoiogic Staging is based on AJCC/UICC TNM, 7th Edition
+
+D
+
+ 
+
+'.
+
+Electronically veriﬁed by:
+
+‘
+‘——_, __,
+
+Gross Description
+1. The specimen labeled with the patients name and as "right paratracheal lymph node at thymus“ consists of a piece of
+
+ﬁbroadipose tissue that measures 2.2 x 1.6 x 0.5 cm. It contains two query lymph nodes measuring 0.5 x 0.5 x 0.4 and 0.6
+x 0.5 x 0.4 cm, respectively.
+1A two lymph nodes
+
+2. The specimen labeled with the patients name and as "thyroid left paratracheal node stitch left superior pole" consists of
+an oriented thyroid gland with attached ﬁbroadipose tissue on the inferior aspect that weighs 17.2 g. The right lobe
+measures 3.8 cm SI x 2.3 cm ML x 1.2 cm AP, the left lobe measures 3.4 cm Si x 2.3 cm ML x 1.0 cm AP and the isthmus
+measures 3.2 cm Sl x 2.1 cm ML x 1.4 cm AP. The ﬁbroadipose tissue measures 4.3 SI x 3.8 ML x 1.1 cm AP. The
+external surfaces have ﬁbrous adhesions and are painted with silver nitrate. No parathyroid glands are identiﬁed grossly.
+The isthmus contains one well delineated nodule that measures 1.7 cm SI x 1.6 cm ML x 1.9 cm AP. A second well
+delineated nodule is identiﬁed in the inferior left lobe and measures 0.8 SI x 0.7 ML x 0.6 cm AP. Both nodules are tan
+and firm. Multiple lymph nodes are identiﬁed on the inferior soft tissue ranging in size from 0.2 x 0.2 x 0.2 cm to 1.7 x 0.9 x
+0.8 cm. The remainder of the thyroid tissue is grossly unremarkable. Tissue is stored frozen. The remainder of the
+specimen is submitted as follows:
+
+2A-E right lobe, superior to inferior
+
+2F—H isthmus
+
+2i~L left lobe. superior to inferior
+
+2M one cystic lymph node bisected
+
+2N multiple lymph nodes
+
+3. The specimen labeled with the patient's name and as "left level II lymph node' consists of a piece of ﬁbroadipose tissue
+that measures 2.8 x 1.5 x 1.4 cm. It contains multiple lymph nodes that range from 0.6 x 0.7 x 0.6 to 1.0 x 0.8 x 0.6 cm.
+Representative sections are submitted.
+
+3A multiple lymph nodes
+
+4. The specimen labeled with the patient's name and as "left level III lymph node" consists of two pieces of ﬁbroadipose
+tissue that measures 1.3 x 1.5 x 0.8 and 2.4 x 1.5 x 1.3 cm. They contain multiple lymph nodes that range from 0.2 x 0.2 x
+0.2 to 1.0 x 0.8 x 0.6 cm. Representative secﬁons are submitted.
+
+4A two lymph nodes
+
+48 multiple lymph nodes
+
+ 
+
+k — I Pageﬁgfilr
+
+"- Surgical Pathology Consultation Report 8."
+
+5. The specimen labeled with the patients name and as "right level llB lymph nodes” consists of a piece of fibroadipose
+tissue that measures 1.3 x 0.8 x 0.5 cm. It contains two lymph nodes that measures 0.3 x 0.4 x 0.4 and 0.4 x 0.4 x 0.4 cm.
+Representative sections are submitted.
+
+5A two lymph nodes
+
+6. The specimen labeled with the patients name and as "right level II, III and IV' consists of a piece of unoriented
+ﬁbroadipose tissue that measures 6.8 x 1.5 x 1.5 cm. it contains multiple lymph nodes that range from 0.2 x 0.3 x 0.2 to
+1.2 x 0.9 x 0.9 cm. The lymph nodes are sequentially submitted after the specimen is trisected with the lymph nodes
+submitted in as follows:
+
+6A one lymph node bisected
+
+63 multiple lymph nodes
+
+BC one lymph node bisected
+
+6D one lymph node bisected
+
+6E multiple lymph nodes
+
+ 
+
+    
+  
+   
+ 
+ 
+
+Diagnmii
+Primary Tumor Site Discrepancy
+
+ 
+
+l”
+
+Prior
+
+  
+
+Calais
+
+ 
+
+Page M553
+

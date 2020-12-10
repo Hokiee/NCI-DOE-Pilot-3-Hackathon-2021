@@ -1,0 +1,195 @@
+UUID:2424547C-B§A9-M5C-56C3-158C260R4FeAEFa
+TCGA- SA- AB49- 91A- PR
+
+l 'llll'llllllll'lllllllllllllllllIlllll"'
+
+SURGICAL PATHOLOGY REPORT
+
+ 
+
+ 
+
+ 
+
+NAME: SURG PATH #2
+MR #: SPECIMEN CLASS:
+BILLING #: ALT ID #2
+LOCATION: DATE OF PROCEDURE:
+AGE: SEX: F DATE RECEIVED:
+DOB: TIME RECEIVED:
+PHYSICIAN: DATE OF REPORT:
+COPY TO: DATE OF PRINTING:
+Addendum Date Ordered: Status: Signed Out
+
+Date Complete:
+
+By:
+Date Reported:
+
+The diagnosis remains unchanged.
+
+GMS and AFB special stains on selected lymph node slides are negative for fungal and acid-fast organisms.
+
+ 
+
+14:00 (:3
+(7 CIW41~M<WA7 12 Wnpumzuﬂg H032 3370/5
+,- ‘~ I \. .-.- _ —
+' 94b; (gait/lg / Italian MK. 085413
+A: bronchial margins of left lower lobe
+
+B: level 9 lymph node ‘ c, WOO/6 o//H
+C: level 5 lymph node
+D: level 6 lymph node
+E: level 7 lymph node
+
+ 
+
+A. Lung and lymph nodes, bronchial margins of left lower lobe. lobectomy:
+Non small cell carcinoma. consistent with moderately differentiated squamous cell carcinoma. See comment.
+Lymph nodes (5): Non—caseating granulomas and anthracosis. There is no evidence of malignancy. (0/5)
+
+B. Lymph node (1): level 9 lymph node, biopsy:
+Non-caseating granulomas and anthracosis. There is no evidence of malignancy. (0/1)
+
+C. Lymph node (1). level 5 lymph node, biopsy:
+Non-caseating granulomas, anthracosis. There is no evidence of malignancy. (0/1)
+
+D. Lvmph node (1). level 6 lvmoh node. bioosv:
+
+MR #: Page 1 of 1
+Date of Printlng: SU RGICAL PATHOLOGY REPORT
+
+Order Number:
+
+SURGICAL PATHOLOGY REPORT
+
+NAME: SURG PATH #:
+MR #: ALT ID #:
+
+Non-caseating granulomas, anthracosis. There is no evidence of malignancy. (Ol1)
+
+E. Lymph node (1), level 7 lymph node, biopsy:
+Non-caseating granulomas, anthracosis. There is no evidence of malignancy. (0/1)
+
+Comment;
+Lung
+Specimen Type: Lobectomy
+Laterality: Left
+Tumor Site: Left lower lobe
+Tumor Size: 5.5 x 4.5 x 0.8 cm
+Histologic Type: Squamous cell carcinoma
+Histologic Grade: Moderately differentiated
+Margins: (Vascular, Bronchial, Pleural, Parenchymal)
+All margins are uninvolved by invasive carcinoma
+Direct Extension of Tumor. Into pleura
+Vascular Invasion: Absent
+Perineurallnvasion: Absent
+Lymph Nodes:
+Number Examined: 9
+Number Involved: 0
+Additional Pathologic Findings: Non caseating granulomas in lymph nodes
+Gross Picture Taken: No
+Pathologlc Staging: pT2 N0 Mx
+
+Primary Tumor (pT)
+
+pT2: Tumor with any of the following features of size or extent: greater than 3 cm in greatest dimension; involves main
+
+bronchus, 2 cm or more distal to the carina; invades the visceral pleura; associated with atelectasis or obstructive pneumonitls that
+extends to the hilar region but does not involve the entire lung
+
+Regional Lymph Nodes (pN)
+pNO: No regional lymph node metastasis
+
+Distant Metastasis (pM)
+pMX: Cannot be assessed
+
+The pathologic stage assigned here should be regarded as provisional, as it reﬂects only current pathologic data and does not
+incorporate full knowledge of the patient's clinical status and/or prior pathology.
+
+Pursuant to the this case has been concurrently reviewed by the following
+pathologist: who agrees with the above diagnosis.
+
+The tumor is positive for p63 and negative for TTF-1 immunostains supporting the above diagnosis.
+
+MEL";
+
+By this signature, I attest that l have personally formulated the ﬁnal interpretation expressed in this report and that the above diagnosis is based
+upon my examination of the slides and/or other material indicated in this report.
+”Electronically Signed Out By***
+Interpreted by:
+
+ 
+
+ 
+
+A. Received fresh with patient's name and "bronchial margins left lower lobe frozen" is a 278 gram and 15.0 x 8.9 x 5.6 cm lung.
+The pleural surface of the lung is tan-purple and smooth with a single area of retraction 1.5 x 1.0 cm. The external surface near
+the tumor is inked black. The bronchi are opened to reveal a tumor with central necrosis, 5.5 x 4.5 x 0.8 cm that is 1.0 cm from
+
+ 
+
+MR #2 Page 2 of 2
+
+Date of Printing: SURGICAL PATHOLOGY REPORT
+
+SURGICAL PATHOLOGY REPORT
+
+NAME: SURG PATH #:
+MR #1 ALT ID #:
+
+the bronchial margin. The uninvolved lung is tan-red and spongy. There are ﬁve hilar lymph nodes ranging from 0.6 x 0.2 x 0.2
+cm to 1.5 x 0.9 x 0.3 cm. The specimen is submitted as follows:
+A1 FS Bronchial margin.
+
+A2 Vascular margin.
+
+A3 Three nodes.
+
+A4 One bisected node.
+
+A5 One bisected node.
+
+A6 Tumor to pleura.
+
+A7 Tumor to bronchus.
+
+A8 Tumor to grossly normal tissue.
+A9 Tumor.
+
+A10 Grossly normal lung.
+
+B. Received in formalin labeled with the patient's name and "level 9 lymph node" is a 1.4 x 0.7 x 0.3 cm tan and smooth lymph
+node. The node is bisected to reveal a black-red cut surface. It is entirely submitted in cassette B1.
+
+C. Received in formalin labeled with the patient's name and "level 5 lymph node" is a 0.5 x 0.2 x 0.1 cm tan smooth lymph node.
+The node is submitted entirely in cassette C1.
+
+D. Received in formalin labeled with the patient's name and "level 6 lymph node" is a 1.6 x 0.6 x 0.5 cm tan lymph node. The
+node is bisected to reveal a black-red cut surface. It is entirely submitted in mssette D1.
+
+E. Received in formalin labeled with the patient's name and ”level 7 lymph node" is a 1.6 x 0.5 x 0.2 cm lymph node. The node is
+bisected to reveal a tan cut surface with points of black-red throughout. It is entirely submitted in cassette E1.
+
+A1 FS: Bronchus, "bronchial margins of left lower lobe", lobectomy:
+Negative for malignancy
+
+If immunohistochemical stains and/or' In situ hybridization are cited "1 this report, the performance characteristics were determined by the
+
+lin compliance with CLIA‘ 88
+regulations Some of these tests rely on the use of' ‘analyte specific reagents” and are subject to speciﬁc labeling requirements by the FDA. Known
+positive and negative control tissues demonstrate appropriate staining. This testing was developed by the
+
+. It has not been cleared or approved by the FDA. The FDA has determined that such clearance or approval
+is not necessary.
+
+ 
+
+ 
+
+MR #:
+
+Page 3 of 3
+Date of Printing: . SURGICAL PATHOLOGY REPORT
+

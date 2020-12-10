@@ -1,0 +1,287 @@
+UUID:61A4EBE4-57BF-4E16-A371-137BlBDA8011
+TCGA- VD- ABKS- ~91A- PR
+
+IIIIIIIIIIIIIIIIIIIIIIIIII |I|||||||l||||l||I|||l|IlIIIlIIlIIcIIIIIIe
+IIIIII IIIIIIIIIIIIIIIIIIIIIII IHHIIIII IIIIIIIIIIIIIII||I|I||III|||
+III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII|||| "III
+
+E
+Fonnmne
+
+___-.__
+umlNo
+
+—-—-——-—-—a—-—-
+
+ 
+
+SPECIMEN
+
+Left eye
+
+CLINICAL DETAILS
+
+Suspected choroidal melanoma.
+
+MACROSCOPIC DESCRIPTION
+
+Med:
+Page 1 of 3
+REPORT Ta:
+
+ 
+
+Cllnlcal Consultant 8. Location
+
+ 
+
+ 
+
+Sex
+_9
+
+ 
+
+ 
+
+ 
+
+ 
+
+This Copy For:
+no 3
+51‘: @C’W 6499.5
+94A) 1/17/11;3
+
+Dimensions: Axial 24.3mm, Horizontal 22.8mm. Vertical 23.4mm
+
+Cornea: Horizontal 12.4mm. Vertical 12mm
+
+Description: clear
+
+Optic nerve
+Length 5.7mm, Diameter 3.6mm
+
+On trans-illumination, a shadow measuring 13.6mm by 13.1mm
+
+is seen laterally.
+Plane of section: horizontal
+
+Intraoculsr description:
+
+0n opening, a mostly amelanotic choroidal tumour is seen.
+
+Tumour size
+LBD 10.5mm, Height 7.3mm
+
+MICROSCOPY
+
+Histologically, the enucleated eye demonstrates a normal
+anterior segment with an unremarkable cornea, a deep
+anterior chamber and open angles. The iris leaves are
+unremarkable. The ciliary muscles showed advanced atrophic
+changes and there is moderate hyalinisation of the ciliary
+
+processes. The lens is cataractous.
+
+In the posterior segment, a small choroidal melanoma can be
+seen. This is dome-shaped with a retinal detachment. The
+retina overlying the tumour is atrophic with degenerative
+
+changes.
+
+The tumour is pigmented and consists predominantly of
+
+Reported: Pathologlst:
+
+Electronlcally Veﬂfled:
+
+: I
+M‘ ,W m‘mm‘ --___»..
+
+5277413
+
+. w.
+
+Department of Pathology
+
+269.9%
+
+Page 2 ol' 3
+
+I HISTOPATHOLOGY REPORT Tel:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sumsme Lab No Cllnlcal Consultant 8- Locatlon
+.5- _ *
+Forum-mus) DOBIAge ' Sex *
+um: No Request Date
+5 “I -
+Thls Copy For:
+
+spindle cells. The epithelioid cell component is minimal.The
+melanoma cells are immunoreactive for MelanA and HSP-27
+(score 3) .
+
+The number of mitoses is moderate approx. 7/40 high power
+fields.
+
+The microvasculature of the melanoma is prominent, but
+closed loops are not seen in the tissue planes examined.
+
+The lymphocytic infiltrate within tumour is minimal.
+Macrophages are scattered throughout the tumour in a mild
+density. -
+
+There is no evidence of scleral invasion or of extraocular
+growth. The optic nerve is tumour free, and demonstrates
+mild atrophic changes. The examined vortex veins are free of
+tumour.
+
+DIAGNOSIS
+
+Choroid melanoma of spindle cell type.
+
+COMMENT
+
+SPECIMEN 2: Eye
+TUMOUR PRESENT Yes
+
+TUMOUR TYPE 1: Melanoma
+CELL TYPE 2: Spindle B
+CT LOOPS 1- No closed loops
+NECROSIS No
+PIGMENTATION Yes
+LYMPHOCYTIC INFILTRA’I‘ION No
+
+MITOTIC FREQUENCY 7 /40 HPF
+DIFFUSE MELANOMA Yes
+
+SPREAD 1: No
+Reported: Pathologlst:
+
+Electronically Veriﬁed:
+
+' 21:53:11!“
+
+ 
+
+—..—_..- .L_.i....... ....A .. .
+
+ 
+
+.V ._
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Department of Pathology Page 3 of3
+' HISTOPATHOLOGY REPORT Tel:
+
+Surname Lab No Clinical Consultant 8- Location
+
+9* __. _
+
+Forensmela) DOBIAge Sex *
+
+g — 1
+Unit No ' Request Data
+— — -
+This Copy For:
+
+CLEARANCE 2= Adequate '
+HSP-Z'i POSITIVITY 3:: >702:
+LARGE DIAMETER 10 .5 mm
+THICKNESS 7.3 mm
+COMMENTS:
+
+Molecular genetic examination of DNA extracted from the
+tumour cells will be performed using multiplex—ligation
+dependent probe amplification (MLPA) , looking at chromosomes
+1, 3, 6 and a. A supplementary report will follow as soon as
+these investigations are complete.
+
+SUPPLEMENTARY REPORT
+
+In the meantime, molecular genetic analysis of tumour DNA
+extracted from the fresh uveal melanoma tissue was performed
+using the technique termed multiplex ligation-dependent
+probe amplification (MLPA) . These investigations were
+performed in the '
+
+‘. ... .__1
+
+ 
+
+The kit P027 from ., which examines for gains or
+losses in 31 loci on chromosomes 1, 3, 6 and 8, was used.
+The DNA concentration was measured using and the
+quality assessed using multiplex-PCR prior to the MLPA
+reaction. .
+
+The DNA concentration was high and of good quality on
+assessment. The MLPA reaction was run at least twice on
+differing oceasions, resulting in similar results.
+
+The results of the sequence analysis of the MLPA products is
+printed on a separate report.
+
+In summary, sequence analysis demonstrated: normal
+chromosome 1, disomy 3, gains in chromosome 6 and gains in
+chromosome 8q.
+
+These molecular data require correlation with the clinical
+and morphological data for metastatic risk assessment.
+
+5
+l
+\
+w'
+
+Reported: Pathologist:
+Electronically Verlfled:
+
+ 
+
+ 
+
+ 
+

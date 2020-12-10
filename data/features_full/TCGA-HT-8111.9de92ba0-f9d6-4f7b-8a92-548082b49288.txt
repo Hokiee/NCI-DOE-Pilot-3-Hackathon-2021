@@ -1,0 +1,21 @@
+Tumor:
+Normal:
+
+Addendum Diagnosis:
+Anaplastic Oligoastrocytoma, Astrocytoma Predominant
+MIB-l Labeling Index: 9.2%
+
+Addendum Discussion:
+
+Numerous MIB-l reactive cells are present throughout the tumor. In the most
+proliferative areas, a labeling index of 9.2% is calculated, consistent with the anaplastic
+histologic features.
+
+Microscopic Description:
+
+Review of frozen section and permanent material demonstrate a moderately hypercellular
+glial neoplasm with variable and focally marked cytologic atypia. Numerous
+gemistocytic cells and fibrillary astrocytes are present as well as areas of prominent
+perivascular lymphocytic cuffing. Minor foci of classic oligodendroglioma are seen.
+Scattered mitotic figures are identified.
+

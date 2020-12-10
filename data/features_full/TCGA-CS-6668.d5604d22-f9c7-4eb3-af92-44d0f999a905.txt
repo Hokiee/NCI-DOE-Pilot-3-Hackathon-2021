@@ -1,0 +1,215 @@
+-
+Patient: -
+
+SURGICAL PATHOLOGY REPORT
+FINAL DIAGNOSIS:
+
+1. SPECIMEN DESIGNATED "Left frontal operculartumor":
+OLIGODENDROGLIOMA, WHO GRADE ii. SEE MICROSCOPIC DESCRIPTION.
+
+This diagnostic report has been personally interpreted by the signatory
+of record.
+
+Aperio
+
+Ki67
+Percent : 4.7%
+
+Cells counted : 49,964 cells
+
+This test was performed by. in conjunction with the—
+
+assisted image analysis.
+
+Microscopic Description:
+1. Left frontal opercular tumor:
+History of Previous Tumor/Familial Syndrome: None known
+
+Specimen Type/Procedure: Open biopsy
+
+Specimen Handling: Squash / smear/touch preparation
+Frozen tissue
+Unfrozen for routine permanent
+
+paraffin sections
+
+Specimen Size: Greatest dimension: 1.5 cm
+Additional dimension: 1.0 cm
+Additional dimension: 0.3 cm
+
+Laterality: Left
+
+Tumor Site: Brain/cerebrum-Frontal
+Brain/cerebrum-Other: Operculum
+
+Histologic Type and Grade: Oligodendroglioma (WHO grade II)
+
+Histologic Grade: WHO Grade II
+
+Margins: Cannot be assessed
+
+Ancillary Studies: Immunohistochemistry: GFAP, Ki67,
+p53
+
+Molecular genetic studies: 1p19q
+FISH Pending
+
+ 
+
+The tumor is composed of sheets of cells with round nuclei. In areas
+
+of the tumor specimen, many tumor cells have perinuclear halos. The
+tumor cells infiltrate cerebral grey matter. While mitotic figures are
+identified in tumor cells, the mitotic rate is not high. The Ki67
+proliferation index is 4.7%. While scattered tumor cells show positive
+immunohistochemical staining for GFAP, many tumor cells are negative
+for GFAP. Immunohistochemical stain for p53 is negative in tumor
+cells. Neither endothelial proliferation nor tumor necrosis is
+
+identified in the totally submitted surgical specimen. An addendum
+with the result of an iron stain will be issued.
+
+1p19a FISH analysis has been requested and a separate report will be
+issued.
+
+Frozen Section Diagnosis:
+
+1. Left frontal opercular tumor: Glial neoplasm, possible
+oligodendroglioma. Frozen section diagnosis by.-
+
+Clinical History and Diagnosis:
+
+Left frontal tumor
+
+Source of Specimen:
+1: Left frontal opercular tumor
+
+Gross Description:
+
+1. Left frontal opercular tumor: Received fresh for frozen analysis
+
+in a specimen container labeled with the patient's name and "#1 left
+frontal opercular tumor" is an aggregate of tan-pink soft tissue
+measuring 1.5 x 1 x 0.3 cm. Touch preparations and frozen section are
+performed, and the specimen is entirely submitted for permanent
+sectioning as follows:
+
+A. Representative estimate, frozen section control
+
+B. Remainder of specimen
+
+—)
+
+Histology Laboratory
+
+Part 1: Left frontal opercular tumor
+
+19q - FISH
+
+1p - FISH
+
+GLIAL FIBRIALLARY ACIDIC PROTEIN (GFAP)
+Kl 67 (Aperio)
+
+MOLECULAR H&E
+
+P 53
+
+PERL'S IRON
+
+Immunohistochemistry Notes
+1. Quantification of immunohistochemistry assay for ER and PR studies
+
+is by the method 01‘—
+
+2. Pathway Her-2/neu (4B5) (Rabbit monoclonal) - Formalin-fixed,
+paraffin embedded tissue. UltraView Universal Detection Kit.
+Interpretation follows the manufacturer' 5 recommendation.
+
+3. EGFR (3C6) (Mouse Monoclonal) Formalin-fixed, paraffin embedded
+tissue. UltraView Universal Detection Kit.
+
+4. Analyte Specific Reagent (ASCR) Disclaimer. The use of one or more
+reagents in the above tests is regulated as an analyte specific reagent
+(ASR). These tests were developed and their performance
+characteristics determined by the Clinical Laboratory of-
+—
+
+They have not been cleared by the US Food and Drug Administration. The
+FDA has determined that such clearance or approval is not necessary.
+
+MEDICAL GENETICS REPORT
+
+EVALUATION:
+
+ASSAY PERFORMED: del(1p)del(19q) BY FLUORESCENT IN-SITU HYBRIDIZATION
+(FISH)
+
+RESULT: Positive for the deletion of 1p
+Positive for the deletion of 19q
+
+NOMENCLATURE:nuc ish 1p36(P73 x 1~2),1q24(ANGPTL1 x
+1"”4)[200]/19p13(ZN F44 x 1"4),19q13(GLTSCR x 1~2)[2oo1
+
+1p36/1q24
+
+Number of Nuclei scored: 200
+Ratio of 1p/1q: 0.76
+
+% cells with del 1p: 38%
+
+19q13/19p13
+
+Number of Nuclei scored: 200
+Ratio of 19q/19p: 0.71
+
+% cells with del 19q: 47.5%
+
+INTERPRETATION: The results are less than the normal range and suggest
+deletions of 1p and 19q in this Oligodendroglioma _). del
+(1p) and del(19q) has been observed in glioma specimens, especially
+oligodendrogliomas. Clinical and pathologic correlation is recommended.
+
+Comment:
+
+(Cytogeneticist)
+
+This diagnostic report has been personally interpreted by the signatory
+of record.
+
+Data Analysis:
+
+DESCRIPTION OF THE ASSAY: 1p and 19q FISH studies were performed on
+paraffin embedded tumor sections. Two hybridizations were performed:
+one with a 1p/1q probe/control pair and one with a 19q/19p
+
+probe/control pair. The 19q and 1p probes map to regions that are
+commonly deleted in gliomas. The nuclei are counterstained with DAPI
+and the cells examined by epi-fluorescence microscopy. The total
+number of counts for each probe is determined in 200 cells and the
+ratios of 1p/1q and 19q/19p are calculated.
+
+Normal range: The normal ratio is approximately 1. Any ratio > 0.80 is
+considered normal.
+
+LIMITATIONS: Low levels of malignant cells in the specimen can result
+in a false negative result. As with all laboratory tests, sampling
+
+error and other factors may affect the outcome of the assay.
+Correlation of results with other clinical and laboratory data should
+be obtained.
+
+COMMENT: This test was developed and its performance characteristics
+determined by the Molecular Pathology Laboratory at—
+
+—. It has not been cleared or approved by the US.
+
+Food and Drug Administration.
+
+This test is not to be used as a diagnostic procedure without
+confirmation of the diagnosis by another medically established product
+or procedure.
+
+Clinical History and Diagnosis:
+Oligodendroglioma
+

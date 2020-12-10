@@ -1,0 +1,48 @@
+    
+
+SPECIMEN TAKEN: 10/, 571/
+FINAL DIAGNOSIS -----------
+1. THYROID (TOTAL THYROIDECTOMY):
+
+SPECIMEN TYPE:
+Total thyroidectomy. / CA ’ o , 3
+TUMOR SITE: cawﬂtawa MPG/Wax ”7M4 “90/ 3
+Isthmus, Leﬁ lobe. 5‘72 ﬁwjtmaL I Mu g C73. «7 A}
+
+HISTOLOGIC TYPE: L4, m
+Papillary carcinoma.
+
+' UUID:D97547BS-7C17-432E-850A-1353456F7451d
+TUMOR SIZE- _ TCGA- ET- Asax- o1A- PR
+Greatest dimenSIOn 5.0 cm.
+
+I ”III ll|||||
+FOCALITYI ||l||||||||||||||||||||||llll||||||I||IIIIIIIIIIIIIiIIIIIHIII
+
+Unifocal.
+
+LYMPH NODES:
+
+One (I) of four (4) lymph nodes, positive for carcinoma (tumor cells highlighted by
+AE1/3 immunostain).
+
+EXTENT OF INVASION (7th Edition AJ CC):
+PRIMARY TUMOR:
+pT3: Tumor > 4 cm, with extrathyroidal extension.
+
+REGIONAL LYMPH NODES:
+lea: Nodal metastasis to one lymph node (immediately adjacent to thyroid).
+
+MARGINS:
+Tumor extends close to resections margins. Distance of invasive carcinoma from nearest
+margin: less than 1.0 mm. Specify margin: Anterior and posterior.
+
+VENOUS/LYMPHATIC INVASION:
+Present: multifocal intrathyroidal psammoma bodies.
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Lymphocytic thyroiditis.
+
+NOTE: This case was shown at the I . _ ,, _- (Dr. in
+attendance).
+

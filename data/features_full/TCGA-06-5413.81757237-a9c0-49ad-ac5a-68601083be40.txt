@@ -1,0 +1,109 @@
+ 
+
+Surgical Pathology Report
+
+TCGA-06—5413
+
+ 
+
+ 
+
+ 
+
+ 
+
+CLINICAL HISTORY
+Brain tumor.
+
+OPERATIVE DIAGNOSES
+
+Operation/Specimen: A: Brain, excision biopsy
+
+PATHOLOGICRL DIAGNOSIS:
+
+A. Brain, tumor, excision biopsy: High- grade glioma consistent with
+glioblastoma {WHO grade IV) (see comment).
+
+COMMENT
+The frozen section diagnosis
+sections
+
+is confirmed on permanent sections. The
+
+show a high—grade glial neoplasm with mitotic activity and extensive
+
+necrosis.
+Immunostaining of the lesion
+
+shows GFAP positivity, keratin negativity and a
+
+Kim ”67 labeling index of approximately 20 percent. Positive and negative
+controls are reviewed and appropriate immunoreactivity is confirmed.
+
+ 
+
+INTRA—OPERATIVE CONSULTATION
+A. Brain, excision biopsy: High— grade glioma consistent with glioblastoma.
+
+Frozen section and smears performed
+reported to the Physician of Record.
+
+ 
+
+GROSS DESCRIPTION
+A. Brain, excision biopsy: CONTAINER LABEL: brain tumor
+
+FIXATIVE: fresh
+GENERAL: Received is a 12 x10 x2mm pink—tan fragment. Touch prep and frozen
+
+section performed.
+SECTIONS: l—frozen section remnant, 2-remaining tissue, -
+
+mid,
+
+ 
+
+ICE—9(5):
+
+  
+
+The use of one or more reagents in the above tests is regulated as an
+
+analyte
+specific reagent (ASR). These were developed and their performance
+characteristics determin ' chemistry Laboratory in the
+
+Department of Pathology: They have not been cleared or
+approved by the US Food and Drug Administration. The FDA has determined that
+such clearance or approval is not necessary. This test is used for clinical
+purposes, it should not be regarded as investigational or for research. This
+laboratory is certified under the Clinical Laboratory Improvement Amendments
+of - (CLIA) as qualified to perform high complexity clinical laboratory
+
+testing.
+
+Histo Data
+
+Part A: Brain, excision biopsy
+
+Ta ken: — Received: —
+Stain/cnt Block Ordered Comment
+FS H/E x 1
+mGFAP—DA X l
+H/E x 1
+KeratinSu x l
+MIBl-DA x 1
+TPS H/E X l
+mGFAP-DA x l
+H/E x l
+KeratinSu x 1
+MIBl—DA x 1
+
+ 
+
+N N)m M H H H H14 H
+
+*** End of Report ***
+
+ 
+

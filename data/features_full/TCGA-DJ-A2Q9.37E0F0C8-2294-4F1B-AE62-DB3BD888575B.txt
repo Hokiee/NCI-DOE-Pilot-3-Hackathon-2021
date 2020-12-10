@@ -1,0 +1,318 @@
+7
+Diagnosis Discrepancy
+Prim ary Tumor Site Discrepancy
+MIPAA Discrepancy
+
+ 
+
+ 
+
+‘ "nun-n..- .,. - ,
+
+Date of Procedure:
+
+Date of Receipt:
+
+Date of Report:
+
+Account #: .
+
+Billing Type: OUTPATIENT
+Additional Copy to:
+
+Rat. source:
+
+ 
+
+Clmlca' Dia nosis & HISto ' UUID:37EOFOCB-2294-4FIB-AE62-DBBBDSSSS7SB
+
+7 mm right thyroid nodule positive for papillary thyroid carcinoma.
+
+TCGA-DJ -A2Q9-61A- R
+
+1: Right paratracheal node (is)
+
+2: Additional right paratracheai node (is)
+
+P Redacted
+- l llllllllllllllllllllllll
+R‘s mm s"'°'"m°°" i“lHIHIiIIlnli{llllillllillllillllllmllillllillillllilillilllllllllllllllllllll
+
+Illllllllllllllllllllllllll lllllllllllllll llllll "Hill"
+
+3: Total thyroldectomy
+4: Delphlai node
+5: Pretracheal tissue
+
+ 
+
+DIAGNOSIS:
+
+1.
+
+Right paratracheal node (fs):
+Lymph Neda Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 1
+
+ 
+
+Additional right paratracheal node (fs):
+
+ 
+
+2.
+Lymph Node‘Dissection:
+Metastatic papillary thyroid carcinoma
+Number of lymph nodes examined: 3
+Number 01 lymph nodes with metastatic disease: 1
+Size of the largest lymph node involved by tumor: 0.6cm.
+Size of the largest metastatic focus : 0.3 cm.
+Extranodal extension is not identiﬁed
+Comment: The metastatic focus is best appreciated on the original frozen section slide.
+3. Total thyroidectomy: /¢ [>1 4 ,3
+Tumor Type:
+Papillary carcinoma, tail cell variant ‘ a t
+with squamous metaplasla C Wm! ptpt ”My, fill Cd! ““4"“
+?
+Mitotic Activity: 344/3
+Not identiﬁed
+5‘ , ”“74““ NU 673'?
+Tumor Necrosis: I A ’
+Not identified A
+Other Tumor Features: 3/34 ll
+Marked stromal reaction
+Tumor Location:
+Right lobe
+Tumor Size:
+
+ 
+
+Page 1 of 4
+
+ 
+
+Greatest diameter is 1.5 cm.
+
+Tumor Encapsulation:
+Partially surrounded
+
+Blood Vessel invasion:
+Not identified
+
+Extrathyrold Extension:
+Not identiﬁed
+
+Surgical Margins:
+Free of tumor
+
+Tumor Multicentricity:
+Papillary thyroid mlcrocarcinoma, two feel (right lobe: 0.8 cm in greatest dimension; isthmus: less than 0.1 cm in
+greatest dimension)
+
+Non-Neoplastic Thyroid:
+
+Exhibits nodular hyperplasia
+
+Exhibits mild chronic lymphocytic thyroiditls
+Parathyroid Glands:
+
+Not identified
+
+Comment: The tumor is positive for TTF-1. PAY-R CK'I, thyroglobulin and p63. p53 is non-contributory. Proliferation index
+labeled with MiB—1 is about 5-1 0%. has reviewed the case and agrees with the rendered diagnosis.
+
+ 
+
+4. Delphian lymph node; excision:
+- Benign flbroadipose tissue
+— No lymph node identiﬁed
+
+5. Pretracheal tissue:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 1
+
+ 
+
+IA'ITEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL), AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+
+*** Report Electronically Signed Outt"
+
+ 
+
+Special Studies:
+
+Result Special Stain Comment
+0K7
+TTF~1
+PAX8.
+NEG CONT
+lMM RECUT
+THYROG
+MlB-1 (Ki-67)
+P53
+4A4IP63
+RECUT
+RECUT
+
+ 
+
+Page 2 of 4
+
+Gross Description:
+'u—n‘ - n n
+
+1. The specimen is received fresh for intraoperative consultation and is labeled “right paratracheal node”. it consists of one piece
+of tan pink soft tissue. measuring 0.5 x 0.4 x 0.3cm. Specimen is entirely submitted.
+
+Summary of sections:
+FSC: frozen section control
+
+‘7} , MD.
+
+2. The specimen is received fresh for intraoperative consultation and is labeled “Additional right paratracheal node”. it consists of
+multiple pieces of tan pink soft tissue, measuring 1.0 x 1.0 x 0.5 cm in aggregate. Three lymph nodes are identiﬁed, measuring
+0.3cm. 0.4 cm and 0.6 cm in greatest dimension. Lymph nodes are entirely submitted.
+
+Summary of sections:
+FSC- frozen section control
+
+‘ ’ ‘ ..._.‘\4.0.
+3). The specimen is received fresh. labeled "total thyroideclomy stitch marks right lobe of thyroid" and consists of a thyroid
+weighing 14.5 g. The right lobe measures 5.2 x 2.5 x 1.5 cm , the left lobe measures 3.2 x1.8 x 1.2 cm and the isthmus measures
+1.7 x 0.7 x 0.3 cm. The external surface is covered by a thin fibrous capsule. A 2.5 x 1.5 x 0.4 cm portion of skeletal muscle is
+attached to the lower right pole. The posterior surface of the specimen is inked black. and the anterior is inked blue. Sectioning of
+the right lobe reveals 2 nodules in the mid to lower pole. abutting each other. The larger nodule (N1) is 1.5 x 1.3 x 1.2 cm solid
+whitish, well circumscribed. The smaller nodule (N2) is 0.7 x 0.5 x 0.5 cm. light brown, solid. well circumscribed. Sectioning of the
+left lobe reveals 2 nodules. One nodule is 0.5 x 0.4 x 0.3 cm, solid, present in the mid pole (N1L). Second nodule is 0.4 x 0.3 x 0.3
+cm. solid. well circumscribed. abutting the posterior capsule in the mid aspect. The remaining thyroid parenchyma is red beefy and
+vaguely nodular. Representative sections from both nodules on the right are submitted for TPS. The remaining tissue is serially
+sectioned and entirely submitted.
+
+Summary of sections:
+
+N1 - larger nodule, right lobe (both nodules in block 1)
+N2 - smaller nodule. right lobe
+
+RL - remaining right lobe
+
+RSM - skeletal muscle attached to right lobe
+
+N1 L ~ nodule one left lobe
+
+N2L - nodule two left lobe
+
+LL - remaining left lobe
+
+is - isthmus
+
+’- t. ‘1‘? 9‘
+
+”4"“ ” 11.0.
+
+4). The specimen is received in formalin. labeled "Delphlan node“ and consists of a 0.5 x 0.3 x 0.3 cm fragment of tan soft tissue.
+The specimen is entirely submitted.
+
+Summary of sections:
+U - undesignated
+
+A...“
+
+r
+vm‘ﬁlw
+
+5). The specimen is received in formalin, labeled "Pro-tracheal tissue" and consists of a 0.6 x 0.4 x 0.3 cm fragment of ten soft
+tissue. The specimen ls entirely submitted.
+
+Summary of sections:
+U - undeslgnated
+
+Summary of Sections:
+
+ 
+
+Page 3 of 4
+
+—-. h—fyuuo 5’ —. e-o “a. . .-
+
+Part 1: Right paratracheal node (is)
+
+Block
+1
+
+Part 2:
+
+Block
+1
+
+Part 3:
+
+Block
+
+JANAANNA
+
+Part 4:
+
+Block
+1
+
+Part 5:
+
+Block
+1
+
+Sect. Site
+FSC
+
+P63
+1
+
+Additional right paratracheal node (fs)
+
+Sect. Site
+FSC
+
+Total thyroidectomy
+Sect. Site
+
+RSM
+Delphlal node
+
+Sect. Site
+U
+
+Pretrecheal tissue
+
+Sect. Site
+U
+
+Intraogerative Consultation;
+Note: The diagnoses given in this section pertain only to the tissue sample examined at the time of the intraoperative
+consultation.
+
+d-FN—i-bNNN'U
+
+PC:
+1
+
+O
+to
+
+PCs
+
+P05
+
+1. Frozen section diagnosis: Right paratracheal node (is): Benign lymph node
+Permanent diagnosis:
+
+2. Frozen section diagnosis: Additional right paratracheat node (fs): Metastatic papillary carcinoma
+Permanent diagnosis:
+
+Q
+
+ 
+
+Page 4 of 4 END OF REPORT
+

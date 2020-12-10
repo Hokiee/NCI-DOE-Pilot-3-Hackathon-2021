@@ -1,0 +1,165 @@
+cmem
+
+ 
+
+UUID:1CA1DEC3-AD79-4OF7-8598-24A27F47C904
+Surg Path TCGA—BS-ASFA—aiAwR edacted
+
+R
+III III |||||lllllll||||||||||||||||||||lll|ll||||||||||||| ll
+llllll |||
+llll II
+
+|
+lllllllllllllllllllllllllllll||||||||llll|l|||l|lll |
+
+CLINICAL HISTORY:
+Malignant neoplasm corpus uteri.
+
+GROSS EXAMINATION:
+
+A. "Uterus, cervix, bilateral tubes and ovaries", received fresh and placed in
+formalin is a 109 gram, 9 x 6 x 4.5 cm uterus. The serosa is red—tan with
+numerous fibrinous adhesions. The ectocervix is pink—tan, smooth and
+
+glistening. There is a 1.1 cm central 05 leading into a 1.5 cm trabecular
+endocervical canal. The 5.0 x 3.2 cm endometrial cavity discloses a posterior
+wall 4.5 x 3.0 cm exophytic soft tan tumor and an 4.5 x 1.6 cm exophytic, soft
+
+tan mass on the anterior wall. The tumor in the 1.9 cm thick posterior wall
+invades to a depth of 1.0 cm. Two intramural leiomyomata are less than 1.2
+cm in greatest dimension. The right adnexa consists of a 1.5 x 1.0 x 0.6 cm
+
+grossly unremarkable ovary with a 4.3 cm long, 0.4 cm in diameter fimbriated
+fallopian tube with a segment mostly consistent with prior tubal ligation. The
+left adnexa consists of a 1.5 x 1.0 x 0.4 cm grossly unremarkable ovary with
+an attached 3.5 cm long, 0.4 cm in diameter fimbriated fallopian tube with a
+segment missing consistent with prior tubal ligation.
+
+BLOCK SUMMARY:
+
+Al—Z anterior cervix
+
+A3— posterior cervix
+
+A3—4 anterior endomyometrium with tumor
+
+A5—6 posterior endomyometrium with tumor (deepest invasion)
+
+A7— anterior lower uterine segment and endocervix with tumor
+AB— posterior lower uterine fragment and endocervix with tumor
+A9— right adnexa
+
+AlO— left adnexa
+
+B. "Right external iliac nodes". Received fresh and placed in formalin is a
+5.5 x 3.2 x 1.0 cm aggregate of yellow—tan fibroadipose tissue which is
+bisected for lymph nodes. One lymph node candidate is trisected and entirely
+submitted in blocks Bl—2. The remaining tissue is submitted in blocks B3-5.
+
+C. "Right obturator nodes". Received fresh and placed in formalin is a 6.5 x
+3.5 x 1.8 cm fragment of yellow—tan fibroadipose tissue which is bisected for
+lymph nodes. Three lymph node candidates are submitted in block C1. The
+remaining tissue is submitted in blocks C2—4.
+
+(‘
+D. "Aortic nodes". Received fresh and placed in formalin is a 5.5 x 2.0 x 1.0
+cm aggregate of yellow-tan fibroadipose tissue which is bisected for lymph
+nodes. Three lymph node candidates are submitted in block D1. One lymph node
+candidate is bisected and submitted in block D2. The remaining tissue is
+submitted in block D3.
+
+E. "Left external iliac nodes". Received fresh and placed in formalin is a
+4.5 x 3.5 x 2.0 cm aggregate of yellow—tan fibroadipose tissue which is
+bisected for lymph nodes. Three lymph node candidates are submitted in block
+E1. Two lymph node candidates are submitted in block E2. The remaining
+tissue is submitted in blocks E3-4.
+
+F. "Left obturator nodes". Received fresh and placed in formalin is a 6.0 x
+2.7 x 2.0 cm aggregate of yellow—tan fibroadipose tissue which is dissected
+for lymph nodes. One lymph node candidate is sectioned and entirely submitted
+in blocks F1—2. Two lymph node candidates are submitted in block F3. The
+remaining tissue is submitted in blocks F4—5.
+
+   
+ 
+
+ 
+
+inf”)
+
+MICROSCOPIC EXAMINATION:
+Microscopic examination is performed.
+
+PATHOLOGIC STAGE:
+PROCEDURE: HYSTERECTOMY, OOPHORECTOMY & LYMPH NODES
+
+t
+
+PATHOLOGIC STAGE: pTlC pNO pMX
+
+NOTE:
+
+Information on pathology stage and the operative procedure is transmitted to
+this Institution‘s Cancer Registry as required for accreditation purposes by
+the Commission on Cancer. Pathology stage is based solely upon the current
+tissue specimen being evaluated, and does not incorporate information on any
+specimens submitted separately to our Cytology section, past pathology
+information, imaging studies, or clinical or operative findings. Pathology
+stage is only a component to be considered in determining the clinical stage,
+and should not be confused with nor substituted for it. The exact operative
+procedure is available in the surgeon's operative report.
+
+DIAGNOSIS:
+A. UTERUS: 109.0 GRAMS
+ENDOMETRIUM:
+
+TUMOR SITE: POSTERIOR CORPUS
+HISTOLOGIC TYPE: ENDOMETRIOID ADENOCARCINOMA.
+FIGO GRADE: 3
+TUMOR SIZE: 4.5 X 3.0 X 3.0 CM.
+MAXIMUM DEPTH OF MYOMETRIAL INVASION: 1.0 CM, IN A 1.9 THICK WALL.
+LYMPHATIC/VASCULAR INVASION: NEGATIVE
+ADJACENT NON-NEOPLASTIC ENDOMETRIUM: SESSILE POLY? & ATROPHY.
+REMAINING MYOMETRIUM: LEIOMYOMA
+CERVIX & SEROSA: NO PATHOLOGIC DIAGNOSIS.
+SPECIMEN MARGINS: NOT INVOLVED
+
+THE FOLLOWING SPECIMENS ARE FREE OF TUMOR
+
+A. OVARIES AND FALLOPIAN TUBES, BILATERAL: NO PATHOLOGIC DIAGNOSIS.
+
+MESOTHELIUM AND SOFT TISSUE ADJACENT TO LEFT OVARY: MESOTHELIAL
+HYPERPLASIA
+
+RIGHT EXTERNAL ILIAC LYMPH NODES: NO TUMOR IN 2 LYMPH NODES (0/2).
+
+RIGHT OBTURATOR LYMPH NODES: NO TUMOR IN 3 LYMPH NODES (0/3).
+
+PERIAORTIC LYMPH NODES: NO TUMOR IN 2 LYMPH NODES (0/2).
+
+LEFT EXTERNAL ILIAC LYMPH NODES: NO TUMOR IN 2 LYMPH NODES (0/2).
+
+LEFT OBTURATOR LYMPH NODES: NO TUMOR IN 4 LYMPH NODES (0/4).
+
+"JCIJOOCU
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+“
+
+CI ADDENDUM 1:
+Please see '
+tests.
+
+results of supplementary
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+~
+—
+
+20f2
+

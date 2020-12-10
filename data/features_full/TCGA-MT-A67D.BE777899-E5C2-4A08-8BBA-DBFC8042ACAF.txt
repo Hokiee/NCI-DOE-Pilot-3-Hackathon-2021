@@ -1,0 +1,370 @@
+study subject ID:
+
+unique patient ll):
+
+Tumor ID:
+
+Collected:
+Received:
+
+Reported:
+
+SPECIMENlS):
+A: Left lateral margin
+
+B: Right lateral margin
+
+C: Left anterior margin
+D: Right posterior margin
+
+E: Right anterior margin
+
+F: Deep margin
+
+G: Bone
+
+H: Ventral side of tongue
+
+10.1) —b:.3
+
+3 . udQ—'
+
+Wmos 8071/3
+' M
+54: Wed“
+
+' - - MB-BBBA-DBFCBB‘ZACAF
+UUID.BE777B:§T EEC! ‘ Redacted
+
+llllllllllllcllﬁllllllllllllll'lllllllllllﬁllllllllllllllllllllllIll
+
+llllllllllllllllllllllllllllllllll
+lllllllllllllll‘lllllﬂlll‘llllnllllllwlllllllllllllllllllllllllllllllllllllllll
+
+l: Right composite resection, anterior floor of mouth/mandible
+
+J: Sublingual gland, right
+
+K: Level 1
+
+L: Level 2A
+
+M: Level 3
+
+N: Level 4
+
+O: Level 23
+
+FINAL DIAGNOSIS:
+I. Anterior floor of mouth/mandible, right, composite resection:
+
+- Tumor type: Invasive squamous cell carcinoma, keratinizing type,
+moderately differentiated.
+
+- Tumor site: anterior floor of mouth.
+
+- Tumor size: 2.5 x 1.3 x 0.3 cm.
+
+- Depth of invasion: 0.3 cm.
+
+- Angiolymphatic invasion: Absent.
+
+- Perineural invasion: Absent.
+
+- Bone sections including bone margins free of involvement by
+tumor
+
+- Status of margins: Free of tumor. The tumor is 0.5 cm
+
+from the closest margin (posterior); all other margins are approximately
+1 cm or more from the tumor, plus separately submitted margins are all
+free of tumor
+
+- Total lymph nodes: 23
+
+- Number of lymph nodes involved: None (0/23)
+
+- Stage pTZ/NO/MO
+
+A. Oral cavity, left lateral margin, excision (including AFSl)
+
+- No evidence of malignancy.
+
+B. Oral cavity, right lateral margin, excision (including BFSl)
+
+- No evidence of malignancy.
+
+C. Oral cavity, left anterior margin, excision (including CF51)
+
+- No evidence of malignancy
+
+D. Oral cavity, right posterior margin, excision (including DFSl)
+
+- No evidence of malignancy
+
+E. Oral cavity, right anterior margin, excision (including EF51)
+
+- No evidence of malignancy
+
+F. Oral cavity, deep margin, excision (including FFSl)
+
+- No evidence of malignancy
+
+6. Bone, biopsy
+
+- Benign bone with no evidence of malignancy
+
+H. Tongue, ventral side, excision (including HFSl)
+
+— No evidence of malignancy
+
+J. Sublingual gland, right, excision:
+
+- Benign salivary gland tissue
+
+K. Lymph nodes, level 1, neck dissection
+- Two lymph nodes with no evidence of metastatic carcinoma (0/2)
+
+- Unremarkable submandibular gland
+
+L. Lymph nodes, level 2A, neck dissection
+
+- Three lymph nodes with no evidence of metastatic carcinoma (0)3)
+
+M. Lymph nodes, level 3, neck dissection
+
+— Four lymph nodes with no evidence of metastatic carcinoma (0/4)
+
+N. Lymph nodes, evel 4, neck dissection
+
+- Four lymph nodes with no evidence of metastatic carcinoma (0/4)
+
+0. Lymph nodes, level 28, neck dissection
+
+- Ten lymph nodes with no evidence of metastatic carcinoma (0./10)
+
+l have personally reviewed all specimens and or slides, including the
+listed special stains, and used them with my medical judgement to
+
+determine the ﬁnal diagnosis.
+
+CLINICAL HISTORY:
+The patient is 3 year-old man with squamous cell carcinoma of the
+floor of mouth. Operative procedure: Composite resection of anterior
+
+floor of mouth and mandible.
+
+GROSS:
+Received are ﬁfteen fresh and formalin-ﬁxed containers each labeled
+
+with the patient's name, and medical record number.
+
+A. The ﬁrst container is additionally labeled "A - left
+lateral margin." The specimen consists of a 1.7 x 0.9 x 0.5 cm tan-pink
+soft tissue fragment. The specimen is submitted intact for frozen
+
+section analysis as AFS1.
+
+B. The second container is additionally labeled "8 - right
+lateral margin." The specimen consists of a 6.2 x 0.5 x 0.3 cm tan-pink
+soft tissue fragment. The specimen is submitted intact for frozen
+
+section analysis as BFSl.
+
+C. The third container is additionally labeled "C - left
+anterior margin." The specimen consists of a 4.1 x 0.5 x 0.3 cm
+tan-pink soft tissue fragment. The specimen is submitted intact for
+
+frozen section analysis as CF51.
+
+D. The fourth container is additionally labeled "Dj - right
+posterior margin." The specimen consists of a 1.5 x 0.5 x 0.3 cm
+tan-pink soft tissue fragment. The specimen is submitted intact for
+
+frozen section analysis as DFSl.
+
+E. The ﬁfth container is additionally labeled "E - right
+anterior margin." The specimen consists of a 3.2 x 0.7 x 0.3 cm
+tan-pink soft tissue fragment. The specimen is submitted intact for
+
+frozen section analysis as EFSl.
+
+F. The sixth container is additionally labeled "F - deep
+margin." The specimen consists of a 0.9 x 0.6 x 0.3 cm red-tan soft
+tissue fragment. The specimen is submitted intact for frozen section
+
+analysis as FFSl.
+
+G. The seventh container is additionally labeled "G - bone.“
+The specimen consists of a 0.9 x 0.8 x 0.1 cm tan, bony fragment. The
+specimen is submitted intact following decalcification in a single
+
+cassette.
+
+H. The eighth container is additionally labeled "H - ventral
+side of tongue." The specimen consists of a 1.7 x 0.7 x 0.3 cm tan-pink
+soft tissue fragment. The specimen is submitted intact for frozen
+
+section analysis as HF51.
+
+l. Specimen l is labeled "right composite resection anterior
+
+floor of mouth and mandible." The specimen consists of a segment of
+mandible with attached mucosa and soft tissue measuring 6.0 x 2.2 x 3.5
+cm. The portion of mandibular bone measures 6.0 x 1.0 x 0.8 cm. The
+specimen is received oriented as follows: Two long - right, one long -
+left, two short - anterior. The specimen is inked as follows: Anterior
+
+- blue, posterior - green, left - yellow, right - red, deep — black. The
+
+mucosal surface is roughened, tan—purple, and a ﬁrm white lesion is
+
+identiﬁed which measures 2.5 x 1.3 cm on cross-section. The tumor is
+
+located 1.1 cm from the right margin, 0.9 cm from the left margin, 3.0
+
+cm from the deep margin and 0.5 cm from the posterior margin. The tumor
+invades to a depth of 0.3 cm upon sectioning. Soft tissue and mucosal
+margins are submitted and the specimen is placed in decalciﬁcation
+solution and the bony portion of the specimen will be submitted at a
+
+later date. Representative sections were procured for future studies on
+
+this specimen.
+
+Summary of sections:
+
+I1 - anterior soft tissue margin, en face (blue).
+
+I2 - left soft tissue and mucosal margin , perpendicular (yellow).
+
+l3 - right soft tissue and mucosal margin, perpendicular (red).
+
+I4 - tumor with posterior (green) and deep (black) soft tissue margins.
+l5-l6 - additional tumor with posterior (green) soft tissue margin.
+
+l7- left mandibular margin, en face, and decal.
+
+l8 - right mandibular bone margin, en face, decal. .
+
+l9-I10 - representative sections of mandible, decal.
+
+J. The tenth container is additionally labeled "J - sublingual
+
+gland, right." The specimen consists of a single, partially membranous,
+tan, soft tissue mass measuring 2.5 x 1.4 x 1.1 cm in greatest
+dimension. The external surface displays a roughened area. The
+specimen is serially sectioned to reveal tan, lobulated cut surfaces.
+Distinct masses or lesions are not grossly identiﬁed. The entire
+
+specimen is submitted in three cassettes.
+
+Summary of Sections:
+
+11-J3 - entire right sublingual gland.
+
+K. The eleventh container is additionally labeled "K - level
+
+1." The specimen consists of a 5.5 x 4.2 x 2.8 portion of tan-pink soft
+tissue. The tissue is dissected to reveal ﬁve potential lymph nodes
+ranging in size from 0.3 to 2.4 cm. Also identified is a possibly
+
+enlarged submandibular gland. The gland is serially sectioned to reveal
+to reveal pyramidal tan cut surfaces without masses or lesions
+
+identified. Representative sections are submitted.
+
+Summary of Sections:
+
+K1 - one potential lymph node, bisected, entirely submitted.
+K2 - one potential lymph node, bisected, entirely submitted.
+K3 - three potential lymph nodes, submitted intact.
+
+K4 - representative submandibular gland.
+
+L. The twelfth container is additionally labeled "L - level
+
+2A." The specimen consists of a single unoriented portion of yellow—tan
+soft tissue measuring 4.9 x 2.1 x 1.5 cm in greatest dimension. The
+
+soft tissue is dissected to reveal five potential lymph nodes ranging in
+size from 0.3 to 2.2 cm in greatest dimension. Nodes are entirely
+
+submitted.
+
+Summary of Sections:
+L1 — one potential lymph node, bisected, entirely submitted.
+
+L2 - four potential lymph nodes, submitted intact.
+
+M. The thirteenth container is additionally labeled "M - level
+
+3." The specimen consists of a single unoriented portion of yellow-tan,
+fibrofatty tissue measuring 6.1 x 4.1 x 0.9 cm in greatest dimension.
+The soft tissue is dissected to reveal three potential lymph nodes
+ranging in size from 0.3 to 2.5 cm in greatest dimension. Nodes are
+
+entirely submitted.
+
+Summary of Sections:
+M1 - one potential lymph node, bisected, entirely submitted.
+
+M2 - two potential lymph nodes, submitted intact.
+
+N. The fourteenth container is additionally labeled "N - level
+4." The specimen consists of two irregular portions of yellow-tan soft
+tissue measuring 1.7 and 2.5 cm in greatest dimension. The fragments
+
+are submitted intact in two cassettes.
+
+Summary of Sections:
+
+N1-N2 - entire level 4.
+
+O. The fifteenth container is additionally labeled "0 - level
+
+28." The specimen consists of a single, unoriented yellow-tan portion
+
+of fibrofatty soft tissue measuring 4.5 x 2.2 x 1.0 cm in greatest
+dimension. The soft tissue is dissected to reveal ten potential lymph
+
+nodes ranging in size from 0.3 to 1.6 cm in greatest dimension. The
+
+nodes are entirely submitted.
+
+Summary of Sections:
+
+01 - one potential lymph node, bisected, entirely submitted.
+02 - four potential lymph nodes, submitted intact.
+
+03 - ﬁve potential lymph nodes, submitted intact.
+
+MICROSCOPIC:
+
+Microscopic examination is performed. Permanent sections confirm the
+
+frozen section diagnoses.
+
+    
+      
+  
+ 
+
+ 
+ 
+
+Jhgnosls alzaeglni q
+
+5 iman'umot Stu-QM
+
+r .
+
+I “I
+
+41PM Disc-pm ' .
+’rior MIR-£33! I‘Ltory '-
+
+Zlual/Synchmnmvs Puma
+
+‘r: :
+

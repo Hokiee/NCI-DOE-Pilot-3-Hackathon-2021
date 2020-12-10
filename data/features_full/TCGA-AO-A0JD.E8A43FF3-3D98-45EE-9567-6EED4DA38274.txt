@@ -1,0 +1,321 @@
+ 
+
+ 
+
+   
+
+1)
+
+2)
+
+3)
+
+  
+
+' Clinical Diagnosis & History:
+Lett breast lump.
+
+FNA adenocarcinoma;
+
+core biopsy IFDC.
+
+Specimens Submitted:
+
+SP: Sentinel node #1, level one, left axilln (Es)
+
+SP: Sentinel node #2, level one, left nxilll (ts)
+
+SP: Left breast
+
+SP: Levels I and ll left axillary contents
+
+SP: Levels II and III left axillary contents
+DIAGNOSIS:
+
+LYMPH NODES, SENTINEL #1, LEVEL I, LEFT AXILLA; EXCISION:
+TWO BENIGN LYMPH NODES (0/2) .
+
+LY'M'PH NODES, SENTINEL #2, LEVEL I, LEFT AXILLA; EXCISION:
+ONE OF ONE LY'MPH NODE POSITIVE FOR METASTATIC CARCINOMA (1/1).
+EXTRANODAL EXTENSION IS NOT PRESENT.
+
+BRHST' “w“ "As“cmm‘ UUID:EEAASFF3-3D98-45EE-9567-6EED4DA35274
+
+TCGA-AO-ADJD-OlA-PR
+
+lllllllllllllllllllll
+|
+
+- INVAS IVE DUCTAL
+
+ 
+ 
+
+- NO INVOLVEMENT 0? THE NIPPLE BY CARCINOMA Is IDENTIFIED. IIIll"Inlhqlllllllllllllfllmhlll
+- CALCIFICATIONS ARE PRESENT FOCALLY IN BENIGN BREAST PARENC’HYMA. Illllllll
+- VASCULAR INVASION Is PRESENT.
+- No INVOLVEMENT or THE SURGICAL MARGINS BY INVASIVE CARCINOMA Is
+IDENTIFIED. 1
+
+ 
+
+- THE NON-NEOPLASTIC BREAST TISSUE SHOWS PLORID PAPILLONATOSIS OF THE
+NIPPLE, BIOPSY SITE CHANGES, FIBROCYSTIC CHANGES, AND SCLEROSING ADENOSIS.
+- THE LYMPH NODE STATUS IS AS FOLLOWS (EXPRESSED AS THE NUMBER OF POSITIVE
+
+LYMPH NODES IN RELATION TO THE TOTAL NUMBER OP LYMPH NODES EXAMINED) : 2/4.
+THERE IS NO EXTRANODAL EXTENSION OF CARCINOMA.
+- ONE BENIGN INTRAMAMMARY LYM‘PH NODE (O/l) .
+4) LYMPH NODES, LEFT HILLARY, LEVELS I AND II,- EXCISION:
+- EIGHT BENIGN LYNPH NODES (0/10) .
+/c A —0 , 3
+
+** Continued on next page *'
+
+a i . t.”
+V ¢ . , \ W7 MAM; Yfﬁ /3
+
+52%,: WW an»? ’4” WM"
+
+   
+
+:rlle'h an
+’ nosls Disaep .
+2::urv Tumor S“! Ductepancv
+
+HIPM Disaeﬂlm
+
+ 
+ 
+ 
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+------------- Page 2 of 5
+
+5) . me NODEs, LEFT AxILLANY, LEVELS II AND III; EXCISION:
+‘ - NINE BENIGN LYMPH NODEs (0/9) .
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF
+THE SLIDES (AND/0R OTHER MATERIAL), AND THAT I HAVE REVIEWED AND APPROVED
+THIS REPORT.
+
+*** Report Electronically Signed out ***
+
+Special Studies:
+Result Special Stain Comment
+RECUT
+RECUT
+ER-C
+PR-C
+HERZ-C
+NEG CONT
+INN RECUT
+NEG-HERZ
+
+Gross Description:
+
+1) The specimen is received fresh for frozen section, labeled "Sentinel
+node #1, level 1, left axilla'. It consists of two lymph nodes measuring
+1.0 and 0.5 cm. They are bisected and entirely frozen.
+
+Summary of Sections:
+PSC - Frozen section control
+
+2) The specimen is received fresh for frozen section, labeled "Sentinel
+node #2, level 1, left axilla". It consists of one large lymph node,
+measuring 2.5 cm. The specimen is bisected and submitted in two cassettes.
+
+Summary of Sections:
+FSCA - Frozen section control A
+FSCB - Frozen section control B
+
+3) The specimen is received fresh, labeled l'I.eft breast. stitch marks
+axillary tail". It consists of a 34 x 22 x 6 cm mastectomy with a 30 x 12
+cm ellipse of skin and a 1.5 cm everted nipple. A mass is palpable in the
+12-3:00 position and the axillary tail is designated by a long black suture.
+The specimen is serially sectioned, revealing a 6.0 x 5.0 x 2.8 cm
+
+*' Continued on next page '*
+
+ 
+
+ 
+
+ 
+
+ 
+   
+
+m
+--------- -- --- Page 3 of 5
+gray-white, ill-defined mass, grossly 2 cm from the deep margin. Multiple
+lymph nodes are identified in the axillary tail, ranging from 0.3 to 3.5 cm.
+A ‘single intramammary lymph node is identified. All lymph nodes are
+submitted. TPS is submitted.
+
+  
+
+ 
+    
+
+Summary of Sections:
+
+N - Nipple
+
+DH - Deep margin
+
+MASS - Multiple sections of the mass
+
+UOQ - Representative upper outer quadrant
+LOQ - Representative lower outer quadrant
+UIQ - Representative upper inner quadrant
+LIQ - Representative lower inner quadrant
+SK - Representative skin
+
+IMLN - single intramsmary lymph node
+
+LN - Multiple lymph nodes
+
+BLN - Bisected lymph node
+
+SSLN - Largest serially sectioned lymph node
+
+4) The specimen is received in formalin, labeled "Levels 1 and 2, left
+axillary contents". It consists of an 11 x 7 x 2 cm lobulated portion of
+fibrofatty tissue, with palpable lymph nodes ranging in size from 0.5 to 1.4
+cm. A portion of a grossly positive lymph node is submitted for TPS. All
+lymph nodes are submitted.
+
+Sun-nary of Sections:
+LN - Single lymph node per cassette
+
+5) The specimen is received in formalin, labeled "Levels 2 and 3 left
+axillary contents". It consists of a 3.0 x 2.0 x 1.5 cm lobulated, fatty
+tissue fragment with palpable lymph nodes. All lymph nodes are submitted.
+
+Sumry of Sections:
+LN - Lymph nodes 3
+
+Sumary of Sections:
+Part 1: SP: Sentinel node #1, level one, left axilla (fs)
+
+Block Sect . Site PCs
+1 fsc 1
+
+Part 2: SP: Sentinel node #2, level one, left axilla (fs)
+
+Block Sect. Site PCs
+1 fsca l
+
+** Continued on next page **
+
+ 
+
+ 
+
+ 
+
+ 
+
+Par't 3: 59: Left breast
+
+Sect. Site PCs
+
+bln 1
+dm 1
+imln 1
+liq 2
+1n 4
+log 2
+mass 4
+n 1
+
+sh 1
+ssln 4
+uiq 2
+uoq 2
+
+G1
+H
+O
+0
+7f
+
+”NAHHANAHHHH
+
+Part 4: SP: Levels I and II left axillary contents
+
+Block Sect. Site PCs
+10 1n 10
+l tpsln 1
+
+Part 5: SP: Levels II and III left axillary contents
+
+Block Sect. Site PCs
+
+4 ln 4
+Procedures/Addenda:
+
+Addendum
+
+Date Ordered: Status: Signed Out
+Date Complete: By:
+
+Date Reported
+
+Addendum Diagnosis
+ADDENDUM
+
+SITE: LEFT BREAST
+PART #3.
+
+ER: 90% OF NUCLEAR STAINING WITH MODERATE INTENSITY.
+PR: 40% OF NUCLEAR STAINING WITH MODERATE INTENSITY.
+HERZ/NEU (HERCEPTEST): NEGATIVE (STAINING INTENSITY 0! 1+).
+
+** Continued on next page *'
+
+ 
+
+  
+
+-; .......... Page 5 of 5
+
+' ' Intraopsrative Consultation:
+
+ 
+
+'Note: The diagnoses given in this section pertain only to the
+tissue sample examined at the time of the intraoperative
+consultation.
+1) FROZEN SECTION DIAGNOSIS: BENIGN (0/2).
+PERMANENT DIAGNOSIS: SAME.
+2) F““"““ SECTION DIAGNOSIS: METASTATIC CARCINOMA IN ONE LYMPH NODE
+(1/1).
+PERMANENT DIAGNOSIS: SAME.
+MD
+
+ 
+
+** End of Report **
+
+‘ MALL“:
+
+ 
+
+ 
+

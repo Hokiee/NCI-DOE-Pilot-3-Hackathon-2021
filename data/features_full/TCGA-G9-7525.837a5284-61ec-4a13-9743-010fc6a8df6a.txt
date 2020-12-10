@@ -1,0 +1,154 @@
+SPECIMENS:
+A. PROSTATE
+
+B. RIGHT PELVIC LYMPH NODES
+C. LEFT PELVIC LYMPH NODES
+
+SPECIMEN(S):
+A. PROSTATE
+B. RIGHT PELVIC LYMPH NODES
+0. LEFT PELVIC LYMPH NODES
+
+DIAGNOSIS:
+A. PROSTATE, PROSTATECTOMY:
+- PROSTATIC ADENOCARCINOMA, GLEASON GRADE 4+3 (7/10), INVOLVING ABOUT 10% OF
+PROSTATE VOLUME, PRESENT IN BOTH LOBES AND WITH FOCAL EXTRAPROSTATIC
+EXTENSION
+- SEMINAL VESICLES AND VAS DEFERENS, NO TUMOR SEEN
+- SURGICAL RESECTION MARGINS NEGATIVE FOR TUMOR
+- SEE SYNOPTIC REPORT.
+
+B. LYMPH NODES, RIGHT PELVIC, EXCISION:
+- FOUR LYMPH NODES, NEGATIVE FOR METASTASES (0/4)
+
+C. LYMPH NODES, LEFT PELVIC, EXCISION:
+- TWO LYMPH NODES, NEGATIVE FOR METASTASES (0/2)
+
+SYNOPTIC REPORT - PROSTATE GLAND
+Location: Left
+
+Right
+
+Posterior lateral
+
+WHO CLASSIFICATION
+
+Epithelial tumors
+
+Adenocarcinoma 8140/3
+
+Multicentricity: Yes
+
+Gland Involvement: 10%
+
+Gleason Grade/Sum:: Grade 4 + 3 , Sum 7
+High Grade PIN Present: Yes
+Perineural Invasion: Yes
+Vascular/Lymphatic Invasion: No
+
+Seminal Vesicle Invasion: No
+Periprostatic Fat Involved: Yes
+Details: focal at left posterior
+Bladder Neck Involved: No
+
+Margins Involvement: No
+
+Frozen Performed: No
+
+Post Hormonal Therapy Change: No
+
+Lymph Nodes: Negative Right 0/4 Left 0/2
+
+Other Pathologic Findings: None identified
+
+Pathological Staging (pTNM): T 2c N 0 M x
+
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+pT2c: Tumor involves both lobes
+
+pMX: Cannot be assessed
+
+GROSS DESCRIPTION:
+A. PROSTATE
+Received fresh labeled with the patient's identification and designated "prostate" is an intact
+prostatectomy specimen weighing 59 g and measuring 5.5 cm from right to left, 4.4 cm from anterior to
+posterior, and 4.2 cm from apex to base. The capsule is smooth and red. Ink code: Apex-red, anterior-
+orange, posterior-black, base-blue, right lateral-green, left lateral-yellow. The apex and base are
+removed from the specimen to yield a new weight of 40g. The specimen is serially sectioned from apex
+to base to reveal a yellow-tan ill-defined mass in the left lateral portion of the specimen, 2.2 x 1.8 x 1.5
+
+Tss-
+
+cm approaching the at distance of 0.2 cm. The right and left seminal vesicles, 2.3 x 1.4 x 0.3, and 2.4 x
+1.2 x 0.3 cm, respectively, are bisected to show beige tan cystic tissue. The right and left vas deferens,
+3 x 0.5, and 3.1 x 0.4 cm, respectively, are serially sectioned to show firm tan tube structure. A portion
+of the specimen is submitted for tissue procurement, the remainder entirely submitted:
+A1 -A2: Right Apex
+
+A3-A4: Left apex
+
+A5: Level I, right anterior
+
+A6: Level I, right posterior
+
+A7: Level I, left anterior
+
+A8: Level I, left posterior
+
+A9-A11: Level II, capsule, right side
+
+A12-A15: Level II, capsule, left side
+
+A16-A17: Right lateral base
+
+A19-A21: Right base
+
+A22: Right base with proximal urethral margin
+
+A23: Left base with proximal urethral margin
+
+A24-A26: Left base
+
+A27-A28: Left lateral base
+
+A29: Representative section (s) right seminal vesicle, right vas deferens
+
+A30: Representative section (s) left seminal vesicle, left vas deferens
+
+B. RIGHT PELVIC LYMPH NODES
+
+Received in formalin labeled with the patient's identification and designated "right pelvic lymph nodes" is
+
+a fragment of fibroadipose tissue measuring 7.4 x18 x 0.3 CM. Two possible lymph nodes identified
+measuring 1.8 by a 0.9 x 0.3 cm in aggregate. Cassettes are submitted as follows:
+
+B1: 2 lymph nodes
+
+B2-B3: Remainder of the specimen
+
+C. LEFT PELVIC LYMPH NODES
+
+Received in formalin labeled with the patient's identification and designated "left pelvic lymph nodes"
+are multiple fragments of fibroadipose tissue measuring 4.3 x 3 x 0.6 cm in aggregate. Two possible
+lymph nodes identified measuring 2.1 x 2 x 0.4 cm in aggregate. Cassettes are submitted as follows:
+Ct: 2 possible lymph nodes
+
+C2: Remainder of the specimen
+
+CLINICAL HISTORY:
+None given
+
+PRE-OPERATIVE DIAGNOSIS:
+Carcinoma, prostate
+
+ 
+ 
+ 
+ 
+ 
+
+Gross Dictation:., ,
+Microscopic/Diagnos IC
+Final Review: M.D., Patholo ist,
+Final:, M.D., Pathologist,
+

@@ -1,0 +1,194 @@
+UUID: 7E33F018- -6494- 413F- -A68D- AC-4013916756ac
+TCGA- YL- -A859- 0111- -PR Red
+
+III IIIII|IIIIIIIIIIIIIIIIIIIII IIIIIIIIIIIIII IIIIIIIIIIIIIIIIIaIIICIItad
+IIII IIIIIII IIIII IIIIIIII IIIIIIIIIIIIIIIIIIIII
+III IIIIIII I IIIIIIIII IIIII I I I IIIII II IIIIIII III IIIII I III
+
+PROSTATE AND PELVIC/OBTURATOR QMPH NODE_S: RADICAL PROSTAT§CTOMY2
+TUMOR PROCUREMENT: '
+HISTOLOGIC TYPE
+ACINAR ADENOCARCINOMA
+HISTOLOGIC GRADE (PRIMARY PATTERN+SECONDARY PATTERN: GLEASON SCORE):
+4 + 5: 9
+TERTIARY PATTERN 3 5' W 3"“; PW dy ”45 I 7 I
+
+PERCENTAGE OF DIFFERENT GLEASON PATTERNS
+
+NOT REPORTED é " b .3
+TUMOR LOCATION I ‘D
+
+APEX
+
+ﬂdeLaV/mmyb ms Mam/3
+ANTERIOR
+
+RIGHT < % 7n » 2° ('6 /. 0/
+LEFT 04/11. . JAG MS
+POSTERIOR
+RIGHT
+LEFI'
+EXTRA-PROSTATIC EXTENSION
+PRESENT
+FOCAL
+SITE OF EXTRA-PROSTATIC EXTENSION
+ANTERIOR
+LEFT
+SEMINAL VESICAL INVASION
+ABSENT
+SURGICAL MARGINS
+INVOLVED BY INVASIVE CARCINOMA
+APEX
+ANTERIOR
+RIGHT
+LEFT
+NATURE OF POSITIVE MARGINS
+NOT REPORTED
+EXTENT OF POSITIVE MARGINS
+MULTIFOCAL
+MILLIMETRIC EXTENT OF POSITIVE MARGINS: _NOT REPORTED
+
+GLEASON GRADE OF CARCINOMA PRESENT AT THE POSITIVE MARGINS
+NOT REPORTED
+
+LYMPHOVASCULAR INVASION
+NOT REPORTED
+PERINEURAL INVASION
+PRESENT
+TUMOR VOLUME
+PROPORTION OF PROSTATE INVOLVED BY CARCINOMA: _50%
+TREATMENT EFFECT ON CARCINOMA
+NOT APPLICABLE
+LYMPH NODES
+LEFT PELVIC
+NUMBER OF NODES INDENTIFIED: _2_
+NUMBER OF NODES INVOLVED BY METASTASIS: _O__
+RIGHT OBTURATOR
+NUMBER OF NODES INDENTIFIED: _3_
+NUMBER OF NODES INVOLVED BY METASTASIS: _0_
+
+la n/I
+
+Case
+Reviewer lmtials Reviewed:
+
+ 
+
+PATHOLOGICAL STAGING
+pT3a
+pNO
+pMX
+
+ 
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mm The TCG/l Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (1'55): _‘ _TSS Identifier: __ _TSS Unique Patient Identiﬁer:
+Completed By (IntewiewerName on OpenCII'nica}: .. _AwCompIeted Date: w
+Diagnosis Information
+ii Data Element Entry Alternatives Working Instructions
+| , . Proyiae the diagnosis] histologic‘subiypeﬁ) dooumentcd on
+1 :3;t:;:g*g§;:éggr‘s We 2, . mom/Wm trainsneezing:transits: We
+
+armor/J (Jr 5: 57
+
+Pithl R rt . 4-
+1 ° °gy 9‘” mean” £47781le
+
+ 
+
+llistologic features of Provxde the histologic features selected on the TCGA Case
+
+ 
+
+2 the sample provided ﬂdm’flé -‘7AL%'IWCJNUMQ QuaIIIy comm] Form compIeLw for this case.
+for TCGA, as reﬂected (3173339 .5"! S": c?
+on the CQCF.
+
+ 
+
+ 
+
+IDiscrepancy between Pathology Report and Case Quality Control Form
+
+ 
+
+ 
+
+3 Provide the reason for Provide a reason describingwhy lIIc dingnOSIs on the initial
+
+- . '- _ S I , ~ pathology report for this case is not consistent with the
+the discrepancy WW 0‘2} I)“; diagnosis Selected on the TCGA Case Quality Control Form.
+between the pathology
+
+reportand theTCGA " ‘ ( \ u t . i.
+CaseQualityControl ’S‘VLM'LCQ) '9 aH/‘J'WV/ M77531: :3
+
+Fa rm.
+
+(Win/x1e; fame)
+
+ 
+
+Name of 1'35 Reviewing Provide the name of the pathologist who reviewed this case
+
+4 Pathologist or fDrTCGA.
+Biorepository Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above information provided by my institution is true and correct and has been qualizy controlled.
+
+ 
+
+'I‘SS Reviewing Pathologist or Biorepository Director Date
+
+l acknowledge that the above information provided by my institution is true and correct and has been quality controlled. The Attending Pathologist or the
+Department Chairman has been informed or is aware of the above discrepancy in diagnoses.
+
+ 
+
+Principal Investigator Signature Date
+

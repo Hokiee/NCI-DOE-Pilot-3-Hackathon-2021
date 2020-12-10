@@ -1,0 +1,73 @@
+Gross Description Microscopic Description
+I Case
+I D
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Diagnosis Details Comments
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Formatted Path Report
+
+ 
+
+STOMACH TISSUE CHECKLIST
+
+Specimen type: Gastrectomy
+
+Tumor site: Antrum
+
+Tumor size: 10 x 9 x 1 cm
+
+Tumor features: Ulcerated, Annular
+Histologic type: Adenocarcinoma
+Histologic grade: Poorly differentiated
+Tumor extent: Adjacent structures
+(specify) - Lesser omentum
+
+Lymph nodes: 14/14 positive for
+metastasis (lntraabdominal 14/14)
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Perineural invasion: Not specified
+Margins: Uninvolved
+
+Evidence of neo-adjuvant treatment: Not
+specified
+
+Additional pathologic findings: Not
+specified
+
+Comments: None
+
+ 
+
+ 
+
+ 
+
+Excision date
+
+ 
+

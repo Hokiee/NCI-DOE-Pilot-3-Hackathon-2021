@@ -1,0 +1,262 @@
+6mm WWI/V45 (WM/3
+
+£71 04.; Alt/er 642—0 z/Iq/Ir W
+Paﬁentkiey:
+Surgical date:
+TISSUE DESCRIPTION: Al A2 Bl B2 B3 B4 BS B6 B7 C1 D1
+
+D2 E1 F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12 F13 F14 F15 F16
+Portion liver segment VII (540 grams; 13.8 x 11.2 x 9.7 cm),
+tissue from liver segment V (biopsy, No. 1 - 1.5 x 0.9 x 0.7 cm;
+No. 2 - 1.0 x 0.8 x 0.6 cm), tissue from liver segment VIII
+(core biopsies — 1.0 cm in length and 1.5 cm in length), tissue
+from the spleen (biopsy, 0.4 x 0.4 x 0.2 cm), and gallbladder
+(9.4 x 4.7 x 2.2 cm with a cystic duct lymph node, 3.4 x 2.6 x
+2.0 cm).
+
+DIAGNOSIS: r’
+Liver, segment VII, resection: Grade 3 (of 4) hepatocellular
+carcinoma forming a dominant mass, 9.7 x 9.5 x 8.4 cm. Multiple
+(at least 25) smaller tumor nodules are identified adjacent to
+the larger mass, as well as away from it, ranging in size from
+0.1 cm to 2.2 cm. Background liver shows cirrhosis with nodular
+regeneration. Surgical margins are negative for tumor (closest 1
+mm). Liver, seg nt V (No. 2), biopsy: Grade 2—3 (of 4)
+hepatocellular carcinoma, 0.6 x 0.6 x 0.5 cm. Liver, segment
+VIII, needle core biopsy: Grade 2—3 (of 4) hepatocellularw’
+carcinoma. Liver, segment V (No. 1), biopsy: Cavernous
+hemangioma, 0.8 x 0.6 x 0.5 cm.
+
+Spleen, biopsy: Benign splenic tissue.
+
+Gallbladder, cholecystectomy: Mild chronic cholecystitis and
+cholesterolosis. A single cystic duct lymph node is benign.
+
+' - 764-48D6—9C37-E82AADE685F7
+UUID.ECSSBBGD 4 R Redacted
+
+mnu1“\Tﬁﬁ‘ﬁiﬁﬁfﬁﬁﬁﬁﬁimnuuIuuuuluulu
+
+|l||||||||||||l|
+m”mum““I“I“l“um“Hillllillllllllll‘lllll|I|||||I|ll
+
+I“\lllllHlHlllIHllHIHIIHHHHI
+
+ 
+
+VATM'AT If] -
+
+PuﬁentKey:
+Surgical (lute:
+
+TISSUE DESCRIPTION: Al A2 B1 B2 B3 B4 B5 B6 B7 C1 D1
+D2 El F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12 F13 F14 F15 F16
+Portion liver segment VII (540 grams; 13.8 X 11.2 x 9.7 cm),
+
+tissue from liver segment V (biopsy, No. 1 — 1.5 X 0.9 X 0.7 cm;
+No. 2 — 1.0 x 0.8 X 0.6 cm), tissue from liver segment VIII
+(core biopsies - 1.0 cm in length and 1.5 cm in length), tissue
+
+from the spleen (biopsy, 0.4 x 0.4 X 0.2 cm), and gallbladder
+(9.4 X 4.7 X 2.2 cm with a cystic duct lymph node, 3.4 X 2.6 x
+2.0 cm).
+
+DIAGNOSIS:
+
+Liver, segment VII, resection: Grade 3 (of 4) hepatocellular
+carcinoma forming a dominant mass, 9.7 x 9.5 x 8.4 cm. Multiple
+(at least 25) smaller tumor nodules are identified adjacent to
+the larger mass, as well as away from it, ranging in size from
+0.1 cm to 2.2 cm. Background liver shows cirrhosis with nodular
+regeneration. Surgical margins are negative for tumor (closest 1
+mm). Liver, segment V (No. 2), biopsy: Grade 2—3 (of 4)
+hepatocellular carcinoma, 0.6 x 0.6 X 0.5 cm. Liver, segment
+VIII, needle core biopsy: Grade 2~3 (of 4) hepatocellular
+carcinoma. Liver, segment V (No. l), biopsy: Cavernous
+hemangioma, 0.8 X 0.6 X 0.5 cm.
+
+Spleen, biopsy: Benign splenic tissue.
+
+Gallbladder, cholecystectomy: Mild chronic cholecystitis and
+cholesterolosis. A single cystic duct lymph node is benign.
+
+Liver 0 Digestive System CAP Approved
+
+Data elements with asterisks are not required for accreditation purposes for
+
+the Commission on Cancer. These elements may be clinically important.
+but are not yet validated or regularly used in patient management.
+Alternatively. the necessary data may not be available to the pathologist
+at the time of pathologic assessment of this specimen.
+
+LIVER: Resection
+Patient name: ((0 be lie-identiﬁed)
+Surgical pathology number:
+
+MACROSCOPIC
+
+S imen Type
+
+__ Right lobectomy
+
+__ Extended right lobectomy
+_ Medial segmentectomy
+__‘ Left lateral segmentectomy
+M Total left lobectomy
+
+__ Explanted liver
+__ Other (specify):
+_ Not specified
+
+ 
+
+ 
+
+Focality
+_ Solitary (specify location): g y \
+AL Multiple (specify location): C5141)” LV‘T <37?" 4 LII: v >
+
+ 
+
+Tumor Size (/
+Greatest dimension: 10cm
+*Additional dimensions: l' chm
+__ Cannot be determined (see Comment)
+MICROSCOPIC
+
+Hist logic Type
+§_/_ Hepatocellular carcinoma
+
+__ Fibrolamellar hepatocellular carcinoma variant (specify):
+__ Combined hepatocellular and cholangiocarcinoma
+__ Cholangiocarcinoma. intrahepatic
+__ Bile duct cystadenocarcinoma
+__ Undifferentiated carcinoma
+__ Other (specify):
+__“_ Carcinoma. type cannot be determined
+Histologic Grade
+_. Not applicable
+__ GX: Cannot be assessed
+H Gl: Well differentiated
+Gll: Moderately differentiated
+Z Cilll: Poorly differentiated
+__ GIV: Undifferentiated/anaplastic
+__ Other (specify):
+
+ 
+
+ 
+
+l Mleh? NJ.
+
+Valley's/I KS7 1
+
+Pathologic Staging (pTNM)
+
+Primary Tumor (pT)
+
+__ pTX: Cannot be assessed
+
+__ p'l‘O: No evidence of primary tumor
+
+w_ ple Solitary tumor with no vascular invasion
+pTZ: Solitary tumor with vascular invasion or multiple tumors none more than 5 cm
+pT3: Multiple tumors more than 5 cm or tumor involving a major branch ofthe portal
+
+or hepatic vein(s)
+
+__ pT4: Tumor(s) with direct invasion of adjacent organs other than the gallbladder or
+
+perforation of visceral peritoneum
+
+R\e/gional Lymph Nodes (pN)
+
+_ pNX: Cannot be assessed
+
+__ pNO: No regional lymph node metastasis
+
+__ pNI: Regional lymph node metastasis
+
+Specify: Number examined: _,_
+
+Number involved: __
+
+Dist' nt Metastasis (pM)
+
+__ pMX: Cannot be assessed
+
+le: Distant metastasis
+
+*Specify site(s). if known:
+
+ 
+
+ 
+
+Margins (check all that apply)
+
+Parenchymal Margin
+Cannot be assessed
+
+Z Uninvolved by invasive carcinoma / 9
+
+Distance of invasive carcinoma from closest marginz"__ mm
+
+Specify margin:
+
+__ Involved by invasive carcinoma
+
+Bil Duct Margin (Cholangiocarcinoma Only)
+
+__ Cannot be assessed
+
+__ Uninvolved by invasive carcinoma
+Carcinoma in situ absent
+
+*_ Carcinoma in situ present
+
+_ Involved by invasive carcinoma
+
+Other Margin
+
+Specify margin:
+
+_ Cannot be assessed
+
+__ Uninvolved by invasive carcinoma
+
+_ Involved by invasive carcinoma
+
+*Venous (Large Vessel) Invasion (V)
+
+*__ Absent
+
+Present
+
+*~ Indeterminate
+
+*Additional Pathologic Findings (check all that apply)
+
+*_ None identified
+
+*_, Hepatocellular dysplasia
+
+Ductal dysplasia
+
+Cirrhosis/fibrosis
+
+*_ Iron overload
+
+* ___Hepatitis (specify type).
+__‘Othet (specify). M W mayor» wt J" ("H w 42:9” 4..
+
+O
+
+ 
+
+ 
+
+ 
+
+ 
+

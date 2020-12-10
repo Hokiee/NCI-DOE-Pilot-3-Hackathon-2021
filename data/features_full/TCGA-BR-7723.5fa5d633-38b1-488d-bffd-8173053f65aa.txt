@@ -1,0 +1,122 @@
+   
+    
+  
+
+TCGA Pathology Reports
+—
+
+Asterand Case ID Open Clinica TCGA Gross Description
+Subject ID
+
+  
+
+BR—7723
+
+ 
+
+Stomach with the plate-like
+tumour, 12.5 cm; whole
+wall is invaded.
+
+Greater and lesser
+curvature lymph nodes are
+dense, hyperemic;
+omentum -- hyperemia.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Microscopic
+
+Description
+
+Diagnosis
+Details
+
+Formatted Path Report
+
+ 
+
+Adenocarcinoma of
+the stomach, G3,
+with solid structure
+with ulceration and
+perigastric fat
+invasion.
+
+Fifteen lymph nodes
+were examined,
+eight lymph nodes
+demonstrated
+metastases,
+neuroendocrinal
+differentiation can be
+considered.
+Omentum -- normal
+structure.
+
+ 
+
+Tumor Features:
+Ulcerated, Tumor
+Extent: Perigastric
+fat , Venous
+Invasion: Absent,
+Margins: Absent,
+Treatment Effect:
+
+ 
+
+STOMACH TISSUE CHECKLIST
+
+Specimen type: Total
+gastrectomy
+
+Tumor site: Stomach
+
+Tumor size: 12.5 x 0 x 0 cm
+Tumor features: Ulcerated
+Histologic type: Adenocarcinoma
+Histologic grade: Poorly
+differentiated
+
+Tumor extent: Subserosa
+Lymph nodes: 8/15 positive for
+metastasis (Greater and lesser
+omentum 8/15)
+
+Lymphatic invasion: Not specified
+Venous invasion: Absent
+Perineural invasion: Not specified
+Margins: Uninvolved
+
+Evidence of neo-adjuvant
+treatment: Not specified
+Additional pathologic findings:
+Not specified
+
+Comments: None
+
+ 
+
+ 
+
+Date of Procurement
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,233 @@
+""I°=:2::i:3:::°:;:::::::1-”maﬁﬁhifed 1mm «3
+
+III ||||||||||||||||||||||||||l|| |||||l|||||||||llI||||||| » ~
+I“ ||||||||||||||||||||||||||||||||||||||||||||I||||||||||||| WWW
+||||||||||||||||||||||||||I|||||||l||||||||||||||||||||||||||||| a“; 9440,43
+Anatomic Pathology/Cytology Document State: (version) “11' E E My (1 (39.4 a]
+
+3 a 7.52, :3
+
+Update Date/Time:
+
+Final 1
+Patient Name: MRN: Service Date/Time: & 6 e H 6
+DOB/Age/Gendet: Female Provider: 3-7 I ?
+
+Location: Responsible Staff:
+q.» also/15
+
+Surgical Pathology Report
+Patient Name: , Accession #:
+Med: Rec.: Phone Number:
+DOB: Gender: F
+Client:
+Taken:
+Received:
+Reported:
+Physician(s):
+Phy Location:
+CLINICAL HISTORY
+The patient is a —year—old woman who had an oligodendroglioma diagnosed in
+
+and recurrence on . Currently she has nodular contrast—enhancing
+progressive disease.
+OPERATIVE DIAGNOSES
+Possible recurrent tumor
+Operation/Specimen: A: Brain, excision biopsy
+PATHOLOGICAL DIAGNOSIS:
+Brain, right temporal lesion, excision: Glioblastoma with oligodendroglial
+component (WHO Grade IV) (see comment).
+COMMENT
+Sections show a densely cellular pleomorphic glioma demonstrating frequent
+mitotic figures and pseudopalisading necrosis. The tumor cell nuclei are
+hyperchromatic and irregularly shaped, and mostly resemble those found in
+glioblastoma. The prior oligodendroglial phenotype of the tumor cells is not
+clearly recognizable on permanent sections, however mini—gemistocytic type
+cytoplasm can be observed in some of the tumor cells and a small fraction of
+the tumor cell nuclei are roughly round in shape. The latter can also be seen
+in the intraoperative smear preparations. The tumor is focally GFAP positive,
+but largely negative. The tumor is also weakly NeuN positive and shows focal
+synaptophysin positivity. The patient's prior specimen is reviewed
+and confirmed to show mixed oligodendroglial and astrocytic histological
+features. At that time the Ki-67 labeling index of the tumor was
+approximately
+5 to 15%. The current specimen shows little resemblance to the specimen
+histologically and demonstrates a much higher Ki—67 labeling index of 80 to
+90%. This likely reflects transformation of the prior lesion to glioblastoma.
+An immunohistochemical stain for p53 is strongly and diffusely positive.
+Nearly 100% of the tumor cells demonstrate strong nuclear immunoreactivity.
+The K «67 labeling index is 80 to 90%.
+The Mng promoter methylation assay is now negative, and partial loss of
+chrome ome arm 1p is detected without evidence of 19q loss (see
+procedures/addenda below).
+***Electronically Signed Out***
+
+, Senior Staff Pathologist
+
+PROCEDURES/ADDENDA
+
+MGMT Promoter Methylation
+
+Date Ordered: Date Reported:
+
+Interpretation ,
+
+NEGATIVE: No evidence of methylated MGMT promoter is detected.
+Results—Comments
+
+Testing performed on tissue block (A3).
+
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT promoter
+have been shown to benefit from therapy with alkylating agents. Assessment of
+MGMT promoter methylation status involves bisulfite treatment of DNA followed
+by real-time PCR amplification of methylated and unmethylated
+DNA
+
+sequences.
+
+FDA COMMENT: The above data are not to be construed as the results from a
+stand alone diagnostic test. This test was developed and its performance
+characteristics determined by the as
+required by CLIA ‘ 88 regulations. It has not been cleared or approved for
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA has
+determined that such clearance or approval is not necessary. These results
+are
+
+provided for informational purposes only, and should be interpreted only in
+the context of established procedures and/or diagnostic criteria.
+***Electronicallv Signed Out***
+
+, Senior Staff Pathologist
+
+Consultant:
+
+Loss of Heterozygosity 1p, l9q Assay (LOH)
+Date Ordered: Date Reported:
+Interpretation
+
+There is loss of heterozygosity at DlSS4B locus suggestive of partial loss on
+chromosome arm 1p
+
+There is no allelic loss on chromosome arm 19q detected.
+
+Informative loci are: DlSS48, DlSSSZ, D198219, D193412, PLA2G4C and D19S606
+Results—Comments
+
+Testing performed on DNA extracted from a paraffin tumor block
+
+(A3)
+
+and a corresponding blood specimen.
+
+TEST DESCRIPTION: Allelic loss is assessed by PCR assay in Normal DNA
+(baseline)/ Tumor DNA pairs using 3 markers at both 1p and 19q. The 3 markers
+on 1p are DlSS48, DlSlS92, and D18552 (with D18468, D131612, and DlS496 as
+backup markers) and the 3 markers on l9q are D198219, D195412, and PLA2G4C
+(with DlSS606 and D1931182 as backup). All markers are microsatellites (2 or
+4
+
+nt repeats) except PLA2G4C which is a minisatellite (26 nt repeat)
+polymorphism. The markers were selected based on heterozygosity score,
+amplicon size, and ease of interpretation. The backup markers are used if the
+first line markers at that chromosome arm are uninformative or otherwise
+ambiguous in their interpretation. LOH at all informative loci on each
+chromosomal arm represents the typical finding in oligodendrogliomas with 1p
+and 19q deletion.
+
+FDA COMMENT: The above data are not to be construed as the results from a
+stand-alone diagnostic test. This test was developed and its performance
+characteristics determined by the as
+required by CLIA ' 88 regulations. It has not been cleared or approved for
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA has
+
+determined that such clearance or approval is not necessary. These results
+are
+
+ 
+
+(3
+
+ 
+
+provided for informational purposes only, and should be interpreted only in
+the context of established procedures and/or diagnostic criteria.
+TECHNICAL SENSITIVITY: The presence of >15% non—neoplastic cells in the
+sample
+may preclude the detection of allelic loss.
+***Electronically Signed Out***
+
+' Senior Staff Pathologist
+
+A .
+Brain, excision biopsy, touch prep and smears: Oligodendroglioma, anaplastic.
+Touch preparation smears performed at and results
+reported to the Physician of Record.
+, Senior Staff Pathologist
+GROSS DESCRIPTION
+A .
+Received fresh, several fragments, 2 x 2 x 0.4 cm. in aggregate. Diffluent,
+grayish, translucent. In total, Al—A3.
+
+ICD—9(S):
+
+239.6 239.6
+
+Billing Fee Code(s):
+
+A:
+
+LOH
+
+MGMT:
+
+Histo Data
+
+Part A: Brain, excision biopsy
+Taken: Received:
+Stain/cnt Block Ordered Comment
+H/E x l l
+
+TPS H/E X l l
+
+H/E x l 2
+
+mGFAP-DA x 1 3
+
+H/E x l 3
+
+MGMT x l 3
+
+MIBl-DA x l 3
+
+NeuN x l 3
+
+P53DO7 x 1 3
+
+Synap—DA x l 3
+
+*** End of Report ***
+
+  
+
+Prim Malignancy History
+EI/s-mchrcnous Primary Noted
+:45! (5 (Circle):
+
+Re '
+Viewei mutual
+
+ 
+
+  
+
+m Revlewea;
+_- —~.
+
+ 
+ 
+ 
+ 
+ 
+
+W / msmmuneo
+

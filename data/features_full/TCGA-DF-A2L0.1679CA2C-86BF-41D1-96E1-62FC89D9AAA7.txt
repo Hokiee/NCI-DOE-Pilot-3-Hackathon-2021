@@ -1,0 +1,81 @@
+UUID:1679CA2C-B6BF-41D1-96E1-62FC8909AAA7
+TCGA-DF ~A2LB-01A-PR
+
+Redacted
+||| llllllllllllllllll|llllllll||l|l|l|l|||lll||||||||||||l|||l|||||
+lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+Ill l|l|||||||||||||||l|lll||||||||||||lll||||ll|lll||||lll ||||||
+
+ 
+
+Sample Type TUMOUR
+
+‘ Sample Preparation
+
+Site of Primary (Event)
+
+Site of Tissue
+
+Year of Sample Collection
+Age at Sample Collection (yrs)
+Sample Comments
+
+Days to Procedure Date
+Days to Diagnosis
+
+Type of Procedure
+
+Site of Primary (Histology)
+Bilateral Disease
+
+Tumour Size (cm)
+Histology
+Grade/Differentiation
+Pathological T
+
+Pathological N
+
+Number of Nodes Sampled
+Number of Nodes Positive
+Clinical M
+
+Histology Comments
+
+Fresh Frozen
+
+Uterine /c13, 0 , 3
+endometrial mass .
+WW,WM% AMI
+. 8380/3
+
+6%» WW 0 5% /
+
+O
+
+9 W
+
+Surgical resection 5793/"
+
+Endometrium
+
+UNK
+
+999.99000000000001
+
+Endometrioid adenocarcinoma, NOS
+lll
+
+~ T1c
+
+N1
+
+5
+
+17
+
+M0
+
+Tumour size: Anterior 5.3 x 2.5 cm, 2.0 cm (thickness),
+
+posterior 5.0 x 5.4 cm 3.2 cm (thickness).
+

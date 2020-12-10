@@ -1,0 +1,218 @@
+ 
+
+UUID. EEC76925D- 587D- EOFS- Mld- -A64D89C6M4B
+
+III IIIIIT IIiiiIIIIITIIITIITﬁIIIIIIIIIIIIIIIII III III III
+“Will“{ulll I'IIII |||||||ll| Illlllll IIIIIIIII
+
+llllllll lllllllllllllllIIlllllllllllllllllllllllll lllllllllllll
+
+Subject ID
+GROSS:
+Specimen state: Fresh
+Procedure: Distal gastrectomy
+Organ: Stomach
+Greater curvature 19.0 cm
+Lesser curvature 9.8 cm
+Proximal resection 14.0 cm
+Distal resection margin 5.7 cm
+Duodenum 1.7 cm
+Lesion: Ulcerofungating mass
+Size: 4.5 x 4.0 cm
+Tumor type: Borrmann type II
+Safety margin - Proximal: 2.0 cm
+- Distal: 3.0 cm
+Gross serosai invasion: No
+Representative sections submitted
+
+Gross photo: Present
+
+Blocks
+
+11—4 and TB, tumor and surrounding tissue x 5
+
+AanNB,antrumx2 lCD-0’5
+
+3. body mucosa x 1
+
+P, proximal resection margin x 1 WWW, +WW Q1“ (3
+DRM, distal resection margin x 1 CQCF 3th,: Svi'vnwd», DIR/*‘W— (— i l; . 3
+LN1~3, superior gastric lymph nodes x 3 PW -. 84'0“qu, W5 C. mg
+
+LN4-5, inferior gastric lymph nodes x 2 .
+
+LNG: ‘1' lymph nodes x 1 ’1“) 4/97”}
+
+LN7, '4sb‘ lymph nodes x 1
+LN8, '5' lymph nodes x 1
+
+LN9, '6' lymph nodes x 1
+
+LN10, '7' lymph nodes x 1
+LN11, '8' lymph nodes x 1
+LN12, '9' lymph nodes x 1
+LN13-l4, 'llp' lymph nodes x 2
+LNIS, '12' lymph nodes x 1
+
+MICROSCOPIC:
+
+Tumor type: Adenocarcinoma
+Differentiation: Moderately differentiated
+Depth of tumor invasion:
+
+T3-subseroSa
+Margins: Proximal resection margin (-)
+
+Distal resection margin (-)
+
+Lauren classification: Intestinal
+Ming classification (Growth pattern): Infiltrative
+Lymphoid reaction: Present
+Lymphovascuiar invasion: Present, multiple
+Venous (large vessel) invasion: Present
+Perineural invasion: Absent
+Lymph node metastasis: Present (2/40)
+Pathologic stage: pT3N1Mx (AJCC 7th edition)
+
+DIAGNOSIS:
+
+Stomach, distal gastrectomy:
+Adenocarcinoma, moderately differentiated, infiltrating
+(advanced gastric cancer)
+
+<Addendum>
+Final diagnosis: Stomach Intestinal Adenocarcinoma, Tubular T e
+
+Lymph node, perigastric, distal gastrectomy:
+Superior gastric: Metastatic carcinoma, primary in stomach (1/7)
+inferior gastric: No tumor present (0/8)
+Lymph node, regional, biopsy:
+Labeled as '1': No tumor present (0/2)
+Labeled as '4sb': No tumor present {0/1)
+Labeled as ‘5': No tumor present (0/1)
+Labeled as '6': No tumor present (0/4)
+Labeled as '7‘: No lymphoid tisue
+Labeled as '8‘: No tumor present (0/5)
+Labeled as '9': No tumor present (0/4)
+Labeled as ‘llp': Metastatic carcinoma, primary in stomach (1/7)
+Labeled as '12': No tumor present (O/l)
+
+Tumor sIte
+
+ 
+
+ 
+
+ 
+
+TCGA Pamologe Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+  
+
+ 
+
+Instructions: The TCGA Padiola‘gic’ Diagnosis Disc imy Fem should be completed; when the pathologic
+diagnosis documented on the initial pathology roportlv-w ,. -- 3 inconsisant with the
+diagnosis provided an die Case Quality Conqogﬁ'ornr cam ﬁtted for: the submitted ease.
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site USS): Stomach adenocarcigogig
+Completed By
+
+ 
+
+   
+
+, X, q.
+
+ 
+
+ 
+
+ 
+
+it Data Element Entry Alternatives Wot-lg; Instructions
+Provide the diagnosis histolo e subtypeei)
+Pathaéogic Diagnosis Stomach intestinal Adenocarcinoma documented on the urinal pad‘ilology report for this
+1 Pm” Ed °" mm“ use. if the histology for this case is mixed, provide
+Pathology Report all used subtypes.
+
+ 
+
+Histologlc features of
+the sample provided ., Stomach intestinal Adenocarcinoma. Provide the histologic features selected on the TCGA
+
+2 for TCGA. as reﬂected Tubular Type _ Case Quality Control Form completed for this case.
+on the CQCF
+
+ 
+
+ 
+
+ 
+
+ 
+
+i i and Case Quality: CommiForm ,
+
+ 
+
+Discrepancy. [,9th Pathology
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Original pathologic diagnosis was
+Provide the reason adenocarcinoma; moderately -
+:01” the diicrepancy differentlated. Review of TCGA sample Provide a reason desm‘bing why the diagnosis on the
+etwee e ' ' - . '
+3 pinion; report- and “P 5““: “mm the mm“ as Wiﬁﬂﬁﬂéﬂi ﬁ‘li’u‘fié‘ciﬁﬁﬁi;
+the TCGA Case stomach intestinal Control Form,
+Quality Control Form. adenacarcinoma-t’ubular type and
+. addedum was created. as, such
+Name of 1‘85
+4 Reviewing Pathologist Provide the name of the pathologist who reviewed this
+or Bioreposltory case for TCGA
+Director
+
+ 
+
+ 
+
+ 
+
+ImwmmmimmmpmwwmmammMnmmmommmm
+
+ 
+
+“—
+
+TSS Reviewing Pathologist or Biorepository’ Director Date
+
+Immmmmm'mddmmmmu&MmdmmmRhammuymm mam
+mmwwmmxammmmmwomqwmmmmw
+
+ 
+
+Principal investigator Signatt‘n'e Date
+
+ 
+

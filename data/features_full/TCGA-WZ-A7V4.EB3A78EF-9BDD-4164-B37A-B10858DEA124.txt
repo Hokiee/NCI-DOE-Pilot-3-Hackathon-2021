@@ -1,0 +1,150 @@
+Results
+
+Specimen Information
+Coitection Date and Time
+
+ 
+
+Component Results
+SURGICAL PANEL: ED ,0-3
+
+SURGICAL PATHOLOGY REPORT . H68 006 [/3
+— Final Report Slﬁ ($12; N63 @élq
+
+DIAGNOSIS M . £62.
+LEFT TESTIS. RADICAL ORCHIECTOMY: @Jldiie Nos 6’
+1. Seminoma. classic type I 0/4/13
+
+2. Tumor is conﬁned to the testis 94")
+
+3. Surgical margins are negative for tumor
+4. Negative for Iymphatidvascular invasion by tumor
+5. Intratubal germ cell neoplasia. unclassiﬁed
+
+‘3 Epididymal cyst. benign UUID:EBSATBEF-BBDD-4164-ESTA-BIOBSZDEAIM
+
+7. Please see testis cancer staging parameters below TCGA-wz-A7V4-91A-PR Redacted
+mzmmm STAGWGPARAME ms... HMIIIIIIHII"IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIIIIIIII
+Case number: W Patient name: h I” I
+
+ll llllllllllllllllllllll ‘III
+| l ||||||
+
+ 
+
+Ii iii
+
+Final TNM: pT1NXMO
+2010 stage: I
+
+MACROSCOPIC
+SPECIMEN TYPE
+Radical Orchiectomy
+TUMOR LATERALITY
+Left ,
+TUMOR SIZE
+3 cm
+TUMOR FOCALlTY
+Unifocai
+
+MICROSCOPIC
+HISTOLOGIC TYPE
+Seminoma. classic type
+MARGINS
+Spermatic cord: Uninvolved by tumor
+MICROSCOPIC TUMOR EXTENSION
+Tumor is limited to testis
+LYMPHATICNASCULAR INVASION
+Absent
+
+PATHOLOGIC STAGING
+EXTENT OF INVASION
+pT1. (Tumor limited to the testis and epididymis without
+vascular/lymphatic invasion; tumor may invade into the tunica aibuginea but
+not the tunica vaginalis)
+REGIONAL LYMPH NODES
+pNX. (Regional lymph nodes cannot be assessed)
+DISTANT METASTASIS
+pMO. (No distant metastasis)
+SERUM TUMOR MARKERS
+
+—
+
+SX. (Serum marker studies not available or performed [Although LDH,
+H06. and AF P values may be available. the 'S‘ designation in AJCC staging
+speciﬁcally refers to post-orchiectomy levels. These levels are currently
+not available”
+
+PATHOLOGIC STAGE Summary
+
+Final TNM: pT1NXMO
+
+2010 stage: I
+
+* The pathologic stage presumes no lymph node metastasis.
+
+** The pathologic stage presumes no distant metastasis.
+
+Attending Pathologist:
+
+ 
+
+CLINICAL INFORMATION
+Left testicular mass
+
+SPECIMEN/GROSS DESCRIPTION
+
+A) SOURCE: Testicle. left
+
+Received fresh labeled "left testicle" is a 6 x 5 x 2.5 cm testis and
+
+attached 11 cm in length and 1.8 cm in diameter spermatic cord. The tunical
+vaginaiis is intact and inked blue. The testis is bisected revealing a 4.6
+
+x 3.8 x 3 cm testis with a solid white. well circumscribed tumor mass,
+measuring 3 x 3 x 2.6 cm in the center of the specimen. There is a focus of
+normal-appearing testicle in which the seminiferous tubules separate
+
+easily. The proximal resection margin of the spermatic cord is submitted on
+chuck #1 and ajmpresentative portion of the turner on chuck #2.
+
+INTRAOPERATIVE PATHOLOGY CONSULT FROZEN SECTION: "Seminoma,
+benign spermatic cord margin" is rendered by
+
+The tumor mass tethers focally to the tunica albuginea but does not extend
+through it. No secondary masses are noted. The epididymis is present,
+measures 7 x 1 x 1 cm and is notable for a possible cystic space, 0.5 cm.
+Note that tissue is taken for possible ancillary studies.
+
+Representative sections are submitted in 13 cassettes labeled:
+1. Frozen section, spermatic cord
+
+2. Frozen section, tumor
+
+3. Mid spen'natic cord
+
+4-7. Representative tumor and overlying vaginalis
+8. Tumor, normal testis and albuginea
+
+9. Tumor and normal parenchyma
+
+10. Epididymis
+
+11. Epididymis. cystic space, and vaginalis
+
+12. Vaginalis overlying the tumor, no tumor
+
+13. Base of spermatic cord
+
+This case is accessioned in
+
+Gross dictation by: _
+
+MICROSCOPIC
+
+Tumor is conﬁned to the testis, but metaplastic adipose tissue is noted.
+Technical (tumor cell transfer) artifact of tumor is noted in the specimen
+slides.
+
+ 
+

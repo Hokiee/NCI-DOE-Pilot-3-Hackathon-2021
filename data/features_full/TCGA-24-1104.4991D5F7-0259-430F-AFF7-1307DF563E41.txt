@@ -1,0 +1,183 @@
+Patient Name:
+"a; DOE
+
+Surgical Pathology Report
+
+Final
+
+SURGICAL PATHOLOGY REPORT
+
+Patient Name.
+
+Address: Service: Accession #
+Location: Taken:
+Gender: MRN: Receivec1:_‘
+DOB: HospicaI ' Reportedz'
+Patient '
+Physician (s) : UUID:499105F7-0259-430F-AFF7—13B7DF563E41
+
+_ TCGA-24-1104-61A-PR
+
+Redacted
+llHlIlIlllllllllllllllllllHlllllllll llllllllllllil
+“NIH“ I II” I |||||||||I|||| Illll ||
+|||||||l|||l||||||||||||l|l|||||
+
+Other Related Clinical Data:
+
+DIAGNOSIS:
+
+OVARY, LEFT, OOPHORECTOMY
+- POORLY DIFFERENTIATED SEROUS ADENOCARCINOMA
+— TUMOR INVOLVES THE OVARIAN SURFACE
+* VASCULAR LYMPHATIC INVASION IS IDENTIFIED
+
+ 
+
+FALLOPIAN TUBE, LEFT, SALPINGECTOMY
+- METASTATIC SEROUS ADENOCARCINOMA
+
+OVARY, RIGHT, OOPHORECTOMY
+— NO EVIDENCE OF ADENOCARCINOMA IN THE OVARY
+— SURFACE FIBROVASCULAR ADHESIONS
+- METASTATIC SEROUS ADENOCARCINOMA PRESENT IN MESOVARIAN TISSUE
+
+FALLOPIAN TUBE, RIGHT, SALPINGECTOMY
+- NEGATIVE FOR ADENOCARCINOMA
+
+SOFT TISSUE , LEFT PELVIC SIDE WALL, BIOPSY
+‘ METASTATIC SEROUS ADENOCARCINOMA
+
+OMENTUM, BIOPSY
+* METASTATIC SEROUS ADENOCARCINOMA
+
+SMALL INTESTINE, RESECTION
+
+— METASTATIC SEROUS ADENOCARCINOMA INVOLVING ENTIRE THICKNESS OF INTESTINAL WALL
+— RESECTION MARGINS FREE OF TUMOR
+
+— METASTATIC SEROUS ADENOCARCINOMA IN THREE OF THREE LYMPH NODES (3/3)
+
+LYMPH NODES, SPLENIC FLEXURE, EXCISION
+- METASTATIC SEROUS ADENOCARCINOMA IN TWO OF TWO LYMPH NODES (2/2)
+
+ 
+
+Page 1 of 3 Printed from on
+
+ 
+
+ 
+
+ 
+
+Patient Name: ‘
+DOB: ‘
+
+ 
+
+By this signature. I attest that the above diagnosis is based upon my
+personal
+examination of the slides<and/or other material indicated in the diagnosis).
+
+***Report Electronically Reviewed and Signed Out By ).***
+
+Intraoperative Consultation:
+
+An intraoperative non—microscopic consultation was obtained and interpreted as: "Called to
+pick up specimen labeled 'left adnexa,‘ consisting of a partially cystic ovary, 13.5 x 9.5
+x 6 cm, weighing 430 grams. Serially sectioned to reveal a tan to tan—yellow cut surface.
+Representative frozen (F51) submitted for tumor bank and . Rest for permanents,” by
+
+F51: Adnexa, left, biopsy
+- "Carcinoma,” by
+
+Microscopic Description and Comment:
+Microscopic examination substantiates the above cited diagnosis.
+
+History:
+The patient is a year old woman with enlarged left adnexa and pelvic nodule, supraclavicle
+lymph node biopsy showed non-small cell carcinoma
+
+Specimen(s) Received:
+
+: LEFT OVARY AND TUBE
+RIGHT OVARY AND TUBE
+LEFT PELVIC SIDE WALL
+OMENTUM, ROUTINE
+SMALL BOWELL
+
+SPLENIC FLEXURE
+
+"JP‘JUDLUDﬂ
+
+Gross Description
+
+The specimens are received in six formalin—filled containers, each labeled with the patient‘s
+name. The first container is labeled "left adnexa." It contains a tan, lobulated mass,
+weighing 430 grams. The outer surface is tan to hemorrhagic and irregular with possible
+tumor present. The specimen was previously sliced. The surface is inked. Sectioning shows
+the cut surface is tan to yellow-tan slightly lobulated, with cystic areas. Some areas
+
+show a light yellow, edematous, trabeculated consistency. Focal hemorrhage is noticed. A
+structure resembling fallopian tube is identified attaching to the tumor. In the container
+there is a cassette labeled "FSl" which holds the frozen section remnant. Labeled Al to A4 -
+tumor (Al and A3 tumor with possible fallopian tube); A5, A6 - white-tan to yellow area; A7,
+A8 ~ solid area; A9, A10 ~ cystic areas; A11, A12 — yellow spongy area; A13 — large cystic
+areas; A14 - frozen remnant. Jar 2.
+
+The second container is labeled "right adnexa." It contains a 6 x 2.7 x 0.7 cm, yellow to
+tan to hemorrhagic irregular soft tissue fragment. A possible ovary is identified which
+measures 2.7 x 2 x 0.6 cm. The outer surface is pink—tan and smooth. Sectioning shows
+the cut surface is white—gray and smooth. A fallopian tube measures 2 cm in length, 0.4
+cm in diameter, with an unremarkable appearance. In the adipose tissue, a firm nodule is
+identified measuring 1 x 0.7 x 0.3 cm. Labeled E1 to B3 — ovary and fallopian tube; 34 —
+bisected firm nodule. Jar l.
+
+Page 2 of 3 Printed from
+
+ 
+
+ 
+
+ 
+
+Patient Name:
+DOB: ‘
+
+ 
+
+The third container is labeled "left pelvic side wall." It contains two tan to hemorrhagic,
+irregular soft tissue fragments measuring 2 x 1 x 0.7 cm and 3 x 2.5 x 0.5 cm. On
+examination, two firm nodules are identified, 1.5 cm and 1.9 cm in greatest dimension.
+Sectioning shows the nodule has a white-tan, smooth cut surface. Labeled C1. Jar 1.
+
+The fourth container is labeled "omentum." It contains two fragments of yellow adipose
+tissue consistent with omentum measuring 15 x 11.5 x 1.5 cm and 5.5 x 4 x 1 cm. On
+examination, four firm nodules are identified, measuring 0.3 to 1.1 cm in greatest
+
+dimension. Sectioning shows they have a well circumscribed, white—gray, firm cut surface.
+Labeled D1, D2. Jar 2.
+
+The fifth container is labeled "small intestine." It contains a 35 cm in length, 4.3 cm
+in circumference segment of small bowel with attached mesentery measuring 14 x 3 x 1 cm.
+The serosa is pink—tan with extensive adhesions to adhere the small bowel to each other.
+Multiple white—gray small nodules are present on the surface of the serosa. There is a
+sutured area. Sectioning shows this area has a submucosal white-gray nodule with hemorrhage.
+Opening of the remaining small bowel shows the mucosa is pink—tan with prominent intestinal
+folds. No polyps or other abnormalities are identified. The bowel wall measures 0.2 cm
+in thickness. In the mesentery there is a 2 x 1.5 x 0.8 cm, white—gray, firm area noted.
+
+Labeled El, E2 - serosal nodules; E3 — sutured area; E4 — mesentery solid area; E5 -
+resection margin. Jar 2.
+
+The sixth container is labeled "splenic flexure." It contains a 7 x 5.5 x 2 cm yellow,
+lobulated adipose tissue. On examination, two white—gray, firm nodules are identified
+measuring 0.6 x 0.3 x 0.3 cm and 2.5 x 1.8 x 1.6 cm. Labeled F1, F2. Jar 2.
+
+ 
+
+Page 3 of 3 Printed from -
+
+ 
+

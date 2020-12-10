@@ -1,0 +1,28 @@
+OBJECT: PATHQLOGIST REPORT
+
+Code:
+
+Gender: M
+
+Age:
+
+Date of surgery: .
+
+Localisation: R frontal
+
+UUID: F47D9AFD- E511- 450E- 9F15- E1EDBFOFC87eFd
+TCGA- Q-H ASCY- BlA— PR
+
+||||l|||||||II|||||||||||||l|||Illl|Il|III||||||||||||||lII|I|||||||enl
+III” III III ||||||||| |||||||||||||||||||l|II||||||| ||| IIIIIIIII
+IllIIIIIIIIIlIIIIlIIIIIIIIIIIIII|llIII|ll||||||I||||||II||||||||
+Jab-0'3
+W 4’ j ﬁl‘lﬁ
+a .
+
+Diagnosis: anaplastic oligoastrocytoma (grade III WHO)
+
+Name of Pathologist:
+
+ 
+

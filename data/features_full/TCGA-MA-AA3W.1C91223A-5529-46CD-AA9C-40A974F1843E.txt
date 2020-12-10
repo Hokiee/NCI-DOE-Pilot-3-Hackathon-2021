@@ -1,0 +1,430 @@
+UUID: 1C91223A- 5529- 46CD-AA9C-4BA974FR18e43Ea I
+
+ 
+
+TCGA- MA- AAaw- 91A- PR
+———-——- , IllIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIRIIIIIIIIICIIEd
+' IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII||I|
+IIIII lIIIIIII|III|I|IIIIIIIIIIl|Il|l||||IllllllIlIlIllIIlIIllIlI
+Results A SURGICAL PATHOLOGY \
+_E_n_try Date
+
+ 
+
+Component Results
+
+Surgical Pathology
+
+. . Alas
+—‘"°‘e’ ’WMG/s
+. 54h €Mw353ﬂ
+
+L745 4/!//”'/
+SURGICAL PATHOLOGY
+
+Accession #: . Collected: Received:
+
+PATHOLOGIC DIAGNOSIS
+A. LYMPH NODE, LEFT PARAMETRIAL, BIOPSY:
+- ONE LYMPH NODE WITH NO EVIDENCE MALIGNANCY (0/1)
+
+E. UTERUS, CERVIX, RADICAL HYSTERECTOMY:
+— INVASIVE POORLY DIFFERENTIATED CERVICAL SQUAMOUS
+CARCINOMA pT1b2Nl
+TUMOR EXTENDS INTO LOWER UTERINE SEGMENT
+TUMOR NOT PRESENT AT INKED MARCINs
+LYMPHOVASCULAR SPACE INVASION IDENTIFIED
+PERINEURAL INVASION IDENTIFIED
+EOCAL SQUAMOUS CARCINOMA IN—SITU
+EOURTEEN LYMPH NODES WITH NO EVIDENCE OF MALIGNANCY (0/14)
+
+UTERUS, ENDOMETRIUM, RADICAL HYSTERECTOMY:
+- INACTIVE TO ATROPHIC ENDOMETRIUM
+- TUBAL METAPLASIA
+
+UTERUS, MXOMETRIUM, HYSTERECTOMY:
+
+— EXTENSION OF CERVICAL POORLY DIFFERENTIATED SQUAMOUS
+CELL CARCINOMA INTO LOWER UTERINE SEGMENT
+
+- ARTERY WITH MEDIAL CALCIFIC SCLEROSIS
+
+FALLOPIAN TUBE, RIGHT, SALPINGECTOMY:
+- PARATUBAL CYST
+
+OVARY, RIGHT, OOPHORECTOMY:
+— NO SPECIFIC PATHOLOGIC ALTERATION
+
+C. LYMPH NODE, LEFT PARAMETRIUM, BIOPSY:
+- ONE LYMPH NODE WITH METASTATIC CARCINOMA (1/1)
+
+D. SOFT TISSUE,LEFT PARAMETRIUM, BIOPSY:
+- ONE LYMPH NODE WITH NO EVIDENCE MALIGNANCY (0/1)
+
+E. FALLOPIAN TUBE AND OVARY, LEFT, SALPINGO-OOPHORECTOMY:
+- BENIGN INCLUSION CYST
+
+F. SOFT TISSUE, VAGINAL MARGIN, LEFT, EXCISION:
+
+mated by raga om
+
+- FIBROVASCULAR TISSUE WITH NO SIGNIFICANT HISTOPATHOLOGIC
+ALTERATION
+
+G. LYMPH NODE, LEFT PELVIC, DISSECTION:
+- SIX LYMPH NODES WITH NO EVIDENCE MALIGNANCY (0/6)
+
+H. LYMPH NODE, LEFT PELVIC, BIOPSY:
+- NO LYMPH NODES SEEN
+
+- BENIGN FIBROADIPOSE TISSUE WITH NO EVIDENCE OF MALIGNANCY
+
+:1:
+
+'11 LYMPH NODE, RIGHT PELVIC, DISSECTION:
+i - SEVENTEEN LYMPH NODES WITH NO EVIDENCE MALIGNANCY (0/17)
+
+"I have.personally reviewed the resident's preliminary interpretation and
+all specimen preparations and have personally issued this report."
+
+Comment
+Specimen
+Cervix
+
+Uterine corpus
+
+Procedure
+Radical hysterectomy
+
+Tumor Size
+Greatest dimension: 4.1cm
+Additional dimensions: 2 cm
+
+Tumor Site
+
+Left superior quadrant (12 to 3 o'clock)
+Left inferior quadrant (3 to 6 o'clock)
+Right inferior quadrant (6 to 9 o'clock)
+Right superior quadrant (9 to 12 o‘clock)
+
+Histologic Type (select all that apply)
+Squamous cell carcinoma
+Nonkeratinizing
+
+Histologic Grade
+G3: Poorly differentiated
+
+Margins
+Margins uninvolved by invasive carcinoma
+
+Lymph-Vascular Invasion
+Present
+
+Pathologic Staging
+
+Primary Tumor
+pTl [I]: Cervical carcinoma confined to uterus
+pT1b2 [182]: Clinically visible lesion >4.0 cm in greatest dimension
+
+Regional Lymph Nodes (pN)
+le: Regional lymph node metastasis
+
+Number of Lymph Nodes Examined
+Specify: 40
+
+“Printed by ‘ 2 of 6
+
+Number of Lymph Nodes Involved
+Specify: 1
+
+Distant Metastasis (pM)
+Not applicable
+
+Additional Pathologic Findings (select all that apply)
+None identified '
+
+Intraoperative Consultation
+
+Intraoperative Consultation Diagnosis:
+FSAl: Lymphoid tissue, negative for tumor.
+— Verbally reported to
+
+Staff Pathologist
+Pathology Resident
+
+Pertinent Clinical Information
+Pertinent History/Operative Findings: Cervical cancer.
+
+A. Lymph Node / left parametrial #1; B. Uterus,Cervix; C. Lymph Node /
+left portion parametrium #2, D. Soft Tissue /right parametrium biopsy; E.
+Tube and ovary, L; F. Vaginal margin , left; G. Lymph Node , left pelvic;
+H. Lymph Node , distal left pelvic; I. Lymph Node , right pelvic.
+
+Gross Description
+
+The specimen is received in nine parts, each labeled with the patient's name
+and medical record number.
+
+Part A: Received fresh and labeled "LEFT PARAMETRIAL NODE" is a 1.0 x 0.8 x
+
+0.2 cm pink-tan rubbery portion of soft tissue, which is submitted in toto
+for frozen section as FSAl.
+
+Part B: Received fresh and labeled "UTERUS AND CERVIX" is a 114 gram uterus
+with attached cervix, vaginal cuff margin, and right fallopian tube and
+ovary. The uterine body measures 4.8 x 4.5 x 3.3 cm, and the attached
+cervix and vaginal cuff measure 2.6 x 4.5 x 3.2 cm. The vaginal cuff margin
+is pink-tan, smooth and glistening, and the cervix is tan—brown to tan-red
+and bosselated and displays an ill—defined os measuring 0.5 cm in diameter.
+A representative section of the cervix at the 1 to 2 o'clock location is
+submitted for the research study V The anterior vaginal
+cuff lower uterine segment margin is inked blue and the posterior vaginal
+cuff lower uterine segment margin is inked black and the vaginal cuff margin
+is removed en face and submitted as follows:
+
+B1: 12 to 3 o'clock
+
+DZ: 3 to 6 o'clock
+
+BB: 6 to 9 o'clock
+
+B4: 9 to 12 o'clock
+
+The uterus is bisected to reveal a poorly demarcated squamocolumnar junction
+and a lobulated tan—brown endocervical canal. Grossly the tumor is
+Circumferential and invades for a depth extending from the cervical lip into
+the myometrium for a distance of 4.1 cm, and for a width from the
+endocervical mucosa to the uterine soft tissue margin of 2.0 cm. The
+endometrium is tan—pink and velvety and measures 0.2 cm in thickness and the
+myometrium is pink-tan and rubbery and measures up to 1.7 cm in thickness on
+
+”Printed by . Page 3 of 6
+
+the anterior wall and 1.4 cm in thickness on the posterior wall.
+
+Representative sections of the cervix and endocervical canal are submitted
+as follows:
+
+35-36: 12 o'clock cervix to lower uterine segment, proximal end inked green
+B7~B8z 3 o'clock
+
+B9-BlO: 6 o'clock ‘
+
+Bil—813: 9 o‘clock
+
+514-816: anterior lower uterine segment
+
+B17: anterior endomyometrium
+
+BlB—BZO: posterior lower uterine segment
+
+821: posterior endomyometrium
+
+B22-B23: left parametrium
+
+324—327: right parametrium
+
+The attached right fallopian tube is pink-tan with a delicate fimbriated end
+and measures 5.6 cm in length and ranges in diameter from 0.5 to 0.3 cm.
+
+The fallopian tube is adhesed to a tan~yellow bosselated ovary measuring 2.5
+x 1.6 x 1.0 cm. The fallopian tube is serially cross sectioned to reveal a
+
+pinpoint lumen. The ovary is bisected to reveal a tanewhite homogenous cut
+
+surface with tan—white corpus albicans. Representative sections are
+submitted as follows:
+
+B28: ovary
+329: fallopian tube with attached ovary
+
+Gross photographs are obtained.
+
+Part C: Received in formalin and labeled "LEFT PARAMETRIUM #2" are two
+tan-pink rubbery portions of soft tissue measuring 0.7 x 0.3 x 0.3 cm and
+0.3 x 0.2 x 0.2 cm. The specimen is submitted in toto in cassette C1.
+
+Part D: Received in formalin and labeled "RIGHT PARAMETRIUM" is a pink—tan
+rubbery portion of soft tissue measuring 1.0 x 0.7 x 0.3 cm. The specimen
+is submitted in toto in cassette D1.
+
+Part E: Received in formalin and labeled "LEFT OVARY AND FALLOPIAN TUBE" is
+a pink—tan fallopian tube measuring 4.0 x 0.6 x 0.5 cm. The fallopian tube
+displays a delicate fimbriated end with an attached tan-yellow bosselated
+ovary measuring 3.0 x 1.5 x 1.4 cm. The fallopian tube is serially cross
+sectioned to reveal a stellate lumen. The ovary is bisected to reveal
+tan-pink to tan-white parenchyma with tan—white corpus albicans. The
+ovarian capsule adjacent to the ovarian ligament displays a 0.4 cm in
+diameter cyst containing clear serous fluid. The walls are twp, smooth and
+
+glistening, with no papillary excrescences. Representative sections are
+submitted as follows:
+
+El: fallopian tube
+E2: portion of ovary with cyst
+E3: cross section of ovary
+
+Part E: Received in formalin and labeled "LEFT VAGINAL MARGIN" is a
+tan—pink rubbery portion of soft tissue with overlying mucosa measuring 2.1
+x 1.0 cm, excised to a depth of 0.6 cm. No orientation is provided. The
+specimen is bisected along the longitudinal axis to reveal pink-white cut
+surfaces. The tissue is submitted in its entirety in cassettes F1 and F2.
+
+Part G: Received in formalin and labeled "LEFT PELVIC LYMPH NODE" are
+multiple golden-yellow fibrofatty portions of tissue, and a laparoscopic sac
+containing additional portions of tissue, 5.0 x 4.6 x 1.3 cm in aggregate.
+
+The tissue is dissected for lymph nodes and reveals thirteen possible lymph
+nodes which are submitted as follows:
+
+, Page 4 of 6
+
+Gl: nine possible lymph nodes
+G2: two possible lymph nodes
+G3: one lymph node bisected
+
+G4-G5: one lymph node
+
+Part H:
+
+Received in formalin and labeled "DISTAL LEFT PELVIC LYMPH NODE" is
+
+a golden—yellow fibrofatty portion of tissue measuring 0.2 x 0.2 x 0.1 cm.
+The specimen is submitted in toto in cassette H1.
+
+Part I:
+
+Received in formalin and labeled "RIGHT PELVIC LYMPH NODE" are
+
+multiple golden—yellow fibrofatty portions of tissue measuring 5.8 x 5.5 x
+
+1.5 cm.
+nodes, which are submitted as follows:
+11: four lymph nodes
+
+12: six lymph nodes
+
+13: six lymph nodes
+
+14: three lymph nodes
+
+I5: one lymph node bisected
+
+16: one lymph node bisected
+
+Pathologists‘ Assistant
+
+Microscopic Description
+A—I: Performed.
+
+Pathology Resident
+**Electronically Signed Out**
+
+Staff Pathologist
+Result History
+
+SURGICAL PATHOLOGY (Order on
+
+Lab Information
+Resulting Lab
+
+Order information
+
+The tissue is dissected for lymph nodes and reveal twenty-one lymph
+
+ 
+
+- Order Result History Report.
+
+ 
+
+ 
+
+Order Date» _ Order Time
+Result Information
+Result Date and Time Status Priority
+Final reSuIt Routine
+
+Received Date/Time
+Received Date
+
+Order Providers
+AuthoriZing Provider
+
+Encounter
+View Encounte:
+
+Reviewed by List
+
+Received Time
+
+Encounter Provider
+
+ 
+
+Page 5 of 6
+
+Order
+
+Administration Details
+No Administrations
+Recorded
+
+Order Information
+
+"order Date/Time Release Date/Time
+
+Order Details
+Frequency
+ONCE
+
+Quantity
+Ordering Quantity
+1
+
+Duration
+1 occurrence
+
+Original Order
+
+Ordered On Ordered By
+
+Transfer Service
+
+Collection Information
+
+Collection Date " Collection Time
+
+Provider information
+Orderino User
+
+Attending Provider(s)
+
+Order-Level Documents:
+There are no order-level documents.
+
+Orders Needing Specimen Collection
+
+SURGICAL PATHOLOGY _ (Order
+
+Start Date/Time End Datel'i‘ime
+
+Order Class
+Normal
+
+Priority
+Routine
+
+Resulting Agency
+
+Authorizing Provider
+
+Encounter
+View Engounter
+
+“ None *"
+
+ 
+
+Reviewer
+

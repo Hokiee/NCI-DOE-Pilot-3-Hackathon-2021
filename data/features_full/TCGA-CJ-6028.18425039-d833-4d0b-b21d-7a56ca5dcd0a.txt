@@ -1,0 +1,75 @@
+De artment of Patholo
+
+Tissue Source Site (TSS) #: I
+
+ 
+
+Pathology Report
+
+DIAGNOSIS
+(A) LEFT KIDNEY AND ADRENAL:
+
+RENAL CELL CARCINOMA, CLEAR CELL TYPE, FUHRMAN NUCLEAR GRADE 4
+(17.0 CM).
+
+TUMOR EXTENDS INTO HILAR AND PERICAPSULAR ADIPOSE TISSUE AND INVOLVES
+HILAR AND
+PERICAPSULAR VESSELS.
+
+Renal vein and ureteral margin,no tumor present.
+Adrenal gland, no tumor present.
+
+GROSS DESCRIPTION
+
+(A) LEFT KIDNEY AND ADRENAL - A radical nephrectomy specimen (26.0 x
+17.0 x 12.0 cm) including the kidney (24.0 x 16.0 x 10.0 cm), a segment
+of the renal artery, renal vein, and ureter, and adrenal gland (6.0 x
+
+3.5 x 1.0 cm). There is a large variegated extensively necrotic mass
+(17.0 x 15.0 x 8.0 cm) in the upper pole of the kidney. Within this
+
+tumor there are multiple dark red and golden nodules, light tan friable
+nodules, and focal mahogany nodular areas. The tumor invades the
+perinephric adipose tissue and abuts the Gerota's fascia margin. The
+tumor invades into the renal sinus. Renal vein is grossly free of
+
+tumor. The tumor compresses the adrenal gland but does not invade.
+There are focal light tan well circumscribed nodules at the periphery of
+the tumor.
+
+The adjacent kidney parenchyma is unremarkable. The pelvic
+calyceal system is compressed by the tumor but othenNise unremarkable.
+No lymph nodes are identiﬁed in the hilum of the kidney. The adrenal
+gland is grossly unremarkable.
+
+Portions of the tumor have been submitted for a possible electron
+microscopy as well as for the vaccine protocol.
+
+INK CODE: Black-Gerota's fascia.
+
+SECTION CODE: A1, ureter and renal vein margin; A2, tumor adjacent
+to sinus; A3, tumor adjacent to Gerota's fascia margin; A4, tumor
+adjacent to Gerota's fascia margin; A5, tumor in renal sinus; A6, red
+tumor nodule in fat; A7, dark red tumor nodule in fat; A8, light tan
+tumor nodule adjacent to kidney; A9, ﬂeshy tumor nodule; A10, granular
+light tan tumor nodule; A11, tumor adjacent to adrenal; A12, red tumor
+nodule in fat; A13, light tan tumor nodule; A14, light tan tumor nodule;
+A15, representative section of tumor; A16, representative section of
+tumor; A17, discrete tumor nodule at periphery; A18, tumor and adjacent
+kidney; A19, representative section of tumor; A20, representative
+
+section of kidney. -
+
+CLINICAL HISTORY
+History of left renal mass.
+
+SNOMED CODES
+
+De artment of Patholo
+
+I ssue Source Site (TSS) #: I
+
+ 
+
+T-71000, M-83123
+

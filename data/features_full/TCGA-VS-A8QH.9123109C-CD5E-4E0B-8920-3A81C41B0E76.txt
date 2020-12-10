@@ -1,0 +1,203 @@
+UUID: 91231890 CDSE- AEBB- 892.— 3A81C41RBOeE7‘Sa
+A-VS- ABQ H- 91A- PR
+
+lTl||||||||||||||||||||||||||||||||||||||Illllllilelllllllcllea
+|||III|||I|||||||||||||||H|||||||||||||||||||||
+|||||||||||||||l||||l|||l|||||||ll|l||||l|||||||l|||||
+
+Collect date:
+iMM/DDIYYYY)
+
+PATHOLOGY REPORT:
+PRIMARY SITE: Cervix
+Biopsy of uterine cervix:
+
+- MUCINOUS ADENOCARCINOMA OF ENDOCERVICAL TYPE AND
+MODERATELY DIFFERENTIATED.
+
+Elbaozgﬁ
+WWWWW‘V WNWAL
+9% $432 A3
+
+L) J32. CLMWMD
+C :53 a
+
+L343 5/2/19!
+
+ 
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+W The
+
+Case Quality Control Farm completed for the submitted case.
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Farm should be completed when the pathologic diagnosis
+documented on the initial pathology reportfar a case submittedfor TCGA is inconsistent with the diagnosis provided an the
+
+ 
+
+ 
+
+SS Identifier: 7
+
+ 
+
+Tissue Source Site {T85}:
+Completed By {inrmwmvcr Name on Operirfliimrajt
+
+{Diagnosis Information
+
+ 
+
+TSS Unique Patient identifier:
+
+Completed Date: «
+
+ 
+
+i ll Data Element Entry Alternatives
+
+Working Instructions
+
+ 
+
+ 
+
+I’atiialogic Diagnosis
+1 Prm'iiiminnlninal
+
+, Pathology Report:
+i
+
+M nciimus (\dcnucurcinoina
+
+ 
+
+ 
+
+l'ii'uvitlu rim diaummaf luatolngic sninynegs‘; rlouximem’eﬁ on
+the initial paihnloxv report for \his vase. lithe liismlngy for
+this case it; mixed, prnvidr .lii 5ixledsuhiypi's‘
+
+mm am
+
+ 
+
+ 
+
+E Histniagic features of
+l, the sample provided
+for TCGR, as reﬂected
+
+on the com: i
+
+ 
+
+\=li:ci:ix>u§ Admncarcinomu of cmioccrx mil type»
+“WWW—um
+
+ 
+
+‘ i‘mvulv ihu histolouic itnll'ul‘L’N n-Iecml on me Tim/1 Cm:
+, Quilillv Cami-ii Form mmnletccl i'm‘ the; lam}.
+
+ 
+
+ 
+
+Discrepancy between Pathology Report and Case Quality Control Form
+
+ 
+
+3 Pi'nvnle the rmsan for i
+the discrepancy
+
+between the pathology
+report and the T-CGA
+Case Qualiiy Control
+Fermi
+
+Case was reviewed ﬁned on Tap Slide to be
+ﬁclll in ”CR
+
+Provide a rumor} describing why the diagnmm on the initial
+pathology report mr this $386 is not consistent with the
+_ Jungian-As M'il‘CiCii on the 'I’CGA {Lise Quality ﬂannel Hiram,
+
+ 
+
+ 
+
+Name MTSS Reviewing ;
+4 l‘atlmlawstor
+Biarcpoxitorv Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+im‘ Tlilit'k.
+
+ 
+
+Provide the imm- oi ihe palhiulngisi who reviewed this‘ cw-
+
+ 
+
+ 
+
+I urkimwimlgc Um: the
+
+above infurmallcm provided by my institution is: mm and curred and has been quality controlled.
+
+ 
+
+W’I’SS Reviewing Pathologist or Biorepnsitai'y Director
+
+I mknowledge that the above in
+
+Department Chairman has been informed or is aware of m
+
+A
+
+formation provided by my institution is true and correct and has born quality controlled The Attending
+
+Dale
+
+9 above discrepancy in diagnoses.
+
+ 
+
+ 
+
+investigator Signature
+
+Brinci pm
+
+ 
+
+Pathologist or the
+

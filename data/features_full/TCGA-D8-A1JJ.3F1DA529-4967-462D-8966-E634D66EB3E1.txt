@@ -1,0 +1,77 @@
+Department of Cancer Pathology ’
+copy No.
+
+Date:
+
+ 
+
+ 
+
+Examination: Histopathological examination
+
+Internal invoice No. Cost of diagnostic procedure Examination No.
+
+Patient: XXX PESEL: XXX Age; Gender: F
+
+Material: Partial organ resection - right breast inner upper quad.
+/¢A ' a ’3 ’.
+
+. . _ . , .1 . ‘1? [1,”;- 49:;~tv
+
+Unit In charge. 6’ z t ”’7 Who/W7 M , I
+. a.
+
+Physician in charge: «Sr/’4' W A)“ (L ( ? /”
+
+Material collected on: ' Material received on
+Expected time of examination: 5 working days
+
+Clinical diagnosis: Inner upper quadrant of the right breast.
+
+ 
+
+Examination performed on:
+
+Fragment of the right breast sized 6.5 x 5 x 5.2 cm with a 3.5 x 1 cm skin ﬂap, marked typically, no RTG.
+
+Tumour sized 2.1 x 1.5 x 2 cm in the cross section.
+
+Margins: 0.7 cm to the base; 2 cm to the skin surface; 0.2 cm to the sternum; 1.8 cm to the axilla; 2.7 cm to the shoulder; 1 cm
+to the quadrant boundary.
+
+Walt:
+Carcinoma ductale lnvasivum NH63 (3 + 3 + 3/35 mitoses/1o HPF - visual area 0.55 mm), pTZ.
+
+DCIS foci visible at the tumour edges (solid type with high nuclear atopia, comedo necrosis, 5% of tumour). (DCIS =
+comedo type necrosis)
+
+. l'li' .2
+
+Carcinoma ductale invasivum (NHGS, pT2, pNo, SN). Invasive ductal carcinoma of the right breast.
+
+Compliance validated by:
+Examination performed on.
+
+Eli' "l":
+
+Estrogen receptors found in over 75% of neoplastic cell nuclei.
+Progesterone receptors found in 10-75% of neoplastic cell nuclei.
+HERZ protein stained with HercepTestTM by DAKO.
+
+Negative reaction in invasive cancerous cells ( Score = 1+ ).
+
+ 
+
+ 
+
+UUID:3FlDA529-4967-462D-8966-E634066E33E1
+TCGA-DB-A1JJ-O1A-P
+
+R RadaCtEd Compliance validated by:
+lllllll||l||||||lllllllll|llllllllllllllllllllIllllllllllllllll
+ll“llllllllllllllllllllll llIlllllllllllllllllllllll||||||||
+
+llll
+l
+H” Illllll Illlllllllllllllll IIllllllllIllllllllllllllllllll
+

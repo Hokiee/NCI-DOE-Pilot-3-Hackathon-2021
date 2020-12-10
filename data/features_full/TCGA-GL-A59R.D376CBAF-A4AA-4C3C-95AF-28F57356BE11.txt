@@ -1,0 +1,128 @@
+ICE o «E
+1 a: saw/5.
+SAL: 400v M08 @9219
+Pre-Operative Diagnosis: © %
+As below (ya MM 1.5
+
+Post-Operative Diagnosis:
+As below
+
+Operative Procedure:
+Left nephrectomy, median sternotomy
+
+Specimen Received:
+Left radical nephrectomy and caval thrombus with hilar and retroperitoneai lymph
+
+nodes
+
+Final Pathologic Diagnosis:
+
+Kidney and adrenal gland, left, radical nephrectomy with caval-atrial thrombus
+removal; hilar and retroperitoneal lymph nodes, regional resection:
+
+Tumor histologic type: Papillary renal cell carcinoma, type I
+Sarcomatoid features (%): None
+
+Tumor size: 11 cm
+Other dimensions: 6.5 x 4.5 cm
+
+Macroscopic extent of tumor: Invades renal vein with protruding thrombus
+(clinically caval-atrial).
+Focality: Unifocal
+
+_ ~ UUID' D376CBAF- A4AA- 4C3C- 95AF- -23F5735R63eE11a
+Number of tumors. N0t applicable TCGA- GL- A59R- OIA- PR
+
+Fuhrman grade: 3 of 4 IlllllllllllllllllllllllllllllllllllllllllllllllllIllllllllllllllll
+
+M'°r°5°°p'° ”tent °f tum" |l||||||| llllllllllllllll lllllllllll lllllllll lll Ill
+Permepi‘r'c fat 'nYas'W N0 lll llllllllllllllllllllllllllllll | ||||||l| |||l|l||| || | || ||||||||l| |||
+Renal Sinus mvasron: Yes
+Other: Not applicable
+
+Renal vein involvement: Yes with tumor adherent to renal vein wall
+
+Adrenal gland present: Yes
+
+Involved by tumor: No
+Cancer at resection margin: Yes
+(if yes) Location(s): Renal vein (see Note)
+Pathologic findings in nonneoplastic kidney: Benign cortical cysts
+Hilar lymph nodes present: yes
+Number involved/number present: 0/9
+
+Pathologic stage (2010) pT3c pNO pM—Not applicable
+
+The examination of this case material and the preparation of this report were
+performed by the staff pathologist.
+
+Note:
+
+A section taken from the renal vein at the resection margin shows the tumor
+thrombus. The thrombus is adherent to the vein wall at this point and this is
+considered to represent a positive surgical margin.
+
+Gross Description:
+Received is a single formalin filled container labeled with the patient's name
+and additionally labeled "left radical nephrectomy and caval
+thrombus with hilar and retroperitoneal lymph nodes."
+Specimen components and dimensions: The specimen consists of the product of a
+left radical nephrectomy with left kidney, left renal pelvis and a part of the
+left renal vein. There is an abundant amount of perinephric fat attached that
+contains the left adrenal gland. The specimen has been previously opened to
+reveal the tumor. The specimen aggregately measures 25 x 19 x 7 cm in greatest
+dimension. The renal parenchyma measures 115 x 9 x 5.4 cm in greatest
+dimension. The ureter is attached and measures 12.2 cm in length and 0.3 cm in
+diameter. The adrenal gland measures 8 x 4.5 x 1.4 cm in greatest dimension and
+weighs 20.3 9.
+Size, appearance, and location of tumor: The tumor is pink-tan to brown in
+color with hemorrhagic areas. It has a variegated surface and almost entirely
+replaces the renal parenchyma. it measures 11 x 6.5 x 4.5 cm in greatest
+dimension. The tumor involves the renal sinus. the renal sinus fat and the renal
+pelvis grossly and extends into the renal vein with a protruding thrombus
+measuring 6.5 cm in length beyond the renal vein margin.
+Renal capsule/renal sinus: The renal sinus is completely replaced by the tumor
+mass. The tumor approaches the renal capsule, however no invasion is grossly
+identified. The renal capsule strips with ease.
+Renal vein: The renal vein is occluded by the tumor mass, thrombus. The tumor
+thrombus extends beyond the renal vein margin by 7 cm.
+Lymph nodes (size, number, & location): The perihilar fat has been dissected
+for lymph nodes with at least eight lymph nodes identified grossly. The rest of
+the fat is placed in a clearing agent.
+Other findings: There is a cortical cyst near the lower pole measuring 4.5 x
+2.2 x 2.4 cm in greatest dimension. The normal renal parenchyma has a cortical
+thickness of 0.5 cm.
+Blocks submitted:
+
+1 caval thrombus;
+
+2 renal vein with the attached thrombus;
+
+3 distal ureter margin and arterial margin;
+
+4 tumor to renal sinus;
+
+5-6 tumor to renal capsule;
+
+7-9 representative sections of tumor to capsule;
+
+10 representative section of cortical cyst;
+
+11 representative section adrenal gland;
+
+12 three whole lymph nodes;
+
+13 two whole lymph nodes;
+
+14 one bisected lymph node;
+
+15-16 one serially sectioned lymph node;
+
+17 one bisected lymph node;
+
+umor Site
+HPAA
+'flUr
+
+ 
+

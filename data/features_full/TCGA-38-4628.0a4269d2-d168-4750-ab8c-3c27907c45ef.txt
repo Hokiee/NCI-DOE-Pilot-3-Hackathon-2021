@@ -1,0 +1,175 @@
+TCGA—38—4528
+— =—
+
+iagnosis:
+
+Lymph node, right hilar (R10), biopsy.
+One lymph node, negative for carcinoma.
+Hyalinized granulomata.
+
+I
+
+; Lung, right upper lobe, lobectomy.
+
+Invasive moderately differentiated adenocarcinoma._
+
+Metastatic adenocarcinoma involving 1 (of 4)'hilar lymph node.
+
+Hyalinized and partially calcified granulomata involving hilar lymph nodes and pulmonary parenchyma.
+
+U:
+
+| l
+
+C: Lymph nodes, R4, biopsy.
+Multiple (2) lymph nodes, negative for carcinoma.
+Hyalinized granulomata.
+
+l
+
+1
+
+D: Lymph node, right mainstem bronchus, biopsy.
+— One lymph node, negative for carcinoma.
+
+— Hyalinized granulomata.
+
+S: Lymph node. R9, biopsy.
+
+— One lymph node, negative for carcinoma.
+
+F: Lymph node, station 7, biopsy.
+— One lymph node, negative for carcinoma.
+
+Comment:
+
+See light microscopy template for additional prognostic and staging information.
+Intraoperative Consultation:
+
+A frozen section consultation was requested by Dr.
+
+anl: Lymph node, right hilar (R10), biopsy
+— Lymph node with anthracotic pigment, no neoplasm identified
+
+.81: Right upper lobe mass, lobectomy
+~ Noncsmall cell carcinoma
+
+FSBZ: Bronchial margin, right upper lohectomy
+— no neoplasm identified
+Clinical History:
+
+The patient has a right upper lobe mass.
+
+Gross Description:
+Received are six appropriately labeled containers.
+
+Container A: Received fresh for frozen section is a 1.5 x 1.0 x 0.5 cm dark red soft tissue fragment which is
+bisected. one half was previously frozen as FSAl and is submitted in block FSAl. The remainder of the tissue is
+submitted in block A1.
+
+Container B is additionally labeled “RUL.”
+
+Specimen fixation: formalin
+
+Type of specimen/parts of lung received: right upper lobectomy
+
+Size of specimen: approximately 12.8 x 9.? x 2.0 cm
+
+Weight of specimen: 130.5 grams
+
+Other attached structures: none
+
+Tumor location: central—near bronchial margin
+
+Tumor size: 3.5 x 2.4 x 2.3 cm
+
+=1ationship of tumor to bronchus: does not grossly appear to involve bronchus, however, it appears to be
+owing around the bronchus
+
+Distance of tumor to bronchial margin: 0.3 cm
+
+Relationship/distance of tumor to pleura: not invading the pleura, 0.2 cm
+
+ 
+
+ 
+
+Distance of tumor to other surgical margins:
+
+Presence/absence of satellite tumor nodules: Present, two small pleural nodules are '
+identified; one is 0.4 cm in diameter and is approximately 5.2 cm from the main tumor mass. The second mass is
+
+4 cm in diameter and is 3.1 cm from the main tumor mass.
+Involvement of attached structures by tumor: not identified
+
+Description of nontumorous lung: Sectioning the remainder of the lung exhibits soft, spongy, red aerated lung
+parenchyma with possible post—obstructive changes.
+
+Comment: The bronchial margin was inked black along with a staple line. The bronchial margin was previously
+frozen. A portion of the tumor was given to Tissue Procurement (3 x 2.8 x 2.3 cm). A portion of the mass was
+preViously frozen as F381 and is submitted in block F581. The bronchial margin was previously frozen as F532
+and is submitted in block FSBZ.
+
+BlOck Summary:
+
+81 - additional bronchial margin (superseded by frozen section)
+
+32 — bronchial lymph node candidate
+
+B3 - tumor and bronchus
+
+B4 — tumor and adjacent lung
+
+BS — tumor and pleura
+
+B6 ~ nodule closest to main tumor mass, bisected
+
+B? a nodule furthest from main tumor mass, bisected
+
+BB — representative lung with possible post-obstructive changes
+
+39 a uninvolved lung
+
+Container C is additionally labeled "Rd." It holds a 1.0 x 0.6 x 0.5 cm aggregate of two fragments of red/gray
+tissue. J
+
+Container D is additionall labeled "mainstem bronchus lymph node." It holds a 1.0 x 0.5 x 0.4 cm fragment of
+dark gray tissue. ‘
+
+Container E is additionally labeled "R9." It holds a 0.8 x 0.5 x 0.3 cm fragment of gray/tan tissue. _
+
+“ontainer F is additionally labeled "station 7." It holds a 1.5 x 0.5 x 0.2 cm fragment of dark gray/brown soft
+LSSUE. )
+
+Light Microscopy:
+
+Light microscopic examination is performed by Dr.
+
+(Specimen B)
+
+Tumor histologic type (WHO classification): adenocarcinoma
+
+Tumor histologic grade (WHO classification): moderately differentiated
+Tumor size (greatest dimension): 3.5 cm
+
+Histologic assessment of surgical margins: surgical margins, including bronchial resection margin, appear
+negative for carcinoma
+
+Pleural involvement: negative for carcinoma
+In situ carcinoma: not identified
+
+Invasion:
+
+angiolymphatic - not identified
+
+perineural H present
+
+Lymph nodes {by node group): - Metastatic adenocarcinoma involving 1 (of 5) hilar lymph node.
+— Multiple (2, R4; 1, right mainstem bronchus; 1. R9; 1, station 7) lymph nodes, negative for carcinoma.
+
+Extracapsular extension of tumor in lymph nodes: not identified
+
+Findings in nontumorous lung: hyalinized granulomata
+
+ 
+

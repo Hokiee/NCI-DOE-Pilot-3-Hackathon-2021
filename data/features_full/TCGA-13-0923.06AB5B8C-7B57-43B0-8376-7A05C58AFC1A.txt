@@ -1,0 +1,89 @@
+ 
+
+ 
+
+ 
+
+Page 1
+
+K3. {3sz .l .2 (965146
+
+TCGA Missing Pathology Report Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+mm; The TCGA Missing Pathology Report Form should be completed for cases for which a pathology report is not
+available.
+
+ 
+
+UUID: BSABSBBC- 7557- 4358- 8376- 7A85C58AFC1Ac
+
+TC GA- 13- 9923- 01A- PR
+
+Completed Date (M M / DD/YYYY):
+[GeneralPathology Report Information
+
+‘7— / ll /ZO\4—
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+# Data Element Entry Alternatives Workipg Instructions
+Provide the tumor type of the case.
+1 Tumor type: —‘OM—“—
+lndicate to which BCR location the case was originally sent.
+2 BCR specimen originally sent El NCH
+to: El lGC
+Provide the date [MM/DD/YYYY) of shipment arrival at the
+Biospecimen Core Resource (BCR).
+Date 5 ecimen received at
+3 BCR: " Li/EEB
+lCD-0-3 Histology Code: Provide the histology code for the sample from the Case
+Quality Control Form (CQCF) and the overall case (patient
+. ‘ ' , 'f d'ff .
+— For Specnmen: (CQCF) n 0 C Q( t: 5, ”In“ 1:31 04 mam” I I are”)
+4 - For Case: (patient
+diagnosis, if available _ gﬁ—fgl I 5
+elsewhere)
+[CD-0-3 Site Code; Provide the site code for the sample from the Case Quality
+Control Form (CQCF) and the overall case (patient diagnosis, if
+. - 'ff t .
+- For Specunen: (CQCF) no go; P Mmsﬂo‘ d‘ "e“
+5 - For Case: (patient
+diagnosis. if available . . __._._.$_SQ__C ~0‘
+elsewhere)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

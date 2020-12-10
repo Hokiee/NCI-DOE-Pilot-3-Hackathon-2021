@@ -1,0 +1,103 @@
+UUID: B7A66ECE- BBEE- 4D45- BBBF- 1A9F26DR10A8Fac
+TCGA- TQ -A7RN- -01A- PR
+
+Nature of material: Brain
+
+Received on:
+
+Macroscopy:
+
+Multiple irregular pieces of brown-gray and soft tissue, measuring together 2.6 x 2.0 x
+1.0 cm.
+
+Microscopy:
+
+The histological sections exhibit malignancy with moderate cellularity composed of cells
+with glial phenotype arranged in matrix something fibrillar. The neoplastic cells exhibit
+moderate atypia and pleomorphism. Have oval nuclei, evenly distributed chromatin and
+inconspicuous nucleoli. Many cells show a clear cytoplasm. In areas of high cellularity,
+cells tend to have more irregular nuclei and dense chromatin. It is note the multiple foci
+of dystrophic calcification in middle of the lesion. The vasculature consists of abundant
+and branched capillaries. Some vessels show foci of endothelial proliferation. We
+observed occasional mitotic figures, including atypical figures, especially in areas of
+high cell density. There are no areas of necrosis.
+
+Diagnosis:
+
+Biopsy product of lesion in the left insula:
+
+- Anaplastic oligodendroglioma (grade Ill-WHO, 2007). ICD-O 9451/3 — see note.
+NOTES:
+
+- The presence of heterogeneous areas in the lesion raised the possibility of
+
+progression from low—grade oligodendroglioma (grade II) to anaplastic
+oligodendroglioma (grade III)
+
+PROFESSIONAL PARTICIPANTS OF REPORT
+
+rape 3
+
+45:; an MI- 9455/6
+
+imw WNOS 0,7,0
+
+P TSS dxoﬁkmpwa,
+”(gamma am is:
+
+IIT c
+0/1)”,th (Mama)- 3A
+
+vA:
+
+ 
+
+ 
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form 4.05 1:3}
+
+:S‘t-udy Subject ID: iPerson It): N/A i
+EStudy/Site: TCGA Brain lower grade glioma » Brain Lower Grade Glioma) :Age: N/A
+: Event: PathDiscrepancy
+
+EDate of Birth:
+Interviewer: Sex: M
+
+Tumor Identiﬁer Provided on Initial Case Quality Control .
+
+Pr0vide the tumor identiﬁer documented on the initial case quality control form For
+Form
+
+this case.
+
+Pathologic Diagnosis Provided on Oligodendroglioma Provide the diagnosis/ histologic subtype(s) documented on the initial pathology report for this
+Initial Pathology Report grade III case. If the histology for this case is mixed, provide all listed subtypes.
+
+Histologic features of the sample provided for TCGA,
+
+Oligodendroglioma Provide the histologic features selected on the TCGA Case Quality
+as reﬂected on the CQCF
+
+grade II Control Form completed for this case.
+. Discrepancy between Pathology Report and Case Quality Control Form
+
+Provide the reason for the wrotte in TCGA Pathologic Diagnosis
+
+Provide a reason describing why the diagnosis on the
+discrepancy between the Discrepancy Form: " I was not involved in the initial initial pathology report for this case is not consistent
+pathology report and the TCGA diagnosis. In my opinion there is criteria for grade III in this with the diagnosis selected on the TCGA Case Quality
+Case Quality Control Form tumor. I reviewed all slides".
+
+Control Form.
+
+Name of TSS Reviewing Pathologist or Biorepository Provide the name of the pathologist who reviewed this case for
+Director TCGA.
+
+ 
+
+ 
+

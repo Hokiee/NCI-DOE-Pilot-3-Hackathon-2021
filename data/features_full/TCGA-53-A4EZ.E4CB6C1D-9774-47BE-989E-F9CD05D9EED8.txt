@@ -1,0 +1,203 @@
+UUID: E4CBGC1D- 9774- 47BE- SSSE- FSCDOSDQEEDeBd
+TCGA- 53- A4EZ- 01A- PR
+
+Ill llllllllll||llllllllllllllllllllllllllllllllllllllllllllllldllllllEd
+lllllllllll llllllllllllllllllllllllllIllllllllllllllllllllll lllll
+IllllllllllllllllllllllllllllIllllllllllllllllllllllllllllllllll
+
+Surgical Pathology Report
+
+ 
+
+ 
+
+ 
+
+Name: XX Case #: XX
+DOB: XX(Age: Collected: XX
+Gender: M Received: XX
+MRN: XX Reported: XX
+Location: XX TBCF#:
+Physician: XX
+Pathologic Interpretation:
+A. LYMPH NODE 4R:
+One (1) lymph node with no malignancy seen.
+B. LYMPH NODE 4L: ’0 $_ 0 - .5
+One (1) lymph node with no malignancy seen. 5 71“” W W) 9550! 3
+C. LYMPH NODE 7: gag: Ion}, W map (.341
+One (1) lymph node with no malignancy seen.
+. {al‘l 1”
+D. LYMPH NPDE STATION 8.
+
+One (1) lymph node with no malignancy seen.
+E. LYMPH NODE STATION 9:
+One (1) lymph node with no malignancy seen.
+F. LYMPH NODE STATION 10:
+One (1) lymph node with no malignancy seen.
+G. LEFT UPPER LOBE LUNG:
+POORLY DIFFERENTIATED ADENOCARCINOMA.
+One of four lymph nodes with METASTATIC CARCINOMA.
+See tumor summary.
+H. LYMPH NODE STATION 5:
+
+One (1) lymph ode with no malignancy seen.
+
+Pathology Cancer Case Summary: LUNG: RESECTION
+
+Specimen: Lobe(s) of lung (specify): Left upper
+Procedure: Lobectomy
+
+Specimen Integrity: intact
+
+Specimen Laterality: Left
+
+Tumor Site: Upper lobe
+
+Tumor Size:
+
+Dimension: 4.5 cm
+Additional dimensions: 3.5 x 3.0 cm
+Tumor Focality Unifocal
+Histologic Type: Adenocarcinoma. Acinar
+Histologic Grade: G3: Poorly differentiated
+Visceral Pleural Invasion: Present
+Tumor Extension: Not applicable
+Margins:
+Bronchial Margin: Uninvolved by invasive carcinoma
+Vascular Margin: Uninvolved by invasive carcinoma
+Lymph-Vascular Invasion: Present
+Lymph Nodes: Not identiﬁed
+
+Pathologic Staging (pTNM): pTZa, N1, Mx
+PRIMARY TUMOR:
+pT2a: Tumor greater than 3 cm, but 5 cm or less in greatest dimension, surrounded by lung or visceral
+pleura, without
+bronchoscopic evidence of invasion more proximal than the lobar bronchus (ie, not in the main
+bronchus)
+REGIONAL LYMPH NODES:
+pN1: Metastasis in ipsilateral peribronchial and/or ipsilateral hilar lymph nodes, and intrapulmonary nodes,
+including
+involvement by direct extension
+Specify: Number examined: 11
+Number involved: 1
+DISTANT METASTASIS:
+Not applicable
+
+Ancillary Studies:
+Epidemal growth factor receptor (EGFR) analysis: Pending on block GS
+KRAS mutational analysis: Pending on block G5
+
+NOTE: Some immunohblochemlcal antibodies are analyze sperlﬂc reagent: (ASRJ) validated lly our laboratory. Then ASK: are clinically usq‘ul indicator: that do not require FDA approval.
+7719:: clones are med: IDJ=ER. PgR 6J6=PR. A4111=HER2. NJ I =EGFR. All lmmunohtrmclremical stains are used nirhfonnaiin or moleculurﬂxed. paraﬁln embedded :inne. Detection Lr by
+Envision Merliad. The remit: are read by a pathologist in positive or negative.
+
+As the attending pathologist, [ attest that l: (i) Examined the
+relevant preparatian(s)for the specimencr): and (ii) Rendered (he
+diagnosis(es).
+
+XX, MD
+***Electronlcally Signed Out By***
+XX
+lntraoperative Consultation
+A. Lymph node 4R, FS: Negative lymph node. Reviewed with Dr XX
+B. Lymph node 4L. FS: Negative lymph node. Reviewed with Dr XX
+C. Lymph node, station 7. FS: Negative lymph node. Reviewed with Dr XX
+XX, MD
+
+ 
+
+Clinical History:
+Lung cancer
+
+Operation Performed
+
+Bronchoscopy. cervical mediastlnoscopy. possible left thoracotomy
+
+Pre Operative Diagnosis:
+None Previded
+
+Specimen(s) Received/Processing Information: Fee
+Codes:
+
+ 
+
+ 
+
+A: LYMPH NODE 4R. FS Frozen section x 1. FS Perm x 1. Touch Prep Histology x 1,
+Touch Prep Histology x 1
+
+B: LYMPH NODE 4L, FS Frozen section x 1. FS Perm x 1
+C: LYMPH NODE 7, FS Frozen section x 1. FS Perm x 1 I ,
+D: LYMPH NPDE STATION 8 H&E, initial x 1
+E: LYMPH NODE STATION 9 H&E. Initial x 1
+F: LYMPH NODE STATION 10 H&E, lnitialx 1
+
+G: LEFT UPPER LOBE LUNG H&E, lniiialx 1, H&E, initial x 1, H&E, Initial x 1, H&E, initial
+x 1, H&E, Initial x 1, H&E, Initial x 1. H&E. lnil‘ialx 1, H&E. Initiaix 1, Anaplastic Lymphoma
+Kinase x 1. EGFR Mutation Detection-Cytogenetics x 1
+
+H: LYMPH NODE STATION 5 H&E, Initial x 1. H&E, Initial x 1
+
+ 
+
+ 
+
+Gross Description:
+
+A. Received fresh are three tan-brown lymph nodes measuring 0.3 x 0.2 x 0.2 cm. Submitted in toto for frozen
+section in one cassette.
+
+B. Received fresh are two dark brown lymph nodes measuring 0.3 x 0.2 x 0.2 cm in aggregate. Submitted in
+toto In one cassette for frozen section.
+
+C. Received fresh are two dark brown lymph nodes measuring 0.2 x 0.2 x 0.2 cm in aggregate. Submitted in
+toto in one cassette for frozen section.
+
+D. Received in formalin is a lymph node measuring 1.0 x 0.6 x 0.4 cm. Bisected and submitted in toto in one
+cassette.
+
+E. Received in formalin is a lymph node measuring 0.8 x 0.5 x 0.4 cm. Bisected and submitted in toto in one
+cassette.
+
+F. Received in formalin is a lymph node measuring 0.5 x 0.5 x 0.2 cm. Submitted in toto in one cassette.
+
+G. Received in formalin labeled “Left upper lobe lung” is a 235 gram lobe segment measuring 21.0 x 11.5 x 3.0
+cm. The pleura is mottled dark red-brown and there is an area of puckering measuring 2.5 x 1.0 cm. It is
+inked black. Sectioning shows a well circumscribed tan-white soft and necrotic lesion, measuring 4.5 x 3.5 x 3.0
+cm and is 2.0 cm away from the main bronchus margin and 2.5 cm away from the vascular margin. The lesion
+
+ 
+
+does not appear to grossly extend into either the vasculature or bronchus. The remaining lung parenchyma is
+
+dark red and hemorrhagic and appears to be uninvolved. Seven possible lymph nodes were found.
+Representative sections are submitted as follows in eight cassettes.
+Cassette #1 The bronchial and vascular margin
+Cassette #2 Representative section of the tumor in relation to vein
+Cassette #3 Representative section of tumor in relation to normal lung parenchyma
+Cassettes #48-5 Representative sections of tumor in relationship to pleura
+Cassette #6 One lymph node bisected and submitted in toto
+Cassette #7 Three lymph nodes in toto
+Cassette #8 Three lymph nodes in toto
+H. Received in formalin are six possible lymph nodes. the largest measuring 0.2 x 0.2 x 0.2 cm. Submitted in
+toto in two cassettes.
+xx, MD
+
+   
+ 
+  
+
+NiPM Discgganq' . ' %‘“
+._..._._.., M.’_.. .
+
+' C15: is
+
+  
+ 
+
+ 
+
+ 
+
+_ Reviewer A h ___._@‘\F
+

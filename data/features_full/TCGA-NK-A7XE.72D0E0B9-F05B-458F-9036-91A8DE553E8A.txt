@@ -1,0 +1,191 @@
+EDD-3
+
+. uﬂQ MAS
+SPECIMEN DATE: Web,
+
+SUBMITTING MD: 1 (867613
+
+UUID.:1?‘2:cDi:EﬂNBl?- 2875x5E- 43:29::6-91A80E5R528Aac 6 l l a @ I W Q%L
+II IIIIIIII I IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII'I‘IITI‘I'ITII“' ’
+Ill lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll Cy“) ’0 ld/ ’5
+
+Final
+
+Clinical Data Repository* This report may not match the original report
+format
+REPORT DATE:
+
+FINAL DIAGNOSIS
+a. (Bronchus, left tracheal bronchial angle, frozen): one benign lymph node
+
+b. (pulmonary ligament, inferior): 3 benign lymph nodes
+
+0. (lung, left, resection): Invasive squamous cell carcinoma, grade 2,
+measuring 12 cm with extension into perihilar mediastinal ﬁbroadipose tissue.
+Lymphatic permeation by tumor cells present. Intra and perineural invasion by
+tumor cells also present. 3/8 perihilar lymph nodes show metastatic tumor.
+Margins of resection free of tumor, including; bronchial, vascular and soft
+tissue. Stage T4N2PL3.
+
+d. (Lymph nodes; level 7, subcarinal): 3/14 lymph nodes with metastatic
+squamous cell carcinoma with extracapsular extension
+
+e. (Lymph nodes; level 9): 3 lymph nodes negative for metastatic tumor
+
+Attending Pathologist: * Electronically signed Pathology
+Resident:
+
+INTRAOPERATIVE CONSULTATION
+
+A.FROZEN:LEFT TRACHEAL BRONCHIAL ANGLE: Lymph node. No carcinoma seen.
+(A91,
+
+Smear).
+Intraoperative consultation pathologist .
+
+C. LEFT LUNG, FROZEN ON BRONCHIAL MARGIN: Squamous cell carcinoma. Bronchial
+margin free of tumor. (C91)
+
+Intraoperative consultation pathologist
+Intraoperative consultation resident
+
+NOTE
+
+Lung Cancer Summary
+
+Specimen type: Lung resection
+
+Procedure: Left lung resection, pneumonectomy
+Specimen integrity: intact
+
+Tumor location: Left upper lobe
+
+Tumor focality: unifocal
+
+Tumor size: 12 cm
+
+Histologic type: Squamous cell carcinoma
+Histologic grade: Grade 2
+
+Treatment effect: Not applicable
+
+Status of margins:
+
+Bronchial: Negative
+
+Vascular: Negative
+
+Parenchymal: Negative
+
+Pleural: Negative
+
+Visceral/Parietal pleural invasion: Mediastinal pleura involved
+Lymphatic vascular invasion: present
+
+Lymph node status: positive (level 7, and peri-hilar)
+
+Extension into other structures: present into perihilar mediastinal
+ﬁbroadipose tissue
+
+Non-neoplastic pathology: N/A
+
+TMN stage:
+T4 N2PL3
+
+GROSS DESCRIPTION
+
+A. The specimen is labeled left tracheal bronchial angle. Received fresh for
+frozen section is a 0.9 x 0.3 x 0.2 cm irregular fragment of red-tan tissue
+containing possible pink-tan lymphoid tissue. The specimen is entirely
+submitted for frozen section with the remnant placed in cassette A1. Touch
+prep and smear are prepared.
+
+B. The specimen is labeled inferior pulmonary ligament. Received in formalin
+is a 1.1 x 0.6 x 0.5 cm irregular fragment of soft red-tan tissue. The
+specimen is trisected and entirely submitted in cassette B1.
+
+D. The specimen is labeled level VII subcarinal node. Received in formalin is
+a 2.5 x 1.3 x 1.0 cm lymph node and a separate 3.4 x 2.0 x 0.6 cm aggregate of
+multiple roughened red-tan ﬁbroadipose tissue fragments containing possible
+lymphoid tissue. Sectioning through the lymph node shows a solid pale tan cut
+surface. Sections are submitted as follows: D1-3 - lymph node trisected, D4
+and D5 - remaining fragments containing possible lymphoid tissue.
+
+C. The specimen is labeled "left lung frozen on bronchial" is a 487 g left
+pneumonectomy with anthracotic pleural surface measures 26.1 x 15.5 x 7.5 cm.
+Both lobes where identiﬁed. Inked at the site of frozen section and it has a
+staple line at the vascular margin.
+
+The specimen was serially sectioned to reveal an indistinct gray tan mass
+measuring 12.0 x 7.5 x 6.5 cm located in the upper lobe. The mass is
+obstructing the main bronchus and is 1 cm away from the bronchial margin. The
+mass is abutting pleural surface. Recovered total of 7 lymph nodes ranging in
+size from 0.5 x 0.5 x 0.2 cm to 1.9 x 1.0 x 1.0 cm. Rest of lung tissue is
+
+spongy frothy dark red.
+
+Sections are submitted as follow:
+
+C1-2 vascular margin
+
+C3 mass with a vasculature
+
+C 4-5 mass with bronchus
+
+C 6 representative section from the mass
+C 7-8 LYMPH nodes
+
+C9 bronchial lymph node bisected
+
+C 10-11 unremarkable lung
+
+E. The specimen is labeled level IX node. Received in formalin is a 3.5 x 2.5
+
+x 1.0 cm aggregate of multiple red-tan ﬁbroadipose tissue fragments
+containing 2 possible lymph nodes (1.3 and 2.3 cm in greatest dimension). The
+specimen is entirely submitted as follows: El - largest lymph node, bisected,
+E2 - one lymph node, bisected, E3 and E4 - remaining ﬁbroadipose tissue
+
+fragments.
+
+SPECIMEN(S) RECEIVED
+
+A: FROZEN2LEFT TRACHEAL BRONCHIAL ANGLE
+B: INFERIOR PULMONARY LIGAMENT
+
+C: LEFT LUNG, FROZEN ON BRONCHIAL MARGIN
+D: LEVEL 7 SUBCARINAL NODE
+
+E: LEVEL 9 NODE
+
+* The above listed tests (if any) were developed and the performance
+characteristics determined by ' These tests have
+not been cleared or approved for commercial use by the US. Food and Drug
+Administration. The FDA has determined that FDA review is not required for
+such in-house assays. (21 CFR 809.30(e))
+
+OPERATIVE INFORMATION
+
+DIAGNOSIS: LUNG CA; PROCEDURE: DISSECTION MEDIASTINAL LYMPH NODE,
+THORACOTOMY
+
+PNEUMONECTOMY
+
+INTRADEPARTMENT CONSULTATION PATHOLOGIST: QA COMMITTEE
+[CD-9(3): 162.3
+
+CPT(s): A; 88305, 88331, 88333, 88334
+
+B; 88304
+
+C; 88309, 88331
+
+D; 88307
+
+E; 88307
+
+The attending pathologist was physically present when this specimen was
+diagnosed, and actively participated in all key decisions.
+
+ 
+

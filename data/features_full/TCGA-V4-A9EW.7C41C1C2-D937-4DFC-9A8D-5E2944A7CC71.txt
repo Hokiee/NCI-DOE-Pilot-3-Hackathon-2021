@@ -1,0 +1,159 @@
+1460-53 5
+TCGA- -v4- Asew- e1A- -PR ted 7(W_ WM ‘1
+
+UUID: 7C41C1C2- -D-937 4DFC-9AalJ--“294413201.a
+
+Ill llllllllilllllllllllllllll|llllllllllllllllllllllllllﬁfillllllfll
+
+lllllllllllllllllllllll lllllll llillllllllllll nnI lllll mwew‘tmﬂd awe/3
+
+lllIIIIIIIIIIIIHIIIIHIHIIIIIIIIllllll 01th um“ Cép‘? 5
+Enucleation of the left eye. . “Aha W QQJQW7’
+
+91x3 pas/MIN
+
+Macroscopy:
+
+The eyeball measures 25 mm in diameter and the posterior optic nerve segment 6
+mm. At the section, it presents a pigmented endo—ocular tumor measuring 18 mm
+main line and 10 mm in thickness at the upper temporal region. Tumor specimens
+have been taken for cryopreservation then the piece has been ﬁxed and included
+entirely.
+
+PM all mm; .
+
+Microscopy M '5
+The tumor observed macroscopically is a cell proliferation presenting the histological
+features of an uveal melanoma. This tumor is mainly composed of fusiform cells
+(60%) mixed with a focal component of epithelioid cells (40%). About 10% of the
+tumor cells are pigmented. The cellular atypias are severe with frequent
+anisoCaryosis and large nucleoli. Presence of mitotic features (ten mitoses per 10
+high power ﬁeld).
+
+The tumor invades the 1/3 inner part of the sclera, without extension to the 2/3 outer
+part. The optic nerve in its entire course and cut end, the ciliary body, the lamina
+cribrosa, and the meningeal sheaths are free of tumor.
+
+Conclusion:
+
+Uveal melanoma of mixed type, with a main component of fusiform cells and focal
+component of epitheiioid cells.
+
+Tumor size: 18 mm.
+Tumor inﬁltration of the inner third of the sclera without extra-scleral extension.
+
+Ciliary body, iris. anterior chamber. lamina cribrosa, optic nerve on its entire course
+and meningeal sheaths free of tumor.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+V4.00
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+Won; The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site ['l‘SS): __ ‘~___TSS identiﬁer: TSS Unique Patient identiﬁer: __ __
+Completed By (Interviewer Name on Opt-malaise): _. Completed Date: __ m
+[Diagnosis information ‘ l
+# Data Element Entry Alternatives Workin Instructions
+Provid med is/hi lztc b [)d d
+. . . e e iagnos sto u so type 5 ocumente on
+‘i’athologic Diagnosis 40% eplthelimd cells the initial pathology reportfor this case. nine histology for
+1 Provided on Initial. this case is mixed, provide all listed subtypes.
+Pathology Report 60% spindle cells
+. . . h‘ 1 o: TCGAC
+iztsoggggfefgﬁuwrigf 61-90% epithelmid cells gﬂfﬁgmﬁgﬂﬁﬁﬁﬂfﬂsﬂ: a"
+2 for TCGA, as reﬂected 1—30% spindle cells
+on the CQCF.
+
+ 
+
+ 
+
+Discrepancy between Pathology Report and Case Quality Control Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+Biorepository Director
+
+ 
+
+ 
+
+3 Provide the reason for Provide a reason describing why the diagnosis on the initial
+the discrepancy The section of the frozen sample used for sending P?th°‘°$¥ “PM {W ““5 “a“ 1‘ “°”°“"’?"e“‘w‘t" 3"
+between the pathology to TCGA corresponds to a section of the tumor dxagnosls selected on the TCGA Case Quality Control Form.
+report and the TCG‘A where the epithelioid part is predominant.
+
+Case Quality Control
+Form. The percentages mentioned on the initial
+Pathology Report correspond in an average on the
+whole embedded sections used for establish the
+Pathology Report
+Name of TSS Reviewing Provide the name of the pathologist who reviewed this case
+4 Pathologist or for TC“
+
+ 
+
+I acknowledge that the above infonnation provided by my institution is true and comet and has been quality controlled.
+
+ 
+
+TSS Reviewing Pathologist or Biorepository Director
+
+Date
+
+I acknowledge that the above information provided by my [maiden is true and came: and has been quality contmlled. Thetmeudlug Pathologist or the
+Department Chairman has been injbrmed or is aware of the above discrepancy in diagnoses.
+
+ 
+
+Principal Investigator Signature
+
+Date
+
+ 
+

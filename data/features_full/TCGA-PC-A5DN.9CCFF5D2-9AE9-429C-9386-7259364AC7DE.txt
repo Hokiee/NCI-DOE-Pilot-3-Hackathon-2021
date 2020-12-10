@@ -1,0 +1,120 @@
+SPECIMEN:
+
+UUID: 9CCFF5D2- -9AE9- -429C- 9386- 7259364Ace7DEac
+
+SURGICAL PATHOLOGY REPORT TCGA PC-A5DNH01A PR
+I“Illlll||||l||l|||||l||||||||Ilmlillllllllllll ||||||||||||||l|ll||||
+
+D01? Illllll IIIIIllllilllllllllllllllIll llIllIllIIIIlIllIlll|||l|
+
+Sex. F
+
+Location:
+
+Date Collected: E®_o _ 3
+
+Date Receive: ‘ '
+Physician: W N03
+Copy To: 3 895 / 3
+Clinical History/Diagnosis: Left Retroperitoneal Mass 61' a a: 13—;
+
+Q 4 8b
+
+Source of Specimen(s): I
+
+1: Retroperitoneal mass with it. kidney 99 0124/ 3
+2: Lymph Node, inta aortocaval
+
+3: Lymph Node, para aortic
+
+Gross Description: /
+Received in three parts. ./
+Source of Tissue: 1. Labeled #1, "retroperitoneal mass with left kidney"
+
+Frozen Section Diagnosis: lFS- SPINDLE CELL NEOPLASM PER
+
+Gross Description: Received fresh for frozen section evaluation with
+patient name and medical record number labeled "retroperitoneal mass with
+left kidney" is a 26.0 x 20.0 x 12.5 cm mass having a tan to pink-red
+smooth to irregular outer surface. It is sectioned to reveal a 20.0 cm in
+greatest dimension multiloculated cyst containing serosanguineous ﬂuid.
+The inner lining is gray—tan and irregular with the cyst wall averaging
+
+1.5 cm in thickness. The wall is tan and rubbery ﬁrm. Firmly adherent
+to this cystic mass is a 9.0 x 5.5 x 4.5 cm kidney. There is a 1.5 x 0.3
+
+cm fragment of attached ureter having a lumen, 0.2 cm. which is probe
+patent to the renal hilum. The kidney is bivalved to reveal tan-brown
+renal parenchyma having a well-deﬁned cortico-medullary junction. The
+parenchyma and pelvis are not distorted and the adjacent tumor does not
+appear to arise from the kidney itself. Further sectioning of the cystic
+mass in the area of the kidney reveals areas which are focally calciﬁed.
+There is a 5.0 x 1.5 x 1.0 cm attached adrenal gland which is sectioned to
+reveal golden-yellow-orange unremarkable cut surfaces. Representative
+sections are submitted in eighteen blocks.
+
+Designation of Sections: lFS- frozen section cystic mass, lA- ureter and
+vascular margins, kidney, lB-lC- random kidney with adjacent mass, 1D-
+adrenal gland, lE-IR- representative sections cystic mass
+
+Summary of Sections: multiple
+
+ 
+
+ 
+
+******************************************************************#*****
+Source of Tissue: 2. Labeled #2, "intra aortocaval lymph node"
+
+Gross Description: Received ﬂesh with patient name and medical record
+number labeled "intra aortocaval lymph node" are 2.0 x 1.0 x 0.8 cm of
+yellow-tan ﬁbroadipose tissue. There are two palpable lymph nodes, 1.8 cm
+in greatest dimension. The lymph nodes are entirely submitted in three
+blocks.
+
+Designation of Sections: 2A-2B- one lymph node, 2C- one lymph node
+
+Summary of Sections: multiple
+************************************************************************
+
+Source of Tissue: 3. Labeled #3, "para aortic lymph node"
+
+Gross Description: Received fresh with patient name and medical record
+number labeled "para aortic lymph node" is a 1.5 cm in greatest dimension
+red—purple soft lymph node which is entirely submitted in one block.
+
+Designation of Sections: Block 3
+
+Summary of Sections: undesignated—Z
+
+**#************************************#*********#**********************
+Final Diagnosis:
+
+1. Retroperitoneal mass with left kidney, resection:
+
+- High-grade spindle cell sarcoma consistent with CD117 positive
+
+leiomyosarcoma (20.0 cm), see comment.
+
+- The tumor surrounds, but not invades into, left kidney, ureter and
+
+adrenal.
+
+- Kidney with chronic pyelonephritis. Adrenal gland with no pathological
+changes.
+
+Comment: The morphology at the tumor suggests leiomyosarcoma. Tumor cells
+stain strongly positive for SMA, weakly positive for CD417. They are
+
+negative for Desmin and CD34. The case is reviewed by f
+
+' nd he concurs with the diagnosis.
+
+2. lntra aortocaval lymph nodes, biopsy:
+
+— Two lymph nodes, no tumor seen (0/2).
+
+3. Para aortic lymph nodes, biopsy:
+
+— One lymph node, no tumor seen (011).
+

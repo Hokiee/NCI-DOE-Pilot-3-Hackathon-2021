@@ -1,0 +1,94 @@
+ 
+
+ 
+
+ 
+
+Page 3!
+
+V3 0") .1 105x14
+
+TCGA Missing Pathology Report Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mm The TCGA Missing Pathology Report Form should be completed for cases for which a pathology report is not
+available. ,
+
+ 
+
+UUID: FBBGBBF9-6519- 4CF5-9A14- FTBliFﬂﬁBSFFa
+
+TCGA- 25- 1627-01A- PR
+
+III||||I|||I||II|||||||IIIIIIIIIIIIIIIIIIIIIIIIIIII||||I|IIIII IIIIIEd
+III II||||||||l|I|I II||I|||I||I||IIIII||||II|II I|I| IIIIIIIIII||I||||
+III IIIIIIII|||III|II|IIIIII|I IIIIIIIIIIIII|I||I|||IIIIIIIIIIIIII
+
+Completed Date [M M / DD/YYYY):
+General Pathology Report Information
+
+l’l.
+
+/ ZOI /’Lo\4’
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+# Data Element Entry Alternatives Working Instructions
+Provide the tumor type of the case.
+1 Tumor type: ——DL—
+Indicate to which BCR location the case was originally sent.
+2 BCR specimen originally sent El NCH
+to: El lGC
+Provide the date (MM/DD/YYYY] of shipment arrival at the
+D t c‘m . d t Biospecimen Core Resource (BCR).
+3 HERE- spe 1 en receive a E \% ZOOOI
+ICD—O-B Histology Code: Provide the histology code for the sample from the Case
+Quality Control Form (CQCF) and the overall case (patient
+. d' ' , ‘fd‘ .
+- For Specnmen: (CQCF) #4“ I lagmm l mam“)
+4 - For Case: (patient
+diagnosis, if available
+elsewhere)
+ICD-O-3 Site Code: Provide the site code for the sample from the Case Quality
+Control Form (CQCF) and the overall case (patient diagnosis, if
+. d‘ffe t .
+- For SpeCImen: (CQCF) C‘QU ' E! I re“)
+5 - For Case: (patient
+diagnosis, if available
+elsewhere)
+
+ 
+
+ 
+
+ 
+
+ 
+

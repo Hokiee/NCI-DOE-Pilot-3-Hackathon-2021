@@ -1,0 +1,59 @@
+  
+
+Pathology Report
+
+DIAGNOSIS
+(A) LEFT KIDNEY:
+
+ 
+
+RENAL CELL CARCINOMA (2.7 CM MAXIMUM DIMENSION), CONVENTIONAL TYPE
+
+(100% CLEAR CELLS),
+
+FUHRMAN NUCLEAR GRADE 3, CONFINED TO THE KIDNEY.
+Margins of resection free of tumor.
+Adrenal cortical adenoma (1.7 cm maximum dimension).
+
+COMMENT
+
+The renal cell carcinoma in the left kidney does not invade into the
+perinephric adipose tissue, renal sinus adipose tissue, or the renal
+vein.
+
+There is no metastatic renal cell carcinoma in the adrenal gland.
+
+GROSS DESCRIPTION
+(A) LEFT KIDNEY, STERILE - A radical nephrectomy specimen (20.0 x 10.0
+x 8.0 cm) with an attached 2.5 x 0.4 cm segment of ureter, 1.5 x 0.4 cm
+segment of renal vein and 7.5 x 6.5 cm unremarkable adipose tissue.
+
+A fairly well circumscribed tumor (2.7 x 2.7 x 2.0 cm) is located
+on the anterior aspect of the mid-portion of the kidney. The tumor is
+well-circumscribed and abuts the renal sinus and perinephric adipose
+tissue. The renal vein is free of tumor. The surface of the tumor is
+yellow-tan and hemorrhagic.
+No other lesions are identiﬁed within the kidney parenchyma, which is
+othenNise unremarkable. The adrenal gland measures 3.5 x 2.5 cm and
+shows a single 1.7 cm solitary nodule. The nodules has a bright
+yellow-orange surface and fails to demonstrate any signiﬁcant necrosis.
+
+INK CODE: Blue-perinephric adipose tissue.
+
+SECTION CODE: A1, ureter, renal vein and artery, en face; A2-A8,
+renal mass totally embedded (A2-A4, tumor and renal sinus; A5-A8, tumor
+and perinephric adipose tissue); A9-A12, adrenal tumor totally embedded;
+A13, unremarkable kidney parenchyma. -
+
+CLINICAL HISTORY
+None given.
+
+SNOMED CODES
+T-71000, M-83123, T-B3000, M-83700
+
+"Some tests reported here may have been developed and performance
+characteristics determined by
+
+Medicine. These tests have not been speciﬁcally cleared or approved by
+the US. Food and Drug Administration."
+

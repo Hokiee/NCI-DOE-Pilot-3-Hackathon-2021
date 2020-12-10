@@ -1,0 +1,17 @@
+_ Surgical Pathology
+
+TISSUE DESCRIPTION:
+Right kidney (20 grams, 5 x 3 x 3 cm).
+
+TCGA—CW—55ﬂ8
+
+DIAGNOSIS:
+Kidney, right, partial nephrectomy: Grade 2 {of 4) renal cell
+carcinoma, clear cell type, forming two nodules (2.6 cm and 2.1 cm
+in greatest dimension), within 1 mm of the hilum. The tumor is
+confined to the kidney. Coagulative tumor necrosis and sarcomatoid
+differentiation are absent. The tumor extends to within 1 mm of the
+surgical margin, which is negative.
+
+ 
+

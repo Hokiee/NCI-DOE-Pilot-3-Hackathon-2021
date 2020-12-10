@@ -1,0 +1,265 @@
+SURGICAL PATHOLOGY REVISED REPORT
+
+Case Number :
+
+Diagnosis:
+A: Uterus, cervix, total abdominal hysterectomy with bilateral salpingo-oophorectomy
+
+ 
+
+Location of tumor: endometrium /WW Wm'n‘d, p05
+. . . . 8334/3
+Histologic type: endometitﬂd adenocarcmoma SI“ . I ~ C 54 l
+. . . 9/4"
+HIStOIOgIC grade (FIGO): 3 (architectural grade 3, nuclear grade 3) (A16) M
+
+Extent of invasion:
+
+Myometrial invasion: Inner half
+Depth: 5 mm Wall thickness: 1.5
+
+cm Percent: 33% (A16, deeper level)
+
+Serosal involvement: absent
+
+ 
+
+Lower uterine segment involvement: absent
+
+UUID:1C53C957-1AOA-46AF-A538-
+TCGA- EV-AiGR-el 0287683052“
+
+lllllllllllllllllllllllllllll lluﬁiliﬁmmmnmilﬁl‘ilililied
+
+. llllllllllllllllllllllllllllllllllllllll
+Adnexal involvement (see below): absent Ill llllllllllllllllllllllllllllll "I'll",”Hilﬂllllwlll‘l'lllnlﬂ I"
+
+Cervical involvement: absent
+
+Other sites: N/A
+
+Cervical/vaginal margin and distance: widely free of tumor
+Lymphovascular Space invasion: present (A5)
+
+Regional lymph nodes (see other specimens):
+
+Total number involved: 0
+
+Total number examined: 25
+
+Other Pathologic ﬁndings: none
+
+Tumor estrogen receptor and progesterone receptor immunohistochemistry results:
+
+AJCC Pathologic stage: pT1a pNO pMX
+
+FIGO (2008 classification) Stage grouping: lA
+
+These stages are based on information available at the time of this report, and are subject to change pending additional
+information and clinical review
+
+Ovary, right, oophorectomy:
+- Atrophic ovary, no tumor seen
+
+Ovary, left, oophorectomy:
+- Atrophic ovary, no tumor seen
+
+Fallopian tube, right, salpingectomy:
+— No tumor seen
+
+Fallopian tube, left, salpingectomy:
+- No tumor seen
+
+B: Lymph node, left pelvic, removal
+- Eight lymph nodes, no tumor seen (0/8)
+
+C: Lymph node, right pelvic, removal
+- Eight lymph nodes, no tumor seen (0/8)
+
+D: Lymph node, left periaortic, removal
+— Three lymph nodes, no tumor seen (0/3)
+
+E: Lymph node, right periaortic removal
+- Six lymph nodes, no tumor seen (0/6)
+
+Clinical History:
+The patient is with a history of grade 3 uterine cancer.
+
+Gross Description:
+Specimen A is received in an appropriately labeled container.
+
+Adnexa: Bilateral ovaries and tubes present with specimen.
+Weight: 450.09 grams
+
+Shape: Grapefruit shaped
+
+Dimensions:
+
+height: 11 cm
+
+anterior to posterior width: 9.5 cm
+
+breadth at fundus: 10.0 cm
+
+Serosa: Tan/pink, smooth and glistening
+
+Cervix:
+
+length of endocervical canal: 3.5 cm
+
+ectocervix: White/pink with focal areas of hemorrhage.
+
+endocervix: Yellow/tan and trabeculated. There was a
+
+small 0.5 x 0.5 x 0.3 cm polypoid mass on the anterior endocervix.
+
+Endomyometrium:
+
+length of endometrial cavity: 6.0 cm
+
+width of endometrial cavity at fundus: 6.5 cm
+
+tumor findings:
+
+dimensions: 8.9 cm anterior to posterior x 7.5 cm medial to lateral x 5.6 cm from cephalad to caudad.
+appearance: Large tan/white fungating mass
+
+location and extent: Appears to invade both anterior and posterior endometrial cavities.
+
+myometrial invasion: Gross invasion is identified to the inner one-half on the anterior side and posterior side.
+thickness of myometrial wall at deepest gross invasion: 1.5 cm
+other ﬁndings or comments: None
+
+Adnexa:
+
+Right ovary:
+
+dimensions: 2.4 x 1.6 x 1.4 cm
+
+external surface: Pink/tan, convoluted
+
+cut surface: Tan/yellow variegated without masses.
+
+Right fallopian tube:
+
+dimensions: 5.5 x 0.5 cm
+
+other findings: Fimbriated end present
+
+Left ovary:
+
+dimensions: 2.6 x 1.8 x 1.3 cm
+
+external surface: Tan/pink, convoluted without masses.
+
+cut surface: Yellow/tan variegated with focal areas of hemorrhage.
+Left fallopian tube:
+
+dimensions: 5.4 x 0.5 cm
+
+other ﬁndings: Fimbriated end present
+
+Lymph nodes: Per blocks B-E
+
+Other comments: None
+Digital photograph taken: No
+Tissue submitted for special investigations:
+
+Block Summary:
+
+A1 - anterior cervix
+
+A2 - posterior cervix
+
+A3 - anterior lower uterine segment
+
+A4 - posterior uterine segment
+
+A5-A6 - anterior mid corpus from superﬁcial to deep
+A7 — anterior upper corpus/fundus
+
+A8 — additional section anterior upper corpus/fundus
+A9-A10 - posterior upper corpus/fundus, bisected
+
+A11-A12 — posterior mid corpus, bisected
+
+A14-A15 - posterior upper corpus, bisected
+
+A16-A17 — additional section anterior upper corpus/fundus
+A18 - right ovary and right fallopian tube
+
+A19 - left ovary and left fallopian tube
+
+(A13 block not submitted)
+
+Specimen B is received in an appropriately labeled container, additionally labeled "L pelvic lymph node" and is a 4.8 x 3.0
+x 1.8 cm aggregate of tan/yellow fibroadipose tissue with lymph node candidates.
+
+Block Summary:
+
+81 - one lymph node candidate, bisected
+82 - three lymph node candidates
+
+B3 - one lymph node candidate, bisected
+B4 - four lymph node candidates
+Fibroadipose tissue remains.
+
+Specimen C is received in an appropriately labeled container additionally labeled "R pelvic lymph node" and is a 4.7 x 4.7
+x 1.6 cm aggregate of tan/yellow ﬁbroadipose tissue with lymph node candidates.
+
+Block Summary:
+
+C1-C2 - one lymph node candidate, bisected
+C3 - four lymph node candidates
+
+C4 - two lymph node candidates
+
+C5 - one lymph node candidate, bisected
+C6 - one lymph node candidate, bisected
+Fibroadipose tissue remains.
+
+Specimen D is received in an appropriately labeled container, additionally labeled "L periaortic LN" and is a 3.2 x 1.6 x 0.9
+cm aggregate of fibroadipose tissue and lymph node candidates.
+
+Block Summary:
+01 — one lymph node candidate, bisected
+DZ - additional lymph node candidate with remaining ﬁbroadipose tissue, NTR
+
+Specimen E is received in an appropriately labeled container, additionally labeled "R periaortic LN" and is a 2.5 x 2.1 x 0.7
+cm aggregate of yellow/tan ﬁbroadipose tissue and lymph node candidates.
+
+Block Summary:
+
+E1 - one lymph node candidate, bisected
+E2 - four lymph node candidates
+Fibroadipose tissue
+
+Grossing Pathologist:
+
+Light Microscopy:
+Light microscopic examination is performed by Dr.
+
+Signature
+Resident Physician:
+
+Attending Pathologist: I have personally conducted the evaluation of the above specimens and have
+rendered the above diagnosis(es).
+
+Procedures/Addenda:
+Addendum
+
+Addendum
+
+lmmunostains for ER and PR are performed on a representative block of endometrial tumor. The tumor is ER positive (1-
+2+, 85%) and PR positive (2+, 65%).
+
+For cases in which immunostains are performed, the following applies: Appropriate internal and/or external positive and
+negative controls have been evaluated. Some of the immunohistochemical reagents used in this case may be classified
+as analyte speciﬁc reagents (ASR). These were developed and have performance characteristics determined by the
+
+"' . These reagents have not been cleared or
+approved by the US Food and Drug Administration (FDA). The FDA has determined that such clearance or approval is not
+necessary. These tests are used for clinical purposes. They should not be regarded as investigational or for research. This
+laboratory is certiﬁed under the Clinical Laboratory improvement Amendments of 1988 (CLlA-88) as qualified to perform
+high complexity clinical laboratory testing.
+

@@ -1,0 +1,21 @@
+Tumor:
+Normal
+Slide:
+
+Microscopic Description:
+
+Sections demonstrate a mildly to moderately hypercellular glial neoplasm, the cells of
+which resemble mildly atypical oligodendrocytes. No mitotic figures are seen. There is
+no microvascular proliferation or necrosis. The tumor infiltrates both gray and white
+matter diffusely.
+
+Addendum Discusion:
+
+MIB-l cells are present in vague clusters throughout the tumor. In the most proliferative
+areas, a labeling index of 2.3% is calculated, indicative of a modestly proliferative tumor.
+
+Addendum Diagnosis:
+
+Low Grade Oligodendroglioma, Who Grade II
+MIB-l Labeling Index: 2.3%
+

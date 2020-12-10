@@ -1,0 +1,29 @@
+Stomach, near total gastrectomyZ
+Advanced gastric carcinoma
+(Muc2(—)/Muc5AC(—)/Muc6(—)/CD10(—)/cERB2(—),Null type)
+1. Location 1 upper third, Center at mid-body, anterior wall
+2. Gross type I Borrmann type 2
+3. Histologic type I Adenocarcinoma, poorly differentiated, non-solid type (por2)
+with prominent lymphoid stroma
+4. Histologic type by Lauren 1 diffuse
+5. Growth patternI mixed expanding and infiltrative growth pattern
+6. Size 1 7.8x6.5cm
+7. Depth of invasion 1 invades serosa (pT4a)
+8. Resection margin 1 free from carcinoma
+safety marginsI distal 10.5cm, proximal 1.3cm
+9. Lymph node metastasis 1 4 metastasis in 64 regional lymph nodes (pN2)
+(lesser curvature 3/42, greater curvature 1/ 22, LN 0/2)
+10. Lymphatic invasion 1 not identified
+11. Venous invasion 1 not identified
+12. Perineural invasion 2 present, mild
+13. Associated finding:
+1) prominent lymphoid stroma
+2) foveolar hyperplasia with pit dysplasia
+Stomach, labeled as "stomach #2", biopsy:
+No tumor.
+Soft tissue, omentum, biopsy:
+
+No tumor.
+
+# Immunohistochemistry 1 CD10, MUC2, MUC5ac, MUC6, C-erb B2
+

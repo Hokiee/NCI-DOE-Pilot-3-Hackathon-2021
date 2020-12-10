@@ -1,0 +1,237 @@
+-*—— SURGICAL PATHOLOGY ----
+
+Specimen (Received @623 AS? 8:1,,
+A. THYMUS, FS Woe/gm. MN 5
+
+B. STATION 3 MEDIASTINAL LYMPH NODE . ({an
+
+c. STATION 4L $4.52: 017"“-
+
+D. THYMUS LYMPH NODE 1172—?“ b
+
+E. MAMMARY FAT PAD
+
+F. LEFT CHEST BIOPSY SITE
+
+*+* SUPPLEMENTARY REPORT HAS BEEN ADDED *+*
+*+* REFER TO BOTTOM OF REPORT *+*
+
+UUID:A875FBDA-ClﬂE-47CA-8DC4-6195072EF353
+_________________________ TCGA-XH -A853 -61 -
+
+APR Redacted
+PREOPERATIVE DIAGNOSIS: I“lllHllHHllllllllHIll"llllllllllllllllllllllllllllllllllllll
+moma IlllllllllllllHlllllllHll Ill
+_ _ _____________________ mmmmmmmmIf.“Willl'dlffllfflﬂffilM'Hﬂ
+
+POSTOPERATIVE DIAGNOSIS:
+Thymoma
+
+Surgeon/physician:
+
+Pathology Resident:
+
+GROSS DESCRIPTION:
+A.. The specimen is received fresh for intraoperative consultation
+diagnosis and consists of a 110.6 g, 13.1 x 8.0 x 3.5 cm tissue
+comprising of a 5.0 x 4.5 X 3.5 cm, well—circumscribed mass along with
+attached adipose tissue and oriented with a short stitch indicating
+right superior horn, long stitch indicating the left superior horn and
+a medium sized purple stitch indicating the left lateral margin. The
+specimen is inked blue along the superficial superior aspect, black
+along the superficial inferior aspect, red along the deep superior
+aspect and green along the deep inferior aspect. The left lateral
+margin is submitted for frozen section diagnosis in cassette FsAl—AZ.
+
+The nodule is located 9.5 cm from the superior margin and abuts the
+right lateral, left lateral and inferior margins of the specimen. The
+nodule is serially sectioned to reveal a tan to mahogany—brown, solid,
+lobulated, homogeneous cut surface traversed by thin, white, fibrous
+trabecula. The surrounding fat reveals the presence of two tan—brown
+
+to black rubbery lymph nodes displaying a tan-black to white cut
+surface.
+
+Sections of the specimen are submitted as follows: Cassettes Al-A7—
+representative sections from the mass; A8- one whole bisected lymph
+node; A9— representative section of adipose tissue and one whole
+
+possible lymph node; AlO— superior margin; All— right superolateral
+margin.
+
+FROZEN SECTION DIAGNOSIS:
+
+FsAl—FSAZ. Thymus, resection:
+- LEFT LATERAL MARGIN — PROBABLY NEGATIVE FOR TUMOR
+(FIBROADIPOSE TISSUE AND LYMPHOID TISSUE WITH ANTHRACOTIC
+PIGMENT PRESENT).
+
+— CANNOT ENTIRELY RULE OUT PRESENCE OF LYMPHOID TISSUE FROM
+THYMOMA
+
+B. The specimen consists of a 0.5 x 0.4 x 0.3 cm, tan—brown to black,
+rubbery lymph node submitted in its entirety in cassette B.
+
+C. The specimen consists of a 0.9 x 0.7 X 0.4 cm, tan~black to brown,
+
+rubbery lymph node, bisected and submitted in its entirety in cassette
+C.
+
+D. The specimen consists of a 0.5 x 0.4 x 0.1 cm, tan—black to brown,
+possible lymph node, submitted in its entirety in cassette D.
+
+E. The specimen consists of a 2.5 x 1.2 x 0.5 cm, tan—yellow to brown,
+lobulated piece of tissue which is serially sectioned to reveal a
+tan—yellow, lobulated cut surface. Representative section is
+submitted in cassette E.
+
+F. The specimen consists of a 0.9 x 0.5 x 0.3 cm, skin—covered tissue.
+The specimen is inked, bisected and submitted in its entirety in
+cassette F.
+
+MICROSCOPIC EXAM
+DIAGNOSIS:
+
+A. Thymus, resection:
+
+SPECIMEN: Thymus
+
+PROCEDURE: Thymectomy
+
+SPECIMEN INTEGRITY: Intact
+
+SPECIMEN WEIGHT: 110.6 gm
+
+TUMOR SIZE: 5.0 x 4.5 x 3.5 cm
+
+HISTOLOGIC TYPE: Type AB thymoma
+
+TUMOR EXTENSION: Not applicable
+
+MARGINS: Margins uninvolved by tumor
+
+TREATMENT EFFECT: Not applicable
+
+LYMPH-VASCULAR INVASION: Not identified
+
+REGIONAL LYMPH NODES: NO regional lymph node metastases
+NUMBER EXAMINED: 4
+NUMBER INVOLVED: O
+
+PATHOLOGIC STAGING FOR THYMOMAS (MODIFIED MASAOKA STAGE): Stage 1
+(grossly microscopically encapsulated; includes microscopic
+
+invasion into, but not through, the capsule)
+IMPLANTS/DISTANT METASTASIS: Not present
+ADDITIONAL PATHOLOGIC FINDINGS:
+— Focal cystic change in tumor
+- Involuted thymic tissue away from thymoma
+— 1x1 mm parathyroid tissue in the superior margin
+
+B. Station 3 mediastinal lymph node, excision:
+- CALCIFIED NODULE, NEGATIVE FOR TUMOR
+
+C. Station 4L lymph node, excision:
+- ONE LYMPH NODE, NEGATIVE FOR TUMOR
+
+D. Thymus lymph node, excision:
+- ONE LYMPH NODE, NEGATIVE FOR TUMOR
+
+E. Mammary fat pad, excision:
+- MATURE ADIPOSE TISSUE WITH A TINY LYMPHOID AGGREGATE,
+NEGATIVE FOR TUMOR
+
+F. Left chest, biOpsy site, excision:
+- SKIN WITH DERMAL SCAR AND GIANT CELL REACTION, CONSISTENT WITH
+THE PRIOR BIOPSY SITE
+
+COMMENT: The thymoma is encapsulated; there is no tumor extension
+through the capsule. The tumor consists of spindle/oval and focally
+polygonal epithelial cells (positive for PCK and CK5/6 on
+immunohistochemistry) which are intermixed with T~cells (positive for
+CD3 and CD5 by immunohistochemistry). CD20 stains rare scaterred
+B—cells. The neoplasm has a lobulated architecture, with traversing
+fibrous bands. Occasional Hassal‘s corpuscles are present.
+
+Sections of the fibroadipose tissue away from the mass, including the
+superior and right superolateral margins, show involuted thymic tissue
+(with lymphoid component predominantly in the cortical area and
+epithelial component in the medullary area). Areas of cystic
+degeneraton are present. By immunohistochemistry the epithelial
+component stains positive for PCK and CK5/6; and lymphoid component
+with CD3 and CD5. CD20 outlines B—cells in the germinal centers. The
+left lateral margin (which was submitted for frozen section) shows
+fibroadipose and lymphoid tissue, and no thymoma. Focal parathyroid
+tissue (1x1 mm) is identified in the superior margin (positive for
+chromogranin and AEl/3).
+
+Mediastinal nodes Show focal granulomas. The result of AFB and GMS
+special stains will be reported in an addendum.
+
+Intradepartmental consultaton: was notified at
+the time of frozen section.
+
+Immunohistochemistry Disclaimer: "This test was developed and its
+performance characteristics determined by the
+at the
+It has not been Cleared or approved by the U.S. Food and Drug
+Administration. The FDA has determined that such clearance or approval
+is not necessary. This test is used for clinical purposes. It should
+
+not be regarded as investigational or for research. This Laboratory is
+certified under the Clinical Laboratory Improvement Amendments of 1988
+
+(CLIA-88) as qualified to perform high complexity clinical laboratory
+testing.“
+
+SUPPLEMENTARY REPORT(S):
+Supplementary Report Date:
+
+*+* SUPPLEMENTARY REPORT HAS BEEN ADDED/MODIFIED *+*
+(Added/Last released: Signed by'
+
+The special stains (GMS, PAS, Mucin and AFB; performed on blocks A8
+and C) are negative for fungal or acid fast organisms.
+
+mm: Al [0/9117/(3 Vex
+
+ 
+
+)iagnomt‘Eruerc-nzv 7
+‘rivn 1w TUJVI.’ Sui-I. uiszmpnnm
+"9AA Gurn- nano/
+
+ 
+
+L'S
+
+. °\
+
+1
+
+x”
+/’
+
+ 
+
+ 
+
+ 
+
+  
+
+?‘D:>ggl§uru~n W
+
+%\
+
+ 
+
+ 
+
+! r
+
+mnw‘ __ ,_ _
+raduﬂevirwedlﬂﬂéf. ..J
+
+l
+

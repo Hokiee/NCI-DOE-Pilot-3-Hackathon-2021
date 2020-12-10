@@ -1,0 +1,155 @@
+UUID: 70751458- ASCE- 4BD5- 5383- 8C96F1718696
+
+TCGA- -v-4 -A9ET- 91A- PR Redac ICE 0 3
+I IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIICIIad
+
+I
+411 I LL
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII lIlllI'Il'II'" 73%,”? 4444452224
+
+ll
+ll
+§ail W cm a
+mag €444
+
+Macroscopy - i (ﬁx) :2 // 62//4
+
+Enucleation of the right eye
+
+The eyeball measures 26 mm in diameter with a segment of optic nerve of 5 mm. At
+the section, a tumor located at the inferior part of the eyeball and measuring 18 mm
+is observed. Tissue specimens are taken for cryopreservation prior ﬁxation.
+
+M doc
+Microscopy 5:? P” (I ¢$W1mmwa I?»
+
+The tumor observed macroscopically presents the histological aspect of an uveal
+melanoma. This tumor is composed of epithelioid (50%) and of fusiform cells (50%).
+The cell atypias are severe. Presence of melanin. The mitotic activity is low (2
+mitoses per 10 HPF). There is a focal inﬁltration of the ciliary body and of the inner
+part of the sclera, on a thickness of about 1 mm. The tumor is at distance from the
+optic nerve which is free on its entire course. The cut end of the optic nerve and the
+meningeal sheath are also free of tumor.
+
+Conclusion
+
+Uveal melanoma composed of epithelioid and of fusiform cells.
+Tumor size: 18x10 mm main lines.
+
+Mitotic activity: low
+
+Focal tumor inﬁltration of the ciliary body and of the 1/3 inner part of the sclera, on a
+space of about 1 mm. without extra-scleral extension.
+
+Optic nerve on its entire course, optic nerve cut end and meningeal sheaths free of
+tumor.
+
+ 
+
+ 
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+V4.00
+
+ 
+
+ 
+
+ 
+
+ 
+
+W5; The TCGA Pathologlc Diagnosis Discrepang; Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnOSis provided on the
+Case Quality Control Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site [TSS]: ....._ TSS Identiﬁer: TSS Unique Patient Identiﬁer: __ _
+Completed By (Interviewer Name on OpenCIinlco}: __ Completed Date: _.
+Inlagnosts information
+# Data Element Entry Alternatives Working instructions
+. - . » Provide the diagnosis/ hismlcgic subtype (5] docu mented on
+Pathologlc Diagnosis 50% ﬁnale“ Did cells the initial pathology report for this case. 1fthe histology for
+1 Provided an Initial this case is mixed. provide all listed subtypes.
+Pathology Report 50% spindle cells
+- - . Provide th histolo c features selected on the TCGA Case
+$:t°;°g}§ef::t;::§f 6 180% spindle cells Quality Cogtrol Fagin completed for this case.
+5 mp
+2 for TCGA, as reﬂected 1-30% epithelioid cells
+on the CQCF.
+
+ 
+
+ 
+
+Discrepa ney between Pathology Report and Case Quality Control Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 Provide the reason for Provide a reason describing why the diagnosis on the initial
+the discrepancy The section of the frozen sample used for sending P?th°l°ln’ “9"“ I" this “3‘ is “m ““53““ mm the
+between the pathology to ‘l‘CGA corresponds to a section of the tumor diagnose 5919““ ”than“ Case Quality Control Form
+report and the TCGA where the epithelioid part is predominant.
+
+Case Quality Control A .
+Form. The percentages mentioned on the inmal
+Pathology Report correspond to an average on the
+whole embedded sections. used for establish the
+Pathology Report.
+Name of T85 Reviewing Provide the name of the pathologist who reviewed this case
+4 Pathologist or f“ TCGA
+Biorepository Director V
+
+ 
+
+I acknowledge Mat the above luﬁrmation provided by my institution is true and «manna has been quality controlled.
+
+ 
+
+TSS Reviewing Pathologist or Biorepository Director
+
+Date
+
+I acknowledge that the above information provided by my institution ls true and correct and has been quality controlled. mituemﬂng Pathologist or the
+Deparaneut Cincinnati has been informed or is aware ofthe above dimpaucy in diagnoses.
+
+ 
+
+Principal Investigator Signature
+
+Date
+
+ 
+
+ 
+
+ 
+

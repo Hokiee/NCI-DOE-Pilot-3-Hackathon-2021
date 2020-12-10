@@ -1,0 +1,109 @@
+UUID: F38EE87F - 167B-4E70-ABB3-9CDCFEC813D4
+TCGA-D7-A748-BlA-PR R Iiltea
+
+eda
+“'llllllllllll'llllll'lllllllllllllllllllllllllllllll'l
+Ill
+Illlllllllllllllllllllllllllllll||Illll|llllllllllllllllllllllll
+
+ 
+
+Patient: XXX
+
+Unit in charge:
+
+Physician in charge:
+
+Clinical diagnosis (suspicion)
+
+Date of admission:
+
+Age: 4 U Gender: F
+
+Examination result No.
+dew: I4 0 4:» — 3
+(1me , W 13% $4513
+WM), Arm-Wm W90 )5
+
+5 ,1; W ale. I
+MAS C169
+
+Material: 3 ,ADQ 95/!
+
+1) Material: stomach, stomach with the tumour. Method of collection: Total organ resection / 3
+
+Histopathological diagnosis: Examination performed on: .
+
+Mucocellular adenocarcinoma of the Stomach (diffuse).
+
+Metastases in 12/16 adjacent lymph nodes.
+
+G3, pT4a, pNBa, pr.
+Spleen and omentom free of cancer. (8490/3 T—63000)*
+
+' codes according to lCD-O-J or SNOMED
+
+WW: .
+
+Stomach, after being incised along the greater curvature sized 23 x 17 cm with the omentum sized 25 x
+8cm. Additionally, the pancreas sized 14 x 8 x 5cm. The mucosa exhibiting an ulcerated tumour of 5.0 x
+4 x 2cm. The lesion is located 6.0cm away from the proximal incision line, and 9cm from the distal one.
+
+Gastric mucocellular adenocarcinoma (Ga acc. to Lauren, diffuse type). Tumour inﬁltrating the serous
+membrane (pT4a) Metastases to 3/3 pericardia lymph nodes, 5/5 lesser curvature lymph nodes, 1/2
+
+greater curvature lymph nodes, 3/6 perypyloric lymph nodes - total: 12/16 lymph nodes involved.
+Spleen free of cancer. Two lymph of the hilum lienale nodes free of cancer.
+
+Assistant: Pathologist:
+
+Edited by . _
+
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+
+ger;;ﬁf'lll,l3 _.._L.,
+
+Diagnosis l" iCV
+
+Primary Tumor Site piscrepanq‘
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HIE-RA Discrepancy _ _
+Prior Malignancy History ‘
+”val/synchronous Plima ate“ |
+
+rm is on i: eununco / DI uni, V __
+;_I V V I ‘ '. 1
+erview r nm _ newen [ /
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

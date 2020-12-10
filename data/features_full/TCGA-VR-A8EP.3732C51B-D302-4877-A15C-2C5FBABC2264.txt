@@ -1,0 +1,47 @@
+UUID: 3732C51B- HDBBZ 4877- A15C- ZCSFBABRCZEZM
+TCGA- VR- ABEP- BlA- PR
+
+|IIIIIIIII|II||I|IIIIIIII|||||||||||||||||||||||||||||III III|||ed
+
+- 5011 f ,Méz
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIm W" ““7 @154
+
+<§L> 1/24/1 4
+Collect date:
+
+(MM/DD/YYYY)
+PRIMARY SITE: Esophagus (Mid third)
+
+PATHOLOGY REPORT:
+
+1 - “Esophagectomy specimen”:
+- Specimen: esophagus and proximal stomach
+— Procedure: esophagogastrectomy
+- Tumor site: esophagus
+- Tumor size (greatest dimension): 6.2 cm
+- Histologic type: squamous cell carcinoma.
+- Histologic grade: G3, poorly differentiated.
+— Microscopic tumor extension: tumor invades through muscularis propria into the
+periesophageal fat tissue.
+- Lymph-vascular invasion: present
+- Perineural invasion: present
+- Margins uninvolved by carcinoma
+- Gastric mucosa exhibit moderate chronic gastritis with lymphoid follicular hyperplasia,
+uninvolved by carcinoma
+- Esophagus segment without neoplasia demonstrated normal morphologic aspects.
+- Periesophageal lymph nodes:
+- Number examined: 15
+- Number positive for neoplasia: 03, without capsular involvement.
+- Peri gastric lymph nodes:
+- Number examined: 1 1
+- Number positive for neoplasia: 01, without capsular involvement.
+- Other regional lymph nodes:
+- Number examined: 01
+- Number positive for neoplasia: 00
+
+2 - “Esophageal margin”:
+- Uninvolved by carcinoma.
+
+ 
+ 
+

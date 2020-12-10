@@ -1,0 +1,50 @@
+ 
+
+ 
+
+Procurement Datezl Laterality:NA
+
+Path Report:SKlN TISSUE CHECKLIST
+
+Specimen type: Excision of lesion
+
+Tumor site: Skin, shoulder
+
+Tumor size: 4.1 x 3.6 x 5.2 cm
+
+Tumor features: Pigmented
+
+Satellite nodules: Not specified
+
+Histologic type: Malignant melanoma
+
+Histologic grade:
+
+Lymph nodes: 3/10 positive for metastasis (Axillary 3/10)
+Lymphatic invasion: Not specified
+
+Venous invasion: Absent
+
+Margins: Uninvolved
+
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+
+Comments: None
+
+/CA— 0,3
+
+m NW7 8720/3
+
+aim: Mgr/L [511W 0”" L7 ‘f/JJJ/r
+/A/
+
+UUID:14E891C7-DE6F—405A-9669-BDSA3912438e-4d
+TCGA- EB-A24D-01A- PR
+
+llIIIlIIlIlllIlIIllIIIlIlIlIllIIIIIlIIllIlIIIIIIlIIlIIIII‘3d
+IIIIIIIIIIIIIIIIHIII|||||||||||||||||III|||||||||||||| |I||
+IllllI lIll llIlIIllIlIlIIlll I III“ I lIIlIIlIllIl IIII
+
+ 
+

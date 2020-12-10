@@ -1,0 +1,237 @@
+...________,.~_~_‘_
+
+ 
+
+uurveggiafiélﬂséé53913533?-wasozﬁizlslﬁiifec'
+
+| ||||||||||||||||||llllllll|l|||||l||l||||l|||
+|||||H||||||||
+Ih'l'lh'lI'I'lllh'll'l'lflh'l'I'lﬂ'nmnmmmum
+
+||||
+
+SURGICAL PATH [1 ‘ . ' ' " ll"
+Order Dr: "H
+Order Clinic:
+Order Dx:
+
+Specimen Source: R TESTICLE SPER CORD
+
+CASE NO.: ‘
+
+GROSS EXAM DATE:
+
+PHYSICIAN & PACER #:
+-4 CONCLUSION/DIAGNOSTIC CODE ---------------------------------------------
+
+NON-ROUTINE
+
+-- REPORT ----.--——-—-——————-——-—————---~—-_--——--—-——-—-------—--—-----—--4—--
+DIAGNOSIS (based on GROSS and MICROSCOPIC examination):
+
+1. MIXED GERM CELL TUMOR UNIFOCAL (4 CM) COMPOSED OF TERATOMA
+(MATURE AND IMMATURE) 60%, EMBRYONAL CARCINOMA 30%, FOCI
+CONSISTENT WITH YOLK SAC TUMOR 5% AND CHORIOCARCINOMA (5%),
+right testicle and spermatic cord, right orchiectomy. (see
+note)
+
+. TUMOR CONFINED TO TESTIS.
+
+. N0 LXMPHOVASCULAR INVASION IDENTIFIED.
+
+. INTRATUBULAR GERM CELL NEOPLASIA.
+
+. SURGICAL SPERMATIC CORD AND OTHER MARGINS FREE OF TUMOR.
+
+. TESTICULAR TISSUE WITH EVIDENCE OF SPERMATOGENESIS.
+
+. pTlNXMX.
+
+meUlnme
+
+Note: The embryonal carcinoma is strongly positive for CD30. There are
+small focal tubular areas of strong positivity for AF? and ECG.
+notified on ‘ at
+
+GROSS DESCRIPTION:
+
+The specimen is received in one part, fixed in formalin, labeled with
+the patient's name, hospital number, and "right testis and spermatic
+cord." It consists of a 61~gram orchiectomy specimen including a 6 x
+4.5 x 4—cm testis, a l x 1.2 x 0.5—cm epididymis, and 7 cm in length
+and 1.4 cm in diameter spermatic cord. The outer surface of the testis
+and spermatic cord are inked in black color At the base of the
+epididymis and 0.5 cm from the tunica albuginea there is a 4 x 3.5 x
+3.5—cm white-tan variegated well-cirCumscribed mass with focal area of
+hemorrhage and necrosis. There is no gross involvement of the tunica
+albuginea or impingement on the epididymis. The rim of testicular
+
+L4 , ”IQ?&>’CD':3 ih3d.
+ﬁlm mate-W WWW
+
+EWW QDSIIS
+
+5dr
+
+ 
+
+ 
+
+-._.____.._.
+
+ 
+
+”Weed am 0199 mm 90 $55
+' @ Jim NOS (W L’
+
+. c), c. 6/5/// L:
+
+ 
+
+Page 2
+
+ 
+
+>;;"§E§6R§'_r--_i___-_i _____________________________________________________
+parenohyma at the edge of the tumor is compressed and grossly
+unremarkableg. The spermatic cord consists of vas deferens, arteries,
+and veins, and is unremarkable. Representative sections are submitted
+as follows: Cassettes 1_to 5 — Tumor. Cassette 6 — Tumor and base of
+epididymis. Cassette 7 — Tumor and tunica vaginalis. Cassette 8.-
+Tumor and adjacent testis. Cassette 9 - Spermatic cord resection
+margin. Cassette 10 — Spermatic cord
+midportion. Cassette 11 ~ Spermatic cord peritesticular portion.
+R11.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+V4.00
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mom; The TC GA Pa thologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Con trol Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+TSS Identiﬁer: _ TSS Unique Patient Identiﬁer: __g
+Completed Date: _
+
+Tissue Source Site [TSS]: .,
+
+ 
+
+Completed By (Interviewer Name on OpenClinica): _
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Diagnosis Information ]
+# Data Element Entry Alternatives Won-Maudie“
+Terat oma (mature and immature) 6 0%, Provide the diagnosis] hismlogic subtype(s) documented on
+Pathologic Diagnosis Embwonal Care home 3 o s. the initial pathology report for this case. lithe histology for
+
+1 Provided 0n Initial this case is mixed. provide all listed subtypes.
+
+Yolk sac Turner 5%,
+Pathology Report
+
+Choriocarcinoma 5%
+
+ 
+
+Histologic features of Provide the histologic features selected on the TCGA Case
+
+the sample provided Embryonal Caro i noma 4 0 a, Quality Control Form completed for this case.
+2 for TCGA. as reﬂected Teratoma (mature ) 6 0%
+on the CQCF.
+
+ 
+
+ 
+
+ 
+
+Discrepancy between Pathology Report and Case Quality Control Form - I
+
+ 
+
+ 
+
+ 
+
+3 Provide the reason for Frauds a reason gsﬁing why the diagnosis onttliie initial
+the discrepancy h :i. s t 01 ogic het erogene i ty pa 0 ogy neport 1- case is not consustent w: the
+d' .
+between thEhpathOIOgy characteri S t i c of mixed germ lagnosls selected on the TCGA Case Quality Control Form
+report and e ’l‘CGA
+. cell tumor
+Case Quality Control . 3
+Form.
+Name of TSS Reviewing Provide the name of the pathologist who reviewed this case
+
+4- Pathologist or for TCGA.
+
+Biorepository Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above information provided by my institution is true and correct and has been quality norm-oiled.
+
+ 
+
+TSS Reviewing Pathologir- or Biorepositor/y Director Date
+
+I acknowledge that the above information provided by my institution is true and correct and has been quality controlled. The Attending Pathologist or the
+Department Chairman has been informed or is aware oftl‘lo above discrepant]! in diagnoses
+
+ 
+
+Principal investigator Signature Date
+
+ 
+
+ 
+

@@ -1,0 +1,77 @@
+UUID:7EBAE58A-M05-4234-A526-5C3A3737
+CGA-HR-AZOH-BIA- 41M
+
+lllllllllllTlllllllllllllllllllllllllilk "“3““
+mmmmuiiimm"imuiuiillllllllllllllll'llli'll'mI"
+
+ 
+
+Sample Type Tumour Primary
+
+Ill llllllllllllllllllllllllllllllllll lllll l l llllll l llllllllll
+
+Sample Preparation
+
+Site of Primary (Event)
+Site of Tissue
+
+Year of Sample Collection
+Age at Sample Collection (yrs)
+Sample Comments
+
+Days to Procedure Date
+Days to Diagnosis
+
+Type of Procedure
+
+Site of Primary (Histology)
+Recurrent Site
+
+Tumour Diameter (mm)
+Tumour Depth (mm)
+Breslow Technique
+Histology
+Grade/Differentiation
+Pathological T
+Pathological N
+
+Clinical M
+
+Histology Comments
+
+Fresh Frozen
+Melanoma
+Left pelvic side wall mass
+
+/0/)/0—3
+
+WWII»! N05 Y7a’lo/3
+0 jawlmlm'u M Ma; 3,74,}
+
+20 /vJ
+
+Surgical resection q/,¢/,,
+Lower limb and hip
+
+NO
+
+50
+
+999.99000000000001
+
+Unknown
+
+Metastatic melanoma
+
+Grade X (Unknown)
+
+TX
+
+NX
+
+M1,NOS
+
+Site of primary: left dorsal lateral foot. Metastatic tissue
+
+banked from left pelvic side wall mass.
+

@@ -1,0 +1,140 @@
+   
+     
+ 
+
+TCGA Pathology Reports
+—
+
+Asterand Case ID Open Clinica TCGA Gross Description
+Subject ID
+
+  
+
+BR—7722
+
+ 
+
+Stomach segment with the
+esophagus part.
+
+Stomach segment with the
+plate-like tumour, 3 cm in its
+largest dimension, infiltrates
+all layers of the stomach wall
+and diaphragm. Greater and
+lesser curvature lymph nodes
+are dense, hyperemic;
+esophageal margins are free
+of metastases.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Microscopic
+Description
+
+Diagnosis
+Details
+
+Formatted Path Report
+
+ 
+
+Adenocarcinoma of
+the stomach, G3, all
+layers of the stomach
+wall invasion. Tumour
+invadesthe
+diaphragm, with the
+foci of perineural
+invasion.
+
+Surgical margins
+along the stomach --
+discoupling and
+moderate dysplasia
+of glands,
+inflammatory
+infiltration,
+haemorrhages.
+Esophageal surgical
+margins are free of
+metastases. Fifteen
+lymph nodes were
+examined, five
+demonstrated
+metastases, others --
+focal fibrosis.
+Omentum --
+haemorrhages.
+
+Tumor Features:
+Ulcerated, Tumor
+Extent: Adjacent
+structures,
+Venous Invasion:
+Absent, Margins:
+Absent,
+Treatment Effect:
+
+ 
+
+ 
+
+STOMACH TISSUE CHECKLIST
+
+Specimen type: Total
+gastrectomy
+
+Tumor site: Stomach
+Tumor size: 3 x 0 x 0 cm
+Tumor features: Ulcerated
+Histologic type:
+Adenocarcinoma
+
+Histologic grade: Poorly
+differentiated
+
+Tumor extent: Adjacent
+structures (specify) -
+Diaphragm
+
+Lymph nodes: 5/15 positive
+for metastasis (Greater and
+lesser omentum 5/15)
+Lymphatic invasion: Present
+Venous invasion: Absent
+Perineural invasion: Not
+specified
+
+Margins: Uninvolved
+Evidence of neo-adjuvant
+treatment: Not specified
+Additional pathologic findings:
+Not specified
+
+Comments: None
+
+ 
+
+ 
+
+Date of Procurement
+
+ 
+
+ 
+
+ 
+

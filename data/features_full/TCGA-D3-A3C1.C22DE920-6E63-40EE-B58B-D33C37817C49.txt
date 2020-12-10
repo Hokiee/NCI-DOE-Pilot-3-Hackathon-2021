@@ -1,0 +1,50 @@
+UUID : C220E920-6E63-40EE-BSBB-D33C37817C49
+
+TCGA-D3-A3C1-06A-PR Redacted
+llllllllll'lllllllllllllllllllllllllllllllllllllllllllllllll"'
+PaﬁentlD-— lWHMMWMﬂMMMHNﬂHMWWHWNMHﬂ
+
+(A) LEFT AXILLA, LYMPH NODES:
+METASTATIC MELANOMA IN FOUR OF FORTY TWO LYMPH NODES (4/42)
+LARGEST SIZE IS 24.0 MM
+SUBCAPSULAR AND INTRAPARENCHYMAL, WITH FOCAL EXTRANODAL EXTENSION.
+
+Entire report and diagnosis completed by
+
+GROSS DESCRIPTION
+
+(A) RE-EXCISlON MELANOMA. LEFT AXILLA - An en block resection of axillary contents with an attached ellipse of skin that
+measures overall 19.0 x 10.5 x 3.0 cm. The attached unoriented portion of skin is 4.5 x 1.6 cm. A centrally located possible scar
+measuring 3.5 x 0.8 cm is present. No biopsy cavity is identiﬁed.
+
+Multiple lymph nodes are identiﬁed ranging in size from 0.3 x 0.2 x 0.2 cm up to 2.4 x 2.3 x 1.7 cm. Several lymph nodes
+are grossly positive and deeply pigmented. Representative portions of positive lymph nodes are submitted for tumor bank.
+
+lNK CODE: Orange — skin edges
+
+SECTION CODE: A1, two sections of skin with scar; A2-A9, four lymph nodes each; A1 0. ﬁve possible lymph nodes;
+A11. representative section of largest lymph node; A12, three lymph nodes; A13, two lymph nodes; A14, one lymph node
+
+bisected.
+
+/£A«a~3
+thmumuﬂ/VUS 9720/3
+tgi'h: [W W, hVi/IA' (177,3
+
+CLINICAL HISTORY
+
+Metastatic melanoma
+
+SNOMED CODES ,
+I“) / 4/5 I”
+T-C4710. M-87206
+“Some tests reported here may have been developed and performance characteristics deter-mined by ;. These tests have not been
+
+speciﬁcally cleared or approved by the US. Food and Drug Administration."
+
+Released by: .
+
+------ END OF REPORT------
+
+ 
+

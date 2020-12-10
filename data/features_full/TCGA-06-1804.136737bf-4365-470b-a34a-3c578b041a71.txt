@@ -1,0 +1,254 @@
+ 
+
+Patholnnv and Laboratory Medicine
+
+TCGﬂwﬂﬁ-IBM
+
+ 
+
+==== =mssﬂ ”Fm--
+
+CLINICAL HISTORY
+Right frontal brain lesion
+
+OPERATIVE DIAGNOSES
+Right frontal brain lesion
+
+Operation/Specimen: A: Brain tumor, excision biopsy
+B: Brain, excision biopsy
+
+PATHOLOGICAL DIAGNOSIS:
+A. and B. Brain, right frontal tumor, excision biopsies: Anaplastic
+
+oligodendroglioma (see comment}.
+
+F
+cc..aNT
+Sections show an infiltrating glial tumor. Frequent mitotic figures are
+present as is necrosis. Tumor nuclei are mostly round to oval and many show
+nucleoli. In a few areas the cells more closely resemble neoplastic
+astrocytes. Other areas show mucinous pools or distinct microcystic
+architecture. The infiltrating tumor cells show prominent perineuronal
+satellitosis and perivascular spread. Some areas of the tumor show background
+ropy myelin. Many of these features are characteristic of oligodendroglial
+tumors. Occasional tumor cells are GFAP positive. GFAP positive reactive
+astrocytes are present. The tumor cells are 0020 and CD3 negative. NeuN
+highlights cortical neurons and perhaps a few tumor cell nuclei. Alcian blue
+is noncontributory.
+
+The tumor shows demonstrates moderate p53 staining and the Ki~67 labeling‘
+index is approximately 35%.
+
+This tumor shows distinct oligodendroglial and to a lesser extent astrocytic
+features, including astrocytic gemistocytes. The latter observation is
+complicated by the presence of numerous reactive astrocytes and some
+oligodendroglial mini—gemistocytes.
+
+The differential diagnosis includes anaplastic oligodendroglioma or anaplastic
+oligoastrocytoma {WHO Grade III) and glioblastoma wit ' '
+component (WHO Grade IV). The patient‘s corresponding
+
+slides were also reviewed. Clinical correlation is necessary.‘
+
+MGMT promoter methylation and EGFRVIII assays are pending and the results,
+which will be reported in procedure addenda, may help guide appropriate
+
+tn ‘py.
+lplSq LOH testing is recommended.
+
+ 
+
+Requested by:
+
+Page 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROCEDURES/ADDENDA
+
+.MGMT Promoter Meth lation
+Date Ordered: * Date Reported: -
+
+Interpretation
+
+ 
+
+POSITIVE: Methylated MGMT promoter is detected.
+
+ResultSHComments
+Testing performed on paraffin tissue block
+
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT promoter
+have been shown to benefit from therapy with alkylating agents. Assessment of
+MGMT promoter methylation status involves bisulfite treatment of DNA followed
+by real—time PCR amplification (MethyLight) of methylated and unmethylated DNA
+sequences.
+
+FDA COMMENT: The above data are not.to be construed as the results from a
+
+stand alone diagnostic test. This test was develo ed an its performance‘
+characteristics determined by the # laboratory as
+required by CLIA '- regulations. as not een cleared or approved for
+
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA has
+determined that such clearance or approval is not necessary. These results are
+
+pg) ided for informational purposes only, and should be interpreted only in
+tr,
+
+context of established procedures and/or diagnostic criteria.
+
+ 
+
+NEGATIVE: Allelic loss on chromosome arm 1p and chromosome arm 19q is NOT.
+detected. '
+
+Informative loci are: are D181592, D18468, D181612, D18496, D198219, 0198412,
+and PLA2G4C
+
+Results—Comments
+Testing performed on DNA extracted from paraffin tumor block
+and a corresponding blood specimen.
+
+TEST DESCRIPTION: Allelic loss is assessed by PCR assay in Normal DNA
+(baseline)/ Tumor DNA pairs using 3 markers at both 1p and 19q. The 3 markers
+on lp are D18548, 0181592, and 518552 (with D18468, D181612, and D13496 as
+backup markers) and the 3 markers on 19q are D198219, D198412, and PLA2G4C
+(with D198606 and D1981182 as backup). All markers are microsatellites (2 or 4
+ng‘ ‘peats) except PLA2G4C which is a minisatellite (26 nt repeat)
+
+p tgnorphism. The markers were selected based on heterozygosity score,
+amplicon size, and ease of interpretation. The backup markers are used if the
+
+ 
+
+ 
+
+Requested by:
+
+Page 2
+
+ 
+
+    
+
+first line markers at that chromosome arm are uninformative or otherwise
+ambiguous in their interpretation. LOH at all informative loci on each
+chromosomal arm represents the typical finding in oligodendrogliomas with 1p
+a 19q deletion.
+
+FDA COMMENT: The above data are not to be construed as the results from a
+
+stand—alone diagnostic test. This test was develo ed and its performance
+characteristics determined by the #laboratory as
+required by CLIA ‘ - regulations. It as not can c eared or approved for
+
+specific uses by the 0.8. Food and Drug Administration (FDA). The FDA has
+determined that such clearance or approval is not necessary. These results are
+provided for informational purposes only, and should be interpreted only in
+the context of established procedures and/or diagnostic criteria.
+
+TECHNICAL SENSITIVITY: The presence of >15% non—neoplastic cells in the sample
+may preclude the detection of allelic loss.
+
+ 
+
+ 
+
+ 
+
+INTRA—OPERATIVE CONSULTATION
+
+A. Brain, right frontal tumor, x ' ' ‘ - i hugrade glioma. Frozen
+section and smears performed at nd results reported to
+the Physician of Record.
+
+  
+ 
+ 
+ 
+
+ 
+
+Gi S DESCRIPTION
+
+A. Received fresh are fragments of soft tan tissue, 0.8 x 0.6 x0.4 cm
+in aggregate. Samples are used for frozen sections and smears. The frozen
+residual is submitted in Al and the unfrozen tissue is submitted in A2.
+
+B. Received fresh for permanent sections are fragments of soft tan
+tissue, 1.5 x 1.0 x 0 4 cm in aggregate Submitted in toto in Bit—132.-
+
+ICD~9(S):
+
+ 
+
+Histo Data
+Part A: Br ‘ cision biopsy
+
+  
+
+Taken: Received:
+
+Stain/cut Block Comment
+FS H/E x l l
+
+H/E x 1 l
+
+H/E x l 2
+
+TPS H/E x 1 (none)
+
+Part B: B i ' ' biopsy
+
+Ta 1: Received:
+
+St a/cnt Block r er omment
+Al Blue 2.5 x l l
+
+ 
+
+Requested by: , Page 3
+
+ 
+
+  
+
+—DA x l
+mCDS—DA x 1
+EGFR—curls x l
+m' P—DA x l
+H, x l
+MGMT—curls x l
+MIBl~DA x 1
+NeuN x l
+P53DO'? X 1
+Rct l H/E x l
+H/E x l
+
+*** End of Report ***
+
+NHHHl—Jt—‘I—‘HHHW
+
+For EGFRVIII
+
+. men—054304
+
+ 
+
+ 
+
+Requested by:
+
+Page 4
+
+ 
+

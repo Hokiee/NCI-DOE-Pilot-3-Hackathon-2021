@@ -1,0 +1,77 @@
+ 
+
+T '1 Diagnosis:
+Bram, right frontal lobe, excision: Grade 2 (of 4) oligoastrocytoma, astrocytic predominant (WHO, grade 11). See
+
+comment.
+
+Comment: The presence of areas of high cellularity and the cellular pleomoxphism are worrisome features for early
+anaplastic transformation, however, proliferative activity is still low (mitotic index up to 2-3 mitoses per 10 HPF).
+No endothelial vascular changes or necrosis are seen.
+
+Immunohistochemical stains were performed on parafﬁn embedded tissue using antibodies to GFAP, p53 and
+MEB-l. GFAP is focally positive in tumor cells. p53 protein is positive in tumor cells. MIB-l labeling varies from
+low to moderate (up to 46%). The ﬁndings support the above diagnosis.
+
+  
+  
+
+FISH studies for 113qu deletion will be performed and reported as an addendum.
+
+ADDENDA:
+1p and 19q FISH studies were performed on cells within parafﬁn sections from tumor. Two hybridizations were
+
+performed: one with a 19g prohelcontrol 19p pair and one with a 1p probe/control lq pair. The 19q and 1p probes
+mapped to the regions that are commonly deleted in gliomas. The 19q to 19p probe ratio was 0.98. The 1p to lq
+probe ratio was 0.98. For both probes, the normal ratio is approximately 1. Any ratio less than 0.80 is consistent
+Wm“ deletion of the chromosomal region of interest.
+
+TCGA - DB - 5280
+
+continued next page Page 1 of 2
+
+ 
+
+There was no evidence of deletion of 1p 0r l9q. The results are consistent with a tetraploid tumor karyotype or
+additional copies of chromosomes 1 and 19. Similar results have been observed in other glioma specimens.
+
+This test was developed and its performance characteristics determined by Laboratory Medicine and Pathology,
+
+has not been cleared or approved by the US. Food and Drug Administration, and is to
+l sed as an adjunct to existing clinical and pathological information. This test does not rule out other
+chromosome anomalies.
+
+ 
+
+Preliminary Frozen Section Consultation:
+Brain, right frontal lobe, excision: Glioma. Hold for grading.
+
+Gross Description:
+Tissue from right frontal lobe brain (3.8 X 3.7 x 2.2 cm).
+
+Block Summary:
+
+Part A: right frontal tumor
+1 Ft! Frontal Tx
+2 Bl Frontal Tx
+3 Fit Frontal TX
+4 Flt Frontal TX
+5 Fit Frontal Tx
+6 Flt Frontal TX
+
+.‘ Frontal Tx
+t. . it Frontal TX
+9 Fit Frontal TX
+10 Flt Frontal TX
+11 Ht Frontal TX
+12 Flt Frontal Tx
+13 Flt Frontal TX
+14 Flt Frontal TX
+15 Flt Frontal Tx
+
+ 
+
+END OF REPORT Page 2 of 2
+
+ 
+

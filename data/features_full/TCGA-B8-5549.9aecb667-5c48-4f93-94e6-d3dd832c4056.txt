@@ -1,0 +1,142 @@
+SURGICAL PATHOLOGY REVISED REPORT
+Surgical Pathology Report
+Amendments:
+
+Reason: Additional Information
+Comment: Additional information gross description: Other significant findings.
+
+Diagnosis:
+Kidney, right, nephrectomy
+
+Histologic tumor type/subtype: renal cell carcinoma, clear cell type
+Sarcomatoid features: not identified
+
+Histologic grade (if applicable): 3 (of 4, Fuhrman classification)
+Tumor size (greatest dimension): 4.5 cm, 0.9 cm
+
+Tumor focality: multifocal (revised, see Amendment comment below)
+Extent of tumor invasion (if present specify if macroscopic or microscopic):
+Capsular invasion into perirenal adipose tissue: not identified
+Gerota' s fascia: not available for evaluation
+
+Renal sinus: not involved
+
+Maj or veins (renal vein or segmental branches, IVC): not involved
+Ureter: not involved
+
+Venous (large vessel): not involved
+
+Lymphatic (small vessel): not involved
+
+Histologic assessment of surgical margins:
+
+Peri-renal fat: not involved
+
+Renal vein (nephrectomy): not involved
+
+Renal artery: not involved
+
+Ureter (nephrectomy): not involved
+
+Adrenal gland: present, not involved by carcinoma
+
+Lymph nodes: none identified
+
+Other significant findings: none
+
+AJCC Stage: ple pNx pr
+
+This staging information is based on information available at the time of this report, and is subject to change pending clinical review and
+additional information.
+
+AMENDMENT COMMENT:
+
+Following case finalization, this specimen was retrieved for use for control blocks, and a second lesion was found, measuring 0.9cm
+diameter, without extracapsular invasion. The diagnosis is modified to state "multifocal" instead of "unifocal", as above. The A] CC stage is
+unchanged.
+
+Clinical History:
+right renal mass.
+
+Gross Description:
+Received is one appropriately labeled container with the specimen received in formalin.
+
+Specimen ﬁxation: formalin
+
+Type of specimen: radical nephrectomy
+
+Side of specimen: right
+
+Size and weight of specimen: The specimen weighs 850 g and measures 25 x 16 x 6.5 cm overall. The kidney measures 14.5 x 8.0 x 7.0 cm,
+and the adrenal gland measures 4.5 x 2.4 cm.
+
+Orientation: The external surface of the specimen is inked blue.
+Presence/absence of adrenal gland: present see above for dimensions
+
+Tumor description/site: Superior pole. The cut surface of the tumor has a glistening, maroon-hemorrhagic appearance consistent with
+necrosis. The tumor has a rounded contour, appears circumscribed, and appears to have a capsule. More viable areas of tumor have a
+glistening, golden-brown appearance.
+
+Tumor size: 4.5 x 4.0 x 3.2 cm
+Presence/absence of multicentricity: absent
+Conﬁnement/non-conﬁnement to the kidney: conﬁned
+
+Extent of invasion:
+
+Perirenal adipose tissue: tumor abuts perirenal adipose tissue, but does not appear to invade perirenal adipose tissue
+Gerota' s fascia: tumor grossly does not involve Gerota' s fascia
+
+Renal vein: tumor does not grossly involve renal vein
+
+Ureter: tumor does not grossly involve ureter
+
+Other organs: tumor does not grossly involve the adrenal gland
+
+Surgical margins:
+
+Perirenal adipose tissue: grossly negative
+Renal vein: grossly negative
+
+Renal artery: grossly negative
+
+Ureter: grossly negative
+
+Description of kidney away from tumor: Kidney away from the tumor has a glistening, tan-brown appearance which is otherwise
+unremarkable.
+
+Lymph nodes (hilar): 2 lymph node candidates are identified
+
+Other significant findings: The specimen is further sectioned to reveal an additional well-circumscribed red/brown/yellow firm mass. The
+mass is approximately 5.5 cm from the dominant mass within the lateral aspect and measures 0.9 x 0.9 x 0.9 cm. This mass bulges the
+capsule but does not appear to invade through it. Additionally, 1.5 cm lateral to the mass, there is a simple smooth lined cyst 1.2 x 1.0 x 1.0
+cm. The cyst is filled with brown thin liquid. A section of this additional mass is submitted in A9 and the slide should be sent to Dr.
+
+Tissue submitted for special investigations: yes, tumor and normal tissue submitted to tissue procurement
+Digital photograph taken:
+
+Block Summary:
+
+A1 - ureter, artery and vein margins, en face
+
+A2 - representative tumor demonstrating proximity to perirenal adipose tissue
+
+A3 - representative tumor demonstrating proximity to adrenal gland
+
+A4 - representative tumor demonstrating proximity to normal appearing parenchyma
+A5 - additional tumor demonstrating proximity to ink
+
+A6 - tumor demonstrating proximity to hilar adipose tissue, and renal pelvis
+
+A7 - normal appearing kidney parenchyma away from tumor
+
+A8 - two lymph node candidates
+
+A9 - Additional mass
+
+Light Microscopy:
+Light microscopic examination is performed by.
+
+Sections show a clear cell carcinoma of kidney with nucleoli identifiable at 10X, interpreted as Fuhrman grade 3.
+
+ 
+

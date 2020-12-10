@@ -1,0 +1,142 @@
+UUID:324E4C8E-1F95-40A6-901F-97E6087BA2C7
+TCGA-KK-ASSY—BlA-PR Redac-Ited
+
+II I
+IIIIIIII II I
+H i“lirllllﬂlllulllillllillvlllllllllllllllllllllllllllllllllll
+
+******* MODIFIED REPORT " REVIEW ADDENDUM SECT’ON “we.“
+DIAGNOSIS
+
+(A) RIGHT EXTERNAL ILIAC LYMPH NODES:
+Two lymph nodes, no tumor present (0/2).
+(B) RIGHT OBTURATOR AND INTERNAL ILIAC LYMPH NODES:
+Four lymph nodes, no tumor present (0/4).
+(C) LEFT EXTERNAL ILIAC LYMPH NODES:
+METASTATIC PROSTATIC ADENOCARCINOMA PRESENT IN ONE OF TWO LYMPH NODES (1/2).
+TUMOR FOCUS MEASURES 3.0 MM IN MAXIMUM DIMENSION.
+FOCAL EXTRANODAL EXTENSION IS PRESENT.
+(D) LEFT OBTURATOR AND INTERNAL ILIAC LYMPH NODES:
+METASTATIC PROSTATIC ADENOCARCINOMA PRESENT IN ONE OF TWO LYMPH NODES (1/2).
+TUMOR FOCUS MEASURES 4.5 MM IN MAXIMUM DIMENSION.
+FOCAL EXTRANODAL EXTENSION IS PRESENT.
+(E) PROSTATE AND SEMINAL VESICLES: Zw «C; 6
+
+Supplemental report to follow. ‘
+' ' Magma/um MOS
+W. fig! 940/3
+
+' Adﬂwml m 1
+(55a F‘ @an}; 835505
+
+57/?! Pﬁasfzfe. @(a l.
+
+. . , gang/15
+GROSS: DESCRIPTION”.
+
+(A) RIGHT EXTERNAL ILIAC LYMPH NODE — A fragment of adipose tissue containing two possible lymph nodes. Both lymph
+nodes are grossly free of tumor.
+
+SECTION CODE: A1, one lymph node; A2-A5, one lymph node.
+(B) RIGHT OBTURATOR AND INTERNAL ILIAC LYMPH NODES — Two fragments of adipose tissue measuring (3.5 x 2.0 x 1.5
+cm each). Four possible lymph nodes are identified. All lymph nodes are grossly free of tumor.
+
+SECTION CODE: B1, two lymph nodes; B2, one lymph node; 83, B4, one lymph node,
+(C) LEFT EXTERNAL ILIAC LYMPH NODES — A fragment of adipose tissue measuring (6.0 x 1.0 x1.0 cm). Two possible lymph
+nodes are identified. Both lymph nodes are grossly free of tumor.
+
+SECTION CODE: C1, one lymph node, bisected; CZ, C3, one lymph node, serially sectioned.
+(D) LEFT OBTURATOR AND INTERNAL ILIAC LYMPH NODES -— A fragment of adipose tissue measuring (9.0 x 2.5 x 1.0 cm).
+Two possible lymph nodes are identified. Both lymph nodes are grossly free of tumor.
+
+SECTION CODE: D1, one lymph node bisected; D2-DS, one lymph node, serially sectioned.
+(E) PROSTATE AND SEMINAL VESICLES — Supplemental report to follow.
+
+CLINICAL HISTORY
+None given.
+SNOMED CODES <
+
+"Some tests reported here may have been developed and performance characteristics determined by These tests have not been
+speciﬁcally cleared or approved by the US. Food and Drug Administration."
+
+Page: 2
+
+-—
+
+. start-6f ADDENDUM
+
+Page: 3
+
+——
+
+ADDENDUM
+
+This modified report is being issued to provide additional information/results.
+
+DIAGNOSIS
+
+(E) PROSTATE AND SEMINAL VESICLES:
+PROSTATIC ADENOCARCINOMA, GLEASON SCORE 9 (4+5) (SEE COMMENT).
+TUMOR EXTENDING FOCALLY INTO EXTRAPROSTATIC TISSUE.
+FOCAL EXTENSION TO THE CAUTERIZED APICAL MARGIN OF RESECTION CANNOT BE EXCLUDED.
+Right and left seminal vesicles, no tumor present.
+TUMOR FOCALLY PRESENT IN LEFT PERIVESICULAR SOFT TISSUE.
+SEE PREVIOUS REPORT FOR THE DIAGNOSIS OF THE PELVIC LYMPH NODES.
+
+COMMENT
+
+The prostate gland contains a single focus of prostatic adenocarcinoma. The tumor is located in the left anterolateral, left lateral,
+left posterolateral, left posterior, mid posterior, right posterior, right posterolateral, and right lateral peripheral zone. The tumor
+focus 3.0 x 2.0 cm in the largest cross-sectional dimension, and it is present in the four cross sections and extensively in the apex
+and base regions. The tumor exhibits extraprostatic extension in the left superior neurovascular bundle region (less than 1.0 mm).
+In addition, tumor is also present in left perivesicular soft tissue (less than 1.0 mm). No invasion of the seminal vesicle proper is
+present.
+
+Please refer to the previous report for the diagnosis of the pelvic lymph nodes.
+
+GROSS DESCRIPTION
+
+(E) PROSTATE AND SEMINAL VESICLES — A specimen consisting of a prostate, attached right and left seminal vesicles and
+attached segments of right and left vasa deferentia.
+
+The prostate gland (5.1 x 2.5 x 3.5 cm, 31 grams, post-fixation) has the usual shape. The soft tissue present along the
+right and left posteroiateral aspects of the prostate appears symmetrical. A nodule is palpated on the left side of the prostate.
+Serial cross sections after ﬁxation demonstrate ﬁrm areas consistent with tumor in the left lateral and left posterolateral peripheral
+zone of cross sections 2—4.
+
+The seminal vesicles and segments of vasa deferentia are grossly free of tumor.
+
+SECTION CODE: E1-E4, right seminal vesicle and segment of right vas deferens from the base towards the tip; E5—E8,
+left seminal vesicle and segment of left vas deferens from the base towards the tip; E9, prostatic base, right border; E10, E11,
+prostatic base, right posterior border; E12-E17, prostatic base, central portion; E18, prostatic base, left border; E19-E21, prostatic
+base, left posterior border; E22, apex anterior; E23, apex left; E24, apex posterior; E25, E26, apex right; E27, detached portions of
+margin of resection according to the specimen radiograph; E28-E43, sections of the four cross sections of the prostate according
+
+Page: 4
+
+-—
+
+to the specimen radiograph.
+The anterior aspect of the prostate is inked in green, left surface in red, right surface in yellow and posterior surface in
+
+black.
+Blue ink (E23-26, E29 and 31) and orange ink (E29) denote surfaces that do not represent the true margin of resection.
+
+SNOMED. CODES
+
+------ END OF REPORT--—---
+
+  
+ 
+ 
+     
+
+Crltzria
+
+Diagnosis Discreplm‘v
+
+Prim arv Tumor Sit: Discrepancy
+' IIIPAA Disuepmcv
+
+Prior Malignancy History
+

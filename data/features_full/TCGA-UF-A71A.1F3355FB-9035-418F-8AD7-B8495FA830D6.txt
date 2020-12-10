@@ -1,0 +1,64 @@
+TCGA- UF- A71A-I1A-P
+
+"1111111111111111111111111111111111111111171111‘1“”M as
+
+lllIlllllllllllllllllllllllll|IllIllllllllllllllllllllll
+
+UUID:1F3355FB-9835-418F-8AD7-BB495FI§83EBD6a C21 “ a ?gm£1ﬂ‘
+
+Colect date:
+(MM/DD/YYYY)
+
+PATHOLOGY REPORT:
+
+PRIMARY SITE: Floor of mouth
+
+1 - “Lymph Nodes —— Level 2b -— Right”:
+- One lymph node with no evidence of metastatic carcinoma (0/1 ).
+
+2 - “Supraomohyoid neck dissection specimen - right”:
+
+- Three of sixteen lymph nodes at right involved by metastatic carcinoma (3/16), with
+capsular involvement.
+
+- Salivary submandibular gland with no particularities.
+
+3 - “Leﬂ modified radical neck dissection specimen”:
+
+— Conglomerate lymph node mass involved by metastatic squamous cell carcinoma
+measured 5.0 x 3.5 x 3.0 cm.
+
+- Four of twelve lymph nodes involved by metastatic carcinoma (4/12).
+
+4 - “Floor of the mouth lesion”:
+
+- Invasive well differentiated squamous cell carcinoma measured 5.0 x 3.5 x15 cm
+— Salivary submandibular gland and deep skeletal muscle involved by carcinoma.
+— Lymphatic invasion: present.
+
+- Mucosal margin uninvolved by carcinoma.
+
+- Soft tissue deep margin focally involved by carcinoma.
+
+5 - “Floor of the mouth muscle”:
+- Uninvolved by carcinoma.
+
+* Report synopsis:
+
+Floor of the mouth tumor:
+
+- Squamous cell carcinoma, grade I, with uninvolved margins and presence of
+lymphatic invasion.
+
+Right neck dissection:
+- Three of sixteen lymph nodes involved by metastatic carcinoma (3/16), with capsular
+involvement.
+
+Left neck dissection.
+- Five of thnteen lymph nodes involved by metastatic carcinoma (5/13), with capsular
+involvement.
+
+Pathological staging: pT4a, pN2c, pr.
+
+ 
+

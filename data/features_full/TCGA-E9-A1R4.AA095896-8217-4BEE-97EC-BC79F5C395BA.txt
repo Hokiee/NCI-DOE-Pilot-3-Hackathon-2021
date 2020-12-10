@@ -1,0 +1,94 @@
+ 
+
+ 
+
+ 
+
+TSS lD:
+
+TSS lD 0C ID Date of Procurement ‘ '
+Gross Description:
+/ C A - a — 3
+Lump With the tumor of 1.2 x 1.3 cm In me. C i \ ; ff l, f C ,1 AM! 53/60/3
+I
+Fatty tissue lymph nodes demonstrate lipomatosis. gify : W ”U C .9,” 7 If/y/ /"’/
+’ ’ - ll
+
+Microscopic Description:
+
+inﬁltrating duct carcinoma; 63.
+
+Ten dissected lymph nodes demonstrate focal ﬁbrosis, reactive hyperplasia of the follicles.
+Diagnosis Details:
+
+Tumor Features: Unknown, Tumor Extent: T1 tumor size 2 cm or less, Venous Invasion: Absent, Margins: Absent, Treatment
+Effect:
+
+Comments:
+
+Formatted Path Report:
+
+BREAST TISSUE CHECKLIST
+
+Specimen type: Lumpectomy
+
+Specimen size: Not speciﬁed
+
+Tumor site: Upper outer quadrant
+
+Tumor size: 1.3 x 0 x 1.2 cm
+
+Grossly evident lesion: Yes
+
+Histologic type: Inﬂtrating ductal carcinoma
+Histologic grade: Poorly differentiated
+
+Tumor extent: Not speciﬁed
+UUID: AAOGBSSSGS- -8A217- -43EE- 97E: -BC79F5C3953Ad
+
+Ill ll lllllllllllllllllllllllllllll |||l|l||l||l||ll|l||||l||||l||l||l|l Ill
+
+Extracapsular invasion of the lymph nodes: Not speciﬁed | | | | lulmllll “ll ”H
+
+”3'8“ Uninm'ved lllllllllllllllIIIlllllllIllllllll||l||l|l|l||llllllllllllllllllllllllll
+
+Nottingham Histologic Score
+
+Lymph nodes: 0/10 positive for metastasis (Axillary 0/10)
+
+   
+
+Tubule formation: Not speciﬁed 111‘
+2i _ai We st 5”, ,EW
+l'm in
+
+     
+
+Nuclear pleomorphism: Not speciﬁed
+
+Mitotic count (25x): Not speciﬁed
+
+ 
+
+ 
+
+I Vh—‘f/i/Ir “x
+
+ 
+
+ 
+
+TSS lD:
+
+Mitotic count (40x): Not speciﬁed
+
+Total Nottingham Score: Score cannot be determined
+Evidence of neo-adjuvant treatment: Not speciﬁed
+Additional pathologic findings: Not speciﬁed
+
+Comments: None
+
+Laterality:
+
+Left, upper outer quadrant
+

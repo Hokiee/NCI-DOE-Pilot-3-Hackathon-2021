@@ -1,0 +1,115 @@
+ 
+
+Result type:
+Result date:
+Result status:
+Result title:
+Performed by:
+Verified by:
+Encounter info:
+
+ 
+
+* Final Report *
+
+Clinical History
+Prostate cancer
+
+Specimen
+
+#1 Prostate
+
+#2 Right pelvic lymph nodes
+#3 Left pelvic lymph nodes
+
+Gross Examination
+
+#1 Received fresh and labeled prostate, is a 35 gram, 4.0 cm (right to left)
+X 3.7 cm (apex to base) X 3.5 cm (anterior to posterior) prostate with attached
+right and left seminal vesicles (2.5 X 1.2 x 0.8 cm, 3.0 x 2.0 x 0.8 cm,
+respectively). There are portions of attached right and left vasa deferentia
+(each 0.5 cm long). Also present within the specimen container there is a 2.5 x
+1.5 x up to 0.7 cm aggregate of three irregular fragments of tubular rubbery,
+grey tan tissue. The right half of the prostate is inked black and the left
+half is inked blue. The prostate is serially sectioned from apex to base to
+demonstrate a 1.5 cm ill-defined focal firm area of pale tan discoloration
+within the mid aspect of the left posterior prostate, coming to within 0.1 cm of
+the blue inked outer surface. The parenchyma otherwise consists of tan, rubbery
+glistening parenchyma with a moderate amount of periurethral nodularity. There
+are no additional abnormalities identified.
+
+A total of thirty-four sections are submitted in fifteen cassettes "A — 0".
+‘Block summary: "A", right apex longitudinally sectioned; "B", left apex
+longitudinally sectioned; "C", right bladder neck longitudinally sectioned; "D",
+left bladder neck longitudinally sectioned; "E-G", right posterior prostate,
+from apex to base respectively; "H—J", left posterior prostate, from apex to
+base respectively; "K", right lateral prostate; "L", left lateral prostate; "M",
+anterior prostate; "N", right seminal vesicle and prostate, including right vas;
+"0", left seminal vesicle and prostate, including left vas. Following explicit
+written consent of the patient, tissue is taken for the Cancer Genome Atlas
+Project.
+
+#2 Labeled right pelvic lymph node, is a 3.2 x 1.0 x 0.8 cm portion of tan
+yellow fibroadipose tissue. Within the tissue there is a 0.8 cm lymph node
+candidate. The candidate is bisected and submitted as two sections in one
+cassette.
+
+Printed by: Page'i of 2
+Printed on: (Continued)
+
+ 
+
+#3 Labeled left pelvic lymph node, is a 4.0 X 2.5 X 1.0 cm aggregate of
+multiple irregular fragments of tan yellow fibroadipose tissue. Within the
+tissue there are two lymph node candidates, 0.4 and 2.5 cm in greatest
+dimension. The candidates are submitted as five sections in three: "A-C".
+Block summary: "A", one candidate; "B,C", larger candidate, sectioned.
+
+OR Consultation
+
+#1 PROSTATE, RADICAL PROSTATECTOMY: TISSUE TRIAGE FOR—
+SMnmumLi
+
+Signed by:
+
+ELECTRONIC SIGNATURE
+
+Microscopic Examination
+#1—#3 Microscopic examination performed.
+
+Comment
+Portions of this case have been reviewed in consultation with one additional
+departmental pathologist.
+
+Final Diagnosis
+#1 PROSTATE GLAND: PROSTATIC ADENOCARCINOMA.
+GLEASON SCORE: 4+3=7.
+TUMOR SIZE: AT LEAST 2.0 x 1.0 CM (As MEASURED ON GLASS SLIDE "I").
+PERCENT PROSTATE INVOLVEMENT, ESTIMATE: 25% OF EXAMINED SECTIONS.
+TUMOR LOCATION: BILATERAL.
+EXTRAPROSTATIC EXTENSION: MULTIFOCAL.
+SURGICAL MARGIN STATUS: NEGATIVE.
+SEMINAL VESICLE AND VASA DEFERENTIA STATUS: BILATERAL INVOLVEMENT
+BY CARCINOMA.
+LYMPHATIC (SMALL VESSEL) INVASION: ABSENT.
+VENOUS (LARGE VESSEL) INVASION: ABSENT.
+#2 RIGHT PELVIC LYMPH NODE: BENIGN LYMPH NODE.
+#3 LEFT PELVIC LYMPH NODES: BENIGN LYMPH NODES (X 2).
+
+PATHOLOGIC STAGE (TNM CLASSIFICATION): pT3b pNO.
+
+Ordering Provider
+Ordering Physician:
+
+Page 2 of 2
+(End of Report)
+
+Printed by:
+Printed on:
+
+ 
+
+ 
+
+ 
+

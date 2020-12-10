@@ -1,0 +1,138 @@
+TCGA—12-3552
+
+ 
+
+ 
+
+AP Surgical Pathology: Additional Info
+
+ 
+
+Surg Path
+
+CLINICAL HISTORY:
+
+Left parietal neoplasm 191.3. MRI Findings: Post gadolinium thin section
+imaging was obtained through the brain with fiducial markers in place for the
+purposes of preoperative localization. A peripherally enhancing mass in the
+left parietal region, with a broad contact against the dura is again seen,
+which is not significantly changed compared with prior outside MRI. There is
+mass effect results in effacement of the atrium and occipital horn of the left
+lateral ventricle, as well as partial effacement of the left ambient /
+quadrigeminal plate cistern by the posterior medial temporal lobe. This also
+remains unchanged. Low Tl signal in the left parietal lobe is not
+significantly changed in distribution given differences in technique.
+
+GROSS EXAMINATION:
+
+A. "Brain tissue (AFln2)", received fresh for frozen section is a 5 x 5 x 1.5
+cm fragment of brown—tan soft tissue. Sectioning reveals a focally necrotic
+and hemorrhagic surface. Representative sections are frozen as AF1—2 and the
+frozen section remnants are submitted in blocks Al—Z, respectively. Additional
+representative sections are submitted in blocks A3—8, with the remainder
+retained in formalin.
+
+INTRA OPERATIVE CONSULTATION:
+
+A. "Brain tissue":AFlH2uhigh grade glioma - —
+
+MICROSCOPIC EXAMINATION:
+
+Microscopic examination shows brain infiltrated by a malignant astrocytic
+neoplasm characterized by cytologic pleomorphism, mitotic figures,
+microvascular changes and pseudopalisading necrosis.
+
+DIAGNOSIS:
+A. “BRAIN TISSUE" (CRANIOTOMY):
+
+GLIOBLASTOMA (WHO GRADE IV).
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis€es}.
+
+Electronically signed: ‘
+'§_'
+ADDENDUM 1:
+
+Please see Image Cytometry Report-=for results of supplementary
+tests.
+
+FISH INTERPRETATION SUMMARY:
+
+CHROMOSOME 7 CENTROMERE — POLYSOMY (77% OF TUMOR CELLS EXHIBIT POLYSOMY)
+EGFR c AMPLIFICATION (96% OF TUMOR CELLS EXHIBIT AMPLIFICATION)
+
+CHROMOSOME 10 CENTROMERE - CENTROMERE LOSS (67% OF TUMOR CELLS EXHIBIT LOSS)
+
+PTEN — ALLELIC L088 (73% 0F TUMOR CELLS EXHIBIT LOSS)
+
+9p21 - L088 (48% OF TUMOR CELLS EXHIBIT LOSS)
+
+ 
+
+Iof2
+
+ 
+
+ 
+
+CHROMOSOME 9 CENTROMERE — CENTROMERE LOSS (42% OF TUMOR CELLS EXHIBIT LOSS)
+
+4 OF 4 ABNORMAL MARKERS AND 9921 EXHIBITS Loss.
+
+COMMENT: A MULTIVARIATE SURVIVAL ANALYSIS OF - PATIENTS WITH GLIOBLASTOMAS
+REVEALS THAT THE HAZARD OE SHORT SURVIVAL AMONG PATIENTS WITH Ow2 ABNORMAL
+MARKERS (OUT OT 4) WAS SIGNIFICANTLY LOWER THAN THAT FOUND WITH PATIENTS WITH
+4 ABNORMAL MARKERS EVEN AFTER ADJUSTMENT FOR AGE EETECT.
+
+BOTH FISH AND IMMUNOHISTOCHEMISTRY FOR PTEN REVEAL SIMILAR FINDINGS INDICATIVE
+OF LOSS OF PTEN STATUS.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+speciments) and have rendered the above diagnosisCes) .
+
+Electronically signed:‘
+ADDENDUM 2:
+
+IMMUNOHISTOCHEMICAL LABELING INDEX OF TUMOR CELLS:
+
+TISSUE TYPE: BRAIN TISSUE CONTAINING GLIOBLASTOMA (WHO GRADE Tm”
+
+a
+
+LEUCOCYTE COMMON ANTIGEN (LCA): 5% OF POSITIVE CELLS.
+
+PROLIFERATION INDEX INTERPRETATION: HIGH PROLIFERATION INDEX {20% OF TUMOR
+CELLS EXHIBIT STAINING).
+
+MGMT — NEGATIVE (10% OF TUMOR CELLS)
+
+EGFR wt w POSITIVE (3+ IN 90% OF TUMOR CELLS)
+EGFR vIII — POSITIVE (2+ IN 80% OF TUMOR CELLS)
+BTEN u LOSS (2+ IN 10% OF TUMOR CELLS)
+
+86 — NEGATIVE (2+ IN 10% OF TUMOR CELLS)
+
+AKT — NEGATIVE (2+ IN 5% OF TUMOR CELLS)
+
+MAPK — POSITIVE (3+ IN 10% OF TUMOR CELLS)
+
+Please see Image Cytometry Report. for results of supplementary
+tests.
+
+I certify that I personally conducted the diagnostic evaluation of the abOVe
+specimen(s} and have rendered the above diagnosis€es} .
+
+Electronicall si ned'
+Performed by: ﬁ
+
+Ordering MD:
+
+  
+
+2 of2
+
+ 
+
+ 
+

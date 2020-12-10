@@ -1,0 +1,159 @@
+UUID: CF190931- BEBE- 4978- BCBE- 9817442RBBeBBSac
+TCGA- KK- ABI5--81A PR
+
+III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIiIiI“ I
+- (17B . Gen 97 . 9kg BSA: 2. 2m“
+||| ||||||||||||||||||||I|IIIIIIIIIIIIIIHII ||||||
+
+kSpeéimen' Data/T’iﬁé:
+
+******* MODIFIED REPORT - REVIEW ADDENDUM SECTION *******
+DIAGNOSIS:
+
+(A) LEFT NEUROVASCULAR BUNDLE BASE:
+Nerve and ganglion segments and ﬁbromuscular tissue. no morphologic evidence of malignancy.
+(B) ANTERIOR APEX:
+Prostatic parenchyma, no morphologic evidence of malignancy.
+(C) POSTERIOR APEX:
+Skeletal and smooth muscle, no prostatic glands identiﬁed.
+No morphologic evidence of malignancy.
+(D) RIGHT PELVIC LYMPH NODES:
+Four lymph nodes. no morphologic evidence of malignancy.
+(E) LEFT PELVIC LYMPH NODES:
+
+Two lymph nodes, no morphologic evidence of malignancy. ED ‘0 :15 ~
+(F) PROSTATE AND SEMINAL VESlCLES: 3140/3
+Supplemental report to follow. (9.40/3
+
+Entire report and diagnosis completed by ©— «:12 W £1525 dial?
+9:) 0/2415
+
+GRGSIS-bﬁscmpmﬂ
+
+(A) LEFT NEUROVASCULAR BUNDLE BASE. BIOPSY - A tan-pink tissue fragment (0.3 cm) is entirely frozen for intraoperative
+consultation: A.
+
+*FS/DX: NEGATIVE FOR TUMOR.
+(B) ANTERIOR APEX - A tan-pink tissue fragment (1.0 cm) is entirely frozen for intraoperative consultation: 8.
+
+*FS/DX: UNORIENTED, SURGICAL MARGIN - NEGATIVE FOR TUMOR.
+(C) POSTERIOR APEX - A tan—pink tissue fragment (0.3 cm) is entirely frozen for intraoperative consultation: C.
+
+*FS/DX: UNORIENTED, SURGICAL MARGlN - NEGATIVE FOR TUMOR.
+(D) RIGHT PELVIC LYMPH NODE - Four lymph nodes (0.2 to 5.5 cm) within a fragment of adipose tissue (6.0 x 1.5 x 1.0 cm) are
+entirely submitted: D1, two lymph nodes; DZ. one lymph node; DS-D5, one lymph node.
+(E) LEFT PELVIC LYMPH NODE - Two lymph nodes (1.8 and 4.5 cm) within a fragment of adipose tissue (5.0 x 2.0 x 1.0 cm) are
+entirely submitted: E1, one lymph node; E2-E4. one lymph node.
+(F) PROSTATE AND SEMINAL VESlCLES - Supplemental report to follow.
+
+cLimc'A‘u Histoavs'
+Adenocarcinoma, prostate.
+SNOMEDE CODES-J
+
+“Some tests reported here may have been developed and pedormence characteristics determined by . These tests have not been
+speciﬁcally cleared or approved by the US. Food and Dmg Administration."
+
+Released by:
+
+Page: 2
+
+Spec1men ate Tlme:
+
+Stérf'of ADDENDUM
+
+Page: 3
+
+w _ (178.0cm 97.9kg BSA: 2.2m2
+SpeClmen ate Tlme:
+
+ADDENDUM
+
+Addendum completed by
+
+DIAGNOSIS
+
+(F) PROSTATE AND SEMINAL VESICLES:
+PROSTATIC ADENOCARClNOMA, GLEASON SCORE 7 (3+4). (SEE COMMENT)
+TUMOR CONFINED TO THE PROSTATE.
+Margins of resection free of tumor.
+Right and left seminal vesicles, no tumor present.
+Segment of right and left vasa deferentia, no tumor present.
+
+Entire report and diagnosis completed by
+
+COMMEN‘F
+
+The prostate gland contains three separate foci of prostatic adenocarcinoma, one in the transition zone and two in the peripheral
+zone. The dominant tumor focus is located in the left and right transition zone. This tumor focus measures 3.0 x 0.8 cm in the
+largest cross sectional dimension and it is present in three cross sections and extensively in the apex and base regions. The
+second largest tumor focus is located in the right lateral, right posterolateral, and right posterior peripheral zone. This tumor focus
+measures 2.5 x 1.0 cm in the largest cross sectional dimension and it is present in three cross sections and extensively in the apex
+' and base regions. The third tumor focus is located in the left anterolateral, left lateral, left posterolateral. and left posterior
+peripheral zone. This tumor focus measures 2.5 x 0.4 cm in the largest cross sectional dimension and it is present in three cross
+sections and focally in the base region. All tumor foci are conﬁned to the prostate. The margins of resection are free of tumor.
+
+GROSSDESCRIPTION
+
+(F) PROSTATE AND SEMlNAL VESICLES - A specimen consisting of a prostate, attached right and left seminal vesicles and
+attached segments of right and left vasa deferentia.
+
+The prostate gland (4.5 x 3.5 x 4.5 cm, 39 grams, post-ﬁxation) has the usual shape. The soft tissue present along the
+right posterolateral aspect of the prostate appears more abundant than along the left side. A nodule is palpated in the right base
+region. Serial cross sections after ﬁxation demonstrate a firm area consistent with tumor in the right peripheral zone extending
+from the first to the third cross sections of the prostate.
+
+The seminal vesicles and segments of vasa deferentia are grossly free of tumor. Also included in the container is a
+detached portion of tissue consistent with seminal vesicle (3.0 x 1.8 x 0.7 cm).
+
+SECTION CODE: F1, F2, detached portion of tissue; F3, F4, base of right seminal vesicle and right vas deferens; F5, F6.
+base of left seminal vesicle and left vas deferens; F7, F8, prostatic base right border; F9—F1 1, prostatic base right posterior border;
+F12. F16, prostatic base central portion; F17, prostatic base left border; F18, F19, prostatic base left posterior border; F20, F21,
+apex anterior; F22, apex left; F23, F25. apex posterior ; F26, apex right; F27—F40, sections of the three cross sections of the
+
+Page: 4
+
+_ (178.0cm 97.9kg BSA: 2.2m2
+
+Spec1men Date Tlme:
+
+prostate according to specimen radiograph.
+
+The anterior aspect of the prostate is inked in green, left surface in red, right surface in yellow and posterior surface in
+
+black.
+
+SNOMED: CODES
+
+Released by:
+
+------ END OF REPORT-----—
+
+krill“:
+Diagnosis Illsr spank}
+
+315M Discrepancy
+
+  
+
+' . 4 . d ‘ t t, (a a H 3 Y5
+_-\‘——*. " -W 9
+3uI—Tiry' 1 mm! Sire Discrepamy '
+
+ 
+
+%“_
+‘léllalcy HI; nary -—-
+
+ctlmncus Prim;- “W119 (e-
+
+‘——~ IT tiling». Ll‘ it.) "J;
+
+ 
+
+:J
+
+ 
+
+:9
+j
+

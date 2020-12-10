@@ -1,0 +1,52 @@
+UUID: SBFD8360- 698E- 46AB- A36A- 09CD794CSBAe7d
+TCGA- EB- A4IS- 01A- PR
+
+||| |||||||||||||||||||l||||||||||||||||||||||||||||||||l|||||||||||ted
+llHlll ll |l||||||||ll lllllllllllllllIlllllllllllllllllllllll
+Ill llllllllhllllllll|llllllllllllIlll||||||||||llllllllllllllllll|||
+
+Gross Description: Skin flap up to 6 x 4.5 cm in size, with brown spot up to 2.5 cm in its diameter.
+Surgical margins are free of tumor growth.
+
+Microscopic Description: Malignant melanoma of the skin with superﬁcial ulceration. Breslow's depth -—
+2.5 mm.
+
+Diagnosis Details: Tumor Features: Pigmented, Tumor Extent: Tumor 2.01?4mm with or without
+ulceration, Venous invasion: Absent, Margins: Absent, Treatment Effect:
+
+Comments:
+
+Formatted Path Reports: SKIN TISSUE CHECKLIST
+Specimen type: Excision of skin lesion
+
+Tumor site: Skin, trunk
+
+Tumor size: 0 x 0.25 x 2.5 cm
+
+/ 0A « 0 ’5
+Tumor features: Ulcerated, Pigmented “or 3710/)
+Satellite nodules: Not speciﬁed 5:95, : Limb, fMM/c (IVS/'5
+
+Histologic type: Malignant melanoma
+
+$22,”:
+
+Histologic grade: -
+
+Lymph nodes: Not speciﬁed
+
+Lymphatic invasion: Not specified
+
+Venous invasion: Absent
+
+Margins: Uninvolved
+
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic ﬁndings: Breslow's depth -- 2.5 mm.
+
+Comments: None
+
+ 
+
+ 
+

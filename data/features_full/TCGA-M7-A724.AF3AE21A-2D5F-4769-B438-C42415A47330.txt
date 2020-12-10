@@ -1,0 +1,164 @@
+SURGICAL PATHOLOGY REVISED REPORT
+Case Number:
+
+Diagnosis:
+A: Prostate, robotic assisted laparoscopic prostatectomy
+04°; ICD—o 3
+Tumor histologic type: adenocarcinoma CLdLMA£¢ALMuwnasamqu~WWMB
+
+Tumor grade (Gleason system): 8 (4+4) FLEibuntnuapunuﬁbeas J746L3
+girtz. varsittt/ﬂss (Let 1
+
+Approximate percentage of prostate involved by tumor: 20% (9&0 ifgﬁ/gb
+
+Extent of tumor:
+
+Location of tumor involvement in prostate: right prostate from
+apex to near base
+
+Confinement/non-confinement of tumor within the prostatic
+capsule: tumor not confined to prostate capsule
+
+Location of extracapsular extension: right mid prostate
+
+Type of extracapsular tissue involved with carcinoma: adipose
+tissue
+
+Lymphovascular space invasion: not identified
+
+Seminal vesicles (invasion of muscular wall required): no tumor
+seen, bilateral
+
+Histologic assessment of surgical margins: surgical margins
+involved with tumor (block A12, length of 2 mm, A13, length of 4
+mm)
+
+Other significant findings: none
+
+Lymph nodes: no tumor is seen in a total of 7 lymph nodes (0/7),
+see specimens B and C
+
+UUID: AF3AE21A- ZDSF- 4769- 3438- C42415Al§7eﬂaa
+TCGA-M7-A724-01A- PR
+
+AJCC Staging: |l||||||||||||||||||||||||||||||||I||||||||||||||||||||I||||||ﬁ|||tad
+pT3a HMHMMWHWMMMHWHMMNNMHWW
+pNO mmmmmmmmmmmmmmmmmmmml
+
+This staging information is based on this pathologic specimen
+and may be incomplete. A comprehensive review of all available
+information is recommended to determine final staging.
+
+B: Lymph nodes, left pelvic, regional resection
+— No tumor seen in five lymph nodes (0/5)
+
+C: Lymph nodes, right pelvic, regional resection
+— No tumor seen in two lymph nodes (0/2)
+
+Comment:
+
+After this case was signed out, recut slides were requested by
+Hospital. The patient had a local recurrence and received
+salvage radiation therapy at Hospital completed in
+
+The recut slides were reviewed by the Pathologist on
+
+who notified us that the recut slides showed positive margin.
+The entire case was recut and reviewed, and the recut slides
+show extracapsular extension and positive margin in the right
+mid prostate. These results were sent to Dr. on . The
+patient has already received treatment for local recurrence.
+
+Clinical History:
+I—year—old male with prostate cancer.
+
+Gross Description:
+Received are three appropriately labeled containers.
+
+Container A is additionally labeled "prostate".
+Specimen fixation: Formalin
+
+Type of specimen(s) received: Robotic assisted laparoscopic
+prostatectomy
+
+Size of specimen: Medial to lateral is 5.6 cm, superior to
+inferior is 5.2 cm, anterior to posterior is 5.0 cm
+
+Weight of specimen: 60 grams
+
+Orientation: Inking: apex/yellow, bladder neck/red, right
+half/blue, left half/black
+
+Size and description of other organs or structures: Left seminal
+vesicle stump 3.5 X 1.7 x 1.1 cm, left vas deferens 2.5 cm long
+x 0.5 cm in diameter, right seminal vesicle stump is 4.7 x 1.7 x
+1.4 cm and right vas deferens 3.4 cm long x 0.5 cm in diameter.
+The left and right seminal vesicle and vas deferens are all
+unremarkable.
+
+Gross description of prostate: The left and right lobes are
+roughly of equal size with diffuse periurethral nodularity and a
+
+2.1 x 1.5 x 1.5 cm firm nodular gray/white mass with lobulated
+borders that is at the right lateral apex. The mass is 0.1 cm
+from the apical margin, 1.4 cm to the bladder neck margin and
+grossly abuts the capsule but does not extend through it. A
+portion of the mass was given to tissue procurement.
+
+Digital photograph taken: No
+
+Block Summary:
+
+Al-A3 - Right apex, radially sectioned
+
+A4—A5 — Left apex, radially sectioned
+
+A6—A8 — Right bladder neck, radially sectioned
+
+A9-A11 - Left bladder neck, radially sectioned
+
+A12—A18 — Right prostate from apex to base, mass in A12—A17 and
+right seminal vesicle in A18 (approximately 40% of right
+prostate submitted)
+
+A19—A24 — Left prostate, from apex to base (approximately 40% of
+left prostate submitted)
+
+A25 — Left seminal vesicle
+
+Container B is additionally labeled "left pelvic lymph nodes"
+and consists of a 4.7 x 3.7 x 1.7 cm portion of adipose tissue
+that is dissected for lymph node candidates. Five fatty lymph
+node candidates are identified ranging from 0.8 x 0.4 x 0.3 cm
+up to 3.7 x 2.3 x 1.4 cm in greatest dimension. The largest
+lymph node is firm tan/gray.
+
+Block Summary:
+
+B1 — Two lymph node candidates
+
+BZ — One lymph node candidate, serially sectioned
+B3-B4 — One lymph node candidate, serially sectioned
+B5-B6 - Representative of largest lymph node
+
+Container C is additionally labeled "right pelvic lymph nodes"
+and consists of a 5.5 x 2.1 x 1.9 cm portion of adipose tissue
+that is dissected for lymph node candidates. Two lymph nodes are
+identified ranging from 0.2 cm in greatest dimension up to 5.5 x
+1.7 x 1.5 cm in greatest dimension. The largest node is tan,
+firm, and grossly positive on cut section.
+
+Block Summary:
+Cl — One lymph node
+C2—C3 - Representative of largest lymph node
+
+Tumav Site
+HVPAA
+
+Case is
+Revvewer
+
+ 
+
+ 
+

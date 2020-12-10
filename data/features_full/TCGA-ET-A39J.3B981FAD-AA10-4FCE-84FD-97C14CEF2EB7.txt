@@ -1,0 +1,59 @@
+Crllevla
+
+HIPAA
+Prior
+
+Case is
+Reviewer
+
+ 
+
+SPECIMEN TAKEN'
+
+FINAL DIAGNOSIS -----------
+THYROID (TOTAL THYROIDECTOMY):
+
+SPECIMEN TYPE:
+Total thyroidectomy / 013’ a , 3
+
+. t (MW/L
+TUMOR SITE: am W/ll’aj,
+Right and left lobes cg-ﬂ: WK! N01 c 7 3 ,5?
+
+HISTOLOGIC TYPE:
+Papillary carcinoma
+
+8% 0/3
+
+4// ¢///
+
+TUMOR SIZE:
+Greatest dimension: 3.0 (in right lobe)
+
+- UUID: 33981FAD-AA10-4FCE-84FD 97C14CEF2EB7d
+FOCALITY' TCGA- ET- A39:I- a1A- PR
+Multifocal
+
+l
+LYMPH NODES: |||||||||||||||||||||||||||||||llllllllllllll|||||||||||||
+
+None submitted
+
+EXTENT OF INVASION (SUMMARY STAGING): PRIMARY TUMOR (pT):
+pT2: Tumor >2cm but <4 cm, limited to thyroid
+
+REGIONAL LYMPH NODES (pN):
+pNX: Cannot be assessed
+
+DISTANT METASTASIS (pM):
+pMX: Cannot be assessed
+
+MARGINS :
+Margins are uninvolved
+
+VENOUS/LYMPHATIC INVASION:
+None identiﬁed
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Parathyroid tissue present in association with the right lower thyroid lobe
+

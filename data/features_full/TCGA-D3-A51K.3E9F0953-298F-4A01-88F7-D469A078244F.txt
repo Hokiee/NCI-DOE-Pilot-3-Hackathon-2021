@@ -1,0 +1,131 @@
+UID:3E9F6953-298F—4A01—88F7-D469A078244F
+U TCGA-DB-ASiK—BGA-PR Redacted
+
+I||||||I||||||IIII|I|II|||IIII|I||I|||III|I|
+III IIIIIIIIII I IIIIIIIIII I IIIIIIIIIII I IIIII IIIII IIIIII I III II III
+
+******* MODIFIED REPORT - REVIEW ADDENDUM SECTION *******
+DIAGNOSIS
+
+(A) LEFT GREAT TOE, AMPUTATION:
+SKIN AND SUBCUTIS WITH FOCAL MELANOMA IN SITU AND SCAR WITH HEALING PRIOR SURGICAL
+PROCEDURE SITE.
+Skin and soft tissue margins are free of melanoma. Multiple step sections examined.
+Additional decalcified sections, including proximal bone margin, are pending; please see addendum report.
+(B) LEFT SUPERFICIAL INGUINAL LYMPH NODES, DISSECTION:
+METASTATIC MELANOMA INVOLVING THREE OF FIFTEEN LYMPH NODES (3/15).
+LARGEST TUMOR DEPOSIT: 70 X 30 MM (PER GROSS DESCRIPTION).
+TUMOR LOCATION: SUBCAPSULAR AND INTRAPARENCHYMAL.
+Extracapsular extension is present.
+(C) LEFT ILIAC AND OBTURATOR LYMPH NODES, DISSECTION:
+Twelve nodes, metastatic melanoma is not identified (0/12).
+(D) LEFT MEDIAL THIGH, SKIN PUNCH:
+Exogenous dark pigment involving dermis consistent with tattoo pigment.
+Melanoma is not identified. Multiple levels examined.
+
+COMMENT
+
+In part (B), immunohistochemical studies reveal that the tumor cells are reactive with pan melanocytic cocktail, supporting the
+above diagnosis. ”A, a -3
+
+W1 m: (WM/3
+ji‘ﬁr/WW, ““3““! 07”
+HIM/(3’
+
+GROSS: DESCRIPTION
+
+(A) LEFT GREAT TOE — A 4.6 x 3.6 x 2.4 cm great toe amputation of the left side. There is a 2 cm in length portion of
+disarticulated bone protruding from the soft tissue margin. There is an intact nail present. On the lateral aspect of the specimen is
+a 1.4 x 1 cm ill—defined hypopigmented area which lies 1.5 cm from the lateral soft tissue and skin margin. This area is serially
+sectioned to reveal tan pink firm scar tissue; no lesion is identified. The soft margin and bone grossly appears uninvolved. The
+remaining specimen is sent to the bone lab for further processing and decalcification.
+
+INK CODE: Blue —- medial soft tissue margin; orange — lateral soft tissue margin.
+
+SECTION CODE: A1, medial dorsal soft tissue and skin margin; A2, plantar medial skin and soft tissue margin; A3,
+lateral plantar skin and soft tissue; A4, lateral dorsal skin and soft tissue margin; A5, A6, entire skin with scar area; A7, subcutis
+tissue underlying medial scar.
+
+A8, proximal bone margin submitted an face for decalcification; A9, A10, representative sections through scar area to
+phalange bone submitted for decalcification.
+
+(B) LEFT SUPERFICIAL INGUINAL LYMPH NODES, TIL PROTOCOL, PAN MEL STAIN - Consists of portion of yellow-red
+fibroadipose tissue (23 x 11 x 3.5 cm). The specimen is surfaced by a portion of unoriented skin (8 x 2.5 cm). Sectioning reveals
+a dark-brown black grossly positive lymph node (7 x 3 x 3 cm) with an anthracotic friable ﬂeshy cut surface. Approximately 80% of
+the positive lymph node is submitted to the protocol. Fourteen additional possible lymph nodes are identified ranging in size
+from 0.3 to 0.4 cm in greatest dimension. All possible lymph nodes are submitted entirely.
+
+SECTION CODE: B1, B2, representative of grossly positive lymph node; 83, representative skin; B4, three possible
+lymph nodes; 85, one possible lymph node, bisected; 86, three possible lymph nodes; B7, one possible lymph node, bisected; B8,
+one possible lymph node, bisected; BQ, one possible lymph node; B10, one possible lymph node, bisected; B11, one possible
+lymph node, bisected; B12-813, one possible lymph node, serially sectioned; B14-B18, one possible lymph node, serially
+sectioned.
+
+(C) LEFT ILIAC AND OBTURATOR LYMPH NODES — Received is one segment of brown—red fibroadipose tissue (8 x 6 x 2 cm).
+Within this is Identified multiple potential lymph nodes, ranging in size from 0.6 — 4 x 1 x 1 cm. Sectioning through the largest
+lymph nodes reveals homogenous white—tan smooth cut surfaces. The specimen is representatively submitted, with lymph nodes
+entirely submitted.
+
+SECTION CODE: C1, 02, largest lymph node, bisected and quartered; CB, one lymph node, four pieces; C4, one lymph
+node, four pieces; 05, one lymph node, bisected; 06, one lymph node, bisected; C7, two lymph nodes, uncut; C8, two lymph
+nodes, uncut; 09, two lymph nodes, uncut; C10, two lymph nodes, uncut
+
+(D) LEFT MEDIAL THIGH PUNCH BIOPSY - Received is one 3 mm punch biopsy of skin with underlying soft tissue (0.5 cm
+depth of excision). Along the tan hair bearing skin surface is a 0.2 x 0.2 cm surface area of discoloration. The resection edge is
+
+entirely inked and specimen is submitted in D1.
+CLINICAL-HISTORY
+
+Melanoma.
+
+SNOMED CODES
+T—02880, T-C4000, M-57206, M-87202
+
+"Some tests reported here may have been developed and performance characteristics determined by These tests have not been
+speciﬁcally cleared or approved by the US. Food and Drug Administration "
+
+Entire report and diagnosis completed by:
+
+Start or ADDENDUM
+
+ADDENDUM
+
+This modified report is being issued to add additional comments.
+
+Addendum completed by
+
+COMMENT
+
+In part (A), decalcified sections examined, no tumor present. Proximal bone margin negative for tumor.
+
+Entire report and diagnosis completed by:
+
+- ----- END OF REPORT---'---
+
+ 
+  
+       
+  
+ 
+   
+ 
+ 
+ 
+
+Criteria
+Olscrl
+Turner
+
+   
+
+PI
+rllI‘AA
+Prlur
+
+     
+
+Case is
+Reviewcr
+
+    
+

@@ -1,0 +1,180 @@
+UUID: 679E2EDC- A950- 4-9A4-
+TCGA JW ASVG AACIRA- -9472CC83447eDd
+
+iHilﬂHlHHlHlﬂl l
+"H mum;mmu5'.Him?!""”""“""”"""""”'"
+
+ 
+
+ 
+
+e u is llllHll
+R 5 “SH my mNIHiHllliMHilillHlHill!llllifiiillliill'illllliinl'lilillllliil'iil
+Results
+History SURGICAL PATHOLOGY (Order
+Result History
+
+Result page and Time Status Prlorig
+
+Final result Routine
+
+ReportAssmtanceMessage V ..
+
+Report and print group assistance enabled. To replace this print group with print groups which are easier
+to conﬁgure. cut-and-paste the following commands into new print group records:
+
+Component Results
+
+Surgical Pathology:
+(note)
+Name
+Date of Birth
+Hospital Number
+Location
+
+SURGICAL PATHOLOGY
+
+Accession #: Collected:
+
+PATHOLOGlC DIAGNOSIS
+CERVIX, BIOPSY:
+
+— iNVASlVE SQUAMOUS CELL CARCINOMA,
+
+Staff Pathologist
+
+Pertinent Clinical Information
+SCCA of cervix.
+
+140303
+
+0W NCYVM‘V/ WW0?) (fig/0 3
+
+5‘1”“ CW5“ N06151:; ‘/
+g4 & z.//l—/// 3
+
+Received:
+
+POORLY DlFFERENTiATED
+
+Results History Page 2 of 3
+
+Clinical Impression: Cancer.
+
+Gross Description
+Specimen Material: Cervical biopsy.
+
+The case is received in one part labeled with the patient‘s name, . . -
+
+ledical record number and given accession number and it is
+accompanied by a requisition form labeled with the same name and same
+accession number.
+
+The specimen is received in formalin labeled "CERVICAL BIOPSY" and consists
+of a 0.7 x 0.5 x 0.3 cm and 0.9 x 0.3 x 0.2 cm tan-white soft irregular
+tissue. which is submitted in toto in one cassette.
+
+Pathology Resident
+
+Microscopic Description
+
+Sections of the biopsy show scant amounts of ﬁbrous stroma inﬁltrated by
+sheets and nests of poorly differentiated malignant cells with pleomorphic,
+hyperchromatic nuclei and a moderate amount of cytoplasm. The tumor cells
+are highlighted by a CK516 immunohistochemical stain with appropriate
+control. These ﬁndings are consistent with a poorly differentiated invasive
+squamous carcinoma.
+
+Intradepartmental consultation: has examined this case and
+agrees with the ﬁndings and interpretation.
+
+These ﬁndings were discussed with
+
+The staff pathologist listed below has reviewed this case.
+
+This immunohistochemistry test(s) was developed and its performance
+characteristics determined by the ,
+
+and/or afﬁliated institution. it has not
+been cleared or approved by the US. Food and Drug Administration. The FDA
+has determined that such clearance or approval is not necessary. This test
+is used for clinical purposes. it should not be regarded as investigational
+or for research. This laboratory is certiﬁed under the Clinical Laboratory
+improvement Amendments of 1988 (CLlA) as qualiﬁed to perform high
+complexity clinical laboratory testing.
+
+ 
+
+"Electronicallv Signed Out“
+
+Staff Pathologist
+
+Result History
+
+Result gate and Time Status Bﬁority
+
+,,,,,,, In process Routine
+
+Report and print group assistance enabled. To replace this print group with print groups which are easier
+to configure. cutand—paste the following commands into new print group records:
+
+Results History Page 3 of 3
+
+ 
+
+ 
+
+IResults Routing Details for Order:
+
+Results contact on ‘ - Final result
+Outcome: Routed using the authorizing provider
+Routing Scheme Used:
+Routing Scheme Line: 2
+Resulting User:
+Routing Instant:
+Comments: Routing scheme returned no reclpienls
+Current Status: Routing Complete
+Stems Hlstory: Result contact created
+Routing started
+Routing Complete
+Sent: Message ID: ecipients:
+Resident (MD
+Responsible: Yes .
+Provider ID: 1 (provider deﬁned by Results Routing)
+Result routed to linked user using
+Results contact on - In process
+Outcome: Result not sent
+Resulting User: Lab in Interface
+Routing Instant:
+Comments: An message was not sent because no results were ﬁled
+Current Status: Routing Complete
+Status History: Result contact created
+Routing Complete
+
+ 
+
+ 
+
+ 
+
+Order Transmittal Details for Order:
+There is no tracking information for this order. Either the order has not gone through order transmittal or the tracking data has
+been purged from the system due to age.
+
+ 
+
+ 
+
+ 
+
+Performance Data For
+
+is
+Reviewer
+
+ 
+
+ 
+
+ 
+

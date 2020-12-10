@@ -1,0 +1,139 @@
+ 
+ 
+
+UUID: 28FCCF82- C2A7- 462A- 8590- EB73CC86696A
+g TCGA- EL- ABZS- BiA- PR Re
+
+III||||IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+I I ' IlllllIIlIIIIIIIIIIIIIIIIIIIIIIIIIII I|II| IIIIIIIIII
+
+Surgical Pathology IIIIIIlIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+ 
+
+ 
+
+ 
+
+ 
+
+Report .
+1 008'
+- Physician:
+Collected: ' Accession:
+Received: . .. . __. Case type: Surgical Case
+DIAGNOSIS / db ‘ 0 ’3
+(A) CONFIRM PARATHYROID: C “WW Pew/M11 y
+Parathyroid tiSSue, no tumor present. 4 00/3
+( THYROID AND LEVEL 6 CONTENTS 5%,: Wu, m2; c731
+PAPILLARY THYROID CARCINOMA. CONVENTIONAL TYPE
+Location: Isthmus ‘
+Multi-focal: No 4//7//,;
+
+Size = 1.6 cm
+Extrathyroidal extension: Absent
+Lymphovascular invasion: Present
+Resection Margins: Negative
+Background Thyroid: Chronic Iymphocytic thyroiditis consistent with Hashimoto's thyroiditis
+Lymph nodes:
+
+METASTATIC PAPILLARY THYROID CARCINOMA m 10 OF 17 LYMPH NODES
+
+. Location: Periglendular
+Extracapsular extension: Absent
+Thymus, no tumor present.
+
+(C). RIGHT LEVEL 4:
+METASTATIC PAPILLARY THYROID CARCINOMA IN 1 OF 5 LYMPH NODES
+Extracapsular extension: Absent
+
+(D) LEVEL 4 AND 5 B
+METASTATIC PAPILLARY THYROID CARCINOMA IN 2 OF 18 LYMPH NODES
+Extracapsular extension: Absent
+
+GROSS DESCRIPTION
+
+(A) CONFIRM PARATHYROID — A fragment of tan-red soft tissue, measuring 0.3 x 0.2 x 0.2 cm. Touch preparation has
+been performed and the entire specimen is submitted for frozen section.
+
+SECTION CODE: A, the entire specimen, for frozen section. ‘
+
+'FS/DX: PARATHYROID TISSUE PRESENT.
+(B) THYROID AND LEVEL 6 CONTENTS - The specimen has an overall measurement of 7.0 x 5.0 x 1.5 cm and consists of a
+thyroid, including right lobe (5.5 x 2.2 x 1.1 cm), left lobe, (3.8 x 2.2 x 1.1 cm), a prominent isthmus (4.0 x 3.5 x 0.8 cm) and
+ﬁbroadipose tissue (4.0 x 3.0 x 1.5 cm) attached to the inferior aspect of the thyroid (level 6 contents) .
+
+A dominant nodule (1.6 x 1.1 x 0.7 cm) is found in the lower pole of the isthmus adjacent to the left lobe. The nodule is
+composed of white-yellow homogeneous tissue and is well circumscribed.
+
+Page 1 of 2
+
+ 
+
+Surgical Pathology Report
+File under: Pathology
+
+Surgical Pathology I
+v _ ,_- ’ Report
+
+' DOB:
+Physician
+
+ 
+
+_Collected: Pathologist: Maegan
+Received: Case type: Surgical Case
+
+ 
+
+The right lobe of the thyroid is unremarkable and composed of homogeneous red-brown tissue. The left lobe of the
+thyroid is unremarkable and composed of homogeneous red-brown tissue. Attached to the lower portion of the isthmus, a
+piece of adipose tissue admixed with several lymph nodes is identiﬁed. This area is dissected for lymph nodes.
+
+SECTION CODE: 81-33, dominant nodule from the isthmus from medial to lateral; 84, left lobule, representative
+sections, lower pole; 85, left lobule, representative sections, upper pole; 86, lower pole, right lobule; B7, upper pole, right
+lobule, representative sections; BB, four possible lymph nodes; BS, four possible lymph nodes; B10, one lymph node; 811,
+two lymph nodes; B12, one lymph node; B13, one lymph node; B14, one lymph node bisected; B15, one lymph node bisected;
+B16, one lymph node bisected.
+
+(C) RIGHT LEVEL 4 — A single fragment of ﬁbrofatty tissue measuring 2.0 x 1.5 x 0.8 cm. Dissection reveals multiple
+possible lymph nodes ranging from 0.5 up to 1.2 cm in greatest dimension. Possible lymph nodes are entirely submitted.
+
+SECTION CODE: C1, four possible lymph nodes; CZ, one sectioned possible lymph node.
+
+(D) LEVEL 4 AND 5 B -— A single fragment of fatty tissue measuring 3.8 x 3.0 x 0.8 cm. Multiple possible lymph nodes are
+identiﬁed ranging from 0.4 up to 1.2 cm in greatest dimension. Possible lymph nodes are entirely submitted.
+
+SECTION CODE: D1, ﬁve possible lymph nodes; DZ, ﬁve possible lymph nodes; 03, five possible lymph nodes; D4,
+three possible lymph nodes; D5, one bisected possible lymph node.
+
+CLINICAL HISTORY
+
+Papillary thyroid cancer.
+
+SNOMED CODES
+
+T-C4200, M-80506, T-CA200, M-80506, T-BSOOO, M—80503, M-80630, T-C4200, M-80506,
+
+"Some tests reported here may have been developed and performance characteristics determined by
+These tests have not been speciﬁcally cleared or approved by the us. Food and Drug Administration.“
+
+Entire report and diagnosis completed by:
+
+ 
+
+Page 2 of 2
+
+ 
+
+Surgical Pathology Report
+File under Pathology
+
+ 
+
+ 
+
+ 
+
+ 
+

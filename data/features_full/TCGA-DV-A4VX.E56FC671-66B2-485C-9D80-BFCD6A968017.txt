@@ -1,0 +1,252 @@
+ 
+
+ 
+
+MEDICAL RECORD _ Surgical Pathology Report
+
+ 
+
+ 
+
+UUID : E56FC671-6652-485C-9080-BFCD6A968817
+TCGA-DV-A4VX-01A-PR Redacted
+
+||| ll|||||||IIIl|||||||||||||||l||||||||||||||||||||||||||||||||
+Ill ||i||l||||Ill|||||||||||l|||||||||||||l|||||||l|||||||Il|||||
+Illlllllllllllllllllllllllllllllllllllllllllllllllllllllll
+
+ 
+
+ 
+
+Surgical Pathology Report
+
+ 
+
+PATIENT: MRN:
+
+ACCOUNTiI: RECEIVED DATE:
+DOB: PROCEDURE DATE:
+AGE: SEX: M SIGN-OUT DATE:
+ATTENDING: - LOCATION:
+REQUESTING: ‘
+
+CONTACT NO: (MD) - ROOM:
+
+CO PIES TO: '
+
+DIALGNOSIS. l
+
+1. Kidney and adrenal gland, right (radical nephrectomy and adrenectomy): Renal cell carcinoma, clear cell type.
+Fuhrman nuclear grade lV; tumor involves the renal vein; prominent vascular invasion is present; tumor
+penetrates through-the capsule with involvement of perinephric tissue; tumor present in the lymphatic spaces
+surrounding the ureteral margin; arterial margin free of tumor: hilar lymph nodes free of tumor (0/2); adrenal gland
+free of tumor, inked margin of resection free of tumor. ,
+
+- ' 2. Lymph node. intraaortic cava (lesion): An atypical cell is present in one of four lymph nodes.
+
+3 3. Lymph node. pericaval (excision): Reactive lymph nodes, no tumor seen (0/19).
+
+NOTE:
+
+Kldne Ne hrectom Summa Table Macrosco to [£910 ’5
+
+___L_P____Y__DL___.____2_ . .
+CW cw ad JUN/j
+
+Specimen Type: Radical nephrectomy and adrenectomy
+
+Laterality: Right 5/76,, : kl‘d’u‘,’ w; c. H. 9
+Tumor Size: 11.5 x7.4 cm _ ' ‘ -
+Focality: Unifocal ' fo/Jk/IJ—
+
+Macro Extent of Tumor: Tumor extends into perinephric tissue
+
+Microscopic
+
+Histologlc Type: Renal cell carcinoma. clear cell type.
+Histologlc Grade: Fuhrman nuclear grade lV
+
+ 
+
+- Patient Identification Surgical Pathology Report
+
+File in
+Page 1 of 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+MEDICAL RECORD T Surgical Pathology Report
+
+ 
+
+Name: I .’ Accession No.: ‘ -
+MRN: ,
+
+Extent of Invasion
+
+Primary Tumor(pT): pT3b
+
+Regional Lymph Nodes(pN): An atypical cell present in one of the intraaortic lymph nodes.
+Distant Metastisls(pM): pr
+
+Margins: Free of tumor
+
+CLINICAL INFORMATION: Allocate Order to Protocol: . Brief Clinical History: huge
+right renal mass with lung metastases and retmperitoneal
+lymphadenopathy Specimen Taken For Protocol: 01 ~ Yes
+
+PROCEDURE: Pre-Operative Diagnosis: right renal mass Post-Operative Diagnosis:
+‘ same Operative Findings: large right renal mass with vena cava tumor
+thrombus, bulky retropertitoneal lymphadenopathy
+
+SPECIMENS SUBMITTED: 1. KIDNEY, RIGHT
+2. LYMPH NODES, lnteraortocaval
+3. LYMPH NODES. Paracaval
+
+GROSS DESCRIPTION:
+
+1. Received fresh OR labeled with the patients name. medical record number, and “right kidney and adrenal
+gland” is a radical nephrectomy specimen measuring 19 x 16 x 9.5 cm overall. There is a tumor thrombus
+protruding from the renal vein measuring 3 x 2 x 1 cm. The kidney is inked and bivalved to reveal a tumor
+measuring 11.5 x 7.4 cm with friable, red/brown, variegated, cut surface. The tumor is replacing most of the
+renal parenchyma. Fragments of tumor measuring 3.5 x 3.5 x 2.0 cm in aggregate were procured for
+
+ab, approximately 6.5 x 5 x 2.4 cm tumor and tumor thrombi measuring 2 x 2 1 cm were procured for
+
+Theprocurement was performed by on Received in Surgical
+Pathology. the specimen is consistent with the above description. Grossly. the tumor is largely necrotic. and
+does not invade through the Gerota’s fascia. but the renal capsule is difﬁcult to strip. Two hilar lymph nodes are
+identiﬁed measuring up to 0.7 cm in largest dimension. The adrenal gland is identified measuring 7 x 4 x 0.3 cm.
+Grossly, it is not involved by the tumor. Representative sections are submitted in white cassettes labeled
+he to 10 for serial sectioning. The cassettes are summarized as follows:
+
+1A: Artery and ureteral margins
+
+18: Renal vein thrombus
+
+1C: Tumor thrombus in renal vein
+
+1D-1 I: Tumor with margins
+
+1J—1 P: Representative sections from the tumor
+
+10: Lymph node (2),
+
+1R: Tumor with margin near the adrenal gland
+
+1S. 1T, 1U: Representative sections from the adrenal gland .
+
+Patient Identification I Surgical Pathology Report
+
+I
+
+Page 2 of 4
+
+ 
+
+ 
+
+ 
+
+MEDICAL RECORD ' Surgical Pathology Report
+
+ 
+
+Name: .-\ . Accession No.: .' ‘
+
+ 
+
+ 
+
+MRN:
+Additional sections were later submitted in white cassettes labeled ‘ . f-lEE for serial sectioning. The
+
+cassettes are summarized as follows:
+1V-1Z:Tumor with margins.
+
+1 AA: Proximal end of a possible ureter
+
+iBB: Distal end of the possible ureter
+
+1CC: Venous thrombi cross-section
+
+1DD: A tubular structure near the ureter. proximal
+' 1EE: A tubular structure near the ureter. distal
+
+2. “lntraaortic caval nodes". The specimen consists of a yellow/brown ﬁbroadipose tissue measuring 5 x 2.5 x
+
+0.6 cm. The specimen is bisected. Three possible lymph nodes are identiﬁed with the largest one measuring 2.5
+
+cm in largest dimension. The lymph nodes are entirely submitted in white cassettes labeled .1 -- ‘;- "A-2D for
+serial sectioning. The cassettes are summarized as follows:
+
+2A: One lymph node
+28: Onelymph node bisected
+20 and 20: One. lymph node bisected
+
+3. “Pericaval lymph node with stitch is cephalad". The specimen consists of two yellow/brown tissue fragments:
+' One measures 7.5 x 4 x 1.5 cm. the other one measures 2 x 1 x 0.3 cm. The specimen is dissected and 17
+
+possible lymph nodes are identiﬁed. The lymph 'nodes are entirely submitted in white cassettes labeled
+
+3A—3H for serial sectioning. The cassettes are summarized as follows:
+
+3A: Three lymph nodes
+
+33: One lymph node
+
+SC: Three lymph nodes
+
+30: One lymph node
+
+3E: Three lymph nodes
+
+3F: One lymph node bisected
+36: Three lymph nodes
+
+3H: Two lymph nodes
+
+No consultants
+
+ 
+
+Patient Identification ' I Surgical Pathology Report
+
+Page 3 of 4
+
+ 
+
+ 
+
+MEDICAL RECORD Surgical Pathology Report
+
+ 
+
+ 
+
+ 
+
+Name: " r. - . Accession No.: '
+MRN: -
+
+ 
+
+ 
+
+  
+
+Surgical Pathology Report
+
+   
+
+Patient identification
+
+Page 4 of 4
+

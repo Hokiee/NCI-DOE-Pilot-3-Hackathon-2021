@@ -1,0 +1,134 @@
+  
+  
+  
+ 
+   
+
+:rlterla
+
+)iunosls Discrepan
+3rlmaryl'umm She Ducrepancv f
+«PM Discrepancy '_
+’rior Malignancy History
+
+UUID : 04498853-38F1-423D-94F1-F34F9AD6A660
+
+ 
+
+TCGA-EL-AaGX-BlA-PR Redacted 'y Case
+|||||||||||l|||||||lllIllllllllllllllllllllllllllllllllllllllllllll
+lllllIllllllllllllllllllllllllllllllllllllllllllllllllllll 3y Report
+IlllllllllllllllllllllIllllllllllllllllll|||||l|||||||||lll|l||| a‘”°‘°gy' 003- - sex; F
+m Fax: Physucxan: W ,
+Received; Pathologist Accession;
+
+Case type: Surgical History
+
+ 
+
+“ Case imported from legacy computer system. The format of this report does not match the original case. **
+" For cases prior to the section "SPECIMEN” may have been added. “
+
+DlAGNOSIS
+(A) SUPERIOR PARATHYROID GLAND:
+Parathyro1d tissue.
+(s)v TOTAL THYROID:
+PAPILLARY CARCINOMA INVOLVING RIGHT LOBE. MARGINS FREE OF TUMOR.
+METASTATIC PAPILLARY CARCINOMA IN ONE LYMPH NODE (1/1).
+Adenomatous nodule, right lobe.
+(C) RIGHT SELECTIVE NECK DISSECTION, LEVEL III, Iv. v:
+METASTATIC PAPILLARY CARCINOMA IN 1 LYMPH NOOE OF LEVEL 4 (1/20 LYMPH
+NODES).
+LEVEL III:
+Five lymph nodes, no tumor present.
+LEVEL Iv LYMPH NODES:
+METASTATIC PAPILLARY CARCINOMA IN 1 OF 8 LYMPH NOOES.
+LEVEL v LYMPH NODES:
+Six lymph nodes. no tumor present. I abra -3
+
+(1le PW‘IIW.WK YAMv/j
+
+5.1-4: Hwymu my 07 3.1; [w
+’ “I 31/“
+
+EntT' re re art and diagnosis emulated by:
+Report re eased by:
+
+GR083 EESCRlPTiON
+(A) SUPERIOR PARAleYROID GLAND — A minute Fragment of tan soft tissue 0.1 x
+0.1 x 0.1 cm. Sumetted entirely for frozen in A.
+
+*Fs/Dx: PARATHYROID TISSUE IDENTIFIED.
+(8) TOTAL THYROID — Received is a thyroid (6.0 x 3.3 x 1.9 cm) and a ortion
+of skeletal muscle on the anterior surface. The specimen is oriented y the
+surgeon. _ _ ‘ ‘
+
+’ Two‘well—circumscrtbed, partTally c¥st1c and papﬂ‘lary tumors are
+present. The larger one measures 2.5.x .0 x 1.5 cm and is located in the
+ﬁght lower lobe. The small tumor whwch measures 1.5 x 0.9 x 0.3 cm is
+located in the left lower lobe. The larger tumor has calcifications in the
+center. A separate pink and red well-c1rcumscrlbed solid nodule is present in
+the ﬁght upper lobe (1.0 x 0.9 x 0.9 cm). TWO tan and ﬁrm possible lymph
+nodee ere identiﬁed measurmg 1.1 x 0.7 x 0.6 cm and 0.9 x 0.7 x 0.7 cm. The
+rema'lmng thyrmd parenchyma 1's pink—purple.
+
+INK CODE: Black—external surfaces“ _
+
+SECTION CODE: 81. 32. tan-pink sohd nodule 1n the right upper lobe;
+153—810, the larger tumor in the right lower lobe; 811, 812, one possible lymph
+node each; 813, 314, smaller tumor in the "left lower lobe; 315, uninvolved
+
+P3991 Of2
+
+HistoryCasePathologyReport History Case Pathology
+
+File under: Pathology
+
+ 
+
+History Case I
+
+ 
+
+ 
+
+ 
+
+Pathology Report
+Department of Pathology, DOB: Sex: F
+“M”? Tel M "‘ Physician: ___..
+Received: Pathologist " Accession:
+
+Case type: Surgical History
+
+th roid parenchyma. .- , _ . .
+
+(c; RIGHT SELECTED NECK DISSECTION, LEVEL III. Iv, v 7 Rece1ved.15 a fragment
+of fibroadipose tTSsue (5.3 x 5.2 x 0.6 cm). The spec1men 15 or1ented by the
+surgeon.
+
+Level III measures 2.5 x 2.4 x 0.8 cm. Multiple tan—pink lymph nodes are
+identified rangino from 0.3 cm to 1.5 x 0.6 x 0.3 cm. Level IV measures 2.8 x
+1.6 x 1.1 cm. Mu ttple tan—ank, f1rm lymph nodes are IdentTfied ranngg from
+0.3 cm in dTameter to 1.5 x 0.6 x 0.5 cm. The largest lymph node ap ears
+grossly Involved by tumor. Level v measures 4.7 x 2.2 x 0.7 cm. Mu tiple
+Bag—pigkslymph nodes are 1dent1f1ed ran91ng from 0.5 x 0.4 x 0.2 cm to 1.3 x
+
+. x . cm.
+
+SECTION CODE: C1-C3 Level III lymph nodes (C1 three lymph nodes. C2 one
+lymph node,_C3 one lymph node); C4—C8, evel Iv lymph nodes (C4 one l mph node
+grossly p051t1ve. c5 four lymph nodes. C6 one lymph node, c7 one lym node.
+C8 one lymph node): C9-C11. level v lymph nodes. C9 and C10 one lymp node
+each. C11 fwve lymph nodes).
+
+SNOMED COOES
+fol-80503 lib-80506 T~36000 T-C4200
+
+History Case Pathology Report
+File under: Pathology
+
+Page 2 of 2
+
+History Case Pathology
+

@@ -1,0 +1,232 @@
+Subject ID —
+GROSS:
+
+Specimen submitted: Distal gastrectomy, unfixed
+Measurement: Greater curvature 20.6 cm
+Lesser curvature 10.4 cm
+
+Proximal resection margin 17.8 cm
+Distal resection margin 5.2 cm
+Duodenum 0.4 cm
+
+Tumor location: .
+
+Stomach: Lower 1/3 (antrum), anterior wall
+
+From proximal resection margin - 5.2 cm
+
+From distal resection margin - 3.4 cm
+
+3.6 x 2.4 cm
+
+Tumor type: AGC (Borrmann type) [I
+
+No
+
+Representative sections are submitted
+
+Blocks
+
+T1-4, tumor and surrounding tissue x 4
+
+Tumor size:
+
+Gross serosal invasion:
+
+A, antral mucosa x 1
+
+8, body mucosa x 1
+
+R proximal resection margin x 1
+
+D, distal resection margin x 1
+
+DRM, labeled as 'distal margin’ x 1
+LN1-2. superior gastric lymph nodes x 2
+LN3-4, inferior gastric lymph nodes x Z
+LN5-6. '1‘ lymph nodes x 2
+LN7, ‘4sb' lymph nodes x l
+LN8, '5' lymph nodes x 1
+LN9-10, ‘6' lymph nodes x 2
+LN11, '7' lymph nodes x 1
+LN13, '9' lymph nodes x 1
+LN15, '12' lymph nodes x 1
+MICROSCOPIC:
+
+LN12, '8' lymph nodes x 1
+
+UUID' GEDBEGSZ- BEEO- ACM- BlAﬂ- FFC24MBGF2eBd
+TCGA- HU- A463- BlA- PR
+
+lLbaO'B
+Mir/Mew, W) 9&Ili3
+Si‘iw- §-W.MW Gib-5
+2» tin/I»
+
+LN14, '11p' lymph nodes x 1
+
+Tumor type: Adenocarcinoma, moderately differentiated, with partial adenosquamous carcinoma
+
+component
+Depth of tumor invasion:
+
+T2: Muscularis propria (MP)
+Margins: Proximal resection margin (—)
+
+Distal resection margin (-)
+
+ 
+
+Lauren classification: intestinal
+Ming classification (Growth pattern): Infiltrative
+Lymphoid reaction: Present
+Lymphovascular invasion: Present
+Venous (large vessel) invasion: Absent
+Perineural invasion: Absent
+Lymph node metastases:
+N2: Metastasis in 3-6 regional lymph nodes
+number of involved nodes (5) total number of nodes (53)
+perinodal extension: Yes
+Distant metastasisiM):
+MX: Distant metastasis cannot be assessed
+Pathologic stage: pT2N2Mx (AJCC 7th edition)
+DIAGNOSIS:
+Stomach, distal gastrectomy:
+Adenocarcinoma, moderately differentiated,
+with partial adenosquamous carcinoma component, invasive
+(advanced gastric cancer)
+
+<Addendum>
+Final diagnosis: Stomach Intestinal Adenocarcinoma, Tubular Type 9w 1’ ‘5 04W"
+
+Lymph node, perigastric, distal gastrectomy:
+Superior gastric: Metastatic carcinoma, primary in stomach (1/2)
+Inferior gastric: No tumor present (0/5)
+Lymph node, regional, biopsy:
+Labeled '1': No tumor present (0/9)
+Labeled '4sb': Fibrofatty tissue
+Labeled '5': Metastatic carcinoma, primary in stomach (1/2)
+with extranodal tumor extension
+
+Labeled '6': Metastatic carcinoma, primary in stomach (1/11)
+Labeled '7': 'No tumor present (0/6)
+
+Labeled '8‘: Metastatic carcinoma, primary in stomach (1/5)
+Labeled '9‘: No tumor present (O/S)
+
+Labeled '11p‘: Metastatic carcinoma, primary in stomach (1/6)
+Labeled '12': No tumor present (0/2)
+
+ 
+
+ 
+
+ 
+
+TCG'A Pathologic. Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site ['I‘SS): Stomach gdenocarcinoma.
+Completed By
+
+(Diagnosis minnnauan ‘ _. , ,
+#' Data Element ' Entry Alternatives WoﬂdnLInstmctions
+
+ 
+
+        
+
+a; 3.“,
+
+ 
+
+ 
+
+ 
+
+Pathologic Diagnosis Stomach Intestinal. Adonocarcinom‘a . Provide the diagnosis] histologic sorrows)
+.. . . . documented on the initial pathology report for this
+1 Prbvided on Initial var/Partial Adenosquamous Component i.t the 1 may for this case is I ed. prams
+
+Pathology Report all listed subtypes.
+
+ 
+
+Histologic features of .
+the sample ptOvlded Stomach intestinal Adenocarclnnma, Provide the histologic features selected on the TCGA
+
+2 - for TCGA. as reﬂected Tubular 13mg Case Quality Control For-m completed for this case.
+on the CQCF
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+, Discrepancy hetween .,Paoioiogy..;ry‘_:,:'5'-‘ * page easoQuaiicyeoouoi rm 3
+
+In original pathology report for the
+resected specimen, partial squamous
+
+ 
+
+ 
+
+ 
+
+Provide, the reason
+
+for the: discrepancy Provide a reason describing why the diagnosis on the
+
+ 
+
+ 
+
+3 between the component was mentioned. mew 01’ initial pathology report for this case? is not: Consistent
+pathology report and top slide cf the sample submitted to. with the, diagnosis selected on the TCGA Case Quality
+. h. .
+u": 'FCGA Case] TCGA revealed no squamous , Con 0' Rm
+Quality Control Form.
+component.
+Name of‘TSS
+4 Reviewing Pathologist Provide the name ofxthe pathologist who reviewed this
+or Bloreposltary case for TCGA
+Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Iadmowiedgemonammformumpombymmmmbmmdmmdhmbmqmﬂwmmm
+
+TSS Reviewing Pathologist. or Biorepository Director Date
+
+rammmmmrqpmnmmbymrmommwmmmmmuumama
+wwwwmrmmmmmrwmomqwmmmm
+
+ 
+
+Principal Invastigato‘r Signature Date
+

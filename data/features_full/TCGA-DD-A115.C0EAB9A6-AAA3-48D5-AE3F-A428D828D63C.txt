@@ -1,0 +1,193 @@
+/cb«0/3
+. ‘ [WW WaﬁuMJI/u/WS 3/ 70/3
+
+5JL,A@W 593-0 Iﬁwﬂ A«
+Patient Key: .
+' Surgical date:
+
+”a ' ”F! I31: .
+;:;;:El:::ti:::: 11335 grams, 18 x 14.5 x 10 cm), gallbladder [2.8 x 3.5 x 3 cm; and
+separately submltted perlcholedochal lymph node [2.9 x 4.5 x 1.- cm].
+
+Al, A2, El, Cl, C3, C3, C4, C5, C6
+::::f?s::;ht, hepatectomy: Grade 2 (9;,4) hepeteeellular eerelnemaiformlng~e prfeomih:::n:::s,
+11 x 10 X-S cm. A satelllte nodule (l x l X 1 cm) of graﬁe 3 (or QJvhepateuellup:: ;:ee of
+13 present 3 cm from the predominant tumor mass. The surgical resectlon margins a
+
+c , .
+
+CHIC”. (‘13 ESE D .I an) . he ':p&.1d parenu ma 5110175 m4151focal flbL‘OSlS lth I0 elg D Y
+I '4 1’ , . I h ’ h w r: n b :1
+
+rat-pllun 1n .JlE 134). .n l .LaL‘kE.
+
+‘" " ' """~ " P*V' tis with no stones 1dentified.
+Gallbladder, cholecysteetumy. LhLUHlL LhUl_LJSCl
+
+Lymph node, perlcholedochal, exc1sion: Elngle lymph node negative for tumor.
+
+UUID:COEABSAﬁ-AAAS~48D5-AE3F-A428D828063C
+TCGA-DD-All -
+
+IlllllllIllHIllllllllllIll"?lﬁllﬁll‘flillllllllllllllil‘lﬁl‘ljlallillte‘j
+IllHIIIIHHHHIIIIHIIIIIIIHIHIMlHIHIHIIHJIHIHIHIll
+mmuuuumunumummmmmIm:mmmmum
+
+ 
+
+Liver o Digestive System CAP Approved
+
+* Data elements with astartii'ks are not required for accreditation purposes for
+the Commission on Cancer. These elements may be clinically importmt,
+
+but are not yet validated or regularly used in patient management.
+Alternatively. the necessary data may not be available to the pathologist
+
+at the time ofpathologie assessment ot'this specimen.
+
+LIVER: Resection . .
+Patient name: (to be de-Meutéﬁcd) Pad-I en‘i' kej '
+Surgical pathology number:
+
+3° MW be): :
+MACROSCOPIC
+Sp imen Type
+~ Right lobcctumy
+__ Extended right lobeetomy
+_ Medial segnienteetomy
+_h Left lateral scgmentectomy
+____ Total left lobectomy
+__ Explanted liver
+_ Other (specify):
+__ Not speciﬁed
+l-‘oeality
+
+ 
+
+ 
+
+Solitary (specify leeation):
+jMultiple (specify location): vmhb ie ’2 e,
+Tumor Size I
+Greatest dimension: macm 3
+*Additional dimensions: 103x E; cm
+__ Cannot be determined (see Comment)
+
+MICROSCOPIC
+His logic Type
+_ Hepatocellular carcinoma
+__ Fibrolamellar hepatocellular carcinoma variant (specify):
+__ Combined liepatocellulur and cholangiocarcinoma
+___ Cholangiocarcinoma. intrathatic
+__ Bile duct cystadenocarcinoma
+____ Undifferentiated carcinoma
+_ Other (specify):
+__ Carcinoma, type cannot be determined
+Histologic Grade
+_ Not applicable
+__ GX: Cannot be assessed
+l: Well differentiated
+_ Gil: Moderately differentiated
+__ Gill: Poorly differentiated
+_ GIV: Undifferentiated/(inaplastio
+__ Other (specify):
+
+ 
+
+ 
+
+--——————..____
+
+130;le l<¢7 I
+
+Pathologic Staging (pTNM)
+Primary Tamor (pT)
+_ pTX: Cannot be assessed
+__ pTO: No evidence of primary tumor
+_._ pTl: Solitary tumor With no vascular invasion
+
+T2: Solitary tumor with vascular invasion or multiple tumors none more than 5 cm
+
+pT3: Multiple tumors more than 5 cm or tumor inVolving a major branch of the portal
+
+or hepatic vein(s)
+_ pT4: Tumor(s) with direct invasion of adjacent organs other than the gallbladder or
+perforation of visceral peritoneum
+Regional Lymph Nodes (pN)
+
+NX: Cannot be assessed
+__ pNO: No regional lymph node metasmsis
+_ le: Regional lymph node metastasis
+Specify: Number examined:
+Number involved: ﬂ
+Di ant Metastasis (pM)
+___ pMX: Cannot be assessed
+__ le: Distant metastasis
+*Specil'y site(s). if known:
+
+ 
+
+Margins (check all that apply)
+
+Parenchymal Margin
+
+7,Cannot be assessed
+
+__ Uninvolvcd by invasive carcinoma :95 a
+Distance of invasch carcinoma from closest margin: __ mm
+Specify margin:
+__ involved by invasive carcinoma
+
+Bile Duct Margin (Cholangincarcinoma Only)
+_‘ Cannot be assessed
+
+_ Uninvolved by inVasive carcinoma
+
+*_ Carcinoma in situ absent
+
+*_ Carcinoma in situ present
+
+__ lnwlved by invasive carcinoma
+
+Other Margin
+Specify margin:
+_ Cannot be assessed
+
+_ Uninvolved by invasive carcinoma
+
+__ Involved by invasive carcinoma
+
+*Vcnous (Large Vessel) Invasion (V)
+
+*_ Absent
+
+* Present
+
+*_ indeterminate
+
+'“Additional Pathologic Findings (check all that apply)
+*__~ None identified
+
+*_ Hepatocellular dySplasia
+
+* Ductaldys-l '
+*_ Cirrhosiag
+*____ Iron overloa-
+
+*_ Hepatitis ( specify type):
+*_ Other (specify):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Aw... AP’IA"
+
+rs)“
+

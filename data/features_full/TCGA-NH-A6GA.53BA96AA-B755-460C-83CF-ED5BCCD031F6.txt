@@ -1,0 +1,366 @@
+ 
+
+RUN DATE: PAGE 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+RUN TIME: Specimen Inquiry
+RUN USER: User: Lab Database:
+PATIENT: ACCT 3:
+' AGE/3X: ROOM: REG:
+REG DR: DOB: BED: DIS:
+' STATUS:
+SPEC #: RECD: STATUS:
+COLL: TIME IN FORMALIN: 3:49 hrs.
+
+CLINICAL INFORMATION:
+Pre~0p Diagnosis: Colon obstruction
+
+Remarks: ‘ (5 C35
+
+Specimen(s): Colon (right)
+‘ W ya 05 9/9 0/5
+Sail W W d/goﬂ -
+
+I-mmmmmamsmmn-I \ gw)é%aha
+RIGHT COLON WITH ATTACHED TERMINAL ILEUM AND APPENDIX. RIGHT HEMICDLECTOMY:
+
+MODERATELY DIFFERENTIATED ADENOCARCINOMA OF THE ASCENDING COLON
+
+CARCINOMA MEASURES 4.5 CM IN GREATEST DIMENSION AND EX'I'ENDS THROUGH THE BOWEL
+
+WALL INTO THE SUBSEROSAL FAT AND FOCALLY EXTENDS TO THE VISCERAL PERITONEAL
+
+SURFACE (p’I‘4a)
+
+LYMPH-VASCULAR INVASION IDENTIFIED
+
+SURGICAL MARGINS OF RESECTION FREE OF TUMOR WITH THE CLOSEST SURGICAL MARGIN
+
+RADIAL MARGIN 5 CM
+
+THREE DISCONTINUOUS TUMOR DEPOSITS IN SUBSEROSAL TISSUE
+
+METASTATIC ADENOCARCINOMA IN 4 OF 33 SUBSEROSAL LYMPH NODES WITH FOCAL
+
+EXTRACAPSULAR EXTENSION
+— SEE COMMENT FOR SURGICAL PATHOLOGY CANCER CASE SUMMARY CHECKLIST
+
+ 
+
+UUID: SEBAQSAA- B755— 460C- 83CF- ED58CCD631F6
+
+N" mIIGIIIIIIIIIIIIIIIIIIIIIII IIIIIIIIIIIICII tad
+III IIII IIIIIIIIIIIIIIIIII
+COIWISI l||| IIIIIIIIIII ||||l||||I HI||||||I|I||I|||||||||||||| ||l||||||||
+SURGICAL mmmcy CANCER CASE SUMMARY _ m APPROVED IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+Specimen: Terminal ileum, cecum, appendix, ascending colon
+Procedure: Right hemicolectomy
+Tumor Site: Right (ascending) colon
+Tumor Size: 4.5 cm in greatest dimension
+Macroscopic Tumor Perforation: Not identified
+HIstologic Type: Adenocarcinoma
+Histologic Grade: Low—grade
+Microsc0pic Tumor Extension: Tumor penetrates to the surface of the visceral
+peritoneum (serosa) ~ focal
+Margins: Distance of invasive carcinoma from closest margin: 5
+
+cm: Radial
+Proximal: Uninvolved by invasive carcinoma
+Distal: Uninvolved by invasive carcinoma
+Circumferential: Uninvolved by invasive carcinoma
+Treatment Effect: No prior treatment
+Lymph—Vascular: Present
+
+** CONTINUED ON NEXT PAGE ‘*
+
+ 
+
+ 
+
+ 
+
+RUN DATE: PAGE 2
+RUN TIME: Specimen Inquiry
+RUN USER: User:
+
+ 
+
+SPEC I :_ ~ PATIENT: ‘ (Cont inued)
+
+ 
+
+ 
+
+COMMENT( S) (Continued)
+
+Perineural Invasion: Not identified
+
+Tumor Deposits: Present (number of deposits: 3)
+Pathologic Staging: Primary Tumor: pTda
+
+Regional Lymph Nodes: pNZa
+Number examined: 33
+Number involved: 4
+Distant Metastasis: Not applicable
+
+GROSS DESCRIPTION:
+
+The specimen in formalin is right colon with attached terminal ileum and appendix. right
+hemicolectomy. The colon measures 25 cm in length by 3 cm in diameter. the small bowel
+measures 7.5 cm in length by 2 cm in diameter, and the appendix measures 10 cm in length
+by 1 cm in diameter. The closest radial margin is 5 cm. 3.5 cm distal to the ileocecal
+valve there is a nearly circumferential ulcerating partially obstructing mass measuring 3
+cm in length by 4,5 cm in width. At the distal end of this there is an associated polyp
+measuring 1 x 0.8 x 1 cm. The tumor is located 14 cm proximal to the distal margin of
+resection. Cut section through the ulcerated mass reveals hard pinkish—tan tissue
+infiltrating through the wall into the overlying subserosa. The remainder of the mucosa
+throughout the colon and small bowal appears normal, There is one grossly enlarged
+subserosal lymph node measuring up to 3 cm in diameter containing hard white tissue with
+central necrosis which is soft and pasty. Other lymph nodes vary from small and rubbery to
+slightly enlarged. There is one slightly enlarged firm lymph node submitted separate from
+the intact specimen. Sections are submitted as follows:
+
+1 - proximal terminal ileum margin of resection
+
+2 — distal colon margin of resection
+
+3 ~ appendix
+
+4—? « mass in colon
+
+8 — grossly enlarged lymph node and separately submitted lymph node
+9—l4 - remainder of subserosal lymph nodes
+
+A portion of the colon mass has been processed with tumor tissue banking protocol.
+
+MICROSCOPIC DESCRIPTION:
+The slides are examined and evaluated.
+
+INTRAOPERATIVE CONSULTATION:
+Specimen processed for tissue banking per protocol.
+
+** CONTINUED ON NEXT PAGE *'
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RUN DATE: PAGE 3
+RUN TIME: Specimen Inquiry
+
+RUN USER: User: Lab Database:
+
+SPEC #2 PATIENT (Continued)
+
+ 
+
+ 
+
+     
+
+PHOTO DOCUMENTATION
+Image
+Image
+Image
+Image
+Image
+Image
+Image
+
+Signed (signature on file)
+
+ 
+
+ 
+
+ 
+
+** END OF REPORT **
+
+ 
+
+ 
+
+ 
+
+RUN DATE: PAGE 1
+
+ 
+
+ 
+
+ 
+
+RUN TIME: Specimen lnqu1ry
+RUN USER: User: Lab Database:
+PATIENT ACCT #4 -
+AGE/3X: ROOM: REG:
+REG DR: DOB: BED: DIS:
+STATUS:
+SPEC #: RECD: STATUS:
+COLL: TIME IN FORMALIN: hrs.
+
+CLINICAL INFORMATION:
+Pre—Op Diagnosis: Colon CA: liver mass: R/O metastatic
+Remarks:
+Specimen(s): Fine needle aspirate cytology liver
+
+ 
+
+MICROSCOPIC DIAGNOSIS
+
+ 
+
+FINE NEEDLE ASPIRATE CYTOLOGY LIVER:
+— MALIGNANT TUMOR CELLS PRESENT CONSISTENT WITH METASTATIC ADENOCARCINOMA OF
+(IXDNIC PRIMARY ORIGIN
+
+GROSS DESCRIPTION:
+The specimen is obtained by under CT guidance, Three passes are
+made from which three smears are stained with Pap stain and one smear is stained with
+
+Diff—Quik stain for immediate assessment for specimen adequacy. Needle rinses are combined
+for cell block.
+
+INITIAL IMPRESSION:
+IMMEDIATE STUDY FINE NEEDLE ASPIRATE:
+— MALIGNANT TUMOR CELLS PRESENT. ADEQUATE FOR EVALUATION, TELEPHONED REPORT TO
+
+Signed (signature on file)
+
+ 
+
+ 
+
+ 
+
+ 
+
+** END OF REPORT **
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CLINICAL INFORMATION:
+Pre—Op Diagnosis: R/O metastatic colon CA
+Remarks:
+Specimen(s): CT—guided needle biopsy liver
+
+ 
+
+MICROSCOPIC DIAGNOSIS
+
+ 
+
+CT~GUIDED NEEDLE BIOPSY. LIVER:
+— METASTATIC ADENOCARCINOMA CONSISTENT WITH COLONIC PRIMARY
+
+GROSS DESCRIPTION:
+
+Signed (signature on file)
+
+ 
+
+RUN DATE: PAGE 1
+RUN TIME: spec1men Inquiry
+RUN USER: User: Lab Database:
+PATIENT: ACCT U N:
+
+. AGE/5X: ROOM: REG:
+REG DR: 7 DOB: BED: DIS:
+
+STATUS:
+SPEC #: RECD: STATUS:
+COLL: TIME IN FORMALIN: 6:5U hrs.
+
+The specimen in formalin in one container is several core biopsy fragments of ten tissue
+which in aggregate measure 10 x 2 x 1 mm. totally submitted as block 1.
+
+ 
+
+'* END OF REPORT ‘*
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sated; 7443__ {Q3 L; yes No
+
+“- slsmr‘manry wr_-_ u» » fl_/7_‘
+' mr-r Cute WEEKLY—H __ ______'_' f
+
+3.5:? 133757 ‘___ p
+
+m» Maui“. {y stlcvy ‘ . > __ Y
+
+L‘Jdl,’§ync one‘ujﬂrlm;mrr\ /___
+
+Lemur.“ j] qumrlw V msmmunm ,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+F aviawcr In
+‘__r.._
+
+ 
+
+ 
+
+ 
+
+Ike—2512's:
+
+ 
+
+ 
+

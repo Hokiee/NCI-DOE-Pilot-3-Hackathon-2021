@@ -1,0 +1,109 @@
+ 
+   
+ 
+
+Case ID Excision date
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Description
+
+Lobe of the lung
+12x4x8 cm with
+gray tumor of 4 cm
+in diameter.
+
+ 
+
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+
+Microscopic Description
+
+Papillary adenocarcinoma of the
+lung, G-2. One of two examined
+paratracheal lymph node
+demonstated metastasis. Four
+examined subcarinal lymph nodes
+demonstated sinus histiocytosis.
+hree examined bronchpulmonal
+lymph nodes demonstrated sinus
+histiocytosis.
+
+   
+  
+   
+
+ 
+
+Diagnosis Details
+
+  
+
+umor Features: -1, Tumor
+Extent: Localized, NOS ,
+enous Invasion: Absent,
+Margins: Absent, Treatment
+
+ 
+
+ 
+
+Comments
+
+Formatted Path Report
+
+ 
+
+In the original paper
+surgery name is
+pneumectomy, but
+macroscopic description
+sais "Lobe of the lung
+with tumor".
+
+ 
+
+LUNG TISSUE CHECKLIST
+
+pecimen type: Pneumonectomy
+
+umor site: Lung
+
+umor size: 0 x 0 x 4 cm
+Histologic type: Papillary adenocarcinoma
+Histologic grade: Moderately differentiated
+
+umor extent: Not specified
+other tumor nodules: Not specified
+Lymph nodes: 1/9 positive for metastasis
+(Paratracheal 1/2, Subcarinal, broncho-pulmonary.
+0/7)
+Lymphatic invasion: Not specified
+
+enous invasion: Present
+Margins: Uninvolved
+Evidence of neo-adjuvant treatment: Not specified
+dditional pathologic findings: Not specified
+
+ 
+
+comments. ngnE- mlOOIe
+
+ 
+

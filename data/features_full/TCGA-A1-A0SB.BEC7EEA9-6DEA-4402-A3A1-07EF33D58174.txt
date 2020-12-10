@@ -1,0 +1,424 @@
+Criteria
+
+lumor Sile
+lllPAA blsrvcpancv
+P r
+
+   
+
+UUID : BEC7EEA9-6DEA-4402-A3A1-07EF33D58174
+TCGA-A1-AOSB-01A- PR
+
+l|lll|lllllllllllllllllllll|||||l|l|l|lll|ll|llIIIIIIllﬁlcllTllllEEd
+I III“ lllll|||||ll|llllll||l||I||l|lllll|l||
+
+/ c I) , a , '3 “
+d max/{WI 441%wa agSA‘O 8.9 M/a
+% Sf?" J W m; 652"] [Alli/ad"
+
+=_ m
+
+ 
+
+w
+
+Final Pathologlc Diagnosis:
+A. Sentinel lymph node #1, biopsy: No carcinoma in one lymph node (0/1); see
+comment.
+
+B. Sentinel lymph node #2, biopsy: No carcinoma in one lymph node (0/1); see
+comment.
+
+C. Breast, left, wire-guided partial mastectomy:
+
+1. Adenoid cystic carcinoma, SBR Grade 1, 1.2 cm; see comment.
+Mlcrocalciflcations involving benlgn ducts.
+
+Atypical ductal hyperplasla.
+
+Apocrine metaplasia.
+
+Biopsy site changes.
+
+Fibroadenoma.
+
+Breast, right, mammoplasty:
+
+Intraductal papilloma.
+
+Sclerosing adenosis.
+
+Apocrine metaplasia.
+
+Microcalcifications involving benign glands.
+Microcysts.
+
+WPWNsp mmbgp
+
+ 
+
+Page I ol'6
+
+ 
+
+ 
+
+Surgical Pathology -— WorkinLDraft
+
+6. Skin with no signiﬁcant pathologic abnormality.
+7 No carcinoma identified.
+
+ 
+
+Breast, left, mammoplasty:
+
+Usual ductal hyperplasia.
+
+Apocrine metaplasia.
+
+Fibroadenoma.
+
+Skin with no significant pathologic abnormality.
+
+S. No carcinoma identified.
+
+Note: This Is an unusual tumor. H&E sections show a relatively circumscribed tumor with large nests
+of epithelial cells in a cribriform growth pattern. The stroma is sclerotic. The differential diagnosis
+includes adenoid cystic carcinoma or a cribriform variant of invasive ductal carcinoma. A prior core
+needle biopsy of the left breast at 6 o'clock ( ) was reviewed.
+
+P‘P’NE‘F“
+
+Immunohistochemlcal studies were necessary to evaluate this case and establish the correct
+diagnosis. The following immunohistochemical stains were performed and evaluated:
+
+ER: Positive, 2+ staining in 75% of cells.
+
+PR: Negative, no staining in any tumor cells. (internal positive control present)
+CD117: Positive.
+
+SMA: Focally positive, relatively high background.
+
+SMM: No myoeplthellal cells present around most nests of tumor cells.
+
+p63: Positive in basalold cells in most areas.
+
+The above lmmunohlstochemlcal stains support a diagnosis if adenoid cystic carcinoma. Although ER
+expression is often negative in adenoid cystic carcinoma, the presence of basal cell immunophenotype
+(positive p63) and the positive C0117 support this diagnosis. Insofar as adenoid cystic carcinoma
+represents a dual population of basaioid and epithelial cells, it may be that this example is somewhat
+rich in the epithelial component thus explaining the ER positivity. The above interpretation may also
+explain the rather diffuse C0117 staining. The absence of a define myoepithellal layer by the SMM
+further supports the diagnosis. We recognize that this tumor was also sent for gene expression
+profiling so correlation with those findings for a basaloid expression proﬁle is also suggested.
+
+Drs. _— and w have reviewed selected slides form this case and
+concur with the diagnosis of adenoid cystic carcinoma.
+
+Breast Tumor Synoptic Comment
+
+- Laterality: Left.
+- Invasive tumor type: Adenoid cystic carcinoma.
+- Invasive tumor size: 1.2 cm.
+- Invasive tumor grade (modified Bloom-Richardson):
+Nuclear grade: 2.
+Mitotic count: 1 mitotic figures/10 HPF.
+Tubule/papilla formation: 1.
+Total points and overall grade = 4 points = grade 1.
+- Lymphatic—vascular invasion: None.
+- Skin/nipple: No specific pathologic abnormalities.
+- Margins for invasive tumor: Negative.
+- Anterior (skin): N/A.
+- Posterior: Negative (tumor is > 1 cm away).
+- Inferior lateral margin (black ink): Negative; (tumor is >1 cm away, on slide C4).
+— inferior medial margin (green ink): Negative; (tumor is > 1 cm away, on slide C5).
+- Superior margin (blue ink): Negative; (tumor is >1 cm away, on slide C3).
+
+- Mlcrocalcificatlons: Present, involving benlgn ducts.
+
+ 
+
+-. —
+
+Plne20f6
+
+ 
+
+ 
+
+ 
+
+__ Surgigal Patholggt-Wowraft
+
+- Lobular carcinoma in situ: None.
+
+ 
+
+- Lymph node status: Negative.
+— Total number sampled: 2.
+- AJCC/UICC stage: pTlcNOMX.
+
+Result of HERZ/neu test: This carcinoma is negative for HERZ/neu oncoprotein
+
+over~expresslon.
+An lmmunohlstochemical assay was performed by manual morphometry on block C3 using the C311 monoclonal antibody to
+HERZ/neu oncoprotein. The staining intensity of this carcinoma was 0 on a scale of 0-3.
+
+Carcinomas with staining intensity scores of 0 or 1 are considered negative for over-expression of HERZ/neu oncoprotein.
+
+Those with a staining Intensity score of 2 are considered indeterminate. We and others have observed that many carcinomas with
+staining intensity scores of 2 do not show gene ampliﬁcation. All carcinomas with staining intensity scores of 2 are therefore
+submitted for FISH testing. The results of the FISH test are issued directly from the molecular cytogenetics laboratory.
+
+Carcinomas with staining intensity scores of 3 are considered positive for over-expression of HER2/neu oncoprotein. Tumors in
+this category show an excellent correlation between the results of immunohlstochemical and FISH testing, and almost always show
+
+gene amplification.
+
+In addition to the above findings, several lymph nodes are enlarged with a fairly monotonous
+population of small lymphocytes, concerning for lymphoma. Immunohlstochemical stains were
+performed to characterize the small lymphocyte population as follows:
+
+— C020: Highlights widely scattered aggregates of small lymphoid cells, consistent with primary
+follicles.
+
+- C03: Highlights small lymphocytes predominantly in interfolllcular areas.
+
+- C021: Highlights aggregates of dendritlc cells underlying B cell aggregates, confirming their Identity
+as B cell follicles.
+
+- C023: Highlights aggregates of dendritic cells underlying B cell aggregates, confirming their identity
+as B cell follicles.
+
+Together, these findings are consistent with a diagnosis of benign quiescent nodes, and argue against
+a diagnosis of lymphoma.
+
+ 
+
+Dr. -of Hematopathology has reviewed parts A and B and agrees with the above
+interpretation.
+
+4
+A preliminary diagnosis was given to in Dr. - clinic on Additional
+preliminary diagnosis given to - ln ur.-clinic on
+
+Intraoperative Consult Diagnosis
+F51 (A1) Sentinel lymph node #1 (half of the specimen), biopsy: Rare scattered atypical cells.
+Cannot completely rule out carcinoma. Defer to permanent. Dn- concurs. (On.
+
+I
+
+F52 (A2) Sentinel lymph node #1 (other half of the specimen), biopsy: Rare scattered atypical cells.
+Cannot completelv rule out carcinoma. Defer to permanent. Dr.-concurs. (Dr.—
+
+FS3 (B) Sentinel lymph node #2, biopsy: Rare scattered atypical cells. Cannot completely rule out
+carcinoma. Defer to permanent. 0n-concurs. (Dr. —i
+
+Clinical History
+
+The patient Is a year-old female with adenoid cystic carcinoma of the left breast vs. ductal
+carcinoma. She has an additional lesion, seen on MRI, suspicious for carcinoma. The patient now
+undergoes left wire-guided partial mastectomy and sentinel lymph node dissection with bilateral
+mam moplasty for symmetry.
+
+Gross Description
+
+ 
+
+Page 3 of 6
+
+ 
+
+Surgical Pathology -- Working Draft - .
+
+The specimen is received in five parts, each labeled with the patient's name and unit numuer. rafts
+A-C are received fresh. Parts D-E are received in formalin.
+
+ 
+
+Part A, additionally labeled "1 - sentinel lymph node #1 count = 5900," consists of one soft, ovoid,
+red-yellow, irregular, unorlented fibroadlpose tissue fragment that is 3.2 x 2 x 1 cm. It is oriented by
+a stitch placed by the surgeon marking the hottest spot. The stitch area is inked blue. Adipose tissue
+is removed. Lymph node candidate is bisected. 50% of the lymph node candidate is submitted for
+frozen section diagnosis 1, with the frozen section remnant submitted in cassette A1. The remaining
+50% of the lymph node candidate is submitted for frozen section diagnosis 2, with the frozen section
+remnant submitted in cassette A2. The remaining adipose tissue is submitted in cassette A3.
+
+Part B, additionally labeled "2 - sentinel lymph node #2 count = 12700,” consists of one soft,
+red-yellow, irregular, unorlented, ovoid, oriented fibroadlpose tissue fragment that is 2 x 1.7 x 0.8 cm.
+A stitch ls placed by the surgeon marking the hottest spot; this area is inked blue. Adipose tissue is
+removed. The lymph node candidate is bisected and submitted for frozen section diagnosis 3, with the
+frozen section remnant submitted in cassette BI. The remaining adipose tissue is submitted In
+cassette 82.
+
+Part C is labeled "left breast needle localization biopsy."
+- SPECIMEN TYPE: Wire—guided partial mastectomy.
+- SKIN ELLIPSE: Present.
+- NIPPLE: Not present.
+- ORIENTATION:
+
+- Double long suture: Lateral, on side with Teifa.
+
+- Short double suture: Superior.
+
+- Short single suture: Inferior, opposite of needle wire.
+- INKING (for microscopic evaluation):
+
+- Black: Lateral (Telfa side).
+
+- Green: Medial (side opposite wire needle).
+
+- Blue: Superior (side with wire).
+- SIZE OF SPECIMEN:
+
+- Medial-lateral dimension: 6 cm.
+
+- Superior-inferior dimension: 6 cm.
+
+- Anterior-posterior dimension: 11.2 cm.
+- TOTAL NUMBER OF SLICES: 19.
+
+- First slice (slice 1): Anterior margin (skin).
+
+- Last slice (slice 19): Posterior margin.
+- GROSS PATHOLOGY: 0n serial sectioning, multiple nodules are identified throughout the breast
+parenchyma. A dominant, rubbery/hard, tan-pink mass is identified in slices 3-4 and measures 1 x 1
+x 0.8 cm. This mass is located centrally within the slices and is located 1.1 cm from the blue ink, 1
+cm from the green ink, and 1.5 cm from the black ink. Two tan-white rubbery nodules are seen in
+slice 5; one nodule measures 0.7 x 0.4 x 0.3 cm and is 0.7 cm from the blue ink. The other nodule
+measures 0.3 x 0.3 x 0.3 cm and is 0.2 cm from the blue ink. A tan-yellow rubbery nodule is
+identified in slice 7-8, measuring 0.4 x 0.3 x 0.3 cm. In addition, a white-tan rubbery nodular area is
+seen in slice 8, abutting the black ink and measuring 0.6 x 0.3 x 0.2 cm. A white-tan rubbery nodule
+is also seen in slice 9. abutting the blue ink, and measuring 0.3 x 0.2 x 0.2 cm. An additional hard,
+tan-pink nodule is seen in slice 9, measuring 0.3 x 0.3 x 0.3 cm. A tan-white rubbery nodule is seen
+in slices 15-16, measuring 0.5 x 0.5 x 0.5 cm. This nodule ls suspicious for a lymph node. The needle
+tip is present in slice 15. Representative sections are submitted as follows:
+
+Cassette C1: Skin (slice 1).
+
+Cassettes C2-C5: Dominant mass in slices 3-4, entirely submitted.
+Cassette C6: Larger nodule, slice 5.
+
+Cassette C7: Smaller nodule, slice 5.
+
+Cassette C8: Nodule, slices 7-8.
+
+Cassette C9: Noduiar area in slice 8, abutting black ink.
+Cassette C10: Both nodules in slice 9.
+
+Cassette C11: Nodule, slice 11.
+
+Cassettes C12-C13: Nodule, slices 15-16, entirely submitted.
+
+ 
+
+Page4 of 6
+
+ 
+
+Surgical Pathology . — Working Draft
+
+Cassettes C14-C15: Posterior margin, perpendicularly sectioned-
+
+ 
+
+Part 0, labeled “right breast tissue and skin," consists of one fragment of fibrofatty tissue with
+attached skin and multiple other fragments of skin and ﬁbrofatty tissue measuring, in aggregate, 13 x
+10 x 3.5 cm and weighing 170 gm in total. The fragments of skin are grossly unremarkable, with no
+suspicious lesions or areas. A single tan-yellow nodule measuring 0.1 x 0.1 x 0.1 cm is noted in one
+of the fibrofatty tissue fragments, which also contains an area that is mostly ﬁbrous. The largest
+fibrofatty tissue fragment with attached skin, measuring 11.5 x 9.2 x 3.5 cm and the skin ellipse
+measuring 8 x 7 cm, contains a single white-tan, rubbery, nodular area measuring 0.3 x 0.2 x 0.2 cm.
+The rest of the specimen is grossly unremarkable, with no other su5picious lesions seen.
+Representative sections are submitted as follows:
+
+Cassette 01: 0.1 x 0.1 x 0.1 cm nodule from ﬁbrofatty tissue fragment.
+
+Cassette 02: Fibrous area from fibrofatty tissue fragment.
+
+Cassette 03: Nodular area from largest specimen.
+
+Cassette 04: Representative section skin and fibrofatty tissue from largest specimen. ,
+
+Part E, labeled "left breast tissue and skin," consists of multiple fragments of fibrofatty tissue, as well
+as multiple fragments of skin, in aggregate measuring 6.5 x 6.5 x 2.2 cm and weighing 154 gm in
+total. The skin fragments are grossly unremarkable, with no suspicious areas or lesions seen. One
+fibrofatty tissue fragment contains a tan-white, lobulated, rubbery, nodular area measuring 1.2 x 1.1 x
+1 cm. The rest of the fibrofatty tissue fragments are grossly unremarkable, with no suspicious lesions
+or areas seen. Representative sections are submitted as follows:
+
+ 
+
+Cassette El: Representative section of skin.
+Cassettes E2-E3: Nodule in fibrofatty tissue fragment. entirely submitted.
+Cassette E4: Representative section of ﬁbrofatty tissue.
+‘ll’athology Resident “Pathologist
+Signed:
+
+Fee Codes:
+Other Specimens
+
+___Speclmeu Clan: ‘ Status: Signed Out Accessioned:
+
+Signed Out:
+
+Specimen(s) Received: Consult. Surgical w! blocks or tissue
+Fl a in o s
+
+Review 0’ ‘ from _ ..
+
+Left breast, 6 o'clock, core needle biopsy: Malignant neoplasm with cribriform growth
+
+pattern: see comment.
+
+“MD
+
+—MD
+
+- _Spccimen Class: Status: Signed Out Accessioned:
+Signed Out:
+
+ 
+
+ 
+
+Specimen(s) Received: Left Breast, Fine Needle Aspiration
+
+Figal Qiagnosis
+Left Breast, Fine Needle Aspiration: Fibroadipose tissue, see comment.
+
+ 
+
+ 
+
+Page 5 of6
+
+Sugical Pathology -Working Draft _
+
+__Spccimcn Class: Status: Signed Out Accessioned:
+Signed Out:
+
+ 
+
+ 
+
+....-.
+
+Specimen(s) Received: Left breast, needle core biopsy 5:00. 5cm from nipple
+
+Final Diagnosis
+Left breast, 5:00, 5 cm from nipple, needle core biopsy:
+
+1. Fibroadenoma with microcalcifications see comment.
+2. Fat necrosis.
+
+ 
+
+ 
+
+ 
+
+ 
+
+END OF REPORT Page 6 of6
+

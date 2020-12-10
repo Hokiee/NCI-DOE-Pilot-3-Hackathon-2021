@@ -1,0 +1,218 @@
+UUID:1B421DA3-59DD-4246-8D35-58F4AE13F363c
+TCGA- WE- A8K4- 91A- PR
+
+I” IIIIIIIII||l|||l||lllll||l|l|||||||||||||||||||||||||l|||||c||ed
+||
+
+Surgical Histology
+Surgical l-listology
+
+ADDRESS FOR REPORT:
+Copy To: n/a
+
+HISTOPATHOLOGY REPORT
+
+CASE HISTORY:
+?BCC. 8mm punch.
+
+MACROSCOPIC:
+8 mm punch biopsy.
+
+MICROSCOPY:
+
+{quli’ §:/EIV\ (?E:CZJL4~\4
+
+a 44,;
+
+‘31}?le 11/22)};
+
+A punch excision of skin showing a benign early trichilemmoma which
+appears completely excised. There is no evidence of dysplasia or
+
+malignancy.
+
+DIAGNOSIS:
+
+BMM PUNCH EXCISION OF SKIN (RIGHT CHEEK)
+
+REPORTED BY:
+
+Surgical Histology
+Surgical Histology
+
+ADDRESS FOR REPORT:
+
+Copy To: n/a
+Report to Cancer Registry
+
+HISTOPATHOLOGY REPORT
+
+CASE HISTORY:
+
+Superficial mass for many years.
+
+necrosis in old lipoma.
+
+MACROSCOPIC:
+
+: TRICHILEMMOMA.
+
+Ulcerated skin over mass.
+
+? Fat
+
+One core of tissue, 0.9 cm, plus frags.
+
+MICROSCOPY:
+
+A fragmented needle core biopsy of fibrofatty tissue, which includes
+parts of a malignant neoplasm. It is composed of pleomorphic large
+epithelioid and spindle—cell shaped cells. They have abundant
+eosinophilic (sometimes faintly yellowish) cytoplasm and large
+eosinophilic nucleoli. Elsewhere, the tissue shows chronic
+
+fibro—inflammatory changes with focal yellowish brown pigment
+(probably blood-derived).
+
+There are various possibilities, of which malignant melanoma or
+metastatic carcinoma are likely contenders. Are there any clinical
+or historical clues?
+
+Please regard this as a provisional and preliminary urgent report.
+
+Definitive diagnosis will depend upon immunohistochemical staining.
+A further report will follow.
+
+DIAGNOSIS:
+CORE BIOPSY OF MASS, RIGHT ARM
+
+REPORTED BY:
+
+SUPPLEMENTARY REPORT:
+Histochemical and immunohistochemical staining has been undertaken.
+
+No definite melanin is recognised within the tumour cells. They are
+strongly immunostained in 8100 protein, melan A, and HMB—45
+preparations. They do not stain for keratins. These observations
+
+imply that the tumour is a malignant melanoma. The history provided
+seems odd in that context.
+
+DIAGNOSIS:
+CORE BIOPSY OF MASS, RIGHT ARM: MALIGNANT MELANOMA
+
+REPORTED BY:
+
+REPORT DATE:
+
+ 
+
+MALIGNANT MELANOMA MINIMUM DATA SET
+LAB NUMBER:
+PRIVATE PATIENT: Yes
+
+ADDRESS FOR REPORT:
+CLINICAL HISTORY:
+
+: Melanoma right upper arm.
+
+MACROSCOPIC:
+
+Large disc of skin 12 x 17 x 3.5 cm. Skin sutured centrally with
+underlying firm tumour, 4 cm maximum diameter, which has been
+sliced open,disrupted Distance of tumour to margin approximately 4
+
+cm,
+
+minimum 2.0 cm. Deep margin black. Peripheral margin yellow.
+Closest margin is A and B. A and B continuous. C and D continuous.
+E and F = random tumour.
+
+MICROSCOPIC:
+Tumour type Nodular
+Growth phase Vertical
+Breslow thickness (mm) 12.00
+Mitotic rate (lsq mm) 4
+Regression Absent
+Lymphovascular invasion Absent
+Perineural invasion Absent
+Microsatellites Absent
+Coexistent naevus Absent
+Tumour inﬁltrating lymphocytes Non-brisk
+Completely Excised Yes
+Deep margin (mm) 0.3
+Circumferential margin (mm) 20.0
+Stage pT4a
+COMMENT:
+
+Skin sliced open before receipt-——ulceration can not be
+excluded.
+
+The possibility of a metastatic lesion should be excluded
+clinically.
+
+DIAGNOSIS:
+
+Skin of Right Arm: Malignant Melanoma.
+
+REPORTED BY:
+
+ADDITIONAL REPORT:
+
+BRAF immunostain is negative-
+This case was sent to for BRAF
+testing.
+
+BRAF gene analysis using PCR for
+Codon 600, Exon of BRAF gene showed no evidence of mutation.
+
+ 
+
+Surgical Histology
+Surgical Histology
+
+Report to Cancer Registry
+
+HISTOPATHOLOGY REPORT
+
+LAB No: Lab No.
+Hosp No.
+
+CASE HISTORY:
+
+Prostate chippings.
+
+Catheter in-situ for retention.
+DRE hard prostate.
+
+PSA awaited ?Ca prostate.
+
+MACROSCOPIC:
+Prostate chips weighing 24g.
+
+MICROSCOPY:
+
+Shows infiltrating adenocarcinoma with more than 90% of the prostate
+
+chips. The features are those of Gleason 4+4=8 with tertiary
+pattern 5.
+
+DIAGNOSIS:
+
+PROSTATE CHIPPINGS: INFILTRATING ADENOCARCINOMA IN MORE THAN 90% OF
+TISSUE. ple.
+
+REPORTED BY:
+Consultant Histopathologist
+Consultant Histopathologist
+
+REPORT DATE:
+
+ 
+
+ 
+
+D5 U rt
+if: %
+,— ....
+

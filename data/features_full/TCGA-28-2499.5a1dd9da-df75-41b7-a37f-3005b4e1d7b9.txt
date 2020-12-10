@@ -1,0 +1,57 @@
+ 
+
+' IBM -28 — 2499
+
+SURGICAL PATHOLOGY REPORT
+********** Addendum - Please See End of Report **********
+
+ 
+
+ 
+ 
+
+A, B. BRAIN, LEFT PARIETAL, EXCISIONAL BIOPSY:
+- Glioblastoma multiforme, WHO grade IV
+
+C. BRAIN, LEFT PARIETAL, CORE BtOPSY, NCI#1:
+- Glioblastoma, WHO grade 1V
+- 95% of tumor cellularity
+- Less than 2% of tumor necrosis
+
+D. BRAIN, LEFT PARIETAL, CORE BIOPSY, NCI#2:
+- Giioblastoma multiforme, WHO grade IV
+- 95% of tumor cellularity
+- Less than 5% of tumor necrosis
+
+@BRAIN, LEFT PARIETAL, CORE BIOPSY, NCI#3:
+- Glioblastoma multiforme, WHO grade IV
+- 95% of tumor celiularity
+— 7% of tumor necrosis
+
+F. BRAIN, LEFT PARIETAL, CORE BIOPSY, NCI#4:
+- Glioblastoma multiforme. WHO grade IV
+- 95% of tumor cellularity
+
+I,» - 12% of tumor necrosis
+@RAIN, LEFT PARIETAL, CORE BIOPSY, NCI#5:
+- Glioblastoma multiforme, WHO grade IV
+
+- 95% of tumor ceilularity
+- 8% of tumor necrosis
+
+COMMENT: ~
+
+A high percentage of tumor ceIls (greater than 20%) immunostainin for MGMT has been re orted to be
+associated with a relatively diminished response to Temodar # Hence,
+the low 3% result in this case suggests a-ltkelihood of this tumor being responswe o emo er.
+
+Recent studies have shown that co-expression of EGFRvIII and PTEN as detected by immunosiainini
+
+5‘ hi Icantl correlated with a clinical response of gliobiastomas to EGFR kinase inhibitors
+Hence the loss of PTEN in this case suggests a diminished probability of
+response 0 - mass in Ibitors. ‘
+
+ 
+
+ 
+

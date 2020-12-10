@@ -1,0 +1,300 @@
+ 
+
+Patient‘ Referring Physician:
+
+ 
+
+ 
+
+ 
+
+' UUID:1DA19725-36C2-4457-A164-2FA56CD3DE2eCd
+TCGA- FV-A3VR-01A-PR
+
+IIIIIIIIIII|I||lIIIIllllllIIlllllllllllllllllll||||||||||||||III
+llllllllllllllllll
+
+DOE Age: Gender, I“
+. . . III I IIIIHHIIII
+Reﬁt: H05p#. Prowder Group .
+~ ( IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII|||I||I|II|IIIII|IIIIII
+Date of Service: Date Received: Outpatient Case #2
+
+Room: Date Reported:
+
+ 
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+Diagnosis:
+
+A. 8.8.) THYROID GLAND, RIGHT AND LEFT LOBES, TOTAL THYROIDECTOMY:
+- PAPILLARY THYROID CARCINOMA.
+- 1.7 cm in greatest dimension.
+- TUMOR INVOLVES PERITHYROIDAL ADIPOSE TISSUE.
+- MARGIN STATUS: NEGATWE.
+- THREE OF FIVE LYM PH NODES, POSITIVE FOR METASTASIS (3/5).
+- Extranodal extension: Not identiﬁed.
+- MULTIPLE ADENOMATOID NODULES (MULTINODULAR GOITER).
+- SEE TUMOR STAGING SUMMARY BELOW.
+
+lanes
+C. CENTRAL NECK LYMPH NUDE DISSECTION: COIFCInoma, PO/P‘" ‘G’VJ'HKIFOIJ
+- ONE OF SIX LYMPH NODES, POSlTIVE FOR METASTATIC 8300/3
+CARCINOMA (1/6). 3
+- Extranodal extension: Not identiﬁed. “U J’h‘fm‘ d’ NO 5
+
+- ONE BENIGN PARATHYROID GLAND. ,
+owe «(a
+PATHOLOGIC TUMOR STAGING SUMMARY:
+Tumor type: Papillary thyroid carcinoma. classical variant.
+Primary tumor: pT3 (1.7 cm in greatest dimension, with minimal
+extrathyroidal extension). .
+Regional lymph nodes: pN1a (4 of 11 total lymph nodes. positive m...
+
+ 
+
+for metastatic carcinoma; 4/11). ﬁTZﬁL? WW
+Distant metastasis: Not applicable. ﬁg???
+
+ 
+
+Pathologic stage: III ‘13
+Lymphovascular invasion: Not identiﬁed.
+Margin status: R0.
+
+ 
+
+v\_
+
+COMMENT: The patient‘s previous thyroid fine needle aspiration cytology result of
+
+papillary thyroid carcinoma is noted and correlates with the current
+specimen.’
+
+Tumor Staging Information
+Case #:
+
+Printed: - - . m3 mm, m..-“ .
+
+Phone:
+
+. . . Acct No. — Patient Name - —
+Pathology Report - Page 1/4 "
+
+C73 q
+
+     
+
+ 
+
+Page 1
+(FINAL)
+
+ 
+
+I pnﬁav‘h
+
+Case #:
+
+ 
+
+ 
+
+ 
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+Data derived from current specimen. Staging in accordance with or modiﬁed from AJCC Cancer Staging
+
+Handbook, and CAP protocol,
+
+Procedure:
+
+Specimen type:
+Specimen integrity:
+Specimen size:
+
+TUMOR FEATURES:
+Tumor size:
+
+Tumor focality:
+
+Tumor Iaterality:
+Histologlc type:
+Lymphovascuiar invasion:
+Tumor capsule:
+
+Tumor capsular invasion:
+EIdrathyroidal extension:
+
+LYMPH NODES:
+MARGIN EVALUATION:
+
+Distance to closest margin:
+Other margins:
+
+PATHOLOGIC TUMOR STAGING DESCRIPTORS:
+
+Primary tumor:
+
+Regional lymph nodes:
+Distant metastasis:
+Margin status:
+
+Pathologic stage:
+Additional pathologic ﬁndings:
+Comment:
+Case #:
+Pnnted: : Phone
+Acct No.
+
+Pathology Report - Page 2/4
+
+Total thyroidectomy with central compartment
+dissection.
+
+Thyroid gland. and central compartment.
+Intact.
+
+Right lobe: 2.7 x 2.6 x 1.5 cm.
+
+Leit lobe: 3.8 x 2.2 x17 cm.
+
+Central compartment: 2.5 x 2.3 x 0.7 cm.
+
+Greatest dimension: 1.7 cm.
+
+Additional dimensions: 1.3 x 1.2 cm.
+
+Unifocal.
+
+Right.
+
+Papillary thyroid carcinoma.
+
+Not identiﬁed. '
+
+Unencepsulated.
+
+Not applicable.
+
+Minimal, extending into perithyroidal adipose tissue.
+
+Eleven total lymph nodes; four positive for metastatic
+carcinoma.
+
+Negative (R0).
+0.15 mm from anterior margin. at superior pole.
+Uninvolved by carcinoma.
+
+pT3 (1.7 cm in maximum dimension, with extension into
+perithyroidal
+adipose tissue).
+pNta (4/11 lymph nodes, positive for metastasis).
+Not applicable.
+R0.
+Ill.
+
+Multiple adenomatoid nodules (multinodular goiter).
+Not applicable.
+
+Page 2
+This report continues... (FINAL)
+
+Patient Name J
+
+ 
+
+lﬁ~ol--—'
+
+ 
+
+Case #:
+
+ 
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+sighs;
+
+ 
+
+Source of Specimen:
+
+A. Thyrold;Right thyroid lobe
+B. Thyroidgleﬂ lobe thyroid
+C. Thyroid;central node (thyroid)
+
+Clinical HistoglOgerative Dx:
+
+Thyroid cancer
+
+Gross Description:
+
+A. Single specimen designated as right thyroid lobe. initially received in the fresh state for
+Oncogenotyping studies is a 6 gram lobe ofthyroid. 2.7 x 2.6 x 1.5 cm. The surface of the thyroid is
+partially glistening. lobular, deep red with adhesions. The posterior and anterior margins are now
+differentially inked black and blue, respectively. The specimen is serially sectioned perpendicularly
+sectioned through the medial-lateral long axis to reveal a fairly circumscribed, dense, pink-gray nodular
+lesion abutting the superior pole and the anterior and posterior margins, measuring 1.7 x 1.3 x 1.2 cm.
+Representative portions of tumor are retrieved centrally from the mass and submitted for Oncogenotyping
+studies. Notably. the lesion does not appear to have a capsular margin. Examination of the remaining cut
+sections demonstrates meaty deep red-tan parenchyma with a 0.9 x 0.8 x 0.7 cm gelatinous nodule near
+the inferior pole. The lobe of thyroid is entirely submitted for microscopic evaluation in a sequential
+fashion. superior to inferior in A1-A6.
+
+B. Part B designated lett lobe of thyroid. Received in formalin is a 6 gram lobe of thyroid. 3.8 x 2.2 x 1.7
+cm. Attached to the lobe of thyroid is a 2.7 x 1.8 x 0.3 cm pad of fat containing three lymph node
+candidates ranging from 0.2 cm to 0.6 cm each. The lobe of thyroid demonstrates a glistening lobular
+surface with moderate adhesions. The posterior and anterior margins are now differentially inked black
+and blue. respectively. The lobe is serially sectioned perpendicular through the superior-inferior long axis
+revealing a predominantly deep red meaty thyroid parenchyma. with a single discrete pinkgray nodule,
+0.3 x 0.3 x 0.2 cm, within 0.1 cm of the anterior thyroid margin. within 1.2 cm of the superior apex (B4).
+The thyroid is entirely submitted for microscopic evaluation in sequential fashion superior to inferior,
+including entire submission of th lymph node lissue candidacy and remaining fat.
+
+Cassette summary: B1) small lymph node candidate and residual tat submitted. BZ) two lymph node
+candidates, 83-88) thyroid lobe entirely submitted superior to infen’or, lesion demonstrated in 84.
+
+C. Part C designated as central node thyroid. Received in formalin are multiple fragments of yellow-tan
+Case 1r: - ;,_ - _ Page 3
+Printed: .. _ ’ This report continues... (FINAL)
+Phone .
+
+.' . - Patient Name ‘5
+Pathology Report - Page We
+
+ 
+
+ 
+
+ 
+
+Case #:
+
+ 
+
+FINAL SURGICAL PATHOLOGY REPORT
+
+lobular fat. measuring in aggregate of 2.5 x 2.3 x 0.7 cm. Examination reveals seven lymph node
+candidates ranging from 0.2 cm to 0.6 cm, rubbery to ﬁrm pink and tan. Ct) three lymph node candidates.
+C2) four lymph node candidates. "
+
+Microscopic Description:
+A. Microscopic sections have been examined. The microscopic ﬁndings are reflected in the diagnosis
+rendered.
+
+8. Microscopic sections have been examined. The microscopic ﬁndings are reﬂected in the diagnosis
+rendered.
+
+0. Microscopic sections have been examined. The microscopic findings are reﬂected in the diagnosis
+rendered.
+
+Case #: ‘ . ‘- . z. . > -, ‘ Page 4
+‘ T I . . 1 > h _ ' -_ F
+Pnn ed Phone ; . ( lNAi.)
+
+' ' ' Acct No. " Patient Name - A
+Pathology Report - Page 4/4» - -
+

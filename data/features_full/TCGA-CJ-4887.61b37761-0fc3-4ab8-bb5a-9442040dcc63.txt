@@ -1,0 +1,63 @@
+TCGA — CJ —4887
+
+   
+
+DiAGNOSlS
+(A) RIGHT KIDNEY:
+RENAL CELL CARCINOMA (4.0 CM MAXIMUM DIMENSION), CONVENTIONAL TYPE
+(40% CLEAR CELLS,
+60% EOSINOPHELIC CELLS), FUHRMAN NUCLEAR GRADE 3, INVASIVE
+iNTO RENAL VEIN.
+(SEE COMMENT).
+Margins of resection free of tumor.
+(B) LEFT ADRENAL GLAND:
+METASTATIC CONVENTIONAL RENAL CELL CARCINOMA IN ADRENAL GLAND.
+
+COMMENT
+
+The renal cell carcinoma invades into the renal vein. The perinephric
+adipose tissue and renal sinus adipose tissue are free of tumor. Tumor
+is also present within vascular-lymphatic spaces within the renal sinus
+adipose tissue.
+
+GROSS DESCRIPTION
+(A) RIGHT KIDNEY, VACCINE PROTOCOL — A radical nephrectomy specimen
+with surrounding perinephric adipose tissue (16.0 11:10.0 x 5.0 cm
+overall), including the kidney (11.0 x 5.5 x 4.2 cm) and attached length
+of ureter (4.7 cm x 0.4 cm). No adrenal gland is present.
+A tan-yellow circumscribed tumor (4.0 x 3.5 x 3.0 cm) is Iocated in
+the mid-pole of the kidney. The tumor is approximately 0.3 cm from
+Gerota's fascia. The tumor appears confined to the renal parenchyma.
+Areas of renal sinus involvement are grossly noted. Tumor Is present
+within the renal vein, approximately 1 cm from the margin of resection.
+
+The remaining uninvolved kidney Is red-brown and unremarkable.
+Portion of the tumor is submitted for the vaccine protocol. A portion
+
+of tumor is sequestered for potential electron microscopy.
+
+INK CODE: Black = Gerota's fascia.
+
+SECTION CODE: A'i, renal arteries. vein, and ureter margins, en face;
+A2, tumor within renal vein; A3-A6, tumor and renai sinus; A7, tumor and
+Gerota's fascia; A8—A10, tumor and normal; A11-A12, representative
+sections of tumor; A13, representative sections of normal.
+
+(B) LEFT ADRENAL GLAND FOR VACCINE PROTOCOL - An a renal gland (7.0 x
+3.5 x 3.5 cm) largely replaced by a yellow-tan lobulated tumor (5.0 x
+
+3.5 x 3.5 cm). Focaliy, within the tumor are areas of gray mucoid
+material. Focal areas of the specimen show checolate brown tissue
+suggestive of normal adrenal. Portions of the tumor are submitted for
+the vaccine protocol.
+
+SECTI ' B1, tumor and normal; 32-84, representative sections
+of tumor.
+
+CLINICAL HISTORY
+Right renal mass. Left adrenal.
+
+SNOMED CODES
+
+ 
+

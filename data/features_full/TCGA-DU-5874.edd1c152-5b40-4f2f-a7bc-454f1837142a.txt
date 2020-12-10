@@ -1,0 +1,312 @@
+   
+
+CGA — DU - 5874
+
+  
+ 
+
+Received:
+Reported:
+
+ 
+
+CLInICAL HISTORY
+on' ' -
+'imaging has a left frontal, 4 cm slightly enhancing tumor.
+
+' ioPERATIVE DIAGNOSES
+
+Left frontal brain lesion
+Operation/Specimen:
+
+A: Left frontal brain tumor, biopsy
+
+B: Left frontal brain tumor, biopsy
+C:_Left frontal tumor, excision biopsy
+
+PATHOLOGICALLDIAGNOSIS:
+
+-A{“§, and C. Brain, left frontal, excisional biopsies:
+llgl-Oligodendroglioma, with atypical features.
+
+MlB—l proliferation index: 18%.
+
+See Microscopy Desoription and Comment.
+
+COMMENT
+
+The specimens contain portions of cerebrum that are lightly to heavily
+infiltrated by'a neoplastic proliferation of glial cells that have an
+oligodendroglial phenotype. There is only slight nuclear
+pleomcrphism, rarely .
+
+'one mitotic ﬁigure, but a high MIB—l proliferation index of about 18%
+in focal - '
+
+-more cellular areas. _There is occasionally endothelial hyperplasia,
+but no . p I I
+
+microvascular cellular proliferation. There is not necrosis.
+
+The neoplasm is an oligodendroglioma with low histological grade
+features.- 5 . -
+
+However, the focal endothelial hyperplasia and elevated proliferation
+index
+
+may.portend enhanced biological activity.
+-- The pathological findings may be correlated with clinical, imaging,
+and ' -
+I operative findings for their final interpretation and patient‘s follow
+
+. “Pg
+
+ 
+
+ 
+
+PROCEDURES/ADDENDA
+. MGMT Promoter'Methylation
+
+Date Ordered: _ Date Reported: —
+' Interpretation =-
+
+POSITIVE: Methylated MGMT promoter is detected.
+
+’Results—Comments
+'Testing performed on DNA extracted from tumor paraffin block
+
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT
+promoter
+
+have been shown to benefit from therapy with alkylating agents.
+Assessment of ' '
+
+MGMT promoter methylation status involves bisulfite treatment of DNA
+followed -
+
+by real—time PCR amplification (MethyLight) of methylated and
+_ unmethylated DNA
+
+sequences. The-analytic sensitivity of this assay was determined by
+serial ' ‘
+
+dilution of methylated positive control DNA into unmethylated DNA, and
+was
+
+assessed to be 1% of methylated DNA in the background of unmethylated
+DNA.-
+_ Factors such as the presence of >50% non—neoplastic cells in the
+
+_ sample, or
+"extensive tissue necrosis, may preclude the detection of methylated
+
+" MGMT'
+
+promoter sequences.
+
+FDA COMMENT: The above data are not to be construed as the results
+from a - ,
+
+stand alone diagnostic test. This test was developed and its
+performance
+
+characteristics determined by the — laboratory as
+required by - _. It has not been cleared or approved
+for"
+, 'specific uses by the U.S. Food and Drug Administration (FDA). The FDA
+has ” ' '
+
+determined that such clearance or approval is not necessary. These
+results are '
+
+‘provided for informational purposes only, and should be interpreted
+only in
+
+the context of established procedures and/or diagnostic criteria.
+
+    
+
+Date Or ere :
+Interpretation
+
+ 
+
+POSITIVE. Allelic loss on chromosome arm 1p and chromosome arm l9q is
+detested. ‘ ‘
+Informative loci are: D181592, D18552, D198219, D198412
+
+_ Results—Comments
+
+. ITest performed on DNA extracted from tumor tissue paraffin block
+andeNA from peripheral blood for germline comparison.
+
+TEST DESCRIPTION: Allelic loss is assessed by PCR assay in Normal DNA
+_ (baseline)/ Tumor DNA pairs using 3 markers at both 1p and 19q. The 3
+I I markers I ' .
+on 1p are DlSSéSr DISlSSZ, and D13552 (with D18468, DlSlél2, and
+D15496 as "
+backup markers) and the 3 markers on l9q are D193219, D198412, and
+PLA2G4C "
+(with D198606 and D1981182 as backup). All markers are microsatellites
+(2. or 4
+nt repeats) except PLAZG4C which is a minisatellite (26 nt repeat)
+polymorphism. The markers were selected based on heterozygosity score,
+amplicon size, and ease of interpretation. The backup markers are used
+if the
+first line markers at that chromosome arm are uninformative or
+otherwise
+ambiguous in their interpretation. LOH at all informative loci on each
+, Chromosomal arm represents the typical finding in oligodendrogliomas
+- with- -1p
+and l9q deletion.
+
+FDA COMMENT: The above data are not to be construed as the results
+
+from a
+stand- alone diagnostic test. This test was developed and its
+
+performance
+
+characteristics determined by the laboratory as
+required by - I . It has not been cleared or
+
+' approved for
+. specific uses by the U. S. Food and Drug Administration (FDA). The FDA
+has
+determined that such Clearance or approval is not necessary. These
+results are
+provided forI informational purposes only, and should be interpreted
+
+only in
+the conteXtI of established procedures and/or diagnostic criteria.
+
+, TECHNICAL SENSITIVITY: The presence of >15% non— neoplastic cells in
+the sample
+may preclude the detection of allelic loss.
+'**fElectronically Signed Out***
+
+INTRA—OPERATIVE CONSULTATION
+A. ‘
+
+-_Left frontalf'brain tumor, bio s : Infiltratin glioma. - -
+ﬁesults
+
+‘ reported to
+the Physician of Record.
+
+ 
+
+ 
+
+B. 1
+Left.frontal brain tumor, biopsyi Infiltrating glioma, one abnormal
+vessel. I
+
+-." Touch preparation smears performed at _ and
+
+results
+
+reported to the Physician of Record. —
+
+ 
+
+GROSSI-DESCRIPTION '
+
+A.
+
+"Left frontalI tumor," received fresh, three fragments, 0.6 cm in
+aggregate. ‘
+
+Soft, tannish—white. In total, Al.
+
+B. “
+
+“Left frontal tumor," received fresh, one fragment, 0.5 cm. Semi
+' firm, -white..'
+In total, Bl.
+
+Left frontal tumor, received are multiple fragments 1.5 x 1.0 x 0.9 cm
+1n'
+
+aiireiate.I Soft, pink-tan to gray—white. In total, Cl—2
+
+.. MicROSCOPIC DESCRIPTION
+
+IMMUNOHISTOCHEMISTRY: The GFAP demonstrates a paucifibrillary
+positive
+
+background. The NeuN depicts the infiltration of the cerebral cortex
+and'
+
+white matter by the neoplastic proliferation. The CD34 demonstrates a
+capillary—type microvascular network, with some endothelial
+hyperplasia, but
+
+without microvascular cellular proliferation. The CD163 highlights
+' prominent I -
+
+microglia, however'almost exclusively perivascular. With the MIB—l
+there is a '
+
+proliferation index of about 18% in focal more cellular/active areas.
+ICE-9(8):
+
+237.5 237.5.
+
+6
+
+ 
+
+Histo Data
+Part A: Left frontal brain tumor, biopsy
+
+Stain/cut . _ Block Ordered Comment
+H/E x 1 ‘ ' ‘ 1
+TPS H/E X l . ' 1
+
+Part B: Left frontal brain tumor, biopsy
+
+Stain/ant ' . Block Ordered Comment
+H/s x 1 1 - 1
+
+ 
+
+ 
+
+TPS H/E x 1 , , 1 _
+
+Part C: Left frontal tumor, excision biopsy
+_ — _ -
+Stain/ant , Ordered Comment
+H/E_x l .
+
+CD163 VectorIIx 1
+(31231—1323. x 1 '
+fmGEAP~DA x,l=
+w x1 . . r
+LOH7slides Xml'
+MGMT—curls x l
+MIIBII—DA x 1
+NeuN'X 1
+
+P53DO'? X l
+
+H/E x ,1
+
+*#$ End of Report ***
+
+DJ
+5...:
+O
+0
+PT
+
+WMNMMNNMNMH
+
+ 
+
+ 
+
+ 
+

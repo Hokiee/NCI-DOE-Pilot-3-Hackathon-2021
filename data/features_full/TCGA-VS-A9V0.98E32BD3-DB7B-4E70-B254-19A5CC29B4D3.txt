@@ -1,0 +1,132 @@
+‘ IQIDOE
+
+UUID.:ggéiﬂ‘lg- 259736-4571?53:4-1SA5CC2RSBe4DBa : F} f wwmmy b 1.0.)
+III IIIIIIIIIIII||I|||||||||||||||||II|||II|IIIIIIII||II|R|I|||I|I|cl|m1| mgxmwuwﬂymd 8 (1301/5
+||| |||I||||||||||||||||II|||I|II|IIIIIIIIIIIIIIIII|IIIIII||||I|| M J’w'
+|||I|||IIIIIIIII|||||||||||||||||||II||||||||IIIIII||||||IIIIIII Site, 2 CW M66 Q. 55 P;
+
+(MM/DDIYYYY) W “317/ 1 d4
+
+PATHOLOGY REPORT:
+PRIMARY SITE: Cervix
+1- “Biopsy of uterine cervix”:
+Mucinous adenocarcinoma, invasive, papillary pattern of high grade.
+
+6w 773$" “05 MW‘LJL WW" PW
+Tés dic 002W W
+
+(251
+
+ 
+
+Initials Reviewed:
+
+ 
+
+ 
+
+ 
+
+woo
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+W5; The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+
+Case Quality Control Form compietedfar the submitted case.
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site USS): TSS Identiﬁer: TSS Unique Patient identiﬁer: ﬂ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Com Ieted B Interviewer Name on OpenClinico : Com Ieted Date:
+—_——-— P
+{Diagnosis Information
+it Data Element Entry Alternatives Working Instructions
+-* _ p ' Provide ihe diagnosis] histologic cahtypeis) dncuiziented an
+Parhologic Diagnosis Invaswe mucmous adonocarcmomu the initial pathology report for this case. (EL-he histology for
+1 Provided on InitiaI m this vase is mixed. provide all Ilsted subtypes.
+Pathology Report
+. . V i’mvhle the histoiogic features selecoed on the TCGA Case
+31113:??? fig/2:311? Invasive mucinous adenocarcinoma Quality Conn-oi Form complebed for this case.
+' , ' m e
+2 a f V
+for .1 (ISA, as reﬂected of cndooervical type
+on the CQCF.
+
+ 
+
+ 
+
+ 
+
+[Discrepancy between Pathology Report and Case Quality Control Form
+
+ 
+
+Provide a reason describing why the diagnosis on the initial
+
+3 Provide the reason for .
+pathoiogy report lar this case is not consistent with the
+
+misotjetgztgihol ogy Case was reviewed based on the top slide diagnosis selected oniheTCLiA Case Quality Control Form.
+report and the TCGA sent to BCR
+
+Case Quality Control ' '
+
+Form.
+
+ 
+
+Name of 'I'SS Reviewing Provide the name ofthe pathologist who reviewed this case
+4 Pathologist or Ior FCC/y
+
+Biorepository Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above information provided by my Institution is true and correct and has been quality controlled.
+
+ 
+
+‘l‘SS Reviewing Pathologist or Biorepository Director Date
+
+I acknowledge that the above information provided by my institution is (me and correct and has been quality controlled The Attending Pathologist or tho
+ﬂopamnenc Chairman,.has been informed or m aware althe above discrepancy in diagnoses.
+
+PrinoipaI Investigator Signature Date‘
+

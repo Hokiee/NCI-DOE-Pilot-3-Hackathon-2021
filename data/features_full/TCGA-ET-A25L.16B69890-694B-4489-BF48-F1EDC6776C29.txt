@@ -1,0 +1,147 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+__. I » M “T—“l
+FINAL DIAGNOSIS -----------
+1. THYROID (THYROIDECTOMY):
+
+SPECIMEN TYPE:
+Total thyroidectomy
+
+600%
+
+mu;
+
+TUMOR SITE:
+Leﬁ lobe
+
+HISTOLOGIC TYPE:
+Papillary carcinoma with focal tall cell features
+
+TUMOR SIZE:
+Greatest dimension: 3.0 cm
+
+FOCALITY:
+Unifocal
+
+LYMPH NODES:
+Metastatic carcinoma in 2 of 12 nodes (includes all parts)
+
+EXTENT OF INVASION
+
+PRIMARY TUMOR:
+
+pT3: Minimal extrathyroidal
+
+extension into leﬁ: inferior pole parathyroid gland
+
+REGIONAL LYMPH NODES:
+leb: Nodal metastasis to cervical nodes
+
+MARGINS:
+
+Involved by invasive carcinoma (posterior surgical margin)
+
+VENOUS/LYMPHATIC INVASION:
+Present
+
+/éAaa/3
+CW, low/luv, WA
+
+57300/3
+
+CWW, fly/”£47, haw“
+
+8344/3
+
+JP/L .‘ MFA/N05 C 75. 7
+
+0/1/11
+
+UUID:16369890-6945-4489-BF48-F1EDC6776C29
+TCGA-ET-AZSL-DlA-PR Redacted
+
+I IN
+
+I
+
+2. LEFT LEVEL III, IV, AND V (MODIFIED RADICAL NECK DISSECTION):
+METASTATIC PAPILLARY THYROID CARCINOMA PRESENT IN ONE OF six (1
+OF 6) LYMPH NODES (0.9 CM). EXTRANODAL EXTENSION IS PRESENT.
+
+NOTE: The carcinoma involves an adjacent parathyroid gland (leﬁ inferior pole).
+
+PART #1: TOTAL THYROID AND CENTRAL WEDGE DISSECTION
+
+Dictated:
+
+The specimen is received fresh labeled with the patient's name, xxxx and is designated
+'total thyroid and central neck dissection’. The specimen has been previously oriented
+with a stitch marking the leﬁ tumor. The total thyroid weighs 18.7 gm and measures 7.0 x
+5.5 x 2.9 cm The leﬁ lobe measures 4.0 x 3.0 x 2.9 cm and the right lobe measures 4.0 x
+3.0 x 1.4 cm. The anterior aspect of the specimen is inked orange, while the posterior
+aspect of is inked black. The specimen is serially sectioned to reveal a lesion in the left
+lobe measuring 3.0 x 2.0 x 2.0 cm that is harvested by the tissue bank. This mass has a
+homogeneous, yellow, ﬁrm, gelatinous cut surface and measures ............. cutoff. There
+is an attached portion of yellow, ﬁbrofatty tissue along the leﬁ inferior thyroid pole
+which measures 3.0 x 1.0 x 0.6 cm. An attempt is made to search for lymph nodes.
+Three possible lymph nodes are identiﬁed.
+
+SUMMARY OF SECTIONS
+
+— A - l (RIGHT SUPERIOR LOBE)
+
+1 (RIGHT MIDDLE LOBE)
+
+l (RIGHT INFERIOR LOBE)
+
+1 (LEFT SUPERIOR LOBE)
+
+l
+
+1
+
+COO:
+
+(LEFT MIDDLE LOBE)
+
+(LEFT INFERIOR LOBE)
+
+- (ISTHMUS)
+
+,I 1 EACH (TUMOR)
+
+- 1 (TUMOR IN RELATION TO NORMAL)
+1 - K - MULTIPLE (LN CANDIDATES)
+
+1 - L - MULTIPLE (REMAINDER OF SOFT TISSUE)
+12 - TOTAL - M
+
+1
+
+{12051111
+
+1
+
+1-
+1-
+1-
+1-
+1-
+1-
+2-
+1-
+
+H
+

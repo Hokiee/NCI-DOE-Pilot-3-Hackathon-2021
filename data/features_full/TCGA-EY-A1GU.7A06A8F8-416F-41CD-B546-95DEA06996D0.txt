@@ -1,0 +1,262 @@
+, SURGICAL PATHOLOGY
+
+Case Number:
+
+Diagnosis:
+
+A: Lymph node, right pelvic, excision
+
+- Six lymph nodes with no metastatic carcinoma identiﬁed (0/6).
+- All tissue submitted for microscopic examination.
+
+B: Lymph node, left pelvic, excision
+- Five lymph nodes with no metastatic carcinoma identiﬁed (0/5).
+- All tissue submitted for microscopic examination.
+
+C: Lymph node, right para-aortic, excision
+- Two lymph nodes with no metastatic carcinoma identified (0/2).
+- All tissue submitted for microscopic examination.
+
+D: Lymph node, left para-aortic, excision
+- Three lymph nodes with no metastatic carcinoma identiﬁed (0/3).
+- All tissue submitted for microscopic examination.
+
+/cA , 0/ 3
+”dz/m CW WMHXL Ara:
+(9384/3
+Sm: WW (3544
+
+ 
+
+ 
+
+UUID: 7A06ABF8- 416F- 41CD- BS46— BSDEAOGSSSDeOd
+TCGA- EY- A16U- 01A- PR dca
+
+||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||Ml
+|||||||||||ll|||||||l|||||l||l||l|||||||l| Ill
+ill llllllllll“Illlllll‘lllllllllllllll | | || || | |||||I||| II "II“ I III“ l I"
+
+E: Uterus and cervix, bilateral fallopian tubes and ovaries, hysterectomy and bilateral salpingo-oophorectomy:
+
+Location of tumor: anterior and posterior mid to upper corpus
+
+Histologic type: endometrioid adenocarcinoma
+/~———’-——
+
+ 
+
+Histologic grade (FIGO): 2
+
+Extent of invasion: deep outer half
+Myometrial invasion: outer half
+Depth: 1.5 cm Wall thickness: 1.6 cm
+Percent: 94% (E13)
+
+Serosal involvement: not identiﬁed
+
+Lower uterine segment involvement: not identified
+
+Cervical involvement: not identified
+
+Adnexal involvement (see below): not identified
+Other sites: not applicable
+
+Cervical/vaginal margin and distance: widely negative
+Lymphovascular Space Invasion: present (E3, E8)
+
+Regional lymph nodes (see other specimens):
+Total number involved: 0
+Total number examined: 16
+
+Other Pathologic findings:
+
+- Cervix with atrophy, mild chronic cervicitis, squamous and tubal metaplasia, tunnel clusters and Nabothian cysts.
+- Vascular calcifications.
+
+- Small hyalinized intramural leiomyoma (7mm)
+
+Tumor estrogen receptor and progesterone receptor immunohistochemistry results: ER positive (2+, 80%) and PR
+positive (2-3+, 75%) (E8)
+
+AJCC Pathologic stage: pT1b pNO pr
+FIGO (2008 classification) Stage grouping: 13
+
+These stages are based on information available at the time of this report, and are subject to change pending additional
+information and clinical review
+
+Ovary, right, oophorectomy:
+- Atrophic ovary.
+- No malignancy identiﬁed.
+
+Ovary, left, oophorectomy:
+- Atrophic ovary
+- No malignancy identiﬁed.
+
+Fallopian tube, right, salpingectomy:
+- Discontinuous by gross examination, with microscopic cautery artifact.
+- No malignancy identiﬁed.
+
+Fallopian tube, left, salpingectomy:
+- No signiﬁcant pathologic abnormality.
+
+- No malignancy identified.
+
+Clinical History:
+with endometrial cancer.
+
+Gross Description:
+
+Received are five appropriately labeled containers.
+
+Container A is additionally labeled "right pelvic lymph node." It holds a 3.7 x 3.7 x 1.5 cm aggregate of red/tan fibrofatty
+tissue. There are ﬁve lymph node candidates palpated ranging in size from 2.0 x 0.8 x 0.5 cm to 0.5 x 0.3 x 0.3 cm. “7
+
+A1 - one lymph node candidate, bisected
+A2 - two lymph node candidates
+A3 - two lymph node candidates
+
+Container 8 is additionally labeled "left pelvic lymph node." It holds a 3.9 x 3.0 x 1.5 cm aggregate of yellow/tan
+fibrofatty tissue. Five lymph node candidates are palpated measuring 1.5 x 0.7 x 0.3 cm to 1.0 x 0.4 x 0.3 cm.
+
+Block summary:
+Bl - three lymph node candidates
+B2 - two lymph node candidates
+
+Container C is additionally labeled "right para-aortic lymph node." It holds a 4.8 x 1.1 x 0.8 cm fragment of yellow/tan
+fibrofatty tissue. There are two lymph node candidates palpated measuring 2.0 x 1.0 x 0.7 cm and 0.3 x 0.3 x 0.3 cm. The
+larger node is bisected and submitted entirely in block C1. The smaller node is submitted entirely in block C2. l. ..
+
+Container D is additionally labeled "left para-aortic lymph node." It holds a 2.8 x 1.2 x 0.5 cm aggregate of yellow/tan
+fibrofatty tissue. No deﬁnite lymph nodes are palpated. The entire aggregate is submitted in block 01, l
+
+Container E:
+
+Adnexa: left and right ovaries and tubes are present
+
+Weight: 166.1 grams
+
+Shape2pearshaped
+
+Dimensions:
+
+height: 10.4 cm
+
+anterior to posterior width: 5.0 cm
+
+breadth at fundus: 7.0 cm
+
+Serosa: tan/pink and slightly dusky at the area of the fundus
+
+Cervix:
+
+length of endocervical canal: 2.8 cm
+
+ectocervix: tan and glistening
+
+endocervix: tan and slightly trabeculated with a small amount of mucoid material adherent
+Endomyometrium:
+
+length of endometrial cavity: 5.0 cm
+
+width of endometrial cavity at fundus: 4.4 cm
+
+tumor ﬁndings:
+
+dimensions: 3.8 x 5.0 x 3.4 cm
+
+appearance: tan/white, and fungating with an adherent blood clot location and extent: fundus and corpus and extending
+to the lower uterine segment
+
+myometrial invasion: outer one half
+
+thickness of myometrial wall at deepest gross invasion: 1.2 cm
+other findings or comments: none
+
+Adnexa:
+
+Right ovary:
+
+dimensions: 2.1 x 1.6 x 0.7 cm
+
+external surface: tan and glistening
+
+cut surface: brown/tan with no focal masses or lesions present
+Right fallopian tube: discontinuance
+
+dimensions: 4.5 x 0.9 x 0.5 cm
+
+other findings: The fallopian tube and its attachment are slightly dusky.
+Left ovary:
+
+dimensions: 2.6 x 1.4 x 0.5 cm
+
+external surface: tan and glistening
+
+cut surface: tan/brown with no focal masses or lesions
+
+Left fallopian tube:
+
+dimensions: 6.7 cm x 0.6 x 0.5 cm
+
+other findings: normal fimbriated end
+
+Lymph nodes: n/a
+
+Other comments: small intramural fibroids measuring 0.6 x 0.4 cm in the fundus
+Digital photograph taken: not taken
+
+Tissue submitted for special investigation: tumor to Tissue Procurement
+
+Block Summary:
+
+E1 - anterior cervix
+
+E2 - anterior lower uterine segment
+
+E3 - anterior mid corpus
+
+E4 - anterior upper corpus/fundus
+
+E5 - posterior cervix
+
+E6 - posterior lower uterine segment
+E7 - posterior mid corpus
+
+E8 - posterior upper corpus/fundus
+
+E9 - right ovary and right fallopian tube
+E10 - left ovary and left fallopian tube
+E11 - anterior cervix
+
+E12 - posterior cervix
+
+E13-E15 — representative sections of mass on posterior wall
+E16 - mass at fundus
+
+E17 - intramural nodule at fundus
+
+Grossing Pathologist:
+
+Light Microscopy:
+Light microscopic examination is performed by Dr.
+
+For cases in which immunostains are performed, the following applies: Appropriate internal and/or external positive and
+negative controls have been evaluated. Some of the immunohistochemical reagents used in this case may be classified
+as analyte speciﬁc reagents (ASR). These were developed and have performance characteristics determined by the
+
+’ These reagents have not been cleared or
+approved by the US Food and Drug Administration (FDA). The FDA has determined that such clearance or approval lS not
+necessary. These tests are used for clinical purposes. They should not be regarded as investigational or for research. This
+laboratory is certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA-88) as qualified to perform
+high complexity clinical laboratory testing.
+
+'
+
+Signature
+
+Resident Physician:
+
+Attending Pathologist: l have personally conducted the evaluation of the above specimens and have
+rendered the above diagnosis(es).
+

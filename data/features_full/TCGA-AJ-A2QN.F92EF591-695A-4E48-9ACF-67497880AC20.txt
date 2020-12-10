@@ -1,0 +1,263 @@
+Collection Date:
+Hospital of Origin:
+Copy to:
+
+Q0 Pathologist:
+
+FINAL PATHOLOGIC DIAGNOSIS:
+
+A. Right periaortic lymph node dissection:
+Four benign hyperplastic regional lymph nodes (0/4).
+8. Left periaortic lymph node dissection:
+
+Four hyperplastic regional lymph nodes (0/4).
+C. Left pelvic lymph node diSSeclion:
+
+Solitary benign regional lymph node (0/1).
+
+D. Right pelvic lymph node dissection:
+
+Three hyperpiastlc regional lymph nodes (0/3).
+E. Hysterectomy: ‘-:
+Gawimmapignim
+
+Tumor Characteristics:
+1. Histologic type: Endometrioid.
+
+2,, Histologlc grade: Moderately to poorly-differentiated
+(9% -
+
+3. Tumor site: Diffuse invoivementof groin cavity.
+
+4. Tumor size: 4.8 x 4.6 x 2.2 cm.
+
+5. Myometrial invasion: Tumor invades almost completely
+
+through myometrium and is within 0.1 cm of the serosal
+surface.
+
+6. involvement of cervix: Tumor invades into both the
+endocervical mucosa and submucosa including stroma.
+
+7. Extent of involvement of other organs: None identiﬁed.
+
+8. Lymphovascular space invasion: Findings present
+suspicious for lymphovascuiar space invasion.
+Surgical Margin Status: '
+
+1. Margins uninvolved by tumor.
+
+Lymph Node Status (utilizing all lymph nodes):
+
+1. Number of lymph nodes received: 12.
+
+2. Number of lymph nodes containing metastatic carcinoma:
+
+None (0/12).
+
+Other:
+
+1. Other significant ﬁndings: Benign bilateral fallopian
+tubes and ovaries exhibit paratubal cysts.
+
+2. pTNM stage: pT2,N0.
+
+COMMENTS:
+
+MWISIOEV'
+
+/
+
+a
+
+ 
+
+I
+, | . Criteria Ye! _‘
+. ‘ "I DII‘HOSIS Discrepancy
+
+' Primary Tumor Sttp Discrepancy
+. HlPAA Diwepamy
+Prior Malignam History
+
+Dual/Synchronous Primary No l __
+on it than: . Aunw V nisqurlunzb
+.
+
+Review n‘ Date Ravi :
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iii
+
+ 
+
+ 
+
+ 
+
+ 
+
+/CA’4”3
+
+“WW! WW 1:.
+9380/3
+
+57%: NW 654%
+/../
+7/3/H
+
+ 
+
+UUID:F92EF591-695A-4E48-9ACF-67A97880Ac26
+TCGA-AJ-Aqu-elA-PR Redacted
+1 nm
+
+InmmmnmmmmanMI l
+{HHHHHHHNHHHHHHHHI yﬂﬂﬂdﬂﬂﬂﬂﬂhl
+
+H
+| NH
+ummmmmmmmwhmnmmmmui
+
+|
+H
+m
+
+ 
+
+Preoperative Diagnosis: Endo . lal carcinoma
+Postoperative Diagnosis:
+
+Symptoms/Radiologic Findings:
+
+SPECIMENS:
+
+A. Right periaortic lymph node
+
+B. Left periaortic lymph node
+
+0. Left pelvic lymph node
+
+D. Right pelvic
+
+E. Uterus. cervix. tubes and ovaries
+
+CODES:
+
+PROCEDURAL DEMOGRAPHICS:
+Date of Procedure:
+Accession Date/Time:
+
+GROSS DESCRIPTION:
+
+A. Received labeled ind '#1' is a 5.1 x 2.8 x
+0.9 cm aggregate of fibroadipose tissue bearing four
+irregular tan-yellow firm tissues consistent with probable
+lymph nodes ranging from 0.2 x 0.1 x 0.1 cm to 4.8 x 1.4 x
+0.8 cm. The specimen is sectioned and representative
+sections are submitted, to include the lymph nodes in their
+entirety as labeled: block 1. three whole probable lymph
+nodes; blocks 2 - 5. one lymph node serially sectioned. The
+blocks are labeleo
+
+B. Received in formalin labeled and ‘#2' is a
+4.2 x 1.3 x 0.6 cm aggregate of iibroadipose tissue bearing
+four Irregular tan-yellow iirm tissues consistent with
+probable lymph node ranging from 0.2 x 0.1 x 0.1 cm to 1.4 x
+0.6 x 0.2 cm. The specimen is sectioned and representative
+sections are submitted to include the lymph nodes in their
+entirely as labeled: block 1, three whole probable lymph
+nodes; blank 9 one lvmoh node bisected. The blocks are
+labeled .
+
+C. Received In formalin labeled and '#3 left
+pelvic lymph node' is a 4.8 x 4.2 x 1.0 cm aggregate of
+tibroadipose tissue bearing a 0.2 x 0.2 x 0.1 cm irregular
+tan-yellow firm tissue consistent with probable lymph node.
+No additional obvious lymph nodes are identified. The
+specimen is submitted in its entirely as labeled: block 1.
+one whole probable lymph node: blocks 2 ~ 5. ﬁbroadipose
+tissue. The blocks are labeled
+
+D. Received in formalin labeled . .- and ‘#4 right
+pelvic lymph node‘ is a 5.5 x 5.3 x 1.3 cm aggregate of
+ilbroadipose tissue bearing four irregular tan—yellow firm
+tissues consistent with probable lymph nodes ranging from
+0.7 x 0.5 x 0.2 cm to 4.3 x 1.6 x 0.4 cm. The specimen is
+sectioned and representative sections are submitted to
+include the lymph nodes in their entirety as labeled: block
+
+Is
+
+1r.
+
+ 
+
+L
+
+1. two whSE probable lymph nl block 2. one lymph node
+bisected: blocks 3 — 6, one lvmon node serially sectioned.
+The blocks are labeled
+
+E. Received labeled and ‘#5 uterus cervix
+tubes and ovaries“ is a 138.0 9, previously opened '
+hysterectomy specimen consisting of a 7.1 x 6.5 x 4.7 cm
+uterine body and an attached 3.8 x 2.4 x 1.5 cm cervix.
+
+The serosa is smooth and tan-pink. The ectocervix is smooth
+to wrinkled and gray-white with a 1.1 cm slit—like 03. The
+endocervical canal is tan-red and 2.8 cm in length. The
+endometrial cavity is approximately 4.3 cm from cornu to
+cornu and 5.0 cm in length. The cavity diffusely consists of
+a 4.8 x 4.6 cm gray-white ﬁrm mass which possibly extends
+into the lower uterine segment. The cut surface of the mass
+is gray-white and involves the underlying myometrium with a
+depth of 2.2 cm. The mass appears to approach the serosa. No
+uninvolved endometrium is identified. The myometrium is
+trabeculated. tan-pink to white, and ranges in thickness
+from 2.1 cm to 2:7 cm.
+
+The 1.6 x 1.5 x 0.6 cm left ovary has a lobulated tan outer
+surface. The cut surface is tan with gray-white corpora
+albicans and two smooth lined serous ﬂuid tilled cysts
+measuring 0.5 cm and 0.7 cm in greatest dimension. The
+attached 4.2 x 0.3 cm flmbrlated left fallopian tube has a
+tan-pink serosa and a pinpoint lumen. -
+The 2.2 x 1.6 x 0.6 cm right ovary has a lobulated tan outer
+surface. The cut surface is tan with gray-white corpora
+albicans. The attached 3.2 x 0.3 fimbriated right fallopian
+tube has a tan-pink serosa and a pinpoint lumen.
+
+The specimen is inked. serially sectioned and representative
+sections are submitted as labeled: block 1. anterior
+
+cervix; block 2, posterior cervix; block 3, anterior lower
+uterine segment; block 4, posterior lower uterine segment;
+blocks 5 - 6, anterior full thickness mass in each; blocks 7 .
+- 8, posterior full thickness mass bisected; blocks 9 — 10,
+posterior full thickness mass bisected: block 11. left
+parametrium; block 12, right parametrium; block 13, left
+ovary and fallopian tube; block 14, right ovary and
+
+fallopian tube. The blocks are labeled Also
+received in the same container is a green and yellow
+cassette labeled 7 __ for genomic research study.
+
+arr-w- i ' «
+... .
+
+1r.
+
+ 
+

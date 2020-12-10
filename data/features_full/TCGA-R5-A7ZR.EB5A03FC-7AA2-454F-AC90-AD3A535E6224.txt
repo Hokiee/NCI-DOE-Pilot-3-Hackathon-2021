@@ -1,0 +1,140 @@
+UUID: EBSABBFC- 7AAZ- 454F- ACBB- -ADBA535RE62 4
+TCGA- -R5- -A7ZR- -81A-P 2
+
+"HI llHIlHlIlIIIlIIIllIIlHIIIIIlIlIlIIlIIlIIlHlIIIIIIlllllllll
+IIHIH lHIllH II IHllHlI IIIlHlHIH
+H HlHIlIlIIlIIllIlIHlIlHIIlIlIIIlHHlIIllllllllllll IH
+
+Specimen Data/ Time :
+
+DIAGNOSIS.
+
+(A) DUODENUM NODULE:
+
+Active chronic inﬂammation with fat vacuoles in surface epithelium.
+
+No tumor identiﬁed.
+(B) STOMACH, BODY TUMOR. BIOPSY:
+
+INFILTRATING, MODERATELY DIFFERENTIATED ADENOCARCINOMA.
+
+No non- neoplastic columnar epithelium or Helicobacter pylori (H&E stain) identiﬁed
+(C) STOMACH NODULAR MUCOSA lN FUNDUS BIOPSY:
+
+Oxyntic/fundic mucosa with inactive chronic gastritis ICED
+
+No Helicobacter pylori (H&E stain) or tumor identified. m 8411/5
+(D) STOMACH, POLYP IN FUNDUS, BIOPSY:
+
+Superficial fragments of inﬂammatory/hyperplastic polyp. H53 82/46/5
+
+No Helicobacter pylori (H&E stain) or tumor identified.
+
+Entire report and diagnosis completed by ’ Syd}! M g M a [G .1
+Wye/67) [3
+
+Gnoss DESCRIPTION
+
+(A) DUODENAL NODULE- A single 0.4 x 0.3 x O. 2 cm pink- tan soft tissue fragment Is entirely submitted in A
+
+(B) GASTRIC BODY TUMOR— Four tan- red soft tissue fragments have an aggregate dimension of 0.6 x 0 4 x 0. 2 cm and are
+entirely submitted in B
+
+(C) NODULAR MUCOSA lN FUNDUS— Three tan soft tissue fragments have an aggregate dimension of 0.7 x 0.5 x 0. 2 cm and
+are entirely submitted' In C.
+
+(D) POLYP W F UNDUS A single 0.2 x 0.2 x 0.1 cm tan-red soft tissue fragment which is entirely submitted in A.
+CLINICAL HISTORY '
+
+Gastric cancer.
+
+SNOMED CODES:
+
+"Some tests reported here may have been developed and performance characteristics determined by 'hese tests have not been
+speciﬁcally cleared or approved by the US. Food and Drug Administration."
+
+Released by:
+
+------ END OF REPORT-----—
+
+Page: 2
+
+Specimen Date/Time:
+
+ream
+W ”P"
+am. A) 73¢ /)
+
+nsagnosis Discrepancy
+
+._,—..._ ,
+
+Pgarv l umoI site Discrepancy
+A
+
+  
+ 
+  
+
+ 
+
+ 
+
+ 
+
+   
+ 
+ 
+   
+
+    
+
+______ .4.‘
+. «see _._
+Ea Rewewed / .J~ -
+
+F4“.
+
+"~—7—~’—'t"-“‘i
+
+   
+
+ 
+
+Page 1 of I
+
+TCGA Pathologic Diagnosis Discrepancy Form 4.05 It?)
+
+Study Subject Person ID: N/A
+
+ID:
+
+Study/Site: TCGA Stomach adenocarcinoma ~ (Stomach Age: N,’A
+
+adenocarcinoma}
+
+Event: PathDiscrepancy Date of
+
+Birth:
+
+Interviewer: Sex: F
+Tumor Identifier Provided on Initial Case Provide the tumor identiﬁer documented on the initial case quality
+Quality Control Form control form for this case.
+
+Pathologic Diagnosis MODERATELY Provide the diagnosis/ histologic subtype(s) documented on the
+Provided on Initial DIFFERENUATED initial pathology report for this case. If the histology for this case is
+Pathology Report ADENOCARCINOMA mixed, provide all listed subtypes.
+
+Histologic features of the sample provided Intestinal Adenocarcinoma Provide the histologic features selected on the TCGA
+for TCGA, as reflected on the CQCF Tubular Type Case Quality Control Form completed for this case.
+
+Discrepancy between Pathology Report and Case Quality Control Form
+
+Provide the reason for the The pathologists at do not Provide a reason describing why the diagnosis on
+discrepancy between the pathology always use the gastric cancer the initial pathology report for this case is not
+report and the TCGA Case Quality classification as intestinal and diffuse consistent with the diagnosis selected on the
+Control Form (which is so as per TCGA). TCGA Case Quality Control Form.
+
+Name of TSS Reviewing Pathologist or Biorepository Provide the name of the pathologist who reviewed this case
+Director for TCGA.
+

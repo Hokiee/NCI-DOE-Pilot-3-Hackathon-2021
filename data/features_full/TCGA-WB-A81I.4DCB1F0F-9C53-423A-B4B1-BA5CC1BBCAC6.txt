@@ -1,0 +1,87 @@
+UUIDMDCBJ. FBF -9C53 -423A-3431- BASC
+TCGA-NB-ABII-BlA-PR “BEA“
+
+l l
+Unique Patient Identifier: || ||
+l l
+
+H
+Ill
+llll
+
+HHIHHI H"
+l llllllllll'llllilllllllilllllllllililllillll
+
+Redacted‘
+l llllllllllllllllllllllllllllllllllll'lllllllllllllllllllllllll
+llllllllllllll l
+
+lllll llllllllllllllllllﬂlm:
+
+Short descriptive translation of the pathology review reported by the
+
+Pathoanatomical review
+Date:
+
+Date report:
+
+Material: right adrenal
+
+Grossly, there is a red and light tan tumor with a diameter of 2.1 cm.
+
+Histologically, the tumor was composed of pleomorph medium sized cells with slightly
+enlarged nuclei. chromatin and prominent nucleoli. Single cells display more pronounced
+pleomorphy and more enlarged nuclei. The tumor is well separated from adjacent tissue,
+partly by a ﬁbrous capsule. Single cells have hyaline globules. No signiﬁcant increase in the
+number of mitoses, no evidence for necrosis, vessel invasion or capsule destruction.
+
+PASS-Score:
+
+Large cell nests
+
+(in > 10 %
+
+Necrosis (2) 0
+Increased cellularity
+Cellular monotony
+Tumor cell spindllng
+Mitotic figures (> 3/10 HPF) (2) 0
+Extension into adipose tissue
+Vascular Invasion
+
+Capsular Invasion
+
+Profound nuclear pleomorphism
+Nuclear Hyperchromasia
+
+(2) 0
+
+(2) o
+(2) o
+
+(1)0
+(1)0
+
+(1) 0
+Total Score Score (max. 20) 1
+Final diagnosis: pheochromocytoma
+
+Translated by:
+
+. (2) o
+(2) o
+
+(1)1
+
+Elmo—.3
+WUOS
+#0 f 7 Qm/b
+a): WWW?
+Qﬂ DIDIWILB
+
+Reviewer
+
+ 
+
+ 
+

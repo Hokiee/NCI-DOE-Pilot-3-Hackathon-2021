@@ -1,0 +1,66 @@
+ 
+
+Source of Specimen(s):
+
+A: R4
+
+B: PORTION OF 6TH RIB
+C: R9 LN.
+
+D: R10 L.N.
+
+E: Rll L.N.
+
+F: RUL
+
+G: No.7 L.N.
+
+*********************************sss**************s*****************$*****
+
+Sunquest Archived Tests:
+NATURE OF SPECIMEN : RESECTION, FROZEN SECTION
+
+Gross Description:
+GROSS DESCRIPTION: Received in seven parts.
+
+SOURCE OF TISSUE: I. Labeled #1, "R4"
+FROZEN SECTION DIAGNOSIS: IFS — NO TUMOR SEEN.
+GROSS DESCRIPTION: Received fresh for frozen section evaluation is a 0.8 Cm in greatest
+
+dimension red—purple ﬁrm lymph node. It is submitted in toto for frozen section evaluation
+and the frozen itself is submitted in one block.
+
+DESIGNATION OF SECTIONS: IFS
+
+SUMMARY OF SECTIONS: FSul
+
+SOURCE OF TISSUE: 2. Labeled #2, "portion of 6th rib"
+
+GROSS DESCRIPTION: Received ﬂesh is a 2.0 cm in greatest dimension tan fragment of rib
+with attached soft tissue. A representative section is submitted in one block, following
+decalciﬁcation.
+
+DESIGNATION OF SECTIONS: block 2
+
+SUMMARY OF SECTIONS: undesignated —1
+
+***s**************$**$*****************************************$*$********
+
+SOURCE OF TISSUE: 3. Labeled #3, ”R9 lymph node”
+
+- HISTOLOGIC CLASSIFICATION OF TUMOR IS SQUAOUS CELL (EPIDERMOID)
+CARCINOMA, NON~KERATINIZING TYPE
+- GRADE OF TUMOR IS POORLY DIFFERENTIATED
+— MAXIMUM DIMENSION OF TUMOR IS 7.5 CM
+— LYMPHATIC INVASION BY TUMOR IS ABSENT
+— ARTERIAL INVASION BY TUMOR IS ABSENT
+- INVASION INTO BUT NOT THROUGH THE PLEURA BY TUMOR IS PRESENT
+— INVASION THROUGH THE PLEURA BY TUMOR IS ABSENT
+- TUMOR NECROSIS IS MARKED
+- SURGICAL MARGINS ARE UNINVOLVED BY TUMOR
+- NON-NEOPLASTIC LUNG TISSUE SHOWS EMPHYSEMA
+- TOTAL NUMBER OF NODES EXAMINED IS 20
+— TOTAL NUMBER OF POSITIVE NODES IS 0
+— STAGING: T2
+N0
+

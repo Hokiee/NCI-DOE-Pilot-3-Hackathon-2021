@@ -1,0 +1,150 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I I I I I I I
+
+'Specimen' Clinical ' ' Ethnicity I Clinical I DOB l . Dateof I
+Index I I I
+
+. label . Site# . Case# : (Race) : Diagnosis : (mm/dd/yyyy) : Sex :procUIemen:
+
+I I I I I I I I I
+1 Colorectal
+
+- l f - I -
+
+Colorectal
+- I I - I -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I Tissue I
+
+ 
+
+ 
+
+I I I
+
+I - I - I - I I I I I
+
+IAnatomicalI Tumor ISpecificatioI Speclmen I Speclmen I Container I Number of IAmount/perI Unit I
+
+. Slte . Locatlon . . Matrlx . Format . . conhlners . contalner . .
+
+I I I I I I I I I I
+Rectum Primary Tumor Tissue Frozen cryomold 280 mg
+Blood n/a normal Blood Frozen tube 4 ml
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I T f I I I I I I Prior I Ch rn / I I
+' VP“ ' Histological ' 'TNM Stage ' TNM Stage'TNM Stage' Chemo/ ' ° ° ' Prior '
+IProcuremenI . . I Grade I I I I Horm Th I . . I
+. . description . . (1') . (N) . (M) . Hormonal . . . Radiation .
+I t I I I I I I DetaIIs
+Th I I I
+Surgery Adenocarcinoma no data no data no data no data no no no
+Blood draw n/a n/a n/a n/a n/a no no no
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+  
+
+Cellular
+131“ Tumor%
+
+2-123!" —
+
+22-—
+
+ 
+
+70
+
+ 
+
+n/a
+
+ 
+
+ 
+

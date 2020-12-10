@@ -1,0 +1,184 @@
+UUID:F273311F-D3CE-4619-BEC2~15C110567503
+TCGA-EN-AzFS-OlA-PR Redacted
+
+||||||IIIIIIlllllllllllllllllll|||||||||l|||||||||||I||||l|
+illlllliilillllliliillllllllllllllillllllllllllllllll ,
+||||||||ll|||||||||||||||||||||||||||||||I|||| ' ' Pathology Report
+
+ 
+
+Name: — Case ll: —
+
+DOB: ‘ , Collected:
+Gender: F Received:
+MRN: _ Reported:
+Location: ' Copy To:
+Physician:
+
+ 
+
+-—_~ —
+
+Pathologic interpretation:
+
+A. Lymph node. sentinel lymph node:
+-Micrometastatic carcinoma to one lymph node. 0.35 mm. detected with immunohistochemistry for keratin (1/1).
+
+B. Lymph node. sentinel lymph node:
+~No malignancy seen in one lymph node (0/1 ). lmmunohlstochemistry for keratin is negative.
+
+C. Lymph node, sentinel lymph node:
+-No malignancy seen in three lymph nodes (0/3), immunohistochemistry for keratin is negative.
+
+D. Lymph node, biopsy:
+-No malignancy seen in one lymph node (011). lmmunohistochemistry for keratin is negative.
+
+E. Lymph node, sentinel lymph node:
+-No malignancy seen in one lymph node (0M). lmmunohistochemistry for keratin is negative.
+
+F. Lymph node. sentinel lymph node:
+-No malignancy seen in one lymph node (0/1). The immunohlstochemistry for keratin is negative.
+
+6. ’Left simple mastectomy l stitch superior 2 stitches iateal:
+-invasive poorly differentiated ductal carcinoma. high nuclear grade. 3.7 cm.
+Extensive in situ ductal carcinoma associated with and away from invasive carcinoma.
+-Specimen margins are negative for invasive carcinoma.
+-Dseper margin is focally positive for DCiS. See tumor summary.
+-The tumor cells are positive for ER and negative for PR and Heﬂ by immunohistochemistry.
+
+TUMOR SUMMARZ:
+
+Specimen type: Mastectomy.
+Lymph Node Sampling: Sentinel lymph node.
+Laterallty: Left.
+Size of invasive component:
+Greatest dimension: 3.7 cm.
+Additional dimensions: 3.3 x 2.7 cm.
+Histologlc Type: invasive ductal carcinoma with extensive intraductal component.
+Tubule Formation: Minimal less than 10% score (score= 3).
+Nuclear Pieomorphism: Marked variation in size, nucleoli, chromatin clumping. etc (score=3).
+Mitotic count: Greater than 10 mitoses per 10 HPF (score =3)
+Total Nottingham Score: Grade lli.
+
+Pathologic Staging:
+
+Primary Tumor: pT2. / (IA — 0 , 3
+
+Regional lymph nodes: lemi.
+
+Distant Metastasis: pMX. 2:44“, am I ' ‘ . M Ne: £544
+Margins: Margins uninvolved by invasive carcinoma. C I “Ff/WAN? ‘ b
+Margins involved with DCiS: Jiﬂ: 541% N05 050, ‘2
+
+Specify which margin: Deep
+Extent of Margin involvement for DCiS: Unifocal.
+Venousliymphatlc: Absent. 6/' i “
+Microcalciﬂcatione: Present in invasive carcinoma.
+
+"*Electronically Signed Out By*“
+
+ 
+
+A: the attending pathologist, I attest that I: (o Examined the relevant
+preparationfa) {or the spectrum); and (lo) Rendered me magnetism).
+
+lntraoperatlve Consultation
+
+T9999“?
+
+Lymph node. sentinel lymph node: no tumor seen.
+Lymph node. sentinel lymph node: no tumor seen.
+Lymph node. sentinel lymph node: no tumor seen.
+Lymph node. biopsy: no tumor seen.
+
+Lymph node. sentinel lymph node: no tumor seen.
+
+Lymph node, sentinel lymph node: no tumor seen.
+
+W
+
+Clinical ﬂistogy;
+
+Patient is a year'old female with left breast cancer.
+
+Pre Operative Diagnosis:
+Not Provided
+
+Specimen(s) Received:
+
+A: Lymph node. sentinel lymph node
+
+B: Lymph node. sentinel lymph node
+
+C: Lymph node. sentinel lymph node
+
+D: Lymph node, biopsy
+
+E: Lymph node. sentinel lymph node
+
+F: Lymph node. sentinel lymph node
+
+G: left simple mastectomy 1 stitch superior 2 stitches lateal
+
+Gross Description:
+
+A.
+
+Received in formalin and labeled “lymph node. sentinel lymph node" is a tan, soft lymph node measuring 0.5 x 0.5 x 0.4
+cm. Specimen bisected and submitted in toto in one cassette for frozen section.
+
+Received in formalin and labeled “lymph node. sentinel lymph node" are three tan. soft nodule measuring from 0.3 up to
+0.5 cm in greatest dimension. Submitted in three cassettes (one lymph node per each cassette).
+
+Received in formalin and labeled “lymph node, sentinel lymph node” is a tan, soft lymph node measuring 0.3 x 0.3x 0.3
+cm. Specimen bisected and submitted in toto in one cassette for frozen section.
+
+Received in formalin and labeled “intramammary lymph node” is a tan. soft lymph node measuring 0.5 x 0.5 x 0.4 cm.
+Specimen bisected and submitted in toto in one cassette.
+
+Received fresh and labeled ”sentinel lymph node #4" is a tan. soft lymph node measuring 0.3 x 0.3 x 0.3 cm. Specimen
+bisected and submitted in cassette one for frozen section.
+
+Received fresh and labeled "sentinel lymph node #5" is a tan. soft lymph node measuring 0.6 x 0.3 x 0.3 cm. Submitted in
+cassette one for frozen section.
+
+— Page 2 of3
+
+‘
+
+G. Received fresh and labeled “left simple mastectomy 1 stitch superior 2 stitches lateral" is a mastectomy specimen. which
+weighs 300.0 grams and measures 19.0 x 15.0 x 3.5 cm. At the anterior aspect of the specimen, there is a brown-black
+ellipse of skin measuring 9.5 x 5.0 cm. Centrally located is a dark color areola measuring 3.0 cm in diameter with an
+unremarkable nipple measuring 1.2 cm in diameter. The specimen is oriented with one stitch superior. two stitches lateral.
+The specimen is inked as follows: superior, red; inferior. yellow; lateral. green: medial, blue; deep. black. Also, present on
+
+t
+
+1 Nipple
+
+2 Surgical skin scar
+3 Superior margin
+4 inferior margin
+5 Lateral margin
+
+6 Medial margin
+
+7 Deep margin
+
+8-12 Section from the tumor
+
+13844 Representative section from the upper outer quadrant
+15&16 Section from the lower outer quadrant
+
+17&18 inner upper quadrant
+
+198.20 inner lower quadrant
+
+lCD-Sisl: 196.3174!)
+
+ 
+
+ 
+
+Page 3 of 3
+

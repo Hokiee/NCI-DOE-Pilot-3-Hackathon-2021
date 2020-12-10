@@ -1,0 +1,297 @@
+ 
+
+ 
+
+g%}' , IaD1&55
+éwﬁ'wwuiweyog'k/ .U—éLux-(i’déi 8‘0? [1’3
+ﬂaﬁméaucwﬁw‘ MMamﬂ @3— 3744/3
+’ (
+54E: .WLLLd’h‘t-ITLLN (7102.3
+
+ 
+
+ 
+
+5)) iii/MIMI ﬁn -_
+atur , f e imen s "”1”‘ié‘é‘ki'fé’li'i’éé53%35i9'mmﬁ2’3’actea
+‘ IllllllllllllllllllllllllllllIIIHIIIIIIIIIIIIIHIIII |||||||||
+St°mach- III||||||I|||||IIIIIIIIII|||||||||||||||||||||l|lIlllII IIIIIII
+. . . . IllllllllllllllllIIIIlIIIIIIIIIIIIIIIIIIIIIl||||||||||||||
+Clinical information Supplied
+FEMALEW
+
+Subtotal gastrectomy. Obstructing antral gastric cancer.
+Clinically T3.
+
+Macro Report ﬂeck/1w BﬁE !
+
+The specimen comprises a partial gastrectomy with attached section
+of omentum. The stomach measures 140mm (greater curve) x 180mm
+(lesser curve) x 110mm in width. The greater omentum measures 290
+x 160mm and the lesser omentum measures 60 x 50mm. The proximal
+duodenum measures 25mm. No obvious oesophageal tissue is present.
+The specimen has been partially opened to allow for fixation. On
+sectioning an infiltrating tumour mass is seen to arise from the
+posterior antral wall. The tumour measures approximately 70mm in
+maximum dimension and appears to be 15mm from the nearest (distal)
+margin. The tumour obstructs the gastric antrum. The tumour is
+90mm from the proximal margin. Macroscopically the tumour does
+appear to extend into the surrounding fat posteriorly and appears
+to have breached the muscularis. There are several obviously
+macroscopically involved lymph nodes.
+
+Blocks taken as: A&B — proximal margin, C&D — distal margin, E-I -
+sections through tumour, J — cruciate block showing tumour and
+relationship to distal margin, K—R — one lymph node per cassette,
+S—W — two lymph nodes per cassette, X - three lymph nodes on one
+cassette, Y — section of normal gastric mucosa. Tissue remains.
+
+Macro Report
+
+Type of specimen: Subtotal gastrectomy
+
+Length of specimen - lesser curve (mm): 180mm
+Length of specimen - greater curve (mm): 140mm
+Length of duodenum (mm): 25mm
+Length of oesophagus (mm): N/A
+
+Page 1 of 3
+
+ 
+
+ACKNOWLEDGEMENT OF RECEIPT
+WARD SECRETARY DOCTOR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Site of tumour: Antrum
+Macroscopic type: Diffusely infiltrating
+
+Size of tumour (mm) - 77mm in maximum dimension
+
+Distance of tumour edge to ~
+Distal margin (mm): 15mm
+Proximal margin (mm): 19mm
+
+Micro Report
+
+Adenocarcinoma: Yes
+
+Lauren classification: Mixed
+
+Differentiation: Poor
+
+Local invasion into: Tumour penetrates peritoneum without
+
+invasion of adjacent structures (T4)
+Lymph node spread:
+Total number of regional lymph nodes
+examined: 13
+Number of lymph nodes involved: 9
+Distant metastases: Unknown
+Margins:
+Tumour involvement of -
+Proximal donut (Y/N): N/A
+Distal donut (Y/N): N/A
+Proximal margin Main specimen Y/N: Clear
+Distal margin Main specimen Y/N: Clear
+
+Cicumferential margin lower oesophagus N/A
+
+Other Pathology:
+Chronic gastritis Y/N: Yes
+
+Page 2 of 3
+
+ 
+
+ACKNOWLEDGEMENT OF RECEIPT
+WARD SECRETARY DOCTOR
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Atrophy Y/N: Yes
+
+Intestinal metaplasia Y/N: Yes
+H.pylori Y/N: No
+Other lesions Y/N: No
+Comments:
+
+This is a widely infiltrating poorly differentiated adenocarcinoma
+with evidence of widespread lymphovascular invasion. Within the
+background mucosa there is evidence of chronic inflammation and
+intestinal metaplasia indicating underlying chronic gastritis.
+
+History of neoadjuvant therapy Y/N: No
+Pathological Staging (TNMV): pT4a, le, pr
+Complete resection at all margins: Yes
+
+gigpature of Pathologist§sl
+
+Dr ' Dr
+
+Page 3 of 3
+
+ 
+
+ACKNOWLEDGEMENT OF RECEXPT
+
+ 
+
+WARD SECRETARY
+
+DOCTOR
+
+ 
+
+ 
+
+Reviewer lniuals
+
+ 
+
+WWI
+
+ﬁﬁmhwmél
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form ”00
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (TSS): . . _ _TSS Identiﬁer: ‘ ‘ -‘v : TSS Unique Patient Identiﬁer:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Completed By [Interviewer Name on OpenClinica): ‘ i Completed Date; , ~ - ’ ‘ l __
+{Diagnosis Information , _ _ __
+# Data Element H I I Entry Alternatives ’ Working Instructions ’ ’
+I H ' ' L A ‘ " " - ' Provide the diagnosis] histologic sublype(s) documented on' "
+Pathologic Diagnosis ”01133 1’! A} I} é p , \ , , » the initial pathology report for this case. If the histology for
+1 Provided on Initial " )‘ ‘lﬂ’xp‘owt this case is mixed. provide all listed subtypes.
+Pathology Report A} 0 <5
+Histologic features of .. . Provide the histologic features selected on’the TCGA Case
+
+Quality Control Form completed for this case.
+
+ 
+
+2 the sample provided
+for 'I‘CGA, as reﬂected /
+on the coca p, Minion:
+
+l
+
+ 
+
+ 
+
+ 
+
+Discrepancy between Pathology Report and Case Quality Control Form
+
+ 
+
+3 Provide the reason for P a q I l Provide a reason describing why the diagnosis on the initial
+' ' ‘ i '5' " P l pathology report for this case is not consistent with the
+:ﬁgghetﬁznifgthology itiéﬁ‘W-r ' \ 5% Ltd) (l. I. h bi,‘ diagnosis selected on the TCGA Case Quality Control Form.
+(M
+report and the TCGA ‘ . 1‘ l 3 ,1 [gr
+Case Quality Control ”A "1 L ""5“ “« t l) M but! iii
+Form.
+
+ 
+
+Name of TSS Reviewing 7 I . ' ' Provide the name of the pathologist who reviewed this case
+4 Pathologist or . i f°r TCGA
+Biorcpository Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above inﬁirmadon provided by my Institution is true and correct and has been quality controlled.
+
+ 
+
+'TSS Reviewing Pathologist‘ﬁﬂBiorepOsitdry Director A Date
+
+I acknowledge that the above information provlded by my institution ls true and con-act and has been quality controlled. The Attending Pathologist or the
+Department Chairman has been informed or is aware oldie above discrepancy in diagnoses.
+
+ 
+
+ 
+
+Principal Investigator Signature ‘ ’ Date
+

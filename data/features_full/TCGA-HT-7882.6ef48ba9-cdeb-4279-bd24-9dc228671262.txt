@@ -1,0 +1,15 @@
+Tumor Sample:
+Normal Sample:
+
+Microscopic Description:
+
+Sections demonstrate an anaplastic glioma. The tumor cells demonstrate round to oval
+nuclei with coarse chromatin and irregular nuclear contours. In areas, the tumor cells
+demonstrate clear cytoplasm with a distinctly “fried egg” appearance. Fifteen mitoses are
+counted per ten high power fields. Hemorrhage and necrosis are observed. Focal areas of
+microvascular proliferation are observed. The tumor diffusely invades the surrounding
+brain.
+
+Diagnosis:
+Anaplastic Oligodendroglioma (who grade III)
+

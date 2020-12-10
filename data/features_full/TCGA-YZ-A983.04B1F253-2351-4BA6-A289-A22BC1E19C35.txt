@@ -1,0 +1,245 @@
+Facility
+
+7 UUID:'04§1{‘3-255 2351- dBAG- A289- -A223c1ER13ecc3lsc
+TCGA- vz- A983- 911:— PR tecl Page 1 0f5
+
+||| ||l|||i|||||l||l|l|||Illllll||||||||||||||||||||||
+
+Name
+
+Result Information
+
+Status Provider Status
+Final result Reviewed
+
+Reviewed by List
+
+—MD on ,
+
+Obseniation Date and Time Specimen Type
+
+Tissue Procurement
+
+Entry Date
+
+ 
+
+Resuit Narrative
+
+Surgical Pathology Report
+
+Patient Name:
+
+Accession #:
+
+Med. Rec ii:
+
+Submitting Physician: ”
+
+——— Clinical History ---
+
+Neovascular glaucoma of right eye [365.63]. Intraocular tumor [239.89].
+
+Total retinal detachment of right eye [361.05]. Medical history:
+-year—old with large choroidal malignant tumor. Blind painful eye with
+
+NVG. Gross photos. Evaluate malignant tumor. Differential diagnosis
+includes metastasis and uveal melanoma.
+
+——-Final Pathologic Diagnosis-——
+
+A. Right eye, resection:
+- Choroidal melanoma (amelanotic), see synoptic report
+- Iris neovascularization with partial angle closure
+- Retinal detachment . . ,,
+- Cataract ICED ’0 (j
+SYNOPTIC REPORT FOR UVEAL MELANOMA W (1W
+Procedure: 977/13
+Enucleation: ®
+Specimen Size: aﬁm
+For Enucleation: C(ﬂ. 3
+Anteroposterior diameter: 25 mm ‘
+Horizontal diameter: 23 mm 9%) 6/12], 4‘;
+Vertical diameter: 24 mm '
+
+Length of optic nerve: 11 mm
+Diameter of optic nerve: 3 mm
+Specimen Laterality:
+Right
+Tumor Site:
+other (specify): Posterior adjacent to optic disc
+
+1“. . : ' ‘ Page 1 of S
+
+rage z. or 3
+
+Tumor Size: LED: 16 mm (gross); 13 mm (from slide)
+Height: 10 mm (gross); 11 mm (from slide)
+
+Tumor Involvement of Ocular Structures:
+Choroid posterior
+Retina
+
+Tumor Location After Sectioning (microscopic)
+Distance from anterior edge of tumor to limbus at out edge: 11 mm
+
+Distance of posterior margin of tumor base from edge of optic disc: 0 mm
+Growth Pattern: Solid
+
+Histopathologic Type:
+
+Epithelioid cell melanoma (greater than 90% epithelioid cells)
+Histologic Grade (pG): p63
+
+Microscopic Tumor Extension
+
+Tumor Location
+
+Anterior margin between disc and equator
+
+Posterior margin between disc and equator
+
+Scleral Involvement:
+
+None
+
+Margins
+
+No melanoma at margins
+
+Extrascleral extension (for enucleation specimens) - negative
+
+Pathologic Staging (pTNM) pT3a NX MX
+
+Additional Pathologic Findings (select all that apply)
+
+Mitotic rate (number of mitoses per 40X objective with a field area of
+0.152 mmZ): 1/40 high power fields
+
+Microvascular patterns: poorly formed vascular mimicry patterns present
+Vascular invasion (tumor vessels or other vessels): negative
+
+Degree of pigmentation: none
+
+Inflammatory cells/tumor infiltrating lymphocytes: present/mild
+Drusen: none
+
+Retinal detachment: present
+
+Invasion of Bruch‘ a membrane: yes
+
+Nevus: negative
+
+Hemorrhage: negative
+
+Neovascularization: yes
+
+Other: fibrous plaque overlying tumor
+
+Comment(s): PAS stain was used to evaluate for possible vascular mimicry
+patterns. Cytokeratin AE1/3 is negative (ruling out carcinoma/metastasis);
+and HMS-45 and melanA are strongly positive, consistent with melanoma.
+
+All controls show appropriate reactivity.
+
+Immunohistochemical (IHC) testing for HERZ is performed according to
+manufacturer' 3 instructions at I
+
+In—situ hybridization tests were developed by and are performed at the
+
+All other IHC and histochemical tests were
+developed by and are performed at the ‘
+
+. All
+tests reported here, except those addressing HERZ overexpression as a
+
+predictive marker, are not required to have nor do they have FDA approval.
+
+***Electronically Signed By**f
+M.D.
+
+-— Pagezofs
+
+--~SPECIMEN(S) RECEIVED:---
+
+Neuropath, Eye,
+
+“--GROSS DESCRIPTION:~~-
+
+enucleation/evisceration
+
+The specimen is received in one properly labeled container with the
+
+patient’
+
+A. The specimen is designated "right eye" and consists of a 9.0
+
+5 name and accession number.
+
+gram intact globe which is 25.0 mm from anterior to posterior, 23.0 mm
+
+horizontally,
+
+24.0 mm vertically, with corneal measurements of 11
+
+rage .5 OI a
+
+vertically and 12 horizontally. The optic nerve is 11.0 mm in length. Upon
+opening. the lens is intact and present. The tumor as measured by Dr.
+
+TE3
+
+Summary of Cassettes: Al—3,
+
+optic nerve and mass = A2)
+
+Lab Use Only: Job ID—
+
+Gross description by:
+
+is 16.0 mm in width (largest basal diameter?) and 10.0 mm high.
+
+entire globe (trisected, middle slab with
+
+ 
+
+Patient Release Status:
+This result is not viewable by the patient.
+
+Reviewed by List
+
+ 
+
+ 
+
+ 
+
+ 
+
+Patient Care Team
+Relationship Specialty Notifications Start End
+3 Ophthalmology
+MD
+p Medical Oncology All results.
+0 Admissions
+
+Procedures with Linked Chargeables
+
+ 
+
+Chargeable CPT Code
+88305
+88305
+Facility
+Name
+
+ 
+
+SURG PATH REQUEST (Order #
+
+ 
+
+Initials
+
+ 
+

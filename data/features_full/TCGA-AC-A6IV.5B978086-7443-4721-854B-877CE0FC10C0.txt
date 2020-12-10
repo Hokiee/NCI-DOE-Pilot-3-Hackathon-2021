@@ -1,0 +1,286 @@
+ 
+
+ 
+
+ 
+
+ 
+
+   
+   
+  
+
+Sex Femato
+0.0.8.:
+
+Ref PHYSruwu
+
+ 
+
+ 
+ 
+   
+
+Reportert
+
+SURGICAL PATHOLOGY REPORT
+"”‘ ADDENDUM REPORT ”"
+
+BREAST PROGNOSTIC PANEL: BIack(A4)
+
+ 
+
+ 
+
+ 
+
+TEST RESULT REFERENCE RANGES
+Estrogen Receptor: egg-1mg (93%) z 1% is Positive
+< 1% is Negative
+Staining intensity. Strong
+Progesterone Receptor: W {60%) z 1% Is Positive
+< 1% Is Negative
+
+Staining Intansity: Strong
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ki—67 (MIBH Proliferation Marker. HIQH (32%) > 20% Is High
+“120% is Borderline
+«0% is Low
+Hem by IHC: M (2+ staining} 04+ Negative
+2+ Equivomi
+3+ Positiv:
+
+Weak. circumferential membrane staining in > 10% of cancer suits or <30% with strong complete membraneystaining
+A raﬂax to HER-2mm: by FISH (ﬂuorescent in situ hybridizationi wit! be perfumed and an additional report wili follow.
+
+Thesa rasuiis were Inierpratedaf / " , Slides from this sample
+were evaluated and deemed adequate for ERJPRlKi—B'I . W... wag». amnumu assay conditions were met, including cold ischernia time and ﬁxat‘wn
+
+paramatera. Ni controls straw appropriate macﬁvityn
+
+ 
+
+ 
+
+UUID: 55978086- 7443- 4721- 8543- B77CEOFC16CeOd
+
+[Speciﬁc testing information and references hava been added to the microscopic dascripﬁon} TCGA AAc-- ASIV- 31» PR act ed
+III II II I III I II I ”III I I I IIIIII I "II I III I||IIIIIIII I IIIIIII III II III
+
+The original diagnosis remains unchanged. IIIIIII IIII IIIIII I“III|IIIIII| IIIIIIII IIIIIIIIII IIIII
+
+Addendum Rama Issued by. - III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+DIAGNOSIS:
+A Right breast mastectomy:
+Invasive mammary carmnorna
+Favor pieomorphic Iobuiar arcinoma
+81231.2 om
+Arch‘aedurai score: 3 of 3.
+Nuclear scars: 2 of 3.
+Mitotic score: 2 cl 3.
+Totai score: 7 of 9
+Grade 2.
+Prognostic panel wiii foiiow as an addendum. I
+No evidence of‘msitu carcinoma. _ HIM/U53 Q54) ,4
+No evidence of angioiymphatic Invasion 6 ”to;
+All surgicai margins of excision are free of carcinoma Q /
+Ciesestmrginisdeepandisi..5cm 94 0/1713
+8 Right axillary sentinei lymph node. One lymph node Metastatic carcinoma.
+Size of involvement within the nodeto
+
+   
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+' No evrdence of extracapsular extonsron.
+Conﬁrmed by staining for pancytokeratin.
+
+TMN: TZpNt
+
+Electronic Signature:
+
+ 
+
+CLlNlCAL HlSTORY:
+Preoperative Dlagnosls: Right modiﬁed radical mastectomy with sentinel node mapping with frozen section. Invasive mammary carcinoma. ER positive,
+
+PR positive. Her-2 negative.
+Postoperative Diagnosis:
+Symptomisadiologic Findings:
+
+SPECIMENS:
+A. Right breast
+B, Right axilla sentinel node
+
+   
+   
+
+ 
+
+a
+
+ 
+
+.y. tor .
+
+      
+
+oaoss DESCRIPTION. ’ .
+A. The ﬁrst container A is received labeled with the patients name ight breast.‘ The specimen consists of portion of ﬁbroadipose breast
+
+tissue and overlying skin measuring 20.0 x 16.5 x 6.0 cm and weighs 643 grams. The skin surface measures 20.0 x 9.2 cm. is light tan, wrinkled. There
+are no lesions seen grossly. The nipplels ecoentrically placed and appears grossly unremarkable. There is no orientation given to the spedmen. The
+margins have been inked yellow with the exception of the deep margin. which has been inked black. Sectioning reveals a ﬁrm gray-tan ill-deﬁned mass
+that measures 2.2 x 2.0 x 1.8 cm that is 1.5 cm from the deep margin and is 2.7 from the olosest lateral margin. The surrounding breast tissue reveals
+yellow-tan fatty ﬁbroadipose tissue. There are no other lesions identiﬁed. At the periphery of the breast. there are no lymph nodes identiﬁed. Received
+with the soecimen are three asseﬂes. one yellow, one green and one blue labeled Representative sectlons are submitted in cassettes
+labeled tollowa: nipple block 1: deep margin overlying the mass in block 2; sections from the mass in blocks 3 through 7; random
+sections taken now an tour quadranhs in blocks 8 through it.
+
+B. The second container 8 is received in formalin labeled right axilla sentinel node.’ The specimen consists of a portion of ﬁbroadioose
+tissue that measures 3.5 x 2.0 x 1.5 an. Sectioning reveals a Single rymph node that measures 1.8 x 0.7 x 0.9 cm. The lymph node is sectioned and is
+
+wubmilted in two cassettes labeled
+
+MICROSCOPIC EXAMINATION:
+
+ 
+
+THERAPEUTIC MARKER ASSAY CONDITIONS
+
+Breast Cancer Analysis using lmmunohismchemishy, ' and Pathologist
+review. ' is an automated digital slide creation, management, viewing
+and computer-assisted analysis system which aids the pathologist in the detection. classiﬁcation,
+and counting of cells of interest thereby standardizing slide scoring through quantitative
+
+ 
+
+SEQ-’23?“ Soorin assessment of marker intensity, size and shape. This laboratory uses a modiﬁed version of 3 FDA
+9 approved test. An antibody other than the FDA approved antibody forthe
+system
+algorithm is used.
+
+The performance characteriatlm of these aosays have been determined by
+3erforrnanon characteristics refer to the analytical permanence of the
+
+ 
+
+ 
+
+ 
+
+  
+
+test.
+Cold lschemio Specimen should be placed in neutral buffered formalin within 1 hour of removal from the patient
+Time, F ixalive, and ﬁxed for a minimum of 6 but not in excess of 48 hours. Specimen are processed by routine
+Processing tissue processing methods.
+Staining Method Used HT”
+Staining platform. antibodies and associated reagent below are all manufactured by and o .
+2
+
+are FDA approved.
+
+ 
+
+’97
+
+ER ~ Anti—Estrogen receptor (clone SP1} primary antibody is a rabbit monoclonal antibody 096) that
+is used for the qualitative detection of estrogen receptor antigens.
+
+      
+   
+ 
+
+PgR ~ AntivProgesterone Receptor (clone 1E2} primary antibody is a rabbit monoclonal antibody g
+Primary ago} that is used for the quantitative detection of the A. B and C isoforms of human progesterone E J
+Antibodies receptor antigens. g, I
+D
+
+ 
+
+K1437 - Aﬂvai—S? primary antibody is directed against the lit-terminal portion of the Kl-ﬁ? antigen,
+which is exoressed in the nuclei of proliferating cells (normal and neoplastic). The antibody identiﬁes
+proliferatingadivéga in sections of formalin—ﬁxed, paraffin-embedded tissue on an automated slide
+
+:wcd
+
+ 
+
+:vl
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+QUALIFIFD ‘
+. at)» . /
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. “ﬂaw _:
+I sterner platform. _
+HER-Zine!) — PATHWAY ‘
+. Antl-HER~21neu 4B ’
+granary .. WW“... w... 3: narrow . . m...
+. , - neu are pre ared
+animated slide 8mm, pf a”: rm. from sermons of fonnalm-ﬁxed parafﬁn-embedded [ESSUS on an
+Controls All gonhols show appropriate reactivity thigh pram,”
+rd 8 re
+anmmnwfoomm We
+. s r - . m
+3:111:21; Tylzle the covalent bonds formed lagy grist: ﬂagﬂm at ablated temperatures is capitals: 0" hydrolyzing
+System Type Indirect biotin streptavlclin detection system “1
+
+ 
+
+ 
+

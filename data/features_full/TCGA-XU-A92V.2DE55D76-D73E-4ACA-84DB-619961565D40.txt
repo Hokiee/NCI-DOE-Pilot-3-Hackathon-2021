@@ -1,0 +1,159 @@
+ 
+
+WID:2DESSD75-073E-MCA-MOB-619961565040
+TCGA-XU -A92V-01A-PR
+
+MM
+
+ 
+
+Patient Name
+
+MRN: Service: Collected:
+DOB: Visit #: Resulted:
+Gender:F Location:
+
+Facility:
+
+Ordering MD:
+
+ 
+
+Surgical Pathology Consultation Report m0 5
+W 5852/3
+
+SPECIMEN(S) RECEIVED
+
+1. Thymus: GLAND AND THYMOMA 5k (xi/am €574
+
+2. Lymph node: Inferior cervical lymph node (;¥.E)I¢7él/IL/
+
+DIAGNOSIS
+
+1. Thymus, thymectomy:
+a. Thymoma, WHO type AB, with (see Comment):
+1. Maximum tumor dimension: 5.0 cm
+ii. Microscopic tran3capsu1ar invasion present (Masaoka—Koga
+stage IIA)
+b. Hen—tumor involved thymic tissue with involutional changes
+
+2. Lymph node, resection (inferior cervical):
+— Two lymph nodes, negative for malignancy (0/2)
+
+COMMENT
+
+1. Sections of the thymic resection show a lobulated tumor demonstrating
+multiple internal fibrous septations and a biphasic pattern consisting of
+areas of bland spindled cells, interspersed with areas composed
+predominantly of small lymphocytes admixed with bland epithelioid cells.
+The tumor appears completely encapsulated. There are several foci of
+microscopic transcapsular invasion with extension of tumour cells into
+surrounding fat. microscopically, the tumor capsule is present less than
+1 mm from multiple painted surfaces of the specimen. However, as noted
+above, the tumor appears encapsulated, and these surfaces likely do not
+represent true surgical resection margins; the tumor with its capsule
+appears to have been completely excised in the sections examined.
+
+By immunohistochemistry, the tumor epithelial cells show strong positive
+staining for pankeratin (AEl/AE3), CK5 and p63, and are negative for CD5.
+Many of the background lymphocytes stain positive for TdT, CD3, CD5 and
+CD1a. Overall, the features are of a thymoma showing morphologic
+features of both medullary and cortical differentiation, consistent with
+
+status: complete Page: 1 of 3
+
+ 
+
+Patient Name:
+
+MRN: Service: Collected:
+DOB: ’Visit #: Resulted:
+Gender:F Location:
+
+Facility:
+
+Ordering MD:
+
+ 
+
+WHO type AB, Masaoka—Koga stage IIA.
+
+SYNQPTIC DATA
+
+Specimen: Thymus
+Procedure: Thymectomy
+Specimen Integrity: Intact
+Specimen Weight: 106 g
+Histologic Type: Type AB thymoma
+Tumor Size: Greatest dimension: 5.0 cm
+Tumor Extension: Not applicable: .
+Margins: Margins uninvolved by tumor
+
+DiStance of tumor from closest‘
+margin: 1 mm
+
+Treatment Effect: Not applicable: .
+Lymph-vascular Invasion: not identified: .
+Regional Lymph Nodes: No regional lymph node metastases
+
+Number of lymph nodes examined: 2
+
+Number of lymph nodes involved: 0
+Immunohistochemical Staining: Results: Epithelial cells positive
+for AE1/3, 0K5, P63, negative for CD5
+Pathologic Staging (Modified Masaoka):
+
+Stage IIa: Microscopic transcapsular
+
+invasion
+Implants / Distant Metastasis: Cannot be assessed .
+Additional Pathblogic Findings: Age—appropriate involution changes
+
+ELECTRONICALLY VERIFIED BY:
+
+GROSS DESCRIPTION
+
+1. The specimen is labeled with the patient's name and "thymus: gland and
+thymoma".. It consists of an unoriented piece of fibroadipose soft tissue
+weighing 106 g and containing a partly cystic, tan, solid, firm, somewhat
+lobulated mass measuring 5.0 x 4.3 x 3.5 cm. The tumor appears to be
+encapsulated. The specimen has overall measurements of 12.0 x 6.0 x 3.5
+cm. The cystic component is filled with yellow fluid. The largest cyst
+
+Status: complete Page: 2 of 3
+
+Department of Pathology
+
+ 
+
+Patient Name.
+
+MRN: Service: Collected:
+DOB: Visit #: Resulted:
+Gender:F ' Location: ’
+
+Facility:
+
+Ordering MD:
+
+ 
+
+measures 3.1 cm in greatest dimension. The outer aspect of the specimen
+is painted with silver nitrate. Elongated strips of fibroadipose tissue
+are attached to the mass. No lymph nodes are grossly seen in the
+fibroadipose tissue Multiple tissue pieces are frozen. Representative
+sections submitted as follows:
+
+lA—lE tumor with capsule
+1F fragments of tumor
+1G-H adjacent fibroadipose tissue
+
+2. The specimen labeled with the patient's name and “inferior cervical
+lymph node" consists of a piece of soft tissue measuring 1. 7 x 0.6 x 0.4
+cm. A single lymph node measuring 0. 4 x 0. 4 x.0. 3 cm is identified. The
+specimen is serially sectioned and submitted in toto in block 2A.
+
+ 
+
+Status: complete Page: 3 of 3
+

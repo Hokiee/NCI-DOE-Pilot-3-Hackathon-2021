@@ -1,0 +1,272 @@
+SURGICAL PATHOLOGY
+
+Case Number:
+
+Diagnosis:
+
+MAO-3
+
+Wm, WM/ N05
+§I+L.MMW 654/ 8330/3
+
+J/l/H
+M
+
+A: Uterus, cervix, bilateral tubes and ovaries, hysterectomy, bilateral salpingo-oophorectomy
+
+Location of tumor: endometrium, anterior and posterior, 5.1 cm in greatest dimension
+
+Histologic type: endometrioid with squamous differentiation and associated calcifications
+
+ 
+
+ 
+
+ 
+
+Histologic grade (FIGO): FIGO grade 2 (architectural grade 2, nuclear grade 2)
+
+Extent of invasion: myometrium
+
+Myometrial invasion: Inner half
+Depth: 3 mm Wall thickness: 12 mm Percent: 25%
+
+Serosal involvement: none identified
+
+Lower uterine segment involvement: present, anterior and posterior
+Cervical involvement: none identiﬁed
+
+Adnexal involvement (see below): present
+
+Other sites: not applicable
+
+Cervical/vaginal margin and distance: widely free of tumor
+Lymphovascular Space Invasion: none identified
+
+Regional lymph nodes (see other specimens):
+
+Total number involved: 0
+
+Total number examined: 14
+
+Other Pathologic ﬁndings: none identified
+
+ 
+   
+ 
+ 
+ 
+
+Crklru
+bi: msis Discrepancy
+Pr milry Tumo' 'Site m we pancy
+hIPAA Disue ancy
+Fri or Mali n: my H' story
+
+Dull/S nchr ronaus Pr mi: ﬂ
+
+  
+
+UUID: 4AD600AE- "ICEO- ABBA- BAFC- OEBSCAEBSMB
+TCGA- EY- A1GX- 01A- PR
+
+IllllllllllllllllllllIlllllllllllll|Illlllllllllllllllllklllllllllll6ad
+lIllIllllllll|||||lllllllllllllllllllllllllllllll
+m{lllllllllllll‘lllIlllllllllllllllllllllllIlllllllllllllllllll
+
+Tumor estrogen receptor and progesterone receptor immunohistochemistry results:
+
+Estrogen receptor: Positive in 30% of tumor cells; half of positive nuclei 1+, other half 2-3+
+Progesterone receptor: Positive in 70% of tumor cells; two thirds of positive nuclei 1+, one third 2—3+
+
+AJCC Pathologic stage: pT3a pNO
+FIGO (2008 classification) Stage grouping: lllA
+
+These stages are based on information available at the time of this report, and are subject to change pending additional
+information and clinical review
+
+Ovary, right, oophorectomy:
+- Epithelial inclusion cyst and physiologic changes.
+
+Ovary, left, oophorectomy:
+- No specific pathologic abnormality.
+
+Fallopian tube, right, salpingectomy:
+- Metastatic endometrioid adenocarcinoma, extending from luminal surface into wall of fallopian tube.
+
+Fallopian tube, left, salpingectomy:
+- Fragments of endometrioid adenocarcinoma floating free in lumen of fallopian tube (see comment).
+
+B: Lymph nodes, right periaortic, dissection
+- Four lymph nodes with no evidence of metastatic carcinoma (0/4).
+
+C: Lymph nodes, left periaortic, dissection
+- Two lymph nodes with no evidence of metastatic carcinoma (0/2).
+
+D: Lymph nodes, right pelvic, dissection
+- Four lymph nodes with no evidence of metastatic carcinoma (0/4).
+
+E: Lymph nodes, left pelvic, dissection
+- Four lymph nodes with no evidence of metastatic carcinoma (0/4).
+
+Comment:
+
+lmmunostain for cytokeratin AE1/AE3 was performed on the section containing left fallopian tube (A10) to confirm that
+the atypical cells in the lumen are epithelial and not inflammatory. The immunostain is strongly positive, supporting the
+presence of endometrioid adenocarcinoma in the lumen.
+
+Clinical History:
+with endometrial cancer.
+
+Gross Description:
+Received are five appropriately labeled containers.
+
+Container A is labeled "Uterus, cervix, bilateral tubes and ovaries" .
+Adnexa: Yes (left = attached, right = detached)
+
+Weight: 175.6 g
+Shape: Pear-shaped
+
+Block Summary:
+
+A1 - Cervix anterior
+
+A2 - Cervix, posterior, bisected section
+
+A3,A4- Tumor, greatest invasion
+
+AS - Tumor, underlying hemorrhagic myometrium
+A6 - Anterior lower uterine segment and tumor
+A7 - Posterior lower uterine segment and tumor
+A8 - Right ovary
+
+A9 - Right fallopian tube
+
+A10 - Left ovary and left fallopian tube
+
+Container B is labeled "right periaortic nodes“. It holds a 3.1 x 2.8 x 1.5 cm fragment of yellow lobulated adipose tissue.
+Within the fragment it holds four lymph node candidates measuring up to 3 cm in greatest dimension. The lymph
+nodes are submitted in three cassettes 81-83.
+
+Block Summary:
+Bl, BZ - One lymph node candidate each cassette
+B3 - Two lymph node candidates
+
+The remaining fat is retained in formalin.
+
+Container C is labeled "left periaortic nodes". It holds multiple fragments of yellow lobulated adipose tissue 1.4 x 1.0 x
+0.4 cm in aggregate. These fragments are palpated to reveal two lymph node candidates 0.6 cm in greatest dimension
+each. The lymph nodes are submitted in C1,
+
+Container D is labeled "right pelvic lymph nodes". It holds a 6.1 x 3.3 x 1.5 cm aggregated of yellow lobulated adipose
+tissue. Palpated within this specimen are multiple lymph node candidates measuring up to 2 cm in greatest dimension.
+The lymph node candidates are submitted in four cassettes D1-D4.
+
+Block Summary:
+
+Dl - Multiple lymph node candidates
+
+D2 - Two lymph node candidates
+
+D3, D4 - One lymph node candidate each cassette
+
+The remaining fat is retained in formalin.
+
+Container E is labeled "left pelvic lymph nodes". It holds a 4.1 x 2.8 x 1.3 cm aggregated of yellow lobulated adipose
+tissue. The specimen has four lymph node candidates; the largest is 2.7 cm in greatest dimension. The lymph node
+candidates are submitted in five cassettes E1-E5.
+
+Block Summary:
+
+E1 — One lymph node candidate
+
+E2 — Two lymph node candidates
+
+E3-E5 - One lymph node candidate serially sectioned
+
+. Dimensions:
+
+height: 5.2 cm
+
+anterior to posterior width: 7.0 cm
+
+breadth at fundus: 5.0 cm
+
+Serosa: Tan/brown and glistening
+
+Cervix: (Received amputated from the corpus) 2.2 x 1.5 cm, amputated to depth of 2.5 cm, and has a 0.4 cm patent 05
+length of endocervical canal: 2.3 cm
+
+ectocervix: Tan/white with focal erythema
+
+endocervix: Tan and trabeculated
+
+Endomyometrium:
+
+length of endometrial cavity: 4.0 cm
+
+width of endometrial cavity at fundus: 5.0 cm
+
+tumor findings:
+
+dimensions: 5.1 x 4.0 x 4.0 cm
+
+appearance: Tan/white, soft, friable, exophytic
+
+location and extent: Both anterior and posterior wall
+
+myometrial invasion:
+
+outer one-half:
+
+thickness of myometrial wall at deepest gross invasion: 0.4 cm
+
+other findings or comments: The uninvolved myometrium is notable for a 2.0 cm area of intramyometrial hemorrhage.
+There is normal appearing endometrium at the anterior and posterior lower uterine segments which is tan/pink ﬁrm and
+up to 0.2 cm thick.
+
+Adnexa:
+
+Right ovary:
+
+dimensions: 1.3 x 0.6 x 0.4 cm
+
+outer surface: Tan/pink, smooth with a single 0.4 cm, in greatest dimension, firm nodule. The nodule in section has a
+white, firm cut surface.
+
+cut surface: Tan/yellow and firm There is a single 0.4 cm in greatest dimension thin walled watery filled cyst
+
+Right fallopian tube:
+
+dimensions: Fimbriated, 4.0 cm in length x 0.3 cm in diameter
+outer surface: Tan pink and glistening
+
+cut surface: Patent unremarkable lumen
+
+other findings:
+
+Left ovary:
+
+dimensions: 1.5 x 0.9 x 0.8 cm
+
+external surface: Tan and smooth
+
+cut surface: Tan, firm and unremarkable
+
+Fallopian tube:
+
+dimensions: 0.8 cm in length x <O.2 cm in diameter
+outer surface: Red/brown and glistening
+
+cut surface: pin point apparent lumen
+
+other findings:
+
+Specimen is sampled in ten cassettes A1-A10.
+
+4
+
+Light Microscopy: Light microscopic examination is performed by Dr.
+Signature Attending Pathologist: l have personally conducted the evaluation of the above specimens and have
+rendered the above diagnosis(es).
+

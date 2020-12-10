@@ -1,0 +1,188 @@
+Operative Procedure:
+Right da Vinci VATS
+
+Pre-Operative Diagnosis:
+Not provided
+
+Post-Operative Diagnosis:
+Not provided
+
+Specimen Received:
+
+: Level 7 lymph node
+Right upper lobe mass
+Right upper lobe margin
+4R lymph node
+
+2R lymph node
+Right upper lobe margin #2 -
+
+TWPQW>
+
+Final Pathologic Diagnosis:
+A. Lymph node, level VII, biopsy:
+One lymph node negative for metastatic carcinoma (0/1).
+
+B. Lung, right upper lobe, resection:
+
+Specimen: Lobe, right upper
+Procedure: Wedge resection
+Specimen laterality: Right
+Tumor site: At parenchymal margin
+Specimen integrity: Intact
+
+Tumor size: Invasive component measures less than 1 cm with overall
+mass measuring 5 cm (see Note)
+
+Tumor focality: Unifocal
+
+Tumor histologic type: Invasive adenocarcinoma associated with mucinous
+and non-mucinous adenocarcinoma in situ (see Note)
+
+Tumor grade: Low
+Visceral pleura invasion: Not identified
+Tumor extension: N/A
+Margins:
+
+Bronchial margin: N/A
+
+Vascular margin: N/A
+Parenchymal margin: Involved by carcinoma
+Parietal pleural margin: N/A
+Chest wall margin: N/A
+Other attached tissue margin: N/A
+
+Treatment effect: N/A
+
+Lymph-vascular invasion: Not identified
+
+Pathologic Staging (pTNM):
+
+TNM Descriptors:
+
+[m (multiple primary tumors), r (recurrent), y (post-treatment)]
+Primary tumor (pT): pT1a
+Regional lymph nodes (pN): pN0
+
+Number examined: 3 (specimens A, D and E)
+
+Number involved: 0
+
+If lymph node(s) involved, specify involved nodal station(s): N/A
+Distant metastasis (pM): pMX
+
+Additional pathologic findings: Patchy areas of fibrosis
+
+C. Lung, right upper lobe, margin, excision:
+
+Mucinous and non-mucinous adenocarcinoma in situ (2 cm in greatest
+dimension).
+
+Surgical margin is focally positive for tumor.
+
+Frozen section diagnosis is confirmed.
+
+D. Lymph nodes, 4R, biopsy:
+One lymph node negative for metastatic carcinoma (0/1).
+
+E. Lymph node, 2R, biopsy:
+Two lymph nodes negative for metastatic carcinoma (0/2).
+
+F. Lung, right upper lobe margin #2, excision:
+Benign lung tissue.
+Negative for malignancy.
+Frozen section diagnosis is confirmed.
+
+The examination of this case material and the preparation of this report were
+performed by the staff pathologist.
+
+Note:
+
+The overall tumor measures 5 cm in greatest dimension; however, the invasive
+component measures less that 1 cm. This corresponds to pT1a in the current
+AJCC/T NM staging system.
+
+Intraoperative Consult Diagnosis:
+FSB: Right upper lobe mass frozen for diagnosis came in two pieces with a
+grossly positive margin:
+Non-small-cell carcinoma. Favor lung over metastasis.
+TAT: 14 mins.
+FSC: Right upper lobe margin, new margin:
+Surgical margin focally positive. Request additional tissue.
+TAT: 12 mins.
+FSF: Right upper lobe margin #2:
+Surgical margin negative for tumor.
+TAT: 17 mins.
+
+Gross Description:
+Received are six separate formalin filled containers each labeled with the
+patient's name.
+
+Part A is additionally labeled "A, level VII lymph node." The specimen consists
+of a single fragment of gray-black soft tissue that has dimensions of 1 x 0.8 x
+0.3 cm. Submitted in toto in cassette A.
+
+Part B is additionally labeled "B, right upper lobe mass." Please note a portion
+
+of this tissue has been banked at the tissue bank and a portion has been
+
+sent to diagnostics. The specimen consists of a previously incised and
+sectioned portion of lung wedge that has overall reconstructed dimensions of 9 x
+3.5 x 3.5 cm. The pleural surface ranges from pink-tan, smooth and glistening to
+purple-red-brown and focally hemorrhagic. Upon sectioning, there is a solid,
+ill-defined, tan-white mass that has dimensions of 3 x 2.5 x 2 cm. This mass
+grossly comes to within 0.1 cm from the pleural surface but does not appear
+grossly to be penetrating the pleura. This mass is grossly present at the
+
+stapled surgical margin. A representative section of this mass is taken for
+
+frozen section diagnosis and is resubmitted entirely in cassette B1. Additional
+sections of mass to include pleura are submitted in cassettes B2-3. Sections of
+tumor to staple line in cassette B4. The uninvolved lung is tan-brown and spongy
+to focally red, hemorrhagic and congested. No additional lesions are identified
+within this portion of lung. Representative section of uninvolved lung in
+
+cassette B5.
+
+Part C is additionally labeled "C, right upper lobe margin." The specimen
+consists of a lung wedge that has dimensions of 11 x 2 x 1.5 cm. There is a
+surgical staple line traversing one aspect of the specimen. The pleura surface
+ranges from tan-gray, smooth and glistening to red-brown, granular and
+hemorrhagic. There is an area designated by the surgeon at the time of frozen
+section as the previous site nearest the tumor. This area is frozen at the time
+of frozen section and is resubmitted in cassette C1. Additional sectioning of
+the wedge reveals an ill-defined, tan-brown mass present at the margin. This
+mass has dimensions of 2 x 1.5 x 0.5 cm. An additional section of this mass is
+submitted in cassette C2.
+
+Part D is additionally labeled "D, 4R lymph node" and consists of a single
+fragment of gray-tan fibrofatty soft tissue that has dimensions of 0.4 x 0.3 x
+0.2 cm. Submitted in toto in cassette D.
+
+Part E is additionally labeled "E, 2R lymph node" and consists of two fragments
+of gray-yellow fibrofatty soft tissue that have overall dimensions of 0.8 x 0.5
+x 0.3 cm. Submitted in toto in cassette E.
+
+Part F is additionally labeled "F, right upper lobe margin #2, stitch marks
+margin." The specimen consists of a lung wedge that has dimensions of 5 x 1.5 x
+1.5 cm. The pleural surface varies from gray-tan smooth and glistening to
+gray-brown with focal granularity. There is a staple line traversing one aspect
+
+of the specimen. There is a surgical suture to orient the specimen. The specimen
+
+is inked and the surgical staple line is partially incised at the time of frozen
+section. The frozen section tissue margin is resubmitted entirely in cassette
+F1. The remainder of the staple line is trimmed away and the specimen is
+over-inked with black ink and serially sectioned to reveal a spongy, black-gray
+cut surface without additional grossly identifiable lesions. Additional
+representative sections are submitted in cassette F2.
+
+Microscopic Description:
+
+The final diagnosis of each specimen incorporates the microscopic examination
+findings.
+
+END OF REPORT
+
+Taken]—
+

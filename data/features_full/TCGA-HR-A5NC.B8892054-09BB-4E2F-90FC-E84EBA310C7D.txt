@@ -1,0 +1,126 @@
+Sample Number
+
+Sample Type TUMOUR
+
+ 
+
+Diagnosis
+
+Cutenous malignant melanoma
+
+ 
+
+Year of Sample Collection
+
+ 
+
+Age at Sample Collection (yrs)
+
+ 
+
+Days to Procedure Date
+
+ 
+
+Days to Diagnosis
+
+ 
+
+Type of Procedure
+
+Resection
+
+ 
+
+Site of Tissue/Primary (Histology)
+
+Trunk including anal margin and perianal skin
+
+ 
+
+Tumour Size (cm)
+
+20
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Histology Cutenous malignant melanoma
+Grade/Differentiation X
+
+Pathological T T4a
+
+Pathological N NX
+
+Clinical M MX
+
+ 
+
+ 
+
+Histology Comments
+
+ 
+
+Clark level — V
+
+ 
+
+Sample Number
+
+Sample Type BUFFY
+
+ 
+
+Year of Sample Collection
+
+ 
+
+Age at Sample Collection (yrs)
+
+ 
+
+Days to Procedure Date
+
+ 
+
+ 
+
+ 
+
+Days to Diagnosis
+
+ 
+
+ 
+
+ 
+
+UUID:58892854-8933-4E2F-96FC-EBAEBA310C7D
+TCGA-HR-ASNc-aiA-PR Redacted
+
+ 
+
+ 
+
+ 
+
+ICJD {3‘3
+
+' A3
+mamm,mdrqnwd’ <57”
+5;)? stamwpmw QUAéS
+
+gown/L3
+
+ 
+
+ 
+

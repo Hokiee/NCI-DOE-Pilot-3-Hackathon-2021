@@ -1,0 +1,215 @@
+Final Pathologic Diagnosis:
+A. Lymph node, left lung #6 anterior and anterior left, lymphadenectomy:
+Eight of twelve lymph nodes positive for metastatic adenocarcinoma.
+Largest focus 0.4 cm.
+No extranodal extension.
+Extensive sinus histiocytosis and anthracosis.
+
+B. Lymph node, left hilar, lymphadenectomy:
+One lymph node with anthracosis and sinus histiocytosis.
+No evidence of metastatic carcinoma.
+
+C. Lymph node, left lung #10 tracheobronchial, lymphadenectomy:
+Four of four lymph nodes positive for metastatic adenocarcinoma.
+Largest focus 0.6 cm.
+No extranodal extension.
+
+D. Lung, left upper lobe, lobectomy:
+
+Tumor histologic type: Invasive adenocarcinoma with peripheral
+bronchioloalveolar .
+
+Size of invasive tumor: 5.0 x 4.1 x 2.4 cm.
+
+Grade: Moderately to poorly differentiated.
+Lymphovascular invasion: Present, extensive.
+Pleura: Invasion into but not through the pleura.
+
+Bronchial resection margin: Free of malignancy (frozen section diagnosis
+confirmed).
+Lymph nodes: Direct extension into two intraparenchymal lymph nodes.
+Metastasis to two peribronchial lymph nodes, largest focus 1.0 cm, no
+extranodal extension.
+Other findings: Emphysema.
+
+E. Lung, left lower lobe anterior basal tissue, wedge biopsy:
+Adenocarcinoma, 1.0 cm, moderately to poorly differentiated, similar
+features as the left upper lobe tumor.
+No evidence of transpleural extension.
+Peripheral bronchioloalveolar features.
+Sampled margins free of malignancy.
+Hyalinized and calcified granuloma.
+
+F. Lymph node, left lung AP window, lymphadenectomy:
+Two of two lymph nodes positive for metastatic adenocarcinoma.
+Largest focus 0.6 cm.
+No extranodal extension.
+
+AJCC Cancer Stage: Larger tumor upper lobe: T2, N2, MX
+Smaller tumor lower lobe: T1, N2, MX
+
+The examination of this case material and the preparation of this report were
+performed by the staff pathologist.
+
+***Electronica||y Signed*** ,—
+
+lntraoperative Consult Diagnosis:
+FSD: Left upper lobe, bronchial margin:
+Negative for malignancy.
+
+F/S TAT: 15 mins.
+
+Gross Description:
+Received are six containers labeled with the patient name "
+
+The first is received with formalin labeled "A-left lung #6 anterior and
+anterior left lymph nodes," and contains ten grossly apparent whole lymph nodes
+ranging in size from 0.3 to 1.8 cm in diameter. The specimen is submitted
+entirely in the following manner:
+
+A1 four whole lymph nodes;
+
+A2 four whole lymph nodes;
+
+A3 two whole lymph nodes.
+
+The second container is received with formalin labeled "B-hilar left lymph
+node," and contains a single probable lymph node measuring 0.5 cm in greatest
+dimension. The specimen is submitted in toto in a single cassette labeled B1.
+
+The third container is received with formalin labeled "C-left lung #10
+tracheobronchial node," and contains four grossly apparent lymph nodes ranging
+in size from 0.3 to 1.4 cm in greatest dimension. The specimen is submitted
+entirely in the following manner:
+
+C1 one largest lymph node bisected;
+
+C2 three possible small lymph nodes.
+
+The fourth container is received without formalin for intraoperative frozen
+section consultation labeled "D-left upper lobe bronchial margin," and contains
+a lobectomy specimen measuring 14.5 x 9.5 x 3.2 cm. The bronchial margin is
+left open. The bronchial margin is trimmed and submitted for frozen section
+diagnosis, with the residual tissue now resubmitted for permanent section in
+cassette D1. The pleural surface is blue-gray and smooth-glistening with a
+reticular pattern of black pigmentation. The pleura is somewhat fibrotic and
+puckered in one area, overlying a palpable mass. The lung parenchyma is stapled
+in three short segments near the hilum. Each of these three segments is trimmed
+and the resulting cut surface is inked black. Sectioning through the lung
+reveals a mass measuring 5.0 x 4.1 x 2.4 cm involving the above noted pleural
+surface. The mass has a heterogeneous white-tan, fibrous cut surface with
+speckling of black pigmentation. The mass approaches up to the pleural surface.
+Two lymph nodes are present at the bronchial hilum measuring 0.4 and 1.2 cm in
+diameter. The mass appears grossly to be confluent with possible
+intraparenchymal lymph nodes. Representative sections are submitted in the
+following manner:
+
+D1 bronchial margin;
+
+D2 two lymph nodes from the bronchial hilum;
+
+D3 mass adjacent to bronchus;
+
+D4,5 mass to pleura and inked stapled surface including possible
+confluent lymph nodes;
+
+D6 mass to pleura;
+
+D7 uninvolved lung.
+
+The fifth container is labeled "E-left lower lobe anterior vasal tissue," and
+contains a wedge biopsy of lung tissue measuring 2.2 x 1.5 x 0.8 cm with two
+stapled edges. The specimen is previously partially incised perpendicular to
+the stapled edges revealing a central area of fibrosis which measures 1.0 x 0.6
+x 0.6 cm. The stapled edges are trimmed and resulting cut surfaces inked blue.
+
+The specimen is serially sectioned and submitted entirely (with the exception of
+the stapled edges) in cassettes E1 through E3.
+
+The sixth and final container is received with formalin labeled "F-Ieft Iu ng
+A\T\P window," and contains two probable lymph node fragments measuring 0.5 and
+0.7 cm in greatest dimension. The specimen is submitted in toto in a single
+
+cassette labeled F1.
+—
+
+Microscopic Description:
+The final diagnosis of each specimen incorporates the microscopic examination
+findings.
+
+Addendum Report
+
+Date Ordered:
+Date Complete:
+Date Reported:
+
+Addendum Comment
+
+At the request of Dr. , a representative portion of this case was
+sent for EGFR mutation analysis to. This addendum is
+
+created only to report those findings.
+
+MOLECULAR ONCOLOGY
+EGFR MUTATION ANALYSIS
+
+Patient Name:
+
+DOB: _ Case #:
+
+Patient ID #: SSN: Gender:
+
+Date Collected: Date Received:
+Referring Physician: - Client Lab ID #:
+Treating Physician: Hospital ID #:
+
+Client Specimen ID:
+
+Body Site: Left lung Specimen(s) Received:
+
+Paraffin embedded tissue
+Clinical Data: Adenocarcinoma
+
+RESULTS: No mutation detected.
+
+INTERPRETATION:
+
+No mutations were identified; however, 18-20% of patient with non-small-cell
+lung cancer and without identifiable mutations are reported to be responsive to
+EGFR tyrosine kinase inhibitor therapies.
+
+COMMENT:
+
+This assay analyzes exons 18-21 of the EGFR tyrosine kinase domain; based on the
+current literature, the vast majority of mutations are expected to occur in
+
+these exons. The analytical sensitivity of the assay is 10-20%, thus mutations
+present in a low percentage of cells may not be detected.
+
+Most data published to date pertain to gefitinib (Iressa). Similar data have
+been seen in studies using erlotinib (Tarceva).
+
+A frequently occurring sequence change 2361 G>A was identified. This
+polymorphism is not likely to have clinical significance.
+
+This test is validated for non-small cell lung carcinoma. The clinical
+significance and utility of this test in other tumor types is unknown.
+
+METHOD LIMITATION:
+
+Tissue sections are reviewed by a pathologist and relevant rumor is selected or
+analysis, DNA is isolated from the sample, quantified and amplified by
+
+polymerase chain reaction (PCR) using primers to exons 18-21 of the EGFR gene.
+PCR products are analyzed by bi-directional direct DNA sequencing using
+capillary electrophoresis and fluorescence detection. False positive or negative
+results may occur for reasons that include genetic variants or somatic
+heterogeneity of the tissue sample.
+
+***Electronically Signed *** —
+
+Taken:-
+END OF REPORT.
+
+ 
+

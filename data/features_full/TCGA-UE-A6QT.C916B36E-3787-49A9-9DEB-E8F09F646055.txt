@@ -1,0 +1,160 @@
+Patient ID: '
+Surgical Date:
+
+Gross Description: in Soft tissue, Neck and back, There is a Iobulated mass. They are encapsulated, with
+15x8x6cm in size, solid, yellow and gray surface.
+
+Microscopic Description: Tumor is heterogenous and composed of sheets or trabeculae or bundles. The
+majority of cell tumours are spindle Tumour' Is moderate cellularity. Tumour has In marked cytological
+and nuclear pleomorphism, with spindle or oval In shape. Cytoplasm are basophilic and scant and
+vasculaoted containing lipid. Nuclei are hyperchromatic and very irregular with prominent nucleoli.
+Mitosis are present. Tumor is invasion of skelete muscle.
+
+ICE) .0 :3
+Diagnosis Details: Pleomorphic Liposarcoma
+
+Comments: W 1 W; 5/3
+
+Formatted Path Reports: Tumor site: Soft tissue, upper back 6 CM a/WL M [$3.3
+C a
+
+. . . . 55f 2 64‘? é
+HIstologIc type: PleomorphIc LIposarcoma 7/5”;
+Histologic grade: Poorly differentiated 07M>7
+
+Tumor extent: Tumor is invades skeletal muscle.
+
+Tumor size (in cm): 15 x 8 x 6cm
+
+Lymph nodes:
+
+UUID: C916336E- 3757- 49A9- 9DEB- E8F99F6R46055
+TCGA- UE- A6Q T- BlA- PR
+
+Illlllllllllllllilll{lﬂllllllllllllllllllllllllllllllllllllllRllllHlllcll¢ad
+l
+
+Margins:
+
+Evidence of neo-adjuvant treatment:
+
+If yes, type of treatment seen:
+Severity of treatment effect:
+
+Comments:
+
+ 
+
+ 
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+V4.0”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+W The TCGA Pathologic Diagnosis Discrepancy Form» should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (TSS): ATSS identiﬁer:. _TSS Unique Patient Identiﬁer: ._.____.,, _.
+Completed By (Interviewer Name Completed Date: __
+Diagnosis information
+It Data Element Entry Alternatives Workinginstructlons
+Provide the diagnosis/ histologic subtype(s) documented on
+Pathologic Diagnosis {)9 — all}: {Q ran {1 [Line d the initial pathology report for this case. if the histology for
+1 Provided on initial ' . ' this case is mixed, provide all listed subtypes.
+Pathology Report [LPNCUCOD‘LK .
+. Provide the histologlc features selected on the TCGA Case
+Histologic features of ,
+« c Q lit C mm! P m com ieted for this ase.
+2 the sample provided HUB“)! eht t Apt .5 111 mm. ua y 0 or n c
+for TCGA, as reﬂected
+on the CQCF.
+
+ 
+
+ 
+
+[Discrepancy between Patholo
+
+gy Report and Case Quality Control Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Biorepository Director
+
+3 Provide the reason far i Prolvlrlh a reason describing why the tliaginfsi: a: ghehiIIltial
+. pat Io ogy report or: I scase s not cons 5 en t t e
+géettihseireiﬁirgthology ‘5 [L f 2,! diagnosis selected on tho TCGA Case Quality Control Form.
+report and the TCGA
+Case Quality Control
+Form.
+Name of TSS Reviewing Provide the name of the pathologist who reviewed this case:
+4 Pathologist or f" “55'
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above informo ticm provided by my institution is true and correct and has been quality controller].
+
+ 
+
+WTFSS Reviewing Pathologist or Biorepository Director
+
+Date
+
+I acknowledge that the above information provided by my Institution ls true and correct and has been quality controlled; The Attending Pathologist or the
+Department Choirnmn has been informed or is aware aflhe above discrepancy m diagnosss.
+
+wPrincipal» investigator Signature
+
+ 
+
+Date
+

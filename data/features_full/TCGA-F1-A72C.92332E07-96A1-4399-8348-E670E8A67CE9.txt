@@ -1,0 +1,208 @@
+‘
+UUID: 92332E01- 96A1- 4399- 8348- E670E8A§7CE9 W W
+TCGA- F1- A72C- -a1A- PR acted /
+III III II I III III I ”II | IIIIIIIII I “IIIIIIIIIIIIIIIIIIIIII”HIRIHIHIaI I" W 8/4443
+
+IIIIIIIII IIIIlIIIIIII IIIIIIIIII SURGICAL PATHOLOGY
+IIIIIIIIIIIIIIIIIIIIII||IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII Case Number: 5,412; Wit/054’?
+
+gm v/a/zs
+Diagnosis:
+
+A: Distal stomach with prior gastrojejunostomy, resection
+Histologic tumor type/subtype: Invasive moderately
+differentiated gastric adenocarcinoma, intestinal type
+
+Histologic grade: Moderately differentiated (G2)
+
+Tumor location: Distal stomach associated with surgical
+anastomosis site
+
+Treatment effect: N/A
+
+Tumor Size/Depth of invasion: Maximum tumor size 5.9 x 3.6 x 2.4
+cm by gross examination; tumor invades subserosal soft tissues
+without involvement of visceral peritoneum
+
+Lymphovascular invasion: Focally present
+
+Perineural invasion: Focally present
+
+Histologic assessment of surgical margins: All surgical
+resection margins are negative; distance to closest margin 1.3
+cm from proximal small bowel margin by gross examination
+Proximal surgical margin: Negative
+
+Distal surgical margin: Negative
+
+Radial (adventitial) margin: Negative
+
+Lymph nodes: No tumor seen in 9 lymph nodes in this specimen
+(0/9); total lymph node count inclusive of specimens A and C is
+no tumor seen in 13 lymph nodes (0/13)
+
+Size of largest nodal metastasis (greatest dimension): N/A
+Presence/absence of extranodal extension: N/A
+
+Other significant findings: Chronic active gastritis; intestinal
+metaplasia; intact surgical anastomosis with multifocal suture
+
+granulomata
+
+AJCC Pathologic Staging: pT3 pNO
+
+This staging information is based on this pathologic specimen
+and may be incomplete. A comprehensive review of all available
+information is recommended to determine final staging.
+
+B: Omentum, omentectomy
+— Benign omentum with no tumor seen.
+
+C: Lymph nodes, left gastric, regional resection
+No tumor seen in four lymph nodes (0/4).
+Sutured granulomata identified.
+
+I
+
+Comment:
+The frozen section diagnosis is confirmed.
+
+Intraoperative Consult Diagnosis:
+
+A frozen section is requested by Dr. in OR at
+
+FSAl/FSAZ: Stomach, proximal margin, en face
+
+— Gastric mucosa with chronic gastritis and patchy intestinal
+metaplasia, no tumor seen
+
+Drs. on at
+
+Frozen Section Pathologistz, MD
+
+Clinical History:
+
+The patient is a —year—old man with gastric cancer at
+anastomosis. The patient is status post previous Billroth II
+gastrectomy approximately years ago for ulcer.
+
+Gross Description:
+Specimen A is received is one appropriately labeled container,
+labeled "distal stomach with prior gastrojejunostomy".
+
+Specimen fixation: Formalin
+
+Type of specimen: Partial gastrectomy with a porton of small
+bowel
+
+Size of specimen: Stomach: 9.9 cm long x 21.6 cm in
+circumference, small bowel: 5.3 cm long x 9.6 cm in
+circumference.
+
+Orientation of specimen: The proximal gastric margin is marked
+with a suture=green. The distal small bowel margin 2 black. The
+
+proximal small bowel staple line=blue. Where the frozen section
+was taken = yellow. The area where the radial margin was taken :
+red. Serosa overlying the mass=black.
+
+Tumor size: 5.9 x 3.6 x 2.4 cm.
+
+Tumor description: The mass is firm, fungating with heaped
+borders and central ulceration. The cut surface is tan/white,
+firm, and smooth, with infiltrative component extending into
+subserosal soft tissue.
+
+Location of tumor: Surrounding the anastomotic staple line,
+involving the stomach and small bowel.
+
+Depth of invasion: The mass invades through the muscularis
+propria into the mesentery.
+
+Distance of tumor from surgical margins: Radial margin 1.7 cm,
+proximal gastric margin—2.5 cm, distal small bowel margin 2 cm,
+and proximal small bowel margin 1.3 cm.
+
+Description of remainder of tissue: At the anastomotic line, 5.0
+cm from the mass is 4.5 x 1.2 cm x 0.5 cm area of raised, tan,
+firm mucosa. The remainder of the gastric mucosa is tan, smooth
+and glistening. The remainder of the small bowel mucosa is
+tan/brown and exhibits normal intestinal folding. The serosa is
+tan, smooth and glistening.
+
+Tissue submitted for specimen investigations: Yes, tumor and
+normal
+
+Lymph nodes: 14 lymph node candidates are identified in the
+perigastric fat ranging from 0.2 to 1 cm in greatest dimension.
+16 lymph node candidates are identified in the subserosal
+anastomotic fat ranging from 0.2 to 0.5 cm in greatest
+dimension.
+
+Other attached structures: N/A
+
+Other comments: None
+
+Digital photograph taken: No
+
+Block Summary:
+
+FSAl — Stomach, proximal margin en face closest to mass
+
+FSAZ — Stomach, proximal margin en face closest to mass
+A3—A4 - Additional proximal margin, en face
+
+C
+
+A5-A6
+
+— Distal margin, en face
+
+A7 — Proximal small bowel margin, en face
+
+A8 - Mesenteric margin, en face
+
+A9-A10 - Deepest invasion of mass, bisected, perpendicular
+A11 - Additional deepest invasion of mass, perpendicular
+A12 - Mass in relation to normal stomach
+
+A13 — Mass in relation to normal intestine
+
+A14 - Nodularity along anastomotic line
+
+A15 - Multiple lymph node candidates
+
+A16 — Four perigastric lymph node candidates
+
+A17 — Four perigastric lymph node candidates
+
+A18 — Six anastomotic site lymph node candidates
+
+A19 - Six anastomotic site lymph node candidates
+
+A20 — Four anastomotic site lymph node candidates
+
+Specimen B is labeled with the patient' 5 name and "omentum" and
+is a 29.8 x 10.9 x 2.5 cm portion of yellow lobulated adipose
+tissue. There are no areas of fibrosis or gross lesions noted.
+Representative sections are submitted in block Bl.
+
+Specimen C is labeled with the patient' 8 name and "left gastric
+lymph nodes" and is a 5.5 x 3.9 x 2 cm portion of tan/yellow
+fibroadipose tissue. Six lymph nodes are identified ranging in
+size from 0.5 to 1.1 cm in greatest dimension.
+
+The remaining fibroadipose tissue is retained in the container.
+
+Block Summary:
+
+Cl - One lymph node, serially sectioned
+C2 — One lymph node, serially sectioned
+C3 — Four lymph node candidates
+
+   
+ 
+
+E .
+_ szuAnElg'u'"
+

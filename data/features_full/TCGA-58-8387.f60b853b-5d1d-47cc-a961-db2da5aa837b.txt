@@ -1,0 +1,14 @@
+Pathology Report-Summary:
+
+Material:
+Lung, right, lower lobe: 14.0 x 12.0 x 7.5 cm
+
+Tumor: 6.0 x 4.0 x 4.2 cm
+
+Diagnosis:
+Squamous Cell Carcinoma (NOS)
+
+pT2b, pN0 (0/31), pr, G3
+
+Date:
+

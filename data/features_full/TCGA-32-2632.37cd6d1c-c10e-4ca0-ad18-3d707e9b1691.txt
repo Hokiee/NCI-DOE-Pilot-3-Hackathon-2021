@@ -1,0 +1,83 @@
+ 
+
+ 
+
+ 
+
+. NEUROPATHOLOGY-REPOR.
+
+ 
+
+ 
+
+ 
+
+ 
+
+SPECIMEN SOURCE:
+1. Right temporal brain tumor
+2. Right temporal brain tumor éﬁfﬁVL
+
+CLINICAL DIAGNOSIS:
+Right temporal brain tumor
+
+.TCGA - 32 - 2532
+@3055 DESCRIPTION:
+
+1. Received fresh for frozen section labeled with the patient’s name and
+“right temporal brain tumor" are two pieces of tan—red soft tissue aggregating
+to 0.6 x 0.6 x 0.3 cm. A smear is made. Entirely frozen on one chuck.
+
+FROZEN SECTION DIAGNOSIS:
+GLIOBLASTOMA. -
+
+Tissue submitted for frozen is subsequently submitted for permanent in one
+cassette.
+
+2. Received in formalin labeled with the patient's name and "right temporal
+brain tumor“ are multiple portions of tan—gray to tan—red hemorrhagic soft
+tissue ranging in size from 0.4 to 1.4 cm in greatest dimension. In aggregate
+the specimen is 2.0 x 1.4 x 0.8 cm. The specimen is entirely submitted in two
+
+cassettes.
+
+One half of a portion of tissue is sent to-
+
+MICROSCOPIC DESCRIPTION:
+1, 2. Sections demonstrate a markedly hypercellular glial neoplasm, the cells
+of which resemble atypical fibrillary astrocytes. Numerous scattered mitotic
+figures are seen. Microvascular proliferation is present. Confluent tumor
+necrosis, including pseudopalisading necrosis is noted.
+
+DIAGNOSIS:
+(PROVISIONAL):
+
+DIAGNOSIS:
+1, 2. RIGHT TEMPORAL BRAIN TUMOR, BIOPSY AND RESECTION:
+
+GLIOBLASTOMA.
+
+ 
+
+   
+
+ 
+
+ 
+
+ADDENDUM DISCUSSION:
+
+The tumor cells demonstrate patchy positivity for MGMT. Overall expression is
+
+estimated as seen in >50% of tumor cells The ' '
+50—75% cellular tumor. . sample conSists of an estimated
+
+ADDENDUM DIAGNOSIS : -
+
+1, 2. RIGHT TEMPORAL BRAIN TUMOR, BIOPSY AND RESECTION:
+GLIOBLASTOMA
+
+- TUMOR CELLS POSITIVE FOR MGMT EXPRESSION.
+
+ 
+

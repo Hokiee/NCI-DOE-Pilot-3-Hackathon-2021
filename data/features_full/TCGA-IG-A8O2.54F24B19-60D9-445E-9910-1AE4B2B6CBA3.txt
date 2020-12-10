@@ -1,0 +1,57 @@
+UUID: 54F24319 6009- HMSE 9910-1AE4BZBR6CeBA3ac
+TCGA- IG- A802- 9111- PR
+
+|
+755 Patient '9‘ III ||||||ll||||||||||lllllllllllllllll||||||||||||||||||||||||||
+Illlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+
+Surgical Date:
+
+Gross Description: Tumor is located in Abdominal Esophagus, nearby of Zlines. It is ulcerated and
+invasive, with 3.5x3x3cm in size, soft and white-gray surface.
+
+Microscopic Description: Mucosa is ulcerated. Tumor tissue arranges in the form of group or sheets or
+trabecular of tumor cells. The malignant cells have moderate, light eosinophilic keratinized cytoplasm.
+The nuclei are enlarged, variability in size and shape, containing coarse clumped chromatin with
+prominent nucleoli. Mitotic ﬁgures are present. Tumor invades in fat tissue. Stroma is fibrous and
+invasion of lymphocytes.
+
+Diagnosis Details: Squamous cell carcinoma, Grade III, inﬁltrating adventitia
+
+Comments: 17111? {5 ~ 3 3
+- a. M M0
+Formatted Path Reports. ESOPHAGUS TISSUE CHECKLIST WID/ gm $3070/3
+Specimen type: Esophagectomy 6; h Z) J W
+a 9 i5 5
+Tumor site: Abdominal esophagus Pita
+
+ﬂWWQ/S 2
+Tumor size: 3.5 x 3 x 3 cm
+
+Histologic tYPE: Squamous cell carcinoma WDJZIZG’) )3
+Histologic grade: Poorly differentiated
+
+Tumor extent: Adventitia
+
+Lymph nodes: 6/20 positive for metastasis (Regional 6/20)
+
+Lymphatic invasion: Not specified
+
+Venous invasion: Not specified
+
+Margins: Uninvolved
+
+Evidence of neo-adjuvant treatment: No
+
+Additional pathologic findings: Not specified
+
+Comments: None
+
+ 
+
+ 
+
+ 
+
+ 
+

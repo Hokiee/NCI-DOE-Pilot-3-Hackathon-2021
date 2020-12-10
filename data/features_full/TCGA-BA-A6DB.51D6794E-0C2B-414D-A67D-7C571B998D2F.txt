@@ -1,0 +1,326 @@
+WW0 3
+WWW-14
+
+SURGICAL PATHOLOGY w 3071/3
+Case Number:
+U05 05:2 ‘7
+Diagnosis: W<2¥E$ J; $1,153
+A: Tongue, right medial margin, biopsy
+— Squamous mucosa with verruciform hyperplasia
+
+— Negative for high grade dysplasia or invasive carcinoma
+B: Tongue, right, lateral margin,
+- Benign squamous mucosa
+
+— Negative for in situ or invasive carcinoma
+
+biopsy
+
+C: Tongue, right anterior margin,
+
+biopsy
+- Benign squamous mucosa ‘
+
+— Negative for in
+
+G:
+
+Tumor histologic type/subtype:
+
+Tongue, right,
+Benign squamous
+Negative for in
+
+Tongue, right,
+Benign skeletal
+Negative for in
+
+Tongue, right,
+Benign skeletal
+Negative for in
+
+Tongue, right,
+
+cell carcinoma
+
+Histologic grade:
+
+Primary site:
+Focality:
+
+Size:
+
+1.9 cm
+
+unifocal
+
+situ or invasive carcinoma
+
+posterior margin, biopsy
+mucosa with marked chronic
+situ or invasive carcinoma
+
+anterior deep margin,
+muscle
+situ or invasive carcinoma
+
+posterior deep margin,
+muscle
+
+situ or invasive carcinoma
+
+hemiglossectomy
+
+inflammation
+
+biopsy
+
+biopsy
+
+invasive keratinizing squamous
+
+UUID. SIDGSXBAEA— —0AC23- B414D- A67D- 7C571599502eF
+
+well differentiated
+
+right tongue
+
+Extent of invasion:
+
+Angiolymphatic invasion:
+Perineural Invasion:
+
+not identified
+not identified
+
+01A- FR
+
+M “NH“
+Ill |||ll|
+
+l |||||||I|||||||||I||||||
+ll‘lillll‘lliiiilllilli||||||||||||||iilliil||||||||||||||||||IIIIIIIIC’“Ed
+
+Bone invasion: not applicable
+P16 IHC status: negative
+
+HR HPV ISH status: negative
+Carcinoma in situ: present
+
+Surgical margins: 1.6 mm to the deep margin, 3 mm to the medial
+margin,
+remaining margins >l cm
+
+Lymph nodes: 24 lymph nodes negative for carcinoma (0/24)
+
+Other significant findings: none
+
+AJCC Pathologic Stage: pTl pNO
+
+NOTE: This pathologic stage assessment is based on information
+available at the time of this report, and is subject to change
+pending clinical review and additional information.
+
+H: Lymph node, right cervical level la, regional node dissection
+— One lymph node negative for metastatic carcinoma (0/1)
+
+I: Lymph node, right cervical lymph node level lb, regional node
+dissection
+
+— Three lymph nodes negative for metastatic carcinoma (0/3)
+
+- Submandibular gland with no significant pathologic abnormality
+
+J: Lymph node, right cervical lymph node level 2, regional node
+dissection
+
+~ Five lymph nodes negative for metastatic carcinoma (0/5)
+
+K: Lymph node, right cervical lymph node level 3, regional node
+dissection
+
+— Fifteen lymph nodes negative for metastatic carcinoma (0/15)
+
+Intraoperative Consult Diagnosis:
+An intraoperative consultation is requested by Dr. in at
+on
+
+FSAl: Tongue, right medial margin, biopsy
+- Verruciform proliferation, no high grade dysplasia or
+
+malignancy identified
+
+FSBl: Tongue, right, lateral margin, biopsy
+— No tumor seen
+
+FSCl: Tongue, right anterior margin, biopsy
+- No tumor seen
+
+FSDl: Tongue, right, posterior margin, biopsy
+— No tumor seen
+
+FSEl: Tongue, right, anterior deep margin, biopsy
+— No tumor seen
+
+FSFl: Tongue, right, posterior deep margin, biopsy
+- No tumor seen
+
+Drs. at on
+Frozen Section Pathologist:, MD
+
+Clinical History:
+
+The patient is a —year-old female with stage 2
+
+squamous cell carcinoma of the right lateral oral tongue. HPV
+testing is requested.
+
+Gross Description:
+
+Specimen A is additionally labeled "right tongue medial margin"
+and holds a 9 x 6 X 3 mm red/tan soft tissue fragment. The
+specimen was completely submitted in block FSAl,
+
+Specimen B is additionally labeled "right tongue lateral margin"
+and holds a 6 x 3 x 2 mm red/tan soft tissue fragment. The
+specimen is completely submitted in block FSBl,
+
+Specimen C is additionally labeled "right tongue anterior
+margin" and holds a 7 x 4 x 2 mm red/tan soft tissue fragment.
+The specimen is completely submitted in block FSCl,
+
+Specimen D is additionally labeled "right tongue posterior
+margin" and holds a 6 x 3 x 2 mm red/tan soft tissue fragment.
+The specimen is completely submitted in FSDl,
+
+Specimen E is additionally labeled "right tongue anterior deep
+margin" and holds a 10 x 6 x 3 mm red/tan soft tissue fragment.
+The specimen is completely submitted in block FSEl,
+
+Specimen F is additionally labeled "right tongue posterior deep
+margin" and holds a 5 x 4 x 2 mm red/tan soft tissue fragment.
+The specimen is completely submitted in block FSFl,
+
+Specimen G is additionally labeled "right tongue suture
+anterior" and is a 6.4 cm anterior to posterior x 2.5 cm medial
+to lateral x 2.5 cm dorsal to ventral portion of oral tongue.
+The base of the specimen is composed of cauterized
+fibromuscular tissue. There is a 1.0 x 0.7 cm granular,
+erythematous lesion on the lateral aspect of the tongue
+extending to the right base of tongue. This lesion comes within
+0.8 cm of the right lateral margin, 1.5 cm from the medial
+mucosal margin, 3.8 cm from the tip anterior margin, and 1.7 cm
+from the posterior margin. The specimen is inked as follows:
+medial/blue, deep/black, posterior/green. Tissue is given to
+
+from the ulcerated mucosal lesion. Sectioning
+from anterior towards posterior reveals a 1.5 cm ill-defined
+firm tan stellate mass beneath the previously described mucosal
+ulceration. This mass comes within 0.3 cm of the blue inked
+medial margin, 0.7 cm from the black inked deep margin, 3.2 cm
+from the anterior tip and 1.7 cm from the posterior margin. The
+surrounding soft tissue is composed of red/tan fibromuscular
+tissue with no additional lesions noted.
+
+Block Summary:
+
+Inking: Medial/blue, deep/black, and posterior/green
+
+G1 — Anterior tip and representative section from anterior half
+of specimen
+
+G2 — Anterior edge of tumor in relationship to closest blue
+inked medial margin
+
+G3-G4 — Additional sections of tumor in relationship to black
+inked deep margin
+
+G5 — Perpendicular section to green inked posterior margin
+Oriented tissue remains in formalin
+
+Specimen H is labeled "right cervical lymph node level 1A" and
+is a 5.4 x 2.4 x 1.2 cm aggregate of cauterized yellow/tan
+fibrofatty tissue, dissected for lymph node candidates. Lymph
+node candidates up to 0.4 cm in greatest dimension are
+identified.
+
+Block Summary:
+H1 — Three lymph node candidates
+H2—H6 — Remainder of fat,
+
+Specimen I is labeled "right cervical lymph node level 1B" and
+
+is a 4. x 4.2 x 2.0 cm salivary gland with attached cauterized
+fibrofarty tissue. Sectioning the salivary gland reveals a
+lobulatec glandular architecture with no discrete mass or lesion
+identified. The attached fat is dissected for lymph node
+candidates up to 18 cm in greatest dimension are identified.
+
+Block Summary:
+
+Il — Representative section from salivary gland
+I2 — Four lymph node candidates
+
+I3 - One lymph node candidate, bisected (largest)
+I4 — Remainder of fat
+
+Salivary gland remains in formalin.
+
+Specimen J is labeled "right cervical lymph node level 2" and is
+a 3.6 x 1.8 x 1.0 cm aggregate of focally cauterized yellow/tan
+fibrofatty tissue is dissected for lymph node candidates. Lymph
+
+nodes up to 2.2 cm in greatest dimension are identified.
+
+Block Summary:
+
+J1 — Five lymph node candidates
+
+J2 - One bisected lymph node candidate
+J3 — One lymph node candidate, trisected
+J4 — Remainder of fat,
+
+Specimen K is labeled "right cervical lymph node level 3" and is
+a 3.2 x 1.7 x 0.4 cm aggregate of cauterized yellow/tan
+fibrofatty tissue is dissected for lymph node candidates. Lymph
+nodes up 7n 0.6 cm in greatest dimension are identified.
+
+Block Summary:
+
+K1 — Five lymph node candidates
+K2 - Five lymph node candidate
+K3-K4 — Remainder of fat,
+
+   
+  
+
+   
+
+3 /J/ (3 Yea "9
+
+"
+
+Diagnnsis Discrepancy -
+Plimolv Tumor Sim Disciepil'ﬂ
+HIPAA-Dimapmcv V
+
+Prior Malignﬂanﬂyrstnrv — .
+
+/ mid-WI” .. ~—
+/ i i
+
+ 
+   
+ 
+
+ 
+
+ 
+
+   
+     
+
+ 
+
+ 
+

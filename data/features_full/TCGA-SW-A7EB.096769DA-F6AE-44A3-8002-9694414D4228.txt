@@ -1,0 +1,121 @@
+ 
+
+ 
+
+Final Pathology Template
+
+UUID: 696769DA- FSAE- 44A3- 8002- 9694414RD4eZc2|Eac
+TCGA- SN- A7EB- 01A- PR
+
+ 
+
+ 
+
+ 
+
+Final Pathology Report Information
+
+1.1
+1.2
+1.3
+1.4
+
+1.5
+
+1.6
+
+1.7
+
+1.8
+
+ME
+WW¢W&,.W
+Tissue Specimen ID Code:
+Date of Excision: S I H .a . h
+
+IUIIIO Lima 'On ' ' C [6&3
+I' tl (anatomic Slte): Stomach, Antrum
+UIIIOI' SIZE: 3,0X 4,0 (cm) C942) /3 /
+
+Lymph Node Status:
+
+1.5.1 Number Nodes Examined: 5
+
+1.5.2 Number Nodes Positive: 3
+
+1.5.3 Lymph Node Locations (Involved Nodes): 2 greater curvature, 3
+lesser curvature
+
+Metastasis:
+
+1.6.1 Metastasis Present: EIYes IENo ElUnknown
+1.6.2 Number of Mets:
+
+1.6.3 Site(s) Of Metastasis:
+
+ 
+
+ICD—Q Code for Specimen Diagnosis: C 16.3
+
+Final Pathology Details:
+
+(Please suppy de-identified copy of original language ﬁnal pathology report in
+addition to information below)
+
+1.8.1 Macroscopic Description: Surgical specimen of stomach,
+measuring 12 cm in combination with greater omentum. At
+5.0 cm from the distal resection margin, ulcerative
+
+formation with regular borders 3.0 x 4.0cm in
+dimension, infiltrating the 1A gastric wall. Greater
+omentum is intact. 5 lymph nodes (2 - greater
+curvatures, 3 - lessen curvature).
+
+1.8.2 Microscopic Description: Moderately differentiated
+adenocarcinoma of stomach, mucinous type, ulcerated,
+
+with areas hyalinosis and lymphoid. Tumor invades all
+wall of the stomach. Margins resection is intact.
+Greater omentum is intact. Lymph nodes status positive:
+greater curvature (2 from 2) and lesser curvature (1
+form 3).
+
+1.8.3 Comment (if applicable):
+
+ 
+
+1.8.4 Clinical Diagnosis: Gastric cancer of antrum
+
+1.8.5 Stage: T3 N2 M0, st. IIIA
+
+Z
+
+Critcla Mtg/ﬁll 5 Ves /0
+Diana; usiieasttrpn t/
+Primd rumyTn anitegsT— reap. nCV r /
+HIPAADiscn. cap racy _
+
+I 7/ _
+
+PROPRIETARYAND CONFIDENTIAL P mm“... W“ WY ' .1
+
+Bus allS roncus P rrrrr
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ct’J'iLIFl I DISC All“. I')
+
+ﬁrm: m_
+
+ 
+

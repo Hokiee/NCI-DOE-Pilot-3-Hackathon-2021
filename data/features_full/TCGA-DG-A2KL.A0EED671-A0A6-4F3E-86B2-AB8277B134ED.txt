@@ -1,0 +1,82 @@
+UUID: AOEED671-AOA6-4F3E-8652-A382778134EDd
+TCGA A-DG AZKL-O o1A- PR acted
+
+lllllllllllll|||||||l|||||||||||llllllllellllllclll
+iii {IIIHIEIIPIHIIIIillhllllllllllllll III || || IH|||||I||I|||||||||||||I||
+Ill |l|||ll||lllllllllll|l||||I||II||||||llllllllllllllllllllllll
+
+Sample Preparation
+
+Site of Primary (Event)
+
+Site of Tissue
+
+Year of Sample Collection
+Age at Sample Collection (yrs)
+Sample Comments
+
+Days to Procedure Date
+Days to Diagnosis
+
+Type of Procedure
+
+Site of Primary (Histology)
+Bilateral Disease
+
+Tumour Size (cm)
+Histology
+Grade/Differentiation
+Pathological T
+Pathological N
+
+Number of Nodes Sampled
+Number of Nodes Positive
+Clinical M
+
+Histology Comments
+
+Tumor site
+HIPM
+
+Reviewer initials
+
+ 
+
+Sample Type TUMOUR
+
+Fresh Frozen
+Cervucalu ‘ Nib—0'3
+9:00 posmon - cervrx M
+dmm, WW
+madman ~01 WW3
+
+f1}? W; No: 653-7
+0 .
+
+11 [A 8']: a/v
+Surgical resection
+
+Cervix
+
+NO
+
+5.5
+
+Squamous cell carcinoma, keratinizing
+
+Grade I (Well differentiated)
+
+T2,NOS
+
+N0
+
+0
+
+8
+
+MX
+
+Of note: Spec#4: Rt. posterior vaginal margin, excision:
+
+Margin is positive for squamous cell carcinoma, invasive—type.
+

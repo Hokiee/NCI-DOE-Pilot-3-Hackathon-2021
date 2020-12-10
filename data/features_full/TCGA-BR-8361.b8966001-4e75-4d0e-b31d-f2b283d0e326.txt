@@ -1,0 +1,64 @@
+   
+ 
+
+Case ID Gross Description Microscopic Description
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Diagnosis Details
+
+ 
+
+Comments
+
+ 
+
+Formatted Path Report
+
+STOMACH TISSUE CHECKLIST
+
+Specimen type: Gastrectomy
+Tumor site: Fundus
+
+Tumor size: 10 x 10 x 4 cm
+Tumor features: None specified
+Histologic type: Adenocarcinoma
+Histologic grade: Poorly
+differentiated
+
+Tumor extent: Adjacent structures
+(specify) - Transverse colon
+Lymph nodes: 6/10 positive for
+metastasis (lntraabdominal 6/10)
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Perineural invasion: Not specified
+Margins: Uninvolved
+
+Evidence of neo-adjuvant
+treatment: Not specified
+Additional pathologic findings: Not
+specified
+
+Comments: None
+
+ 
+
+ 
+
+Excision Date
+
+ 
+
+Laterality
+

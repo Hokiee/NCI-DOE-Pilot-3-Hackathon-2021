@@ -1,0 +1,259 @@
+.4" ‘3 _
+UUID: 58737936- SAFS- 4710- astut-156.8555A'3ce321la‘rt LC, 3'0 3
+
+TCGA- XA- ABJR- 81A-
+
+llllllllll|l||lIlllllllllllllllllllIllllllllllllllcllEd ._ [03 374013
+ﬁll“ii'IiIHI'IiII'IIIIIIIIIIIIIIII IIIII IIIIIIIII IIII IIIIIIII ﬂat/mmwmwb"
+
+||||||l|||||||||||||l||||||||||I||||||||||||||||||||||||||| Sula ﬂaﬁﬁ Has (Ma/,7
+
+Normal Sample ID: .
+SPECIMEN(S): 9'”) [/2 7/19
+A: Anterior bladder neck margin
+B: Prostate left base
+C: Left prostate apex
+D: Right pelvic lymph nodes
+E: Left pelvic lymph nodes
+F: Prostate and seminal vesicles
+FlNAL DIAGNOSIS:
+A. Bladder, anterior bladder neck, margin biopsy (including AFS):
+- No evidence of malignancy.
+B. Prostate, left base, margin biopsy(including BFS):
+- No evidence of malignancy.
+C. Prostate, left prostate apex, margin biopsy(including CFS):
+- No evidence of malignancy.
+D. Lymph node, right pelvic, lymph node dissection:
+- No evidence of malignancy in three lymph nodes (0/3).
+E. Lymph node, left pelvic, lymph node dissection:
+- No evidence of malignancy in four lymph nodes (0/4).
+F. Prostate and seminal vesicles, prostatectomy:
+- Adenocarcinoma, acinar type.
+
+— Gleason score 4 + 3, tertiary 5 (less than 5%).
+
+- Involved in right anterior, right posterior, left anterior, and
+
+left posterior quadrant.
+
+20% of tissue involved by carcinoma.
+
+Distal and proximal urethral margins involved by adenocarcinoma.
+
+No capsular invasion is seen.
+
+Perineural invasion is present.
+
+I
+
+Lymphovascular space invasion present.
+COMMENT:
+Case Summary
+
+Procedure: Radical prostatectomy
+Prostate Size
+
+Weight: 44 g
+Size: 4.1 x 3.8 x 3.2 cm
+Lymph Node Sampling: Pelvic lymph node dissection
+Histologic Type: Adenocarcinoma (acinar, not otherwise specified)
+Histologic Grade: (Note B)
+Gleason Pattern
+
+Primary Pattern: Grade 3
+
+Secondary Pattern: Grade 4
+Tertiary Pattern: Grade 5
+Total Gleason Score: 7
+Tumor Quantitation (Note C)
+Proportion (percentage) of prostate involved by tumor: 20
+Extraprostatic Extension: Not identified
+Seminal Vesicle Invasion: Not identified
+
+Margins: Margin(s) involved by invasive carcinoma (Bladder neck)
+
+Treatment Effect on Carcinoma: Not applicable
+
+Lymph—Vascular Invasion: Present
+
+Perineural Invasion: Present
+
+Pathologic Staging (pTNM): pT2c pN0
+
+Primary Tumor (pT): pT2c: Bilateral disease
+
+Regional Lymph Nodes (pN): pN0: No regional lymph node metastasis
+Number of Lymph Nodes Examined: 7
+
+Number of Lymph Nodes Involved: 0
+
+Distant Metastasis (pM): Not applicable
+
+Additional Pathologic Findings: High-grade prostatic intraepithelial
+
+neoplasia (PIN), Nodular prostatic hyperplasia
+
+CLINICAL HISTORY:
+
+The patient is a -year—old man with prostate cancer. Operative
+
+Procedure: Prostatectomy.
+
+GROSS:
+Six formalin-filled containers are received, each labeled with the
+
+patient's name and medical record number.
+
+A. The first container is labeled "A-anterior bladder neck
+margin." The specimen consists of a 0.3 x 0.2 x 0.1 cm tissue fragment.
+
+The specimen is previously frozen and entirely submitted in cassette
+
+A1.
+
+B. The second container Is labeled "B-prostate biopsy, left base ."
+
+The specimen consists of a 0.7 x 0.2 x 0.2 cm tissue fragment. The
+specimen is previously frozen and entirely submitted in cassette Bl.
+
+C. The third container is labeled "C-left prostate apex." The
+specimen consists of a 0.5 x 0.3 x 0.2 cm. tissue fragment. The specimen
+is previously frozen and entirely submitted in cassette C1.
+
+D. The fourth container is labeled "D—right pelvic lymph node." The
+specimen consists of a 5.3 x 3.0 x 1.7 cm fragment of fibroadipose
+tissue.
+
+Summary of Sections:
+
+D1 - one possible lymph node.
+
+D2 - two possible lymph nodes.
+
+D3 - one possible lymph node.
+
+E. The fifth container is labeled "E-left pelvic lymph nodes." The
+specimen consists of three fibroadipose tissue fragment ranging in size
+from 4.5 x 1.5 x 0.5 cm to 3.0 x 1.0 x 0.5 cm.
+
+Summary of Sections:
+
+E1 - one possible lymph node.
+
+E2 - one possible lymph node.
+
+E3 - one possible lymph node.
+
+F. The sixth container is labeled "F—prostate and seminal vesicles.“
+The specimen consists of a 44.1 gm prostate measuring 3.8 cm from
+anterior to posterior, 4.1 cm from left to right and 3.2 cm from
+
+inferior to superior. Attached to the prostate are a right seminal
+vesicle measuring 5.0 x 1.5 x 0.5 cm, a right vas deferens measuring 6.2
+
+x 0.5 cm, a left seminal vesicle measuring 4.8 x 1.6 x 0.5 cm and a left
+
+vas deferens measuring 5.5 x 0.5 cm. The anterior midline is inked
+blue. The surface is otherwise inked black. Serial sectioning reveals
+yellow-tan nodular cut surfaces without distinct lesions.
+Representative tissue was procured for potential future studies from
+specimen F.
+
+Summary of Sections:
+
+F1 - LDUMA.
+
+F2 - LDUM B.
+
+F3 - LDUMC.
+
+F4 - LDUMD.
+
+F5 ~ LDUME.
+
+F6 - RDUMA.
+
+F7 - RDUMB.
+
+F8 ~ RDUMC.
+
+F9 - RDUMD.
+
+F10 — RAA.
+
+F11 — RPA.
+
+F12 - LAA.
+
+F13 - LPA.
+
+F14 - RAB.
+
+F15 - RPB.
+
+F16 - LAB.
+
+F17 - LPB.
+
+F18 - RAC.
+
+F19 - RPC.
+
+F20 - LAC.
+
+F21 - LPC.
+
+F22 - RAD.
+
+F23 - RPD.
+
+F24 - LAD.
+
+F25 - LPD.
+
+F26 - RAE.
+
+F27 - RPD.
+
+F28 - LAE.
+
+F29 - LPE.
+
+F30 - RAF.
+
+F31 - RPD.
+
+F32 - LAF.
+
+F33 - LPF.
+
+F34 - Proximal urethral margin en face.
+
+F35 - Representative cross sections of right seminal vesicle and vas
+deferens.
+
+F36 - Representative cross sections of left seminal vesicle and vas
+deferens.
+
+F37~F38 - Unattached adipose tissue also in container.
+INTRAOPERATIVE CONSULTATION:
+
+FROZEN SECTION DIAGNOSIS:
+
+AFS1: Bladder neck, anterior margin, biopsy. "Negative for
+malignancy."
+
+BFSl: Prostate, left base, biopsy. "Negative for malignancy."
+
+CF51: Prostate, left apex, biopsy. "Negative for malignancy."
+
+MICROSCOPIC:
+
+Microscopic examination is performed. Permanent sections confirm the
+
+frozen section diagnosis.
+
+ 
+
+ 
+

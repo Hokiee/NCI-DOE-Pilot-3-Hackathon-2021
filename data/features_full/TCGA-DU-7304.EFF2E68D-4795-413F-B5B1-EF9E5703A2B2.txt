@@ -1,0 +1,195 @@
+Anatomic Pathology/Cytology Document State: (version)
+
+Update Date/1‘ ime:
+
+ﬁnal
+
+Patient Name: MRN: Service Date/Time:
+DOB/Age/Gender: 5 Male Provider:
+
+Location: Responsible Staff:
+
+Surgical Pathology Report
+
+Patient Name: Accession #:
+Med: Rec.: . Phone Number:
+DOB: (Age: ) Gender: M
+Client:
+
+Taken:
+
+Received:
+
+Reported:
+
+Physician(s):
+
+Phy Location:
+
+CLINICAL HISTORY
+~year-old man had left atypical
+
+UUID: EFFZEGED- -4795- 413F- 5531- -EF9E579R322BZa
+TCGA- DU- 7304- B2A-P
+
+II HIIIIHIIIIII”"m'lII IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHIIIIIIII
+
+I
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+III
+IIII
+IIIII
+
+lctva’a W
+
+m ,mw «Ma/m €3S’9/3
+S’lf'u: W 671.0
+
+m
+
+oligoastrocytoma operated on
+
+, followed by XRT and Temodar. Current MRI demonstrates possible recurrent
+
+tumor.
+OPERATIVE DIAGNOSES
+Recurrent brain tumor.
+
+Operation/Specimen: A: Brain,recurrent tumor, excision biopsy
+
+PATHOLOGICAL DIAGNOSIS:
+
+Brain, site not specified, excision:
+1. Mixed oligoastrocytoma, anaplastic.
+2. MIB—l proliferation index: \R\ 50%.
+See Comment.
+
+COMMENT
+
+The specimen is portions of cerebrum extensively and heavily infiltrated by a
+glial neoplastic proliferation that has a mixed oligoastrocytic phenotype,
+predominantly astrocytic. The neoplastic cells have nuclear anaplastic
+features, and there is brisk mitotic activity. There is no appreciable
+microvascular cellular proliferation or necrosis.
+
+The neoplasm has morphology similar to the original resection; in the current
+resection, however, there is distinct cellular anaplasia, with a very high
+
+proliferation index of about 50%.
+
+LOH testing of the neoplasm is being performed, and result will be reported
+
+in
+an addendum.
+***Electronically Signed Out***
+
+., Senior Staff Pathologist
+
+, Resident Pathologist
+
+PROCEDURES/ADDENDA
+
+Loss of Heterozygosity 1p, 19q Assay (LOH)
+
+Date Ordered:
+Interpretation
+
+Date Reported:
+
+POSITIVE: Allelic loss on chromosome arm 19q is detected.
+There is no evidence of allelic loss on chromosome lp.
+
+Informative loci are: DlSS48, D18552, D19SZl9, D1951182
+Results—Comments
+Test performed on paraffin block —A3 and peripheral blood for
+germline comparison.
+TEST DESCRIPTION: Allelic loss is assessed by PCR assay in Normal DNA
+(baseline)/ Tumor DNA pairs using 3 markers at both lp and l9q. The 3 markers
+on 1p are DlSS48, D151592, and D15552 (with D15468, D181612, and D15496 as
+backup markers) and the 3 markers on 19q are D198219, D195412, and PLA2G4C
+(with D195606 and D1951182 as backup). All markers are microsatellites (2 or
+4
+nt repeats) except PLA2G4C which is a minisatellite (26 nt repeat)
+polymorphism. The markers were selected based on heterozygosity score,
+amplicon size, and ease of interpretation. The backup markers are used if the
+first line markers at that chromosome arm are uninformative or otherwise
+ambiguous in their interpretation. LOH at all informative loci on each
+chromosomal arm represents the typical finding in oligodendrogliomas with 1p
+and 19q deletion.
+FDA COMMENT: The above data are not to be construed as the results from a
+stand—alone diagnostic test. This test was developed and its performance
+characteristics determined by the. as
+required by CLIA ' 88 regulations. It has not been cleared or approved for
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA has
+determined that such clearance or approval is not necessary. These results
+are
+provided for informational purposes only, and should be interpreted only in
+the context of established procedures and/or diagnostic criteria.
+TECHNICAL SENSITIVITY: The presence of >15% non—neoplastic cells in the
+sample
+may preclude the detection of allelic loss.
+***Electronically Signed Out***
+
+, Senior Staff Pathologist
+
+GROSS DESCRIPTION
+
+SPECIMEN: Recurrent brain tumor.
+
+FIXATIVE: Formalin.
+
+GENERAL: Received are three irregular, pink-tan to gray—white fragments of
+brain tissue, ranging from .5 cm. in greatest dimension to 2.0 x 1.2 x 1.0
+cm.
+
+Two smaller fragments of brain tissue are bisected.
+
+SECTIONS: All submitted; A1 — one fragment bisected, A2 — second fragment
+bisected, A3—A5 — largest fragment sectioned.
+
+MICROSCOPIC DESCRIPTION
+
+IMMUNOHISTOCHEMISTRY: The GFAP demonstrates tumor cells in a gliofibrillary
+background; many cells, however, appear as naked nuclei. A great majority of
+cells over express the p53 protein. With the M131 there is a proliferation
+index of about 50% in the denser white matter zones. The NeuN demonstrates
+the diffusely infiltrating character of the neoplasm.
+
+ICD~9(s):
+
+191.9 191.9
+
+Billing Fee Code(s):
+
+A: '
+
+LOH lp19q:
+
+Histo Data
+
+Part A: Brain,recurrent tumor, excision biopsy
+
+Taken: Received:
+
+Stain/cnt Block Ordered Comment
+H/E x l l
+
+H/E x l 2
+
+mGFAP-DA x l 3 .
+
+H/E x l 3
+
+MIBl—DA x l 3
+
+NeuN x l 3
+
+P53DO7 x l 3 .
+
+H/E x 1 4
+
+H/E x l 5
+
+*** End of Report ***
+

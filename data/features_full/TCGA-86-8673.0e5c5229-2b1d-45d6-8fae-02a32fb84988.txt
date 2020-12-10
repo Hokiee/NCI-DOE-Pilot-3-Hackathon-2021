@@ -1,0 +1,126 @@
+TCGA Pathology Reports
+
+Excision date Gross
+
+Descript
+ion
+
+ 
+
+— Lung lobe
+of 23 X 12
+
+cm.
+Subleural
+there is a
+grey-
+yellow
+coloured
+tumour of
+8 cm in
+size, with
+focal
+necrosis.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Microscopic Description
+
+  
+
+Bronchioalveolar cancer. Four
+bronchopulmonary lymph nodes
+- follicular hyperplasia,
+antracosis.
+
+Aortic window node -
+antracosis.
+
+One bifurcational lymph node -
+antracosis.
+
+ 
+
+Diagnosis Details
+
+Tumor Features: Unknown,
+Tumor Extent: Localized,
+NOS , Venous Invasion:
+Absent, Margins: Absent,
+Treatment Effect:
+
+ 
+
+ 
+
+Comments
+
+ 
+
+The type of
+bronchioloalveolar
+carcinoma (mucinous
+or nonmucinous) is
+not deﬁned in the
+original pathology
+report.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Formatted Path Report
+
+ 
+
+LUNG TISSUE CHECKLIST
+
+Specimen type: Lobectomy
+
+Tumor site: Lung
+
+Tumor size: 8 x 0 x 0 cm
+
+Histologic type: Bronchiolo-alveolar
+adenocarcinoma
+
+Histologic grade: Well differentiated
+
+Tumor extent: Not speciﬁed
+
+Other tumor nodules: Not speciﬁed
+
+Lymph nodes: 0/6 positive for metastasis
+(Bronchopulmonary, bifurcational, aortic window
+0/6)
+
+Lymphatic invasion: Not speciﬁed
+
+Venous invasion: Absent
+
+Margins: Uninvolved
+
+Evidence of neo-adjuvant treatment: Not
+speciﬁed
+
+Additional pathologic ﬁndings: Not speciﬁed
+Comments: Left- upper
+
+ 
+
+ 
+

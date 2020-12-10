@@ -1,0 +1,81 @@
+ 
+
+ 
+
+    
+ 
+
+Case ID Gross Description
+
+Stomach segment with a plate-
+like tumour, of 6.5 cm in greatest
+dimension, whole wall invasion;
+fatty tissue lymph nodes are
+enlarged, soft; omentum -
+hyperemia.
+
+ 
+
+Microscopic Description
+
+   
+
+Adenocarcinoma of the stomach,
+G2; with perigastric fat invasion.
+Fifteen lymph nodes were
+examined, two demonstrated
+metastases, with extensive
+necrosis.
+
+Omentum - hyperemia.
+
+ 
+
+ 
+
+ 
+
+Diagnosis Details Comme Formatted Path Report
+
+nts
+Tumor Features: Ulcerated, Tumor STOMACH TISSUE CHECKLIST
+Extent: Perigastric fat , Venous
+Invasion: Absent, Margins: Specimen type: Subtotal gastrectomy
+Absent, Treatment Effect: Tumor site: Fundus
+
+Tumor size: 6.5 x 0 x 0 cm
+
+Tumor features: Ulcerated
+
+Histologic type: Adenocarcinoma, intestinal type
+Histologic grade: Moderately differentiated
+Tumor extent: Serosa (visceral peritoneum)
+Lymph nodes: 2/15 positive for metastasis
+(Greater and lesser omentum 2/15)
+Lymphatic invasion: Not specified
+
+Venous invasion: Absent
+
+Perineural invasion: Not specified
+
+Margins: Uninvolved
+
+Evidence of neo-adjuvant treatment: Not
+specified
+
+Additional pathologic findings: Not specified
+Comments: None
+
+ 
+
+ 
+
+ 
+
+ 
+
+ID Excision Date Lateralit
+
+y
+_
+

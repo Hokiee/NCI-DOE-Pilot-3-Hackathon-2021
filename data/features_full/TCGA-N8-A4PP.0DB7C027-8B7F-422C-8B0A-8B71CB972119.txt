@@ -1,0 +1,359 @@
+ 
+
+ 
+
+ 
+
+/
+
+m:
+
+jab o»3
+
+(arm WO.YUZQM, N05
+SURGICAL PATHOLOGY REVISED REPORT W 50/ 5
+(Ei}rr é;M&WWéfT/Ulvﬁ
+
+Case Number: Q5171, /
+IZ/ﬂlﬁaiyh)
+Diagnosis:
+
+A: Uterus and cervix, bilateral ovaries and fallopian tubes,
+hysterectomy and bilateral salpingo—oophorectomy
+
+Location of tumor: anterior and posterior endometrium extending
+into anterior and posterior lower uterine segment and invasive
+carcinoma also involves the posterior upper endocervix (A18)
+
+Tumor size: 6.5 x 6.4 x 4.5 cm per gross measurement of
+carcinoma within the endometrium and a large amount of disrupted
+tumor is also received separately (9.2 x 8.9 x 3.0 cm) (see
+comment)
+
+Histologic type: Carcinosarcoma, with serous carcinoma and
+homologous sarcomatous component (see comment)
+
+UUID:9DB7C927-SB7F-422C-BBBA-BB71CBQ72119
+Histologic grade (FIGO): FIGO grade 3 TCGA-Na-A4PP-61A-PR Redailfed
+
+a:1.1m:(maintaavaa:(mm(m(”111.111.1111
+Extent of invasion:
+
+HHHHHHHWIHHHHHﬂﬂHHHHﬂHHHHHﬂIN
+Myometrial invasion: outer half
+
+Depth: 6.5 mm Wall thickness: 1.3 cm Percent: 50% (A6)
+
+\
+
+Serosal involvement: not identified
+
+Lower uterine segment involvement: Present. Invasive serous
+carcinoma involves anterior and posterior lower uterine
+segments.
+
+Cervical involvement: Present. Invasive serous carcinoma
+involves stroma of posterior upper endocervix, invading to a
+depth of 3 mm, in area with cervical wall thickness of 1.0 cm
+(33%) (A18)
+
+Adnexal involvement (see below): not identified
+
+Other sites: not applicable
+
+Cervical margin and distance: Negative. Invasive carcinoma is 7
+mm from cervical wall margin (A18). Length of endocervical canal
+
+is 4.5 cm.
+
+Lymphovascular space invasion: present
+
+Regional lymph nodes (see other specimens): See Specimen B
+
+Total number involved: 1
+Total number examined: 1
+
+Other pathologic findings:
+
+- Cervix with mild acute and chronic cervicitis, Nabothian cyst,
+tubal metaplasia and tunnel clusters
+
+— Hyalinized leiomyomata, size 3.2 cm in greatest dimension
+
+— Background atrophic endometrium with chronic endometritis
+
+- Vessels with medial calcification
+
+— Perineural invasion present
+
+Right ovary
+
+— Atrophic with epithelial inclusion glands, and medial
+calcification of vessels
+
+— No malignancy identified
+
+Left ovary
+
+— Atrophic with epithelial inclusion glands and dystrophic
+calcifications
+
+— No malignancy identified
+
+Right fallopian tube
+— Mild chronic salpingitis
+— No malignancy identified
+
+Left fallopian tube
+v Acute salpingitis
+— Fibrous serosal adhesions
+— No malignancy identified
+
+AJCC Pathologic Stage: pT 2 le
+FIGO (2008 classification) Stage grouping: IIICl
+
+B: Lymph nodes, right pelvic, regional resection
+
+— One lymph node positive for metastatic serous carcinoma, size
+6.2 cm with no definite extracapsular extension identified in
+focally disrupted tissue (1/1)
+
+~ See comment
+
+Comment:
+The hysterectomy specimen is received disrupted at the junction
+
+ 
+
+ 
+
+of the upper anterior endocervix/anterior lower uterine segment.
+A large amount of detached tumor is also received separately
+within the container. Recommend correlation with operative
+procedure. Specimen B (right pelvic lymph node) is a large lymph
+node which is entirely replaced by metastatic serous carcinoma.
+There is no definite extracapsular invasion identified in
+representative sections; however, the tissue is focally
+disrupted.
+
+Representative sections show predominantly serous carcinoma.
+Additional representative sections are submitted and one shows a
+sarcomatous component (A17). Previous biopsy also shows
+carcinosarcoma with homologous type The
+findings are consistent with carcinosarcoma with serous
+carcinomatous component and homologous sarcomatous component.
+lmmunohistochemistry stains have been added on (A17) and an
+addendum will be issued with the result.
+
+Clinical History:
+—year—old female with endometrial cancer.
+
+Gross Description:
+Received are two appropriately labeled containers.
+
+Container A is additionally labeled "uterus."
+
+Adnexa: present, bilaterally attached
+
+Weight: 480 grams
+
+Shape: pyriform
+
+Dimensions:
+
+height: 15.0 cm
+
+anterior to posterior width: 6.8 cm
+
+breadth at fundus: 9.4 cm
+
+Serosa: tan/brown, smooth and glistening with dark red/brown
+discoloration; there is gray/white speckling along the posterior
+serosa
+
+Cervix:
+
+ectocervix: brown/pink, smooth and glistening
+
+endocervix: tan, trabeculated; The cervix was received disrupted
+and tattered; The anterior cervix is connected to the posterior
+cervix, but is not connected to the anterior lower uterine
+segment.
+
+length of endocervical canal: 4.5 cm long, 2.6 cm wide
+
+length of endometrial cavity: 8.0 cm
+
+width of endometrial cavity at fundus: 5.5 cm
+
+tumor findings:
+
+dimensions: 6.5 x 6.4 x 4.5 cm protruding into the cavity with a
+separate aggregate of tumor fragments within the accompanying
+container (9.2 x 8.9 x 3.0 cm)
+
+appearance: tan/yellow, friable and fungating
+
+location and extent: it involves the anterior and posterior
+endometrial cavity, extends into the posterior lower uterine
+segment, 0.2 cm from the endocervical canal
+
+myometrial invasion: inner one—half
+
+thickness of myometrial wall at deepest gross invasion: 1.5 cm
+other findings or comments: There is a 3.2 x 2.8 x 2.2 cm
+homogeneous white whorled intramural nodule
+
+Adnexa:
+
+Right ovary:
+
+dimensions: 2.5 x 2.8 x 0.6 cm
+
+external surface: grossly unremarkable
+
+cut surface: grossly unremarkable
+
+Right fallopian tube:
+
+dimensions: 4.2 cm long, 0.5 cm in diameter
+
+other findings: The serosa is tan, smooth and glistening; the
+fimbria is focally discolored gray/white; The mucosa is
+unremarkable.
+
+Left ovary:
+
+dimensions: 2.6 x 1.0 x 0.7 cm
+
+external surface: grossly unremarkable
+
+cut surface: grossly unremarkable
+
+Left fallopian tube:
+
+dimensions: 5.5 cm long, 0.5 cm in diameter
+
+other findings: The tube was received discontinuance. The serosa
+is tan/gray, smooth and glistening. The proximal mucosa is
+tan/brown and friable.
+
+Lymph nodes: none
+
+Other comments: none
+Digital photograph taken: no
+
+Tissue submitted for special investigations: tumor submitted to
+Tumor Procurement Foundation
+
+Block summary:
+
+Al — anterior cervix
+
+A2 — posterior cervix
+
+ 
+
+ 
+
+ 
+
+ 
+
+A3,A4 — anterior corpus with mass and intramural nodule, full
+thickness, bisected
+
+A5 — posterior corpus, full thickness, with mass
+
+A6,A7 — longitudinal posterior lower uterine segment with mass
+A8 — longitudinal anterior lower uterine segment with mass
+
+A9 — right ovary and right fallopian tube, cross sections
+AlO—A12 — longitudinal section of right fallopian tube and
+remaining fimbria
+
+A13 — left ovary and left fallopian tube, cross sectioned
+
+A14 — longitudinal section of left fallopian tube and remaining
+fimbria
+
+A15,A16 — anterior lower uterine segment, full thickness,
+bisected; possible perpendicular section
+
+A17,A18 — posterior lower uterine segment, perpendicular
+section, bisected
+
+A19 — posterior cervix
+
+A20—A24 — representative sections of mass, unoriented
+
+Tissue remains in formalin.
+
+Container B is additionally labeled "right pelvic." It contains
+a 6.2 x 5.0 x 3.4 cm tan/gray nodular firm mass. The mass is
+focally disrupted and the remainder is surrounded by a smooth
+capsule which is less than 0.1 cm in thickness. A portion of the
+mass was given to the Tumor Procurement foundation.
+
+Block summary:
+81,82 — each contain a representative section of mass
+
+Grossing Pathologistz, MD
+
+Light Microscopy:
+Light microscopic examination performed by Dr.
+
+The majority of the tumor is poorly differentiated carcinoma
+(serous carcinoma).
+
+Additional representative sections are taken and one slide (A17)
+shows a sarcomatous component. Immunohistochemistry is pending
+on this section and an addendum will be issued with the result.
+Also, the prior outside biopsy shows carcinosarcoma with
+homologous type . The findings are
+consistent with carcinosarcoma, with serous carcinomatous
+component and homologous sarcomatous component.
+
+For cases in which immunostains are performed, the following
+applies:
+
+Appropriate internal and/or external positive and negative
+controls have been evaluated. Some of the immunohistochemical
+reagents used in this case may be classified as analyte specific
+reagents (ASR). These were developed and have performance
+characteristics determined by . These reagents have not been
+cleared or approved by the US Food and Drug Administration
+(FDA). The FDA has determined that such clearance or approval is
+not necessary. These tests are used for clinical purposes. They
+should not be regarded as investigational or for research. This
+laboratory is certified under the Clinical Laboratory
+Improvement Amendments of 1988 (CLIA—88) as qualified to perform
+high complexity clinical laboratory testing.
+
+Procedures/Addenda:
+Addendum
+
+Addendum
+For immunohistochemistry stains
+
+Addendum Comment
+lmmunostains are performed on the representative section with
+sarcomatous component by morphology (A17)
+
+Pancytokeratin: positive in carcinoma, negative in sarcoma
+Vimentin: negative in carcinoma; positive in sarcoma
+
+Desmin: negative in carcinoma; focally positive in sarcoma
+Smooth muscle actin: negative in carcinoma; subset positive in
+sarcoma
+
+Muscle specific actin: negative in carcinoma; subset positive in
+sarcoma
+
+The findings are supportive of carcinosarcoma with homologous
+sarcomatous component. The previous diagnoses are unchanged.
+
+ 
+
+ 
+

@@ -1,0 +1,55 @@
+Date:
+
+Patient ID:
+
+Age:
+
+Sex:
+
+Clinical Dx:
+Tumor Location:
+Localization:
+Source:
+
+Clark Level (1-5):
+Breslow (mm):
+Tumor:
+
+Normal:
+Metastasis:
+
+Stage (I-IV):
+
+Tumor size (mm x mm):
+
+NeoAdj lmmunoTx:
+
+Pathology Report
+
+M
+
+Melanoma
+
+Skin
+
+Left shoulder
+Epithelial melanoma
+4
+
+2
+
+3x2
+
+No
+
+UUID: F2915AF4- 7C62- 4510- ABZA- DOAB'ICBBGEFABac
+TCGA- XV- A9N5- 01A- PR
+
+HIPM
+Prim
+
+Case
+Reviewer
+
+ 
+

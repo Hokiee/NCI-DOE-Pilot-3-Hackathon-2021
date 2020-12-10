@@ -1,0 +1,286 @@
+ 
+
+ 
+
+   
+
+Surgical Pathology Report CGA"Uﬁ—5858
+
+ 
+
+W has a 6.5 cm, irregularly nodular, ring
+
+enhancing ‘-
+mass with restricted diffusion in the left frontal lobe, with probable
+
+involvement of the corpus callosum. There is also small clival lytic
+lesion.
+
+OPERATIVE DIAGNOSES
+Left frontal brain tumor
+
+Operation/Specimen: A: Left frontal brain tumor, biopsy
+-B;'Left frontal brain tuimor, excision biopsy
+
+PATHOLOGICAL DIAGNOSIS:
+
+Aland B. Brain, frontal, biopsy and excisional biopsy:
+l.‘ Glioblastoma.
+
+21 MIB—l proliferation index: 65%.
+
+See Microscopy Description and Comment.
+
+COMMENT
+
+'The-sections contain portions of a glial neoplastic proliferation that
+focally '
+
+infiltrates and extensively effaces the brain. The neoplasm has
+nuclear
+
+anaplastic features, mitotic activity, microvascular cellular
+
+proliieration‘
+and necrosis, and extensive tumor necrosis, frequently with
+' pseudopalisading.
+
+The MIB—l proliferation index is very high (65%).
+
+The neoplasm'is a glioblastoma, WHO IV.
+
+Results of'Molecular testing will be reported later.
+
+ 
+
+  
+
+ 
+
+. 'PROCEDURES/ADDENDA‘
+PCR for EGFR ' utation
+Date Ordered: Date Reported: _
+Interpretation
+NEGATIVE - No evidence of EGFRVIII mutation is detected
+
+'Results—Comments
+TEST_DESCRIPTION: Testing performed on RNA extracted from tissue block
+
+H slide was examined and no microdissection was
+needed.
+
+The epidermal growth factor receptor (EGFR) is an attractive molecular
+target
+in glioblastoma because it is amplified, overexpressed, and/or mutated
+
+in up
+to 40% to 50% of patients. Epidermal growth factor receptor variant
+III ‘ ‘
+
+(EGFRvIII) is an oncogenic, constitutively active mutant form of EGFR
+that -is
+
+commonly expressed in glioblastoma. Cell culture and in vivo models of
+glioblastoma have demonstrated EGFRVIII as defining prognostically
+distinct ‘
+
+subgroups of glioblastomas. Additionally, the presence of EGFRVIII has
+. been
+
+shown to sensitize tumors to EGFR tyrosine kinase inhibitors when the
+tumor
+
+suppressor protein PTEN is intact. RNA is extracted from formalin
+fixed,
+
+paraffin embedded tissue samples and reverse transcribed to cDNA. The
+cDNA is
+
+then amplified using standard PCR technique for DNA templates. PCR
+
+_ products ~
+are- detected by gel electrophoresis. The limit of detection of this
+
+‘ assay has
+been determined to be approximately 5 mutant cells in 100 normal
+
+cells.
+
+FDA Comment: The above data are not to be construed as the results
+from a
+
+stand alone diagnostic test. This test was developed and its
+performance
+
+characteristics determined by the — laboratory as
+
+required by CLIA -regulations. It has not been cleared or approved
+for '
+
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA
+has
+
+determined that such clearance or approval is not necessary. These
+results are
+
+ 
+
+provided for informational purposes only, and should be interpreted
+_ only in . ' .(
+the context of established procedures and/or diagnostic criteria.
+
+ 
+
+.Interpretation
+-.fNEGATIVEr No“evidence of methylated MGMT promoter is detected.
+
+:Results'Comments
+Testing -performed on DNA extracted from microdissected tumor paraffin
+"block
+
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT
+promoter
+
+have been shown to benefit from therapy with alkylating agents.
+Aesessment of
+
+MGMT promoter methylation status involves bisulfite treatment of DNA
+followed
+
+by. real— time PCR amplification (MethyLight) of methylated and
+
+, unmethylated DNA
+
+sequences. The analytic sensitivity of this assay was determined by
+serial‘ ,
+
+dilution of methylated positive control DNA into unmethylated DNA, and
+was ' .
+
+assessed to be'l% of methylated DNA in the background of unmethylated
+
+.DNA,‘ ' ' ~
+
+'Factors such as the presence of >50% non—neoplastic cells in the
+' sample, or
+extensive tissue necrosis, may preclude the detection of methylated
+MGMT
+promoter sequences.
+
+FDA COMMENT: The above data are not to be construed as the results
+from a
+
+stand alone diagnostic test. This test was developed and its
+”-performance -
+
+characteristics determined by the ”laboratory as
+required by CLIA .regulations. as no can c eare or approved
+for ' ‘ '
+
+specific uses by the U. S. Food and Drug Administration (FDA). The FDA
+
+has
+determined that such clearance or approval is not necessary. These
+
+results are
+provided for informational purposes only, and should be interpreted
+
+b only. in ' o
+the context of established procedures and/or diagnostic criteria.
+
+ 
+
+INTRAH OPERATIVE CONSULTATION
+A . '-
+
+. Left frontal brain tumor, biopsy: Glioblastoma, 1 block, -, I
+~ Frozen
+
+_section erformed at
+
+      
+ 
+ 
+
+and called to the Physician of record on
+
+Telepathology uti lized to—
+'Gaoss DESCRIPTION '
+
+.A.¢ ' - _
+
+Left frontal brain tumor, biopsy
+
+CONTAINER LABEL: left frontal brain tumor.
+
+FIXATIVE: Formalin. NO. PIECES: 3. SIZE/VOL: aggregate to 1.6 x 1 X
+0.2 cm.
+
+CASSETTES: l, -
+I -
+
+‘B. ‘
+
+'Left frontal brain tuimor, excision biopsy
+
+CONTAINER LABEL: left frontal brain tumor
+
+FIXATIVE: -formalin'
+
+GENERAL: Received are pink—tan to white fragments, aggregating to 2.2
+x 1.1 x
+
+0.3 om.
+
+SECTIONS. 1, -
+
+MICROSCOPIC DESCRIPTION
+
+IMMUNOHISTOCHEMISTRY: The GFAP demonstrates prominent
+gliofibrillogenesis by '
+
+-the neoplastic cells. A great majority of neoplastic cells over
+: express the '
+
+- (*2? p53 protein. With the MIB—l there is a proliferation index of about
+65%; ‘
+ICD-9(S):
+237.5 237.5 191.9
+
+ 
+
+Hiato Data
+
+Part A: Left frontal brain tumor, biops
+Stain/cnt “1 Block Or ere Comment
+
+ 
+
+FS;H7E x 1 " ' 1
+
+ 
+
+H/E‘x'l . 1 ‘ ‘ 1
+
+‘.Part B: L " in tuimor, excision bio s
+
+Takén: - eeeeevee *
+Stain/ant ' Block Ordered Comment
+
+    
+
+EGFR VIII—slides X'l
+mGFAP—DA x l
+
+H/E x 1 ,
+MGMT-slides x 1
+MisienA x 1 '
+
+PS3DO7 x 1
+
+H H M P H H
+
+*** End of Report ***
+
+ 
+

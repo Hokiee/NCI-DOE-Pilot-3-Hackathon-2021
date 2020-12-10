@@ -1,0 +1,133 @@
+SURGICAL PATHOLOGY REPORT
+Addendum Present
+
+ 
+
+Name Med. Rec #.
+Accession #: Location:
+
+Date of Procedure: Race:
+Date Received: DOB/Sex:
+
+Submitting Physician:
+
+ 
+
+FINAL DIAGNOSIS
+
+A. AND B. LEFT FRONTAL TUMOR, BIOPSY AND EXCISION:
+--OL|GODENDROGLIOMA (WHO GRADE II), SEE NOTE.
+
+Note: Analysis for allelic loss on chromosomes 1p and 19q will be performed and the results reported in an addendum.
+
+Electronically Signed Out By
+B the si nature on this re ort, the individual or rou listed as makin the Final Inter retation/Dia nosis certifies that they have reviewed this case.
+
+ 
+
+lntraoperative Consultation:
+A. Touch imprint and microscopic: Glioma, favor oligodendroma
+
+Addendum/Procedures:
+
+Addendum Date Ordered: Status: Signed Out
+Date Complete:
+Date Reported:
+
+Addendum Diagnosis
+{Not Entered}
+
+Addendum Comment
+
+Date Completed:
+
+Specimen Source: LEFT FRONTAL TUMOR, BIOPSY AND EXCISION
+
+Paraffin Block No.: —
+
+TUMOR T ISSUE ASSESSMENT
+
+FISH FOR 1P/19Q
+
+RESULTS
+
+Chromosome 1p: Intact, aneusomic
+Chromosome 19q: Intact, eusomic
+
+Quantitative FISH results
+1p36:3.3
+
+1q25:3.2
+
+1p36/1q25 ratio: 1.0
+19q13:2.0
+
+19q13: 2.5
+
+19q13/19p13 ratio: 0.8
+
+INTERPRETAT ION
+
+1p intact: A majority of nuclei showed similar numbers of lp36 and qu5 signals. There is no
+evidence of allelic loss on the short arm of chromosome 1 (1p).
+
+19q intact: A majority of nuclei showed similar numbers of l9q13 and l9p13 signals. There is no
+evidence of allelic loss of 19q.
+
+Allelic loss at one locus does not necessarily predict the presence of alterations at other loci
+on the same chromosome, i.e. FISH may not detect partial allelic loss. FISH may not detect
+allelic losses if there is loss of one allele and replication on the allele.
+
+Comment:
+Allelic loss on chromosome 1p has been shown to correlate with with chemoresponsiveness and long
+progression—free survival in some gliomas. This correlation is stronger when there is concomitant
+allelic loss on 19q. An association of chemoresponsiveness and/or long progression—free survival
+with allelic loss on 19q in the absence of loss on 1p has not been established. In patients with
+1p/19q loss,
+
+    
+
+Method:
+
+The integrity of the short arm of chromosome 1 (1p) and long arm of chromosome 19 (19q) was
+evaluated with interphase florescence in situ hybridization (FISH) on formalin—fixed paraffin
+embedded tissue sections using locus—specific probes target (lp36, l9q13) and reference probes
+(1q25,19p13) (Abbott Melecular/Vysis, des Plaines, IL). The analysis was performed on areas of
+glial neoplasm and only atypical nuclei with two or more reference probe signals were counted.
+Reported quantitative data represents an average of 40 nuclei. Loss is defined as a ratio of less
+than or equal to 0.7./ Aneusomy is defined as a mean of greater that or equal to 3.0 for the
+reference probe signals (1q25, l9pl3).
+
+ANALYTE SPECIFIC REAGENT (ASR) DISCLAIMER
+
+This test was developed and its performance characteristics determined by the Pathology and
+Laboratory Medicine Institute at _ The U.S. Food and Drug Administration has
+not approved or cleared this test; however, FDA clearance or approval is not currently required
+for clinical use.
+
+NOTE: One or more of the reagents used to perform assays on this specimen MAY have contained
+
+components considered to be analyte specific reagents (ASRs). ASRs have not been cleared or
+approved by the U.S. Food and Drug Administration. These assays were developed and their
+performance characteristics determined by the ). A
+
+copy of their report is on file in the Department of Anatomic Pathology
+
+Clinical History:
+Left temporal tumor
+
+Specimens Submitted As:
+A:LEFT FRONTAL TUMOR
+
+B:LEFT FRONTAL TUMOR
+
+Gross Description:
+A: Received fresh for intraoperative consultation, labeled with patient's name, hospital number and "left frontal tumor",
+
+are multiple pink-white soft tissue fragments, 0.5 x 0.4 x 0.3 cm in aggregate. Representative tissue is submitted for
+touch imprint and frozen section. The reminder of the specimen is submitted entirely for permanent in 2 cassettes.
+
+B: Received fresh, post fixed in formalin, labeled with the patient's name and number, are multiple irregular, opaque
+white to tan to brown, soft tissue fragments measuring in aggregate 2.2 x 2.1 x 0.25 cm. Submitted in toto in one
+cassette.
+

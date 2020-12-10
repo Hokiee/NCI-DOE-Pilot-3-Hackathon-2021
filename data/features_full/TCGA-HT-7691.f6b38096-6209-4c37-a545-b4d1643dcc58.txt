@@ -1,0 +1,21 @@
+Tumor:
+Normal:
+Slide:
+
+ 
+
+Addendum Discussion:
+
+Sections demonstrate benign cerebellum with degenerative changes including neuronal
+loss and gliosis. There is moderately cellular neoplasm composed of cells that resemble
+modestly atypical fibrillary astrocytes. In general, the tumor appears to have an expanded
+interface with the adjacent cerebellum. Scattered Rosenthal fibers are present, primarily
+at the periphery of the tumor. The tumor has a solid growth pattern. Vascular
+hyalinization is seen and there are numerous microcalcifications. In some areas the
+calcifications predominate over the tumor cells. No atypical ganglion cells are seen and
+no eosinophilic granular bodies are noted. Perivascular pseudo rosettes are not noted.
+
+Diagnosis:
+CP Angle/Cerebellar Tumor
+Well differentiated Astrocytoma (Grade 2)
+

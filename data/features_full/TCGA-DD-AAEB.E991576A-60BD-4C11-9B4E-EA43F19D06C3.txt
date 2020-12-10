@@ -1,0 +1,85 @@
+UUID: E991576A-663D-4C11-954E-EA43F19|§0e6C3ac
+TCGA- DD- AAEBu- BiA- PR
+
+lllll'Il'IlI' 'Ill l'IllI'llllllllI'Illll'llllllllI 'lllIml‘llmte III
+
+CLINICAL DIAGNOSIS: Hepatocellular carcinoma suggested
+Specimen: Liver and Liver mass
+Gross Photo:
+GROSS:
+Specimen status: Fresh
+Operation: Partial hepatectomy and chole’cystectomy
+Organs:
+Liver (17.0 x 7.0 x 4.2 cm, 254.5 gm) and gallbladder (9.1 cm in length and
+2.0 cm in diameter)
+Lesion: A well—defined round mass (4.7 x 4.0 x 3.7 cm) in liver
+
+Cut surface: Yellowish to green solid and firm mass without necrosis
+Gross type:
+
+HCC: Expanding nodular
+Resection margin: Not involved grossly (safety margin: 2.0 cm)
+. Others:
+
+Satellite nodule: No
+
+Remaining parenchyma: Periportal fibrosis (stage 2), mild steatosis
+
+ 
+
+ 
+
+ 
+
+Gross photo: Present ICADO —3
+Blocks ()Wé/IWDDLZLL, memizpﬂJLOﬂ/L MOS
+. \ ?i7(:/ 5
+T1'4,TB, mass x 5 <“ - ~ ﬁﬂq é F2132: 0
+NB, L, liver parenchyma x 2 writ?“ ‘ M
+RM, resection margin x 1 .-: )4 Q} 135/510); «:4
+
+GB, gallbladder x 1
+
+MICROSCOPIC:
+Hepatocellular carcinoma: Yes
+The worst differentiation II
+The major differentiation II
+Histologic type: Trabecular
+Cell type: Hepatic
+Fatty change: Yes (10%)
+Fibrous capsule formation: Partial capsule
+Capsular infiltration: Yes
+Septum formation: No
+Surgical resection margin invasion: No, safety margin (2.0 cm)
+Serosal invasion: No
+Portal vein invasion: No
+Microvessel invasion: No
+Intrahepatic metastasis: Unknown
+Multicentric occurrence: Unknown
+
+NOT reported. Gross:
+
+Liver, needle, consistent with, hepatocellular carcinoma
+
+Liver, ectomy, hepatocellular carcinoma, moderately differentiated, steatosis, periportal
+fibrosis
+T56000, P10, M81703, moderately differentiated, M50080, periportal fibrosis
+Gallbladder, ectomy, chronic cholecystitis
+T57000, P10, M43005
+Lymph node, regional, biopsy, reactive hyperplasia
+TO8000, regional, P50, M72200
+DIAGNOSIS:
+Liver, partial hepatectomy:
+Hepatocellular carcinoma, moderately differentiated
+Steatosis, mild
+Periportal fibrosis (stage 2)
+
+Gallbladder, cholecystectomy: Chronic cholecystitis
+
+Lymph node, regional, biopsy: Reactive hyperplasia (O/l)
+Suggestion :
+
+ 
+
+Reviewer
+

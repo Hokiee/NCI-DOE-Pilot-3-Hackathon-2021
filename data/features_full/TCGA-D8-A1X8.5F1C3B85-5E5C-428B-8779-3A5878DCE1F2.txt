@@ -1,0 +1,117 @@
+ 
+
+page 1 / 2
+
+Department of Cancer Pathology
+copy No.
+
+Date:
+
+ 
+
+Examination: Histopathological examination
+
+Internal invoice No. Cost of diagnostic procedure Examination No.:
+Patient: XXX PESEL: XXX Age; Gender: F
+
+' : ' r an re ' n - left breast with axilla tissues 'C b - 0 ' 5 .
+Material Multiple o g sect-Io - - ry / ‘ L ‘ f [y I m; ¥520/;
+Unit in charge: CW. 7
+Physician in charge: _ 3131,: W M; C37)“ 9 /A/ <///J,///
+Material collected on: Material received on:
+
+Expected time of examination: up to 8 working days
+Clinical diagnosis: Cancer of the left breast.
+
+ 
+
+Examination performed on: '
+
+l l . | i . :
+Left breast sized 22. 4 x 17. 8 x 6. 4 cm removed along with axillary tissues sized 12 x 5 x 3 cm and a skin flap of 24.2 x 11.3 cm.
+Weight 950 g.
+
+Tumour sized 2.7 x 1. 4 x 2.8 cm found' In the central part, removed 6.0 cm from the lower boundary, 0.3 cm from the base and 1.4
+cm from the skin.
+
+[1‘ 'l":
+
+Carcinoma lobulare' Invasivum (classical type, partly solid) multifocale- NHGZ (3+2+1/o mitoses/10 HPF- visual area
+0. 55mm). Inﬁltratio carcinomatosa mamillae.
+
+In situ lesions of the type pagetoid spread and hyperplasia within the foci of adenosis sclerosans. Glandular tissue
+showing lesions of the type fibrosa et cystica, adenosis sclerosans. AXILLARY LYMPH NODES: Metastases
+carcinomatosae in lymphonodis (No IX/Xl).
+
+lestcesult:
+
+Carcinoma lobulare mixtum invasivum mammae sinistrae.
+
+Metastases carcinomatosae in lymphonodis axillae (No lX/Xl) (NHGZ, pTlc, pNZa).
+
+Compliance validated by:
+
+ 
+
+Examination performed or ‘
+
+E | E i . l . l . . 2
+Estrogen receptors found in over 75% of neoplastic cell nuclei. Progesterone receptors found in over 75% of neoplastic cell nuclei.
+HER2 protein stained with HercepTestTM by DAKO. Score = 2+. FISH veriﬁcation recommended
+
+Compliance validated by: I
+
+ 
+
+Examination performed on:
+
+Criteria Yes
+
+UUID:5F1C3885-SESC-4283-8779-—3A587BDCE1F2d
+TCGA- D8- A1X8- 31A- PR mmm
+
+Ill lllllllllllllllllllllllllllllllllllllllllllllllllllllRllellllllIllted 933"
+llll lllll lllllllllllllllIllllllllllllllllllllllllllllllllllllllllll
+Ill llllllllll Illllllllllll l ll||| ll lllllll l l I II II llll | llllllll Ill
+
+ 
+
+Examination: Histopathological examination
+
+Patient: XXX PESEL:XXX Gender: F
+
+page 2 / 2
+
+Examination No.2
+
+ 
+
+Examination performed on:
+
+Carcinoma lobulare invasivum mammae sinistrae.
+
+Invasive lobular carcinoma of the left breast
+
+Metastases in lymphonodis axillae (No IX/XI) (NHGZ, pTlc, pNZa).
+
+Cancer metastases in axillary lymph nodes (No lX/Xl) (NHGZ, pTlc, pNZa).
+
+Compliance validated by:
+
+ 
+
+ 
+
+Examination performed on'
+
+RESULT OF HERZ/neu GENE AMPLIFICATION with the FISH method by Path Vyslon HERZ DNA Probe Kit
+
+FINAL RESULT:
+HER-2 GENE AMPLIFICATION NOT FOUND
+
+Compliance validated by:
+
+ 
+
+CONTACT YOUR DOCTOR WITH THIS REPORT!
+

@@ -1,0 +1,70 @@
+SURGICAL PATHOLOGY
+
+Surgical Pathology Report
+Diagnosis:
+A: Kidney, left, partial nephrectomy
+
+Tumor histologic type/subtype: clear cell renal cell carcinoma
+Sarcomatoid features: not identified
+
+Histologic grade (if applicable): 2 (of 4, Fuhrman classification)
+Tumor size (greatest dimension): 5.5 cm diameter
+
+Tumor focality: unifocal
+
+Extent of invasion:
+
+Extra-capsular invasion into perirenal adipose tissue: not identified
+Venous (large vessel): not identified
+
+Lymphatic (small vessel): not identified
+
+Surgical margins:
+Renal parenchymal margin (partial nephrectomy only): not involved
+
+Renal capsular margin (partial nephrectomy only): not involved
+Perinephric adipose tissue margin (partial nephrectomy only): not involved
+
+Adrenal gland: not received
+Lymph nodes: none received
+Other significant findings: none
+AJCC Stage: ple pNx pr
+
+This staging information is based on information available at the time of this report, and is subject to change pending clinical review and
+additional information.
+
+B: Fat, overlying mass, biopsy
+- Mature fat, no carcinoma identified.
+
+Clinical History:
+a left renal mass.
+
+Gross Description:
+Received are two appropriately labeled containers.
+
+Container A is additionally labeled "left partial nephrectomy." It holds a 62.7 gram, 6.5 x 5.4 x 3.6 cm partial nephrectomy specimen
+composed of a 5.4 x 4.2 x 2.8 cm fragment of kidney with overlying attached perinephric fat. The parenchymal margin is marked with black
+ink and the perinephric fat margin is marked with blue ink. The specimen is sectioned to reveal a 5.5 x 3.8 x 3.2 cm circumscribed cortical
+nodule with a solid, variegated dark red to orange/brown cut surface. This nodule focally abuts multiple black inked surgical margins and
+expands the capsule. The overlying perinephric fat appears intact and unremarkable. The small amount of renal tissue identified is
+compressed and grossly unremarkable. Tumor and normal are given to Tissue Procurement.
+
+Block Summary:
+
+A1 - perpendicular sections of tumor and black inked parenchymal margin
+A2 - tumor expanding capsule
+
+A3 - tumor and overlying capsule (inked blue)
+
+A4,A5 - central tumor
+
+Container B is additionally labeled "fat overlying tumor." It holds a 2.7 x 1.9 x 0.6 cm fragment of markedly cauterized unoriented
+yellow/tan fibrofatty tissue which is serially sectioned and entirely submitted in blocks B1-B2, NTR.
+
+Light Microscopy:
+Light microscopic examination is performed by Dr.
+
+Signature
+Attending Pathologist: I have personally conducted the evaluation of the above specimens and have
+rendered the above diagnosis(es).
+

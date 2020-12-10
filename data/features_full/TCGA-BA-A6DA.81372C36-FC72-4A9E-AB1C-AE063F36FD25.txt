@@ -1,0 +1,366 @@
+ate-{D43 <3:
+
+SURGKHM.PATHOLﬁKyfREVKHH)REPORT ‘ QJQ
+W M ”a“:
+Case Number: ' ’%>67d,3 ,uas
+
+. . (Sill c5 43'2”
+DiagnOSis:
+
+5);:[13
+A: Nerve, pharyngeal plexus, biopsy
+
+— Skeletal muscle, fibroadipose connective tissue and nerve
+- No malignancy identified
+
+B: Lymph nodes, left, level 2, regional node dissection
+— 2 of 14 lymph nodes positive for metastatic squamous cell
+
+carcinoma, 1.8 cm in greatest dimension with extracapsular
+extension (2/14)
+
+C: Lymph nodes, left neck level 3, regional node dissection
+- 3 of 13 lymph nodes positive for metastatic squamous cell
+
+carcinoma, size 2.8 cm in greatest dimension with extracapsular
+extension (3/13)
+
+D: Lymph nodes, left neck, level 4, regional node dissection
+— 13 lymph nodes negative for metastatic carcinoma (0/13)
+
+Redacted
+
+E: Lymph nodes, right neck level 2, regional node dissection
+— 2 of 8 lymph nodes positive for metastatic squamous cell
+carcinoma, size 3.2 cm in greatest dimension without
+extracapsular extension (2/8)
+
+    
+
+F: Lymph nodes, right neck level 3, regional node dissection
+— l of 15 lymph nodes positive for metastatic squamous cell
+carcinoma, size 2.4 cm in greatest dimension with no
+extracapsular extension (1/15)
+
+UUID : 81372C36-FC72-4A9E-A81C-AE063F35FD25
+TCGA-BA- ASDA- BIA—PR
+
+G: Lymph nodes, right neck, level 4, regional node dissection
+_ l of 24 lymph nodes positive for metastatic squamous cell
+
+carcinoma, 3 mm in greatest dimension with no extracapsular
+extension (1/24)
+
+— Thyroid epithelium also present within subcapsular sinus of 2
+
+lymph nodes, cannot exclude metastatic thyroid carcinoma (see
+comment)
+
+H: Larynx, laryngectomy
+Tumor histologic type/subtype: invasive squamous cell carcinoma
+Histologic grade: moderately differentiated
+
+Location of primary site: Bilateral supraglottis, involving
+
+bilateral false cords and bilateral aryepiglottic folds,
+extending focally into left glottis, anteriorly into epiglottis
+involving epiglottic cartilage, and anteriorly into hyoid bone.
+Invasive carcinoma abuts but does not involve bilateral strap
+muscles. The vallecula is negative.
+
+Size: 3.9 x 3.8 x 1.6 cm per gross measurement
+
+Extent of invasion:
+
+Angiolymphatic: not identified; however, multiple lymph nodes
+are positive in subsequently submitted sections
+
+Adjacent subsite: not applicable
+
+Vocal cord fixation: not identified
+
+Into/through cartilage: invasive carcinoma invades epiglottic
+cartilage but not thyroid cartilage
+
+Outside the larynx: tumor involves hyoid bone
+
+P16 IHC status: pending (H3)
+HR HPV ISH status: pending (H3)
+In situ carcinoma: present
+
+Surgical Margins: Negative but very close (<1 mm) from blue
+inked right margin. Black inked left margin is 2 mm from the
+invasive carcinoma and anterior is 6 mm from invasive carcinoma.
+Inferior tracheal margin is negative.
+
+Mucosal margins are negative for squamous cell carcinoma in
+situ.
+
+Lymph nodes: see additional sections
+
+Other significant findings:
+- Perineural invasion present
+
+AJCC PATHOLOGIC TNM STAGE: pT4a pN2c pr
+
+NOTE: This pathologic stage assessment is based on information
+available at the time of this report, and is subject to change
+pending clinical review and additional information.
+
+Comment:
+
+In specimen G, bland appearing thyroid epithelium is present in
+the subcapsular sinus of two lymph nodes. No parenchymal
+involvement is identified, and no nuclear features of papillary
+thyroid carcinoma are identified. This may represent benign
+
+thyroid inclusions in lymph node; however, a metastatic
+carcinoma of thyroid origin cannot be excluded. Clinical
+evaluation and imaging of the thyroid gland is recommended.
+
+Clinical History:
+-year—old female with larynx cancer.
+
+Gross Description:
+Received are eight appropriately labeled containers.
+
+Container A is additionally labeled "pharyngeal plexus nerve"
+and is an 8 x 6 x 2 mm aggregate of two red/tan soft tissue
+fragments, A1,
+
+Container B is additionally labeled "left neck level 2" and
+consists of a 3.2 x 2.5 x 1.0 cm fragment of yellow/tan
+fibrofatty tissue with embedded sutures. Seven lymph node
+candidates up to 2.1 cm in greatest dimension are identified.
+
+Block Summary:
+
+Bl - Three lymph node candidates
+
+B2 — Two lymph node candidates
+
+B3 - One lymph node candidate, trisected
+B4.— One lymph node candidate, trisected
+B5—B6 — Remainder of fat,
+
+Container C is additionally labeled "left neck level 3" and is a
+5.4 x 3.5 x 1.5 cm aggregate of yellow/tan fibrofatty tissue
+dissected for lymph node candidates. Multiple lymph node
+candidates up to 2.8 cm in greatest dimension are identified.
+
+Block Summary:
+
+C1 — Four lymph node candidates
+
+C2 — Four lymph node candidates
+
+C3 — Two lymph node candidates
+
+C4 — One lymph node candidate, sectioned
+
+C5 — One lymph node candidate, trisected
+
+C6 - Representative of one grossly positive lymph node candidate
+(largest)
+
+Tissue remains in formalin.
+
+Container D is additionally labeled "left level 4 neck
+dissection" and is a 4.4 x 2.5 x 1.2 cm fragment of cauterized
+fibrofatty tissue dissected for lymph node candidates. Multiple
+lymph node candidates up to 1.2 cm in greatest dimension are
+identified.
+
+Block Summary:
+
+D1 - Seven lymph node candidates
+
+D2 — Two lymph node candidates
+
+D3 — Representative section from large caliber vessel
+Tissue remains in formalin.
+
+Container E is additionally labeled "right level 2 neck
+dissection" and is a 4.5 x 2.8 x 1.6 cm fragment of cauterized
+fibrofatty tissue dissected for lymph node candidates. Four
+lymph node candidates up to 3.2 cm in greatest dimension are
+identified.
+
+Block Summary:
+
+E1 — Two lymph node candidates
+
+E2 — One lymph node candidate, bisected
+
+E3 — Representative section from largest lymph node (grossly
+positive)
+
+Tissue remains in formalin.
+
+Container F is additionally labeled "right level 3 neck
+dissection" and is a 5.4 x 3.7 x 1.5 cm aggregate of cauterized
+fibrofatty tissue and muscle. Multiple lymph node candidates up
+to 2.4 cm in greatest dimension are identified.
+
+Block Summary:
+
+Fl — Four lymph node candidates
+
+F2 — Three lymph node candidates
+
+F3 — One lymph node candidate, sectioned
+
+F4 - One lymph node candidate, bisected
+
+F5 — One lymph node candidate, bisected
+
+F6 — Representative section of skeletal muscle
+
+F7 — Representative section of largest, grossly positive lymph
+node candidate
+
+Tissue remains in formalin.
+
+Container G is additionally labeled "right level 4 neck
+dissection" and is a 4.5 x 1.9 X 1.4 cm aggregate of fibrofatty
+tissue, dissected for lymph node candidates. Lymph nodes up to
+0.8 cm in greatest dimension are identified.
+
+Block Summary:
+
+G1 — Five lymph node candidates
+G2 — Five lymph node candidates
+G3 — Five lymph node candidates
+G4 - Three lymph node candidates
+Tissue remains in formalin.
+Specimen H:
+
+Specimen fixation: Formalin
+
+Type of specimen: Total laryngectomy with attached anterior
+strap muscles.
+
+Size of specimen: 8.1 cm superior to inferior, 5.2 cm right to
+left, 3.2 cm anterior to posterior.
+
+Orientation of specimen: Right/blue, left/black,
+vollecula/yellow and anterior/midline green
+
+Tumor description: Well demarcated, centrally ulcerated with
+peripherally raised firm white borders.
+
+Location of tumor: Supraglottis involving the bilateral false
+cords and extending across the midline to the right and left
+aryepiglottic fold.
+
+Tumor size: 3.9 cm superior to inferior x 3.8 cm right to left x
+1.6 cm in thickness.
+
+Extent of tumor: The tumor involves both right and left false
+cords and the anterior commissure. It extends to the right and
+left aryepiglottic folds and creeps up onto the epiglottis. The
+vallecula is grossly unremarkable. The hyoid bone is present and
+unremarkable. The horns of the thyroid cartilage are present and
+grossly unremarkable. The true cords in the subglottic region
+are unremarkable. The pyriform sinuses are unremarkable with the
+exception of undermining tumor.
+
+Sectioning through the tumor reveals a solid white cut surface
+with extension into the soft tissues of the epiglottis extending
+antericrly towards the vallecula (0.3 cm from the vallecula
+margin (14), extension to the underlying thyroid cartilage but
+does he: appear to invade the thyroid cartilage, the anterior
+neck mus:les are freely movable over the tumor, bilaterally. The
+tumor undermines the mucosa of the right and left aryepiglottic
+folds. The subglottic region is grossly unremarkable. The hyoid
+bone is intact and the tumor is freely movable over the hyoid
+bone.
+
+Distance of tumor from surgical margins: The mucosa component of
+the tumor comes within 0.9 cm of the right pyriform sinus
+margin, 1.2 cm from the left pyriform sinus margin, 2.1 cm from
+the anterior vallecular margin, 3.3 cm from the inferior
+trachea- ring margin, 0.2 cm from the blue inked right anterior
+
+soft tissue margin, 0.3 cm from the black inked left anterior
+soft tissue margin, and 0.4 cm from the green inked anterior
+midline margin.
+
+Description of remainder of tissue: The subglottis is lined by
+grossly unremarkable mucosa. The anterior strap muscles are
+unremarkable. No thyroid gland is identified.
+
+Tissue submitted for special investigations: Tumor is given to
+tissue procurement.
+
+Lymph nodes: Submitted separately.
+Digital photograph taken: Yes
+
+Block Summary:
+
+Inking: right/blue, left/black, vallecula/yellow and anterior
+midline/green
+
+H1 — En face tracheal margin
+
+H2 — Perpendicular sections of right aryepiglottic fold into
+pyriform sinus
+
+H3 - Perpendicular sections of left aryepiglottic fold into
+pyriform sinus
+
+H4 — Epiglottis and vallecula
+
+H5 — Right glottis
+
+H6 - Left glottis (contains thyroid cartilage)
+
+H7 - Anterior commissure
+
+H8 — Perpendicular sections of green inked anterior midline,
+black inked left, blue inked right strap muscle margin
+
+H9 — Remainder of right superior mucosal margin, en face
+H10 — Remainder of left superior mucosal margin, en face
+H11 - Perpendicular section of anterior midline hyoid bone
+
+beneath tumor (not grossly involved) (decal)
+
+Addendum
+For immunohistochemistry.
+
+Addendum Comment
+
+P16 is positive and HPV high risk is negative by ISH in a
+representative section of invasive carcinoma (H3).
+
+TTF-l and thyroglobulin are attempted on G3 to highlight the
+foci of thyroid glands within lymph nodes; however, both foci
+are cut through and immunohistochemistry is not contributory.
+The previous diagnoses are unchanged.
+
+Prim. Tumor Sm:
+
+HIP-AA
+
+Pnor Malmnawcy Htlmv
+5“.
+
+r
+
+   
+
+   
+  
+
+case is
+Reviewer
+
+  
+  
+    
+  
+ 
+  
+   
+

@@ -1,0 +1,309 @@
+ICA~ar3
+W, WM'MK N05 9330/}
+mat/”WW 6541 4/9“” ﬁ/
+
+Surgical Pathology Consultation Report
+
+ 
+
+UUID:40919962-FBCE-AAAC-ACD2-38A2FIDEE901
+TCGA-EO-AZZX-OlA-PR Redacted
+l|||l||lllllllllllllllllllllllllllllllllllllllIllllllllllllllll
+
+IIlhl llllllllllllllllllllllll|||||||||||||ll|||||||l||||
+
+||||
+Gender: F "H H
+||||| IIIIII|IIIIIIHIIIIHIllllllllllllllllllllllllllllllllll
+
+ 
+
+Sgecimenfs) Received
+
+. Uterus: Hysterectomy BSO
+
+. Ovaryzresidual ovey RT side
+
+. Lymph node:Left common Iliac node
+
+. Lymph node: Left External iliac node -QS
+. Soft Tissue: Left obtrator
+
+. Lymph node: Right external iliac node
+
+. Soft Tissue: Right obtrator
+
+. Lymph node: Left para aortic node
+
+. Lymph node: Right para aortic node
+
+OQNODUIACOMA
+
+ 
+
+Diagnosis
+1. Uterus, cervix, bilateral tubes'and ovaries, Total hysterectomy and bilateral salpingo—
+oophorectomy:
+
+*ENDOMEFFRWS‘ menocmcmom,“ele§§graioiewee, magmas»?
+
+Depth: Through myometrium to serosa
+
+Cervix: Negative for glandular and stromal involvement but encroaching on lower uterine
+segment
+
+Lymphovascular space invasion: negative (see comment)
+
+Ovary and tubes, bilateral
+Negative for carcinoma
+Cystic follicles
+
+Tube, right
+Endometriosis
+
+2. Ovaryzresidual ovary, right side: M
+Negative for carcinoma
+Cystic follicles
+
+ 
+
+ms
+13w A
+Friar
+DU'
+
+3. Lymph nodezLeft common Iliac node:
+
+ 
+ 
+ 
+    
+ 
+
+      
+      
+
+Negative for carcinoma, two nodes (0/2)
+
+4. Lymph node: Left External iliac node -QS:
+Negative for carcinoma, three nodes (0/3)
+
+5. Soft Tissue: Left obtrator:
+
+Negative for carcinoma, nine nodes (0/9)
+
+6. Lymph node: Right external iliac node:
+Negative for carcinoma, six nodes (0/6)
+
+7. Soft Tissue: Right obtrator:
+
+Negative for carcinoma, six nodes (0/6)
+
+8. Lymph node: Left para aortic node:
+Negative for carcinoma, seven nodes (0/7)
+
+9. Lymph node: Right para aortic node:
+Negative for carcinoma, three nodes (0/3)
+
+Synoptic Data
+
+---------------- MACROSCOPIC----------------
+
+Specimen Type: Total Hysterectomy
+
+Tumor Site: Fundus
+
+Tumor Size: Cannot be determined (see Comment)
+
+Other Organs Present: Lymph nodes
+
+---------------- MICROSCOPIC----------------
+
+Histologic Type: Endometrioid adenocarcinoma, not othenrvise characterized
+Histologic Grade: G3: More than 50% nonsquamous solid growth
+
+Myometrial Invasion: Invasion Present
+
+Greater than 50% myometrial invasion, Myometrial invasion
+percentage: 100
+
+Cervix Involvement: None
+
+LUS Involvement: Yes
+
+Venous/Lymphatic Invasion: Absent
+
+Nodal Involvement: None
+
+Margins: Uninvolved by invasive carcinoma
+
+Primary Tumor (pT): pT3a (IIIA): Tumor involves serosa, parametria, and/or adnexa
+(direct extension or metastasis)
+
+Regional Lymph Nodes (pN): pNO: No regional lymph node metastasis
+
+Number of regional lymph nodes examined: 36
+Number of regional lymph nodes involved: 0
+
+Distant Metatstais (pM): pMX: Distant metastasis cannot be assessed
+Additional Pathologic Findings: None identified
+NeoAdjuvant Treatment: Unknown
+
+Collaborative Staging Extension: Not applicable
+
+ 
+
+Comment
+
+No definitive Iymphovascular invasion is identified, but the tumor is growing in sheets and
+diffusely infiltrating the myometrium.
+
+Electronically
+veriﬁed by:
+
+ 
+
+Gross Description
+
+1. The specimen is labeled with the patient's name and as "hysterectomy 880". It consists of a
+uterus with bilateral adnexa weighing 221g. The uterus measures 9.28l x 6.6ML x 4.1 AP cm and
+the cervix measures 3.1 cm in diameter. The slit as measures 0.3cm long. The right fallopian tube
+measures 6x0.7 cm and the right ovary is not well defined. The left fallopian tube measures
+6x0.8cm and the left ovary 3.1x2.4x1.60m.
+
+The serosal surface of the uterus shows hemorrhagic adhesions.A tumor is present
+predominantly in the left fundus extending into the myometrium. There are central areas of
+necrosis. It is forming a mass and measures 2.1 SI x 3.3 ML x 3.8 AP cm. The posterior lower
+endomyometrium shows a friable papillary lesion measuring 2.8 SI x 1.4 ML x 1.3 APcm. Grossly
+the lesion does not reach the lower uterine segment. A large intramural ﬁbroid with whorllike
+appearance also identiﬁed measuring 3.5 cm in diameter. The exocervix is smooth and shows
+nabothian cysts. The right fallopian tube shows hemorrhagic adhesions on the outer surface but
+is patent on sectioning. The right fallopian tube is ill-defined but the area is somewhat
+hemorrhagic with membraneous tissue. The left fallopian tube also shows hemorrhagic
+adhesions on the surface and patent on sectioning. Hemorrhagic adhesions identified on the tan—
+white surface of the left ovary. Translucent follicular cyst also seen at the surface. On sectioning
+corpus luteum is identiﬁed measuring 0.6 cm in diameter.
+
+1A left ovary and fallopian tube Biobank
+
+18 right ovary and fallopian tube Biobank
+
+1C endometrial tumor Biobank
+
+1D-1 F right fallopian tube
+
+1G-1I right ovarian region
+
+1J-1 M left fallopian tube
+
+1N-1 R left ovary
+
+1S-1T anterior cervix, cervical canal
+
+1U anterior lower uterine segment
+
+1V anterior endomyometrium
+
+1W-1X posterior cervix, cervical canal, lower uterine segment
+1Y posterior lower endomyometrium (papillary lesion)
+1Z posterior endometrium (papillary lesion)
+
+1AA-1 AB posterior endomyometrium
+
+1AC —1 AF the bulging lesion at the superior fundus
+1AG hemorrhagic adhesion and uterine serosa
+
+Additional blocks:
+1AH-1 AK tumor with serosa
+
+2. The specimen is labeled with the patient's name and as "residual ovary right side". It consists
+of a piece of congested soft tissue measuring 6 x 3.5 x 0.8 cm. Grossly no ovarian tissue
+identified. One cyst identified on sectioning measuring 0.8 cm in diameter containing clear ﬂuid.
+The specimen is submitted in toto.
+
+2A cystic portion
+
+23-2E remaining tissue
+
+3. The specimen container, labeled with the patient's name and as "left common iliac node",
+contains a piece of fibrofatty tissue measuring 4 x 1.6 x 0.5 cm, received in 10% NBF. This
+contains 2 lymph node measuring 0.8 x 0.3 x 0.2 cm and 1.8 x 1.2 x 0.4 cm. The specimen is
+submitted in toto.
+
+3A one node bisected
+
+3B one node
+
+30 fat
+
+4. The specimen container, labeled with the patient's name and as "left external iliac node",
+contains a piece of ﬁbrofatty tissue measuring 2 x 1 x 0.5 cm cm, received in 10% NBF. This
+contains 2 lymph nodes measuring 1.8 x 1.4 x 0.6 cm and 1 x 0.8 x 0.2 cm . lntraoperative
+consultation performed on a frozen by quick section. The specimen is submitted in toto.
+4A-4B bisected node frozen section
+
+4C node
+
+4D one node
+
+5. The specimen container, labeled with the patient's name and as "left obturator", contains a
+piece of fibrofatty tissue measuring 3.5 x 2 x 0.8 cm, received in 10% NBF. This contains 3 lymph
+node measuring 0.3 x 0.2 x 0.2 cm to 1.2 x 1 x 0.4 cm . The specimen is submitted in toto.
+
+5A 2 nodes
+
+SB two nodes
+
+50 multiple small nodes
+
+6. The specimen container, labeled with the patient's name and as "right external iliac node",
+contains a piece of fibrofatty tissue measuring 3.8 x 2.2 x 1.6 cm, received in 10% NBF. This
+contains 3 lymph node measuring 0.3 x0.3x0.3 to 1.6 x 0.7 and 0.4 cm . The specimen is
+submitted in toto.
+
+6A 2 nodes
+
+GB one node bisected
+
+6C-6D fat and three nodes
+
+7. The specimen container, labeled with the patient's name and as "right obturator", contains a
+piece of fibrofatty tissue measuring 5 x 1.3 x 0.9 cm, received in 10% NBF. This contains 3 lymph
+node measuring 0.4 x 0.3 x 0.2 to 2.2 x 1.2 x 0.8 cm . The specimen is submitted in toto.
+
+7A 2 nodes
+
+7B one node bisected
+
+70 three nodes and fat
+
+8. The specimen container, labeled with the patient's name and as "left paraortic node", contains
+a piece of fibrofatty tissue measuring 1.8 x 1.5 x 0.9 cm, received in 10% NBF. This contains one
+lymph node measuring 1.7 x 0.5 x 0.3 cm . The specimen is submitted in toto.
+
+8A 4 nodes, bisected
+
+88 remaining fat and three nodes
+
+9. The specimen container, labeled with the patient's name and as "right paraaortic node",
+contains a piece of fibrofatty tissue measuring 3 x 1.4 x 1 cm, received in 10% NBF. This contains
+multiple lymph nodes, the larger measuring 1 x 0.5 x 0.4 cm and 2 x 0.9 x 0.5 cm . The specimen
+is submitted in toto.
+
+9A 2 node
+
+QB one node bisected
+
+QC fat
+
+Quick Section Diagnosis
+
+4A,B. Lymph node, left external iliac: Negative for malignancy.
+
+Slide received:
+OR called:
+
+MD
+
+ 
+

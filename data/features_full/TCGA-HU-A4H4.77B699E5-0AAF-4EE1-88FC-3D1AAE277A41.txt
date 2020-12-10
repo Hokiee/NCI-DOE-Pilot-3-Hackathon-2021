@@ -1,0 +1,160 @@
+UUID: 773699E5- BAAF- 4EE1A 8:5:- 3D1AAE277M
+TCGA- HU- A4H4-01Ae1d
+
+III IIIIIIIIIIIIIIIIIIII I ll IIIII
+
+IIIIIIII||I||I|IIIIIII|IIIIIIII|III |
+IIII I II I I l IIIIIIII II I I IIIIIIIIII I IIIIIII
+
+DIAGNOSIS:
+
+Stomach, distal gastrectomy:
+
+— ADVANCED GASTRIC CARCINOMA, SINGLE, LOWER THIRD OF STOMACH,
+ANTRUM ALONG GREATER CURVATURE, AGC BORRMANN TYPE 3,
+TUBULAR ADENOCARCINOMA, POORLY DIFFERENTIATED, MIXED TYPE,
+7.5 x 4.5 x 1.0 cm,
+
+with
+
+1) invasion to proper muscle
+
+2) no Involvement of distal and proximal resection margins
+
+( distance to margin: distal, 0.5 cm;
+
+proximal, 5.0 cm ).
+
+3) Iymphovascular invasion: not identified.
+
+4) perineural invasion: not identiﬁed.
+
+5) METASTASIS'IN 4 OF 21 LYMPH NODES ( 4/21 )
+
+( largest metastatic tumor size: 2 mm, it b- 0 ’ 3
+with extranodai extension: 0.3 mm ). W W‘ Wu) ? 3~I|I3
+$541.1 SM‘ MW L tb.3
+lug/97]!"
+<Acldendum>
+
+Final diagnosis: Stomach Intestinal Adenocarcinoma, Tubular Type P“ elm {PW I», TSS.
+
+Dis «liawews {M‘W’
+M
+”19/1L
+
+Narm x24 g‘vtr 1'55 Jerudslud’
+
+ 
+   
+
+n
+i'rimarvi’uuvm vsit com“, "Y
+HIPAA Disae "esp ncyh
+
+ 
+
+   
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (TSS): Stomach adenocarcinoma
+Completed By
+
+ 
+
+ 
+
+ 
+
+ 
+
+# Data Element Entry Alternatives Working Instructions
+Patholo ic Dia nosis ' Provide the diagnosis/ histologic subtype[s)
+
+1 Provide; an IEitiaI Mixed Stomach Tubular doctunented on the initial pathology report for this
+P th I R Adenocarcinoma case. If the histology for this case is mixed, provide
+
+a 0 Day eport all listed subtypes.
+
+Histologic features of
+
+2 the sample provided Stomach Intestinal Adenocarcinoma, Provide the histologic features selected on the TCGA
+for TCGA, as reﬂected Tubular Type Case Quality Control Form completed for this case.
+on the CQCF
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In the original pathology report [for
+rthe whole resected s ecimen , this
+Provide the reason p I
+for the discrepancy tumor Is described as a mixed type Provide a reason describing why the diagnosis on the
+3 between the tumor. Review Of TCGA sample top initial pathology report for this case is not consistent
+pathology report and slide identiﬁed that this tumor is with the diagnosis selected on the TCGA Case Quality
+I F
+the TCGA Case 501er composed of an stomach comm arm"
+Quality Control Form.
+adenocarcinoma, tubular type and the
+addendum was created as such.
+Name of 1'55
+4 Reviewing Pathologist Provide the name of the pathologist who reviewed this
+or Biorepository case for TCGA
+Director
+
+ 
+
+ 
+
+ 
+
+InchinwledgetlmMohaveinfomﬂonpmvtdedhynyinsumuonBmzaMcorreetar-dhasbeenquamymna-oned.
+
+ 
+
+ 
+
+TSS Reviewing Pathologist or Biorepository Director Date
+
+I acknowletbe that the above lnfonmﬂ'on provided lay my Instimdon Is one and conm and has been quality controlled The Attending
+PadlomtstortheDeparmrentChalmhasbeeninfonnedorisawareafdnabovedimepanqindtmnm
+
+ 
+
+ 
+
+Principal Investigator Signature Date
+

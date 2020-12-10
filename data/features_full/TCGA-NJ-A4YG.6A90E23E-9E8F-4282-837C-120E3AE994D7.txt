@@ -1,0 +1,472 @@
+UUID: GABOEHE-SESF4282-837C-128E3A5994ng
+TCGA- NJ- A4YG- 01A- PR
+
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIICIIIced
+IIIIIIII|IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+III IIIIIIIIIIIIIIII|||||||II|I||||||||||I|lII|I|||||||||l|| IIIII
+
+Procedure Location:
+
+PATHOLOGY SURGICAL
+
+ResuIts
+
+Entry Date
+
+ILb’O/b
+
+PAIN WWW NOS P/VJ/E
+0520‘: WWW (411“me WW” 9954}
+
+SM») IUNg, Wm, 1;)th
+
+,0/31/12—
+
+Component Results
+
+PATHOLOGY RESULT:
+
+Department of Pathology
+
+Final
+Clinical Data Repository* This report may not match the original report
+
+format
+
+FINAL DIAGNOSIS
+A. (Lymph node, level 10; biopsy): Fragments of lymph node, negative for
+
+malignancy.
+
+B. (Lymph node, level 11; biopsy): Fragments of lymph node, negative for
+
+malignancy.
+
+C. (Lung, left upper lobe; lobectomy): Infiltrating moderately differentiated
+adenocarcinoma measuring 1.9 cm, with extension to the visceral pleura.
+Bronchial and vascular margins free of tumor. Five perihilar lymph nodes
+negative for malignancy. No convincing lymphovascular invasion seen. Stage
+
+pTZNOMX.
+
+D. (Lymph node, level 5; biopsy): Fragments of lymph node, negative for
+
+malignancy.
+
+E. (Lymph node, level 6; biopsy): Fragments of lymph node, negative for
+malignancy.
+F. (Lymph node, level 10R; biopsy): Fragments of lymph node, negative for
+
+malignancy.
+
+INTRAOPERATIVE CONSULTATION
+C. LEFT UPPER LOBE- FROZEN BRONCHIAL MARGIN: Adenocarcinoma. Bronchial
+
+margin is negative for malignancy. (Frozen section C91, C92, touch prep and
+
+smear)
+
+GROSS DESCRIPTION
+A. The specimen is labeled level 10 lymph node. Received fresh is a 0.5 x
+0.4 x 0.3 cm segment of black fibrofatty tissue. The specimen is entirely
+
+submitted in cassette A1.
+
+B. The specimen is labeled level 11 lymph node. Received fresh are multiple
+fragments of blackish-pink tissue, altogether measuring 0.5 x 0.4 x 0.3 cm.
+
+The specimen is wrapped and entirely submitted in cassette Bl.
+
+C. The specimen is labeled left upper lobe. Received fresh for frozen
+
+section, is a 220 gram, 18.0 x 9.0 x 3.0 cm lobectomy specimen with a 4.0 cm
+stapled margin. A 1.9 x 1.8 x 0.8 cm tan, firm mass is seen in the central
+portion of the lobe with retraction of the pleural surface. A representative
+section of the mass is submitted for frozen section, and the remnant is placed
+in cassette C92. The bronchial margin is submitted for frozen section and
+
+the remnant is placed in cassette C91. The remainder of the lung is serially
+sectioned and shows patchy pale areas, but no lesions or masses. Sections are
+submitted as follow: C1 vascular margins, C2 perihilar lymph nodes, C3
+
+tumor and adjacent lung, C4 tumor, C5 uninvolved lung, C6 stapled margin.
+
+D. The specimen is labeled level 5 lymph node. Received fresh is a fragment
+of fibrofatty tissue, measuring 2.0 x 1.0 x 0.5 cm. The specimen is entirely
+
+Submitted in cassette D1.
+
+E. The specimen is labeled level 6 lymph node. Received fresh are multiple
+fragments of fibrofatty tissue, altogether measuring 0.8 x 0.3 x 0.3 cm. The
+
+specimen is entirely submitted in cassette E1. '
+
+F. The specimen is labeled level 10R lymph node. Received fresh is a 0.6 x
+0.5 x 0.3 cm fragment of ﬁbrofatty tissue. The specimen is bisected and
+
+submitted in cassette F1.
+
+SPECIMEN(S) RECEIVED
+
+A: LEVEL 10 LYMPH NODE
+
+B: FRESH ROUTINE LEVEL 11 LYMPH NODE
+
+C: LEFT UPPER LOBE‘ FROZEN BRONCHIAL MARGIN
+D: LEVEL 5 LYMPH NODE- FRESH ROUTINE
+
+E: LEVEL 6 LYMPH NODE-FRESH ROUTINE
+
+F: FRESH ROUTINE - LEVEL 10R LYMPH NODE
+
+* The above listed tests (if any) were developed and the performance
+
+characteristics determined _ . These tests have
+
+not been cleared or approved for commercial use by the US. Food and Drug
+Administration. The FDA has determined that FDA review is not required for
+
+such in-house assays.
+
+OPERATIVE INFORMATION
+
+DIAGNOSIS: LUNG MASS; PROCEDURE: BRONCHOSCOPY FLEXIBLE FIBEROPTIC,
+
+THO RACOSCOPY VI D EO ASSISTED
+
+INTRADEPARTMENT CONSULTATION PATHOLOGIST: QA COMMITTEE
+
+ICD-9(s): .
+
+The attending pathologist was physically present when this specimen was
+
+diagnosed, and actively participated in all key decisions.
+
+Lab and Collection
+
+PATHOLOGY SURGICAL , _ , - Lab and Collection Information
+
+Pathology
+
+Procedure Location:
+
+bx (143%qu In» WM .
+I ' _
+, Ifmmwjlf”; I“
+
+‘_V_I'_‘§'r.lerhlnLV
+
+mm-
+IQ. . ——
+
+ 
+
+   
+
+  
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+L.—.......~._~_._.... l
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ru-
+
+ 
+
+ 
+
+ 
+
+IW The
+
+ 
+
+t
+
+documented on the initial pathology report
+Case Quality Control Form completed for th
+
+TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pa thologic diagnosis
+for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+
+is submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (T88);
+
+T88 identiﬁer:
+
+Completed By (Interviewer Nameon OpenClinica): _
+
+ 
+
+ 
+
+ 
+
+ 
+
+@gxxosis Information
+
+ 
+
+TSS Unique Patient Identifier;
+
+“WCompieted Date: __«
+
+i..__........._ _.._~
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+if Data EIElﬂint
+Pathologic: Diagnosis
+Provided on Initial
+Pathology Report
+
+ITTM' MT"
+
+31,, 51min? njudcmky dr‘FFctmi‘iizi/d
+
+Admvcomnoma 501M cxlmnim {o
+Mt n‘raral Pleura-
+
+ 
+
+ 
+
+ 
+
+i
+l
+‘ l
+
+; H istologic features of
+I 7 the sample provided
+I T for ‘I‘CGA, as reﬂected
+L j on the CQCF.
+
+ 
+
+ 
+
+I no '1 We?)
+
+I Entry Alternatives
+
+T..........
+
+ 
+
+Working Instructions
+Provide. the diagnosis/l histolo‘gic subrypd‘s) documented on
+rim Inio‘nl pathology mm for this case; I i ti: o. histology for
+this case is mind, provide all listed subtypes.
+
+Provide the liisrologic features selected on the TCGA Case
+Quality Control Form completed for this case.
+
+ 
+
+ 
+
+l
+
+f
+l
+l
+l
+
+ 
+
+ 
+
+[Discrepancy betWeen Pathology Re
+
+ 
+
+port and Case Quality Control Form
+
+ 
+
+I 3 Provide the reason for
+g the discrepancy
+l between the pathology
+
+I
+report and the 'I‘CGA
+Form.
+
+ 
+
+Case Quality Control
+
+ 
+
+Pitt/La lbwf' Lee/4 m: l." 14H”
+
+ 
+
+Provide a reason describing why the diagnosis on the initial I
+
+pathology report for this case is not consistent with the
+diagnosis selected on the. ’l’CITaA Case Quality Control Form.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name of ’I‘SS Reviewing
+PathoIOgist or
+Biorepository Director
+
+I
+
+i;
+(I
+I
+II
+is)
+
+ 
+
+ 
+
+ 
+
+ 
+
+l
+
+ 
+
+Provide the name of the pathologist who reviewed thls case 5
+for TCGA.
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above information provided by my institution Is true and correct and {ms been quality controlled
+
+TBS Reviewing Pathologist or Bun—e
+
+I acknowledge that. the above mini-million provided b y my insulation is true and correct and has been quality controller]. Ti:
+Department Chairman has been informed or is aware ofth
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pository Director
+
+__~._M_1W___._~__ .. _ __ .
+
+Bate I 1
+
+e A trending Pathologist or the
+
+a above discrepancy In diagnoses.
+
+Date
+

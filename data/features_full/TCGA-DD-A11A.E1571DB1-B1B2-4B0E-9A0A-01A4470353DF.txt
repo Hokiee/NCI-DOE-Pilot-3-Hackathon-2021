@@ -1,0 +1,204 @@
+. . /d.b/0/}
+4W, www.mm ma/a
+5m: MW @490 I/M/H /./
+
+. Patient Key.
+Surgical date: .
+
+TISSUE DESCRIPTION:
+
+3 A1 A2 Bl 32 BS 54 BS BS B? BB B9 310 Bil C1 D1 E1 E2
+Left lobe of liver [1425.0 grams, 17.0 x 14.0 x 11.0 cm],
+gallbladder (8.5 x 1.2 cm) and, separately submitted, common hepatic
+artery, supra—duodenal and retro choledochal lymph nodes
+
+DIAGNOSIS:
+
+Liver, left lobe, partial hepatectomy: Grade_ 3 (of 4]
+hepatocellular carcinoma 15 identified forming a single encapsulated
+14. 0 x 10. 0 x 8.0 cm well— circumscribed tumor confined to the liver.
+The margins of resection are negative for tumor (tumor free margin
+is 3.0 cm]. Extra—tumoral vascular invasion is not identified. The
+non—neoplastic liver will be evaluated and reported in an addendum.
+
+Gallbladder, cholecystectomy: Acute and chronic serositis. No gall
+stones are identified.
+
+Lymph nodes, common hepatic artery and retro choledochal, excisions:
+Multiple [2 common hepatic artery and 1 retro choledochal] lymph
+. nodes are negative for tumor, both specimens.
+
+Soft tissue, supra duodenal region, excision: Tissue submitted as
+supra duodenal lymph node shows benign fibroadipose tissue. No
+lymph node is identified.
+
+UUID: E157IDB1- 5132— 450E- SAOA- 01A4470353DeFd
+TCGA- DD- A11A- 01A- PR
+
+ 
+
+/C£«0«3
+
+KWIWMam/Ms 3,743
+Sift; W (3,412.0 l/J‘f/II W
+
+Patient Key:
+Surgical date:
+
+TISSUE DESCRIPTION:
+
+. A1 A2 Bl BZ Ba Ba BS HE B? B8 B9 310 E11 C1 D1 E1 E2
+Left lobe of liver (1425.0 grams, 17.0 x 14.0 x 11.0 cm),
+gallbladder (5.5 x 1.2 cm) and, separately submitted, common hepatic
+artery, supra—duodenal and retro choledochal lymph nodes
+
+DIAGNOSIS:
+
+Liver, left lobe, partial hepatectomy: Grade 3 (of 4)
+hepatocellular carcinoma is identified forming a single encapsulated
+14.0 x 10.0 x 8.0 cm well—circumscribed tumor confined to the liver.
+The margins of resection are negative for tumor (tumor free margin
+is 3.0 cm). Extra-tumoral vascular invasion is not identified. The
+non—neoplastic liver will be evaluated and reported in an addendum.
+
+Gallbladder, cholecystectomy: Acute and chronic serositis. No gall
+stones are identified.
+
+Lymph nodes, common hepatic artery and retro choledochal, excisions:
+Multiple (2 common hepatic artery and 1 retro choledochal] lymph
+nodes are negative for tumor, both specimens.
+
+Soft tissue, supra duodenal region, excision: Tissue submitted as
+supra duodenal lymph node shows benign fibroadipose tissue. No
+lymph node is identified.
+
+Liver - Digestive System CAP Approved
+
+* Dtttu elements with asterisks are not required for accreditation purposes for
+the Commission on Cancer. These elements may be clinically important,
+
+but are not yet validated or regularly used in patient management.
+Alternatively. the necessary data may not be available to the pathologist
+
+at the time of pttthologic ussassment of this specimen.
+
+LIVER: Resection - .
+Patient name: (to be tie-identiﬁed) Pat/Tl 9/11- K33 ‘
+Surgical pathology number:
+‘SutLjery bat ‘.
+
+MACROSCOPIC
+Specimen Type
+__ Right lobcclomy
+__ Extended right lobectomy
+
+Medial scgmcntectomy
+Z Leil lateral segmentcctomy
+__ Total left lobectomy
+__ Ex planted liver
+__ Other (specify):
+_ Not speciﬁed
+F0 'ty _ Lei-(pf ( o Eb
+__ Solitary (speCIfy location):
+___ Multiple (specify location):
+Tumor Size 0
+Greatest dimension: i__ cm
+'Additionttl dimensions: M x 8:) cm
+__. Cannot be determined (see Comment)
+MICROSCOPIC
+H” ologic Type
+_ Hcputocellulnr carcinoma
+__ Fibrolamellttr heputocellulnr carcinoma variant (specify):
+__ Combined heputoeellular and cholimgiocnrcinoma
+~,__ Cholungiocufcinoma, intrahepatic
+__ Bile duct cystudenocareinoma
+___ Undifferentiated carcinoma
+__._ Other (specify):
+__ Carcinoma. type cannot be determined
+Histologic Grade
+__ Not applicable
+__,__ GX: Cannot be assessed
+__ GI: Well differentiated
+
+Gil: Moderately differentiated
+ZULU: Poorly differentiated
+_ GIV: Undifferentiated/zmaplustic
+_,__ Olhcr (specify):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+page la] 3
+
+Pathologic Staging (pTNM)
+Primary Tumor (pT)
+_ pTX: Cannot be assessed
+747"): No eVidencc of primary tumor
+__ p'I‘l: Solitary tumor with no vascular invasion
+__ p'l'2: Solitary tumor With Vascular invasion or multiple tumors none more than 5 cm
+__ 9T3: Multiple lumors more than 5 cm or tumor involving a major branch of the portal
+or hepatic Vcin(s)
+_ pT4: Tumor(s) with direct invasion o i' adjacent organs other than the gallbladder or
+perforation of viSccral peritoneum
+Regional Lymph Nodes (pN)
+VPNX: Cannot be assessed
+pNO: No regional lymph node metastasis
+____ le: Regional lymph node metastasis
+Specify: Number examined:
+Number inVoivcd: D_
+Dis nt Metastasis (pM)
+.__. pMX; Cannot be assessed
+__ le: Distant metastasis
+*Specify sitets), if known:
+
+ 
+
+Margins (check all that apply)
+Parcnchy mal Margin
+
+Cannot be assessed
+EZ Uninvolved by invasive carcinoma 7 0 0
+Distance of invasive carcinoma from closest margin. _1 mm
+Specify margin:
+_ involved by invasive carcinoma
+Bile Ddct Margin (Cholangiocarcinoma Only)
+__ Cannot be assessed
+__ UninVOlved by invasive carcinoma
+*_ Carcinoma in situ absent
+*_ Carcinoma in situ present
+__ lmmlved by invasive carcinoma
+Other Margin
+Specify margin:
+__ Cannot be assessed
+__ Uninvolved by invasive carcinoma
+_ Involved by invasive carcinoma
+*Venomi (Large Vessel) Invasion (V)
+"'_ Absent
+* Present
+"' Indeterminate
+*Ad itional Pathologic Findings (check all that apply)
+*_ None identiﬁed
+*_ Hepatocellular dysplasia
+*_ Ductal dys‘plasia
+*_ Cirrhosis/ﬁbrosis
+"'___ iron overload
+*_ Hepatitis (specify type):
+*_ Other (specify):
+
+ 
+
+ 
+
+ 
+
+ 
+
+F31"
+

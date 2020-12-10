@@ -1,0 +1,134 @@
+$20?”- RD '0 'IB VZIII3
+,W
+
+Specimen Date/Time: WMS 9140/3
+4,5: WW 4/513
+DIAGNOSIS S
+
+y x '-'
+z 3" “7"“? a; 4.10.5
+mm
+(A) ESOPHAGUS. 34 CM, BIOPSY: g)
+
+Small focus of atypical glands with crush artifact. at least high-grade dysplasia. 9") WAS/,5
+Squamous mucosa with chronic inﬂammation.
+
+(B) ESOPHAGUS. TUMOR, BIOPSY:
+ADENOCARCINOMA, MODERATELY DIFFERENTIATED ASSOCIATED WITH SQUAMOUS MUCOSA.
+
+GROSS DESCRIPTION
+
+(A) BIOPSY AT 34 CM — Four pale gray soft tissue fragments, 0.5 x 0.4 x 0.3 cm in aggregate. Entirely submitted in A.
+(B) TUMOR - Multiple pink-gray soft tissue fragments. 0.8 x 0.4 x 0.4 cm in aggregate. Entirely submitted in B.
+
+CLINICAL HISTORY
+Esophageal cancer.
+SNOMED CODESV
+
+"Some tests reported here may have been developed and performance characteristics determined by These tests have not been
+speciﬁcally cleared or approved by the US. Food and Drug Administration."
+
+Entire report and diagnosis completed by:
+------ END OF REPORT-----—
+
+UUID : SFFIDAAF- BOE7-4D72- 5255 -456136EA4B75
+TCGA-RS -A707-91 -
+
+A PR Redacted
+I lliiiIlllliliillilililllllillli IIlilllllllllillllllllilllillll
+
+H
+"II Illlllllll |l|||l|l llllllll II ”III" llllllll l I III
+Iii lIIillllillllIllllllliIiillllllllllllliiil iliillllIIiIIlIlil
+
+Kai/735, 0* ”Wm? WM”
+J‘Mw [ream W40 5"
+meW WW Mil/L
+
+ 
+
+  
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I
+[la y/J/I) Yes ' Na
+D repalcy ' ' Z
+lSLTEDHJIKV __ A/ I.
+/
+'(llislorv g 4 A
+rimaryrloled
+——m I DISQUAIJFIED
+
+ 
+
+,- % I UJIe Remwadg q ‘%3___
+r' I ‘l
+
+Page 1 of 1
+
+TCGA Pathologic Diagnosis Discrepancy Form 4.05
+
+fStudy Subject
+
+gID:
+
+Estudy/ Site: TCGA Stomach adenocarcinoma
+i adenocarcinoma)
+
+Event: PathDiscrepancy
+Interviewer:
+
+Tumor Identifier Provided on Initial Case
+Quality Control Form
+
+Pathologic Diagnosis Provided Moderately diff
+on Initial Pathology Report adenocarcinoma
+
+:Person ID: N/A:
+
+E
+l ,
+i
+
+(Stomach :Age: N/A:
+E :
+EDate of
+Birth:
+ESex: M
+
+Provide the tumor identiﬁer documented on the initial case
+quality control form for this case.
+
+Provide the diagnosis/ histologic subtype(s) documented on the initial
+pathology report for this case. If the histology for this case is mixed,
+provide all listed subtypes.
+
+Histologic features of the sample provided Intestinal Adenocarcinoma Provide the histologic features selected on the TCGA
+for TCGA, as reflected on the CQCF Tubular Type Case Quality Control Form completed for this case.
+
+Discrepancy between Pathology Report and Case Quality Control Form
+
+Provide the reason for the The pathologists at do not Provide a reason describing why the diagnosis on
+discrepancy between the pathology aiways use the gastric cancer the initial pathology report for this case is not
+report and the TCGA Case Quality classiﬁcation as intestinal and diffuse consistent with the diagnosis selected on the
+Control Form (which is so as per TCGA). TCGA Case Quality Control Form.
+
+Name of TSS Reviewing Pathologist or Biorepository Provide the name of the pathologist who reviewed this case
+Director for TCGA.
+

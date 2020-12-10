@@ -1,0 +1,143 @@
+  
+ 
+
+ 
+
+TCGA Pathology Reports
+—
+
+  
+ 
+
+Asterand Case ID Open Clinica TCGA Gross Description
+Subject ID
+
+ 
+
+Labeled left lingular. Received fresh for
+intraoperative consultation is
+
+a stapled 5.7 x 3.6 cm wedge biopsy of
+lung tissue containing a 2.4 x 1.5
+
+cm stellate firm tan-white subpleural
+mass which causes puckering of the
+overlying pleura. The mass comes to
+within 1.2 cm of the stapled margin.
+The background lung tissue is soft, tan-
+pink and without other lesions
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Microscopic Description
+
+Diagnosis Details
+
+Formatted Path Report
+
+ 
+
+Permanent sections confirm the
+frozen section diagnosis. The
+tumor is
+
+invasive squamous cell
+carcinoma that is moderately
+differentiated. There
+
+is prominent intracellular
+bridging and focal
+keratinization.
+
+ 
+
+LUNG CARCINOMA
+CHECKLIST
+
+1. Tumor Type:
+Squamous cell
+carcinoma.
+
+2. Tumor grade:
+Moderately
+differentiated.
+
+3. Tumor location: Left
+lingula.
+
+4. Tumor size: 2.4 cm.
+5. Angiolymphatic
+invasion: No.
+
+6. Bronchial margin:
+N/A.
+
+7. Pleural involvement:
+Subpleural.
+
+8. Lymph nodes: 0
+positive out of 1 found.
+9. Size of largest
+metastatic deposit: N/A
+cm.
+
+10. TNM: T1b N0 MX.
+
+ 
+
+LUNG TISSUE CHECKLIST
+
+Specimen type: Wedge
+resection, lobectomy
+
+Tumor site: Lung
+
+Tumor size: 2.4 x1.5 cm
+Histologic type: Squamous cell
+carcinoma
+
+Histologic grade: Moderately
+differentiated
+
+Tumor extent: Not specified
+Other tumor nodules: Not
+specified
+
+Lymph nodes: 0/1 positive for
+metastasis (Ap window lymph
+node 0/ 1)
+
+Lymphatic invasion: Absent
+Venous invasion: Absent
+Margins: Not specified
+Evidence of neo-adjuvant
+treatment: Not specified
+Additional pathologic findings:
+Not specified
+
+Comments None
+
+ 
+
+ 
+
+Date of Procurement
+
+ 
+
+ 
+
+ 
+

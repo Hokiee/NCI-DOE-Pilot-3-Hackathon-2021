@@ -1,0 +1,143 @@
+Sample Number
+
+UUID: 3F93AE77-BCC1-45CE-BSBC-lEDBSCOOIAlead
+TCGA- 63-A5MJ-91A-P
+
+|II||||||lI|II|II|lII||II||||||||||||||IIIIII|||||||||||I
+lIIIIIIIIIIII IIIIIIIIIIIII IIII IIIIIIIIIIIIIlIIIlI IIIIIIIIIIII
+|IIII|||I||I|II|II|I||I|I|I||||||||||IIII||||I|II|III|II|
+
+acted
+III
+I
+I
+
+Sample Type TUMOUR
+
+ 
+
+Diagnosis
+
+Squamous Cell Carcinoma, Not Otherwise Specified (NOS)
+
+ 
+
+Year of Sample Collection
+
+ 
+
+Age at Sample Collection (yrs)
+
+ 
+
+Days to Procedure Date
+
+ 
+
+Days to Diagnosis
+
+ 
+
+ 
+
+ 
+
+Type of Procedure RESECT
+Site of Tissue/Primary (Histology) Left Lung, NOS
+Tumour Size (cm) 6
+
+ 
+
+Histology
+
+Squamous carcinoma
+
+ 
+
+Grade/Differentiation
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pathological T T2,NDS
+Pathological N N1
+Clinical M MO
+VALCSG Stage
+
+ 
+
+ 
+
+Histology Comments
+
+ 
+
+Tumour located at hilum, predominantly involves upper
+lobe and does not'appear to extend to the lower lobe.
+
+ 
+
+ 
+
+Sample Number
+
+Sample Type BUFFY
+
+ 
+
+Year of Sample Collection
+
+ 
+
+Age at Sample Collection (yrs)
+
+ 
+
+Days to Procedure Date
+
+ 
+
+ 
+
+Days to Diagnosis
+
+ 
+
+ 
+
+ 
+
+ 
+
+ICE—(5’3
+Cara mom ad I 821 7235
+5'41 ,ZZJ‘J, @L HI/LI—MA €340
+ago: (9/, M03 43¢?
+
+6% D 4/11/1d
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+. Later: M
+' ’ '__‘ ‘_>VDI UNI: _‘
+ale Rem
+

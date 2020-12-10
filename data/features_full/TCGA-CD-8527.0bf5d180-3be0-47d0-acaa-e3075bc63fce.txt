@@ -1,0 +1,517 @@
+Name of Physician or Study Coor 1nator
+
+Clinical Information
+
+Clinical Findings:
+
+Performance Scale (Karnofsky Score):
+El 60-70 Symptomatic, in bed less than 50% of day
+
+a 100 Asymptomatic [a 80-90 Symptomatic but Fully Ambulatory
+a 40-50 S m tomatic, in bed more than 50% of da , but not bed ridden E] 20—30 Bed Ridden
+
+URRENTi MEDICATION
+
+ 
+
+ 
+
+ 
+ 
+  
+
+Disease
+
+Status
+CI Pre-menopausal
+El Peri-Menopausal
+Post-menopausal
+
+  
+  
+
+PAST'MEDICAL’ HISTO
+Disorder
+
+   
+
+Date
+
+Date of First Menses
+(
+
+of Last Menses
+6
+
+Birth Control: [I Condom [J Oral Contraceptive
+D Other:
+
+Current Status
+I: YES 0
+
+Current Status
+1:: YES 0
+
+Current Status
+El YES NO
+
+Relative
+
+Test Result
+
+HIV N D Positive:
+H B N El Positive:
+H C I] Positive:
+
+AFP D D Positive:
+
+Other:
+
+B/T Cell Markers:
+
+TYPE
+
+[1 Negative El Positive:
+
+Environmental Hazards:
+Smoki Histo
+
+  
+   
+  
+
+ 
+    
+
+Treatment
+
+ 
+
+Therapy:
+
+Packs Duration
+
+Alcohol Consum
+
+Drinks Duration
+
+Use
+
+Duration
+
+EJN
+El
+
+UN
+CIN
+
+El Negative
+
+Result
+
+El Positive:
+D Positive:
+CI Positive:
+El Positive:
+
+El Positive:
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+    
+   
+  
+
+  
+
+C STUD
+Results
+Ultrasound
+
+X-Ra
+
+CT
+Endosco
+MRI
+Bio
+
+  
+   
+ 
+    
+ 
+ 
+  
+  
+
+  
+
+Clinical
+Location of Involved L Nodes Location of Distant Metastasis
+
+Clinical
+T N M 0 Stage:
+
+ 
+
+Treatment Informationl
+
+ 
+
+Procedure
+
+Pri Tumor
+Detailed Location
+
+Extension of Tumor
+
+L Nodes
+Location of L Nodes Nodes
+
+Palpable, Non—Dissected Lymph Nodes
+Dissected Lymph Nodes
+
+Distant Metastasis
+Detailed Location
+
+Su ical S
+T N M e
+
+  
+
+ 
+
+I EOADJUVENT THERAPY (Chemo Radiation Immuno,Homional or Molecular) V ET.
+
+Dose Route Freguengy Date (mm/dd/yyyy)
+/ / To /
+
+ 
+
+ 
+
+____’___._..__-——
+/
+
+ 
+
+ 
+
+______________._.——
+/
+
+ 
+
+ 
+
+/ /
+/ /
+__________ //To/
+/ /
+
+____,__,,___.__———
+/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pathology Form
+
+Parafﬁn Block Blood/Serum/Plasma Slide
+
+Frozen
+Diseased Normal Diseased Normal
+
+Diseased Normal Diseased Normal
+
+e to Formalin Time to LN2
+‘ min
+
+Time to LN2
+
+Prima Tumor
+Size Extension of Tumor Distance to NAT
+
+g“ X X cm cm
+
+L Nodes
+Location # Examined # Metastasized
+
+Distant Metastasis
+Detailed Location
+
+Patho ical
+pT 2,. N M (9 Stage:
+
+{7% MM; Wezﬁﬂe)
+
+a
+
+ 
+
+ 
+
+     
+
+ 
+
+ 
+
+Microscopic Descripti
+
+ 
+
+Cell Distribution
+Diffuse
+Mosaic
+Necrosis
+L Inﬁltration
+Vascular Invasion
+Clusterized
+Alveolar Formation
+Indian File
+
+mous + - Adenomatous
+Cell Glandular cell
+Cell Cell Stratification
+Secretion
+Vacuole
+Gland formation
+Cellular Differentiation:
+
+Keratin
+Desmosome
+Peaﬂ
+
+Nuclear
+Aniso Nucleosis
+
+Nucleolar Prominent
+Multinucleated Giant Cell
+Mitotic
+
+  
+
+Structural Pattern
+Streami
+Storiform
+Fibrosis
+
+Calciﬁcation
+
+Sarcomatous + - L
+Round Cell Cell
+Fibroblast Small Cell
+Osteoblast RS Like
+Inﬂam. Cell
+Plasma Cell
+
+Well Moderate Poor
+
+II
+
+Nuclear Grade:
+
+Result
+
+El Positive
+El Positive
+El Positive
+:1 Positive
+1: Positive
+1: Positive
+r3 Positive
+
+Marker
+ER ve
+pR ve
+
+Her- neu '
+B-Cell Marker
+T-Cell Marker
+
+Other:
+Other:
+
+ 
+
+ 
+
+' al Patholo
+
+Reo
+
+ 
+
+I. Histological pattern.-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. . CELL DISTRIBUTION + - STRUCTURAL PATTERN + -
+D'ffuse * x Streaming
+M053” ll Storiform
+Necrosis k' Fibrosis
+Lymphocytic Inﬁltration A! , Palisading
+Vascular Invasion ' Cystic Degeneration
+Clusterized i3! Bleeding
+Alveolar Formation M Myxoid Change
+Indian File 3! Psammoma/Calciﬂcation
+
+2. Cellular features:
+
+Squamous + - Adenomatous + - Sarcomatous + - Lymphomatous + -
+Squamoid Cell Glandular cell a! Round Cell Cell
+Spindle Cell Cell Stratiﬁcation M Fibroblast Small Cell .
+Keratin Secretion X Osteoblast RS Cell/RS Like
+Desmosome lnlmcyt. Vacuole X . Lipoblast lnﬂam. Cell
+Pearl Gland formation Myoblast Plasma Cell
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Otherwise Speciﬁed: P] 715% P53] 7a?
+
+ 
+
+DZ 7H bfrmy
+
+ 
+
+2. Cellular Di eremiation:
+
+ 
+
+Well
+
+Poor
+
+ 
+
+ 
+
+ 
+
+Moderately
+i5?
+
+ 
+
+ 
+
+ 
+
+3. Nuclear
+
+Nucleosis
+
+Nucleolar Prominent
+
+Mitotic
+
+Nuclear
+
+Giant Cell
+
+Nuclear Grade
+
+istolo ical Dia osis: gray/«C49 WMW
+
+ 
+
+ﬁlm (JNMWW La”;
+
+   
+

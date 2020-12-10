@@ -1,0 +1,222 @@
+ 
+
+Rat. Source:
+
+glinical Diagnosis & History:
+
+be=§§lv1 I vr .
+
+Date of Procedure:
+
+Date of Receipt:
+
+Date of Report:
+
+Account It: “-
+Billlng Type: INPATIENT
+
+Additional Copy to:
+
+year old female with left thyroid nodule status post FNA positive for papillary thyroid CA.
+
+Specimens Submitted:
+1: Total thyroldectomy
+
+2: Delphian node
+3: Additional Delphian node
+4: Right paratracheal tissue
+
+UUID: A65C7099- BOAE- ~46C3- AF
+TCGA DJ A2Q3 pAi- -691COEBODA3eCd
+
+IIllIIIlIIIlIlIIllIIIIIIQlIIIIIIIII dam"
+IIIl IHIII HlIIIIIlIIIIlIlIIIlIl lIIlIIII'IIIIIIIIIIIIII'I'IIIIIIIIIRle “I I"
+
+IllIIIlIlIIIlIIlIIlllIIIIlI IIIIlIlHIlIIlIlIlIIIIl II ”III
+
+l
+I
+l
+
+=_———
+
+I
+I
+
+ 
+
+DIAGNOSIS:
+1. Total thyroldectomy:
+Tumor Type:
+Papillary carcinoma, tall cell variant
+
+Mitotic Actlvlty:
+Not identiﬁed
+
+Tumor Necrosis:
+Not identiﬁed
+
+Other Tumor Features:
+Marked stromal reaction
+
+Tumor Location:
+Left lobe
+
+Tumor Size:
+Greatest diameter is 0.8 cm.
+
+Tumor Encapsulation:
+None Identiﬁed
+
+Blood Vessel Invasion:
+Not identiﬁed
+
+Extrathyroid Extension:
+
+/CA'0’3
+M ~// ,wwvw‘w/
+c ’Pth W6 yaw/3
+52ft: {Wdl N’5 673. ?
+War/u
+
+lnvades:perithyroidal sott tissue and focally skeletal muscle
+
+Surgical Margins:
+Free of tumor
+
+Tumor Muiticentn‘city:
+Not identiﬁed
+
+Adenoma(s) (away from the carcinoma):
+Not Identified
+Non-Neoplastic Thyroid:
+
+ 
+
+Page 1 of 3
+
+Exhibits nodular hyperplasia
+
+Exhibits chronic Iymphocytic thyroiditis
+Parathyroid Glands:
+
+Not identified
+
+Lymph Nodes:
+Perinodal (extracapsular) extension not identiﬁed
+One of two lymph nodes are positive for metastatic thyroid carcinoma (1/2). The involved lymph node measures
+0.55 cm and the metastatic focus measures <0.1 cm
+
+ 
+
+2. Delphian node:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 1
+
+ 
+
+3. Additional Delphian node:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 2
+
+ 
+
+4. Right paratracheal tissue:
+Lymph Node Dissection:
+Benign lymph nodes
+Number of lymph nodes examined: 1
+
+ 
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/OR OTHER MATERIAL). AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT.
+
+‘** Report Elecuonic'ale Signed Out "*
+
+ 
+
+Special Studies:
+
+Result Special Stain Comment
+THYROG
+lMM RECUT
+NEG CONT
+
+Gross Description:
+
+1. The specimen ls received fresh, labeled "total thyroidectomy" and consists of a total thyroideclomy, measuring as follows: right
+lobe 5.0 x 2.9 x 0.6 cm; the leﬂ lobe 4.6 x 2.3 x 0.7 cm and the isthmus 1.0 x 0.3 x 1.3cm. The extemai surface is covered by a thin
+fibrous capsule. The posterior surface of the specimen is inked black, and the anterior is inked blue.
+
+Sectioning reveals a single nodule in the left lobe of the thyroid. in the upper pole, 0.7 x 0.8 x 0.6cm, with a white-yellow ﬁrm cut
+sagas: d Sections through the remaining tissue reveal red tan and beefy parenchyma. TPS is submitted. The entire thyroid is
+
+su m: e .
+
+Summary of sections:
+
+N - Left thyroid, upper lobe. nodule, entirely submitted
+RL - right lobe, remainder
+
+LL - left lobe, remainder
+
+ 
+
+Page 2 of 3
+
+iS — isthmus
+
+-wﬂm
+
+2. The specimen is received in formalin labeled "Delphian node" and consists of a 0.8 x 0.5 x 0.4 cm possible lymph node. Entirely
+submitted.
+
+Summary of sections
+LN- possible lymph node
+
+MJD
+
+3. The specimen is received in formalin labeled “Additional Delphian node” and consists of a 1 x 0.5 x 0.4 cm possible lymph node.
+Entirely submitted.
+
+Summary of sections
+LN— possible lymph node
+
+' lMD
+
+4. The specimen is received in formalin labeled "Right paratracheal tissue" and consists of a 2x 1 x 0.4 cm fragment of
+ﬁbre-adipose tissue with two 0.3 and 0.4 cm lymph nodes. Specimen entirely submitted.
+
+Summary of sections
+LN- lymph nodes and ﬁbro-adipose tissue
+
+Summagy of Sections:
+Part 1: Total thyroldectomy
+
+Block Sect. Site PCs
+1 IS 1
+4 LL 4
+2 N 2
+5 RL 5
+
+Part 2: Delphian node
+
+Block Sect. Site PCs
+1 LN 1
+
+Part 3: Additional Delphian node
+
+Block Sect. Site P63
+1 LN 1
+
+Part 4: Right paratracheal tissue
+
+Block Sect. Site P08
+1 LN 1
+
+ 
+
+Page 3 of 3 END OF REPORT
+

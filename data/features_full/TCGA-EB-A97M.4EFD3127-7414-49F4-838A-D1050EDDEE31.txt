@@ -1,0 +1,68 @@
+UUID:4EFD3127-1414-49F4-838A-01058EDDEE31
+TCGA-EB-A97M-91A-PR Rﬁﬁi‘lilted
+
+Gross Description: There is a fragment of skin 8x4 cm in its size with pigmented mass 2x1,5 cm in its
+size with invasion into fatty tissue.
+
+ 
+
+TSS Patient ID:
+
+Surgical Date:
+
+Microscopic Description: Malignant melanona (pigmented),in cells of nevus, with ulcerating. Clarks is IV,
+Breslow is 15 mm.
+
+Diagnosis Details: Tumor Features: Ulcerated, Tumor Extent: More than 4 mm with or without
+ulceration, Venous Invasion: Absent, Margins: Absent, Treatment Effect:
+
+Comments:
+
+Formatted Path Reports: SKIN TISSUE CHECKLIST
+
+ICED O , 5
+Specimen type: Excision of skin lesion WW WJUOS
+
+r
+Tumor site: Skin, trunk ‘ 1 ?7 205
+Tumor size: 1.5 x O x 2 cm 6’13“ i’ 3 eggs
+
+Tumor features: Ulcerated, Pigmented WD4/‘7/j le
+
+Satellite nodules: Not speciﬁed
+
+Histologic type: Malignant melanoma
+
+Histologic grade: Undifferentiated
+
+Lymph nodes: Not specified
+
+Lymphatic invasion: Not specified
+
+Venous invasion: Absent
+
+Margins: Uninvolved
+
+Evidence of neo-adjuvant treatment: No
+
+Additional pathologic findings: Clark's level IV, Breslow is 15 mm
+
+Comments: None
+
+ 
+ 
+     
+    
+
+  
+ 
+
+Diagnosis Discrenintv
+“a
+
+Primary Tumor Site Discrepancy
+
+HIP/AA Discrepancy
+Prior Malignancy History
+Dual/Syncmnous P M
+

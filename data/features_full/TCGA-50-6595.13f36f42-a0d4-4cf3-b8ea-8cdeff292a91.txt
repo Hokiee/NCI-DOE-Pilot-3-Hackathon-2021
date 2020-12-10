@@ -1,0 +1,148 @@
+PATIENT HISTORY:
+
+CHIEF COMPLAINT! PREuOF’i FOST~OP DIAGNOSIS: Lung cancer.
+PROCEDURE: Right upper lobaotomy.
+
+SPECIFIC CLINICAL QUESTION: None given.
+
+OUTSIDE TISSUE DIAGNOSIS: None given,
+
+PRIOR MALIGNANCY: None given.
+
+CHEMORADIATION THERAPY: None given.
+
+ORGAN TRANSPLANT: None given.
+IMMUNOSUPPRESSIONtNono iven.
+
+OTHER DISEASES: Yes.
+
+CYTOGENETIC TESTS: Not given.
+
+AODENDA: ‘
+
+Addendum Collection Date:—
+Molecular Anatomic Pathology Testing: '
+
+Block 2H:
+. EGFR amplification IDENTIFIED (see In Situ Procedure).
+
+KRAS codon 12/13 mutation NOT identified.
+
+EGFR Exon 19 mutation NOT identified.
+
+EGFR Exon 21 mutation NOT identified.
+
+EMM/ALK rearrangement NOT identified (see In Situ Procedure).
+
+noon?
+
+Note:
+KRAS codon 12113 mutations are found in approximately 10~3U% lung adenocarcinomas and associated with history of
+smoking. The presence of KRAS mutation leads to resistanco to EGFR tarioted therapieo (1). EGFR exon 19 and 21
+
+mutations are present in about 10% of-nd up to 40% in the opulatlon, common in —and
+
+associated with the clinical response to treatment with EGFR inhibitors 2). These mutations are mutually exclusive and
+their presance may have prognostic and/or therapeutic implications (3,4). Clinical studies ehow high EGFR gene copy
+number by FISH analysis (amplification) to be associated with favorable clinical benefit (clinical response, stable disease,
+
+time to progression, and survival) in patients with advanced non-small celi lung‘ cancer treated with EGFR tyrosine kinase
+inhibitors. ‘
+
+Approximately 3% of lung adenocarcinomae within the Asian population have an interstitial deletion and inversion in
+chromosome 2p resulting in the EMLtl/ALK fusion gene (ALK+) which is sensitive to ALK inhibitors (5,6). The prevalence
+of this abnormality in the Western population is still unknown. Detection of this abnormality is critical for identifying
+patients eligible for therapies that target ALK enzymatic activity. EMM/ALK rearrangements are mutually exclusive with
+KRAS and EGFR mutations.
+
+FINAL DIAGNOSIS:
+
+Summary Statement
+
+The right upper lobectorny and superior sogmentectomy of the right lower lobe reveals a 2.4 cm poorly differentiated
+mucin-producing adenocarcinoma of the right upper lobe, 2.4 cm in diameter, associated with angiolymphatio and
+visceral pleural invasion with involvement of the right paratracheal lymph nodes, with all margins free. Pathologic stage:
+T2 N2 MX.
+
+PART 1'. LYMPH NODE, INTERLOBAR LYMPH NODE, BIOPSY —
+SOLITARY LYMPH NODE WITH REACTIVE CHANGE. NO EVIDENCE OF MALIGNANCY.
+
+PART 2: LUNG, RIGHT UPPER LOBE AND SUPERIOR SEGMENT OF RIGHT LOWER LOBE, LOBECTOMY AND
+SEGMENTECTOMY «-
+A. POORLY DIFFERENTIATED MUCIN PRODUCING ADENOCARCINOMA WITH FOCAL SQUAMOUS
+DIFFERENTIATION, DIAMETER - 2.4 CM, WITH VISCERAL PLEURAL AND ANGIOLYMPHATIC INVASION.
+ALL MARGINS FREE. MINIMAL HOST LYMPHOCYTIC RESPONSE. PATHOLOGIC STAGE: T2 N2 MK.
+8- RESPIRATORY BRONCHIOLITIS WITH EMPHYSEMATOUS CHANGE.
+C. SIX (6) N1 LYMPH NODES WITH REACTIVE CHANGE. N0 EVIDENCE OF MALIGNANCY SEEN.
+
+PART 3: LYMF‘H NODE, SUBCARINAL LYMPH NODE, BIOPSY m
+THREE (3) FRAGMENTS OF LYMF‘H NODE WITH REACTIVE CHANGE. NO EVIDENCE OF MALIGNANCY SEEN.
+
+PART 4'. LYMPH NODE, RIGHT PARATRACHEAL LYMPH NODE, BIOPSY -
+
+THREE {3) OF SEVEN (T) FRAGMENTS OF" LYMF’H NODE WITH METASTATIC ADENOCARCINOMA WITH
+EXTRACAPSULAR EXTENSION.
+
+PART 5: LYMPH MODE. RIGHT" TRACHEOBRONCHIAL. ANGLE, BIOPSY -
+
+FOUR (4) FRAGMENTS 0F LYMPH NODE WITH REACTIVE CHANGE. NO EVIDENCE OF MALIGNANCY.
+COMMENT: .
+The adenocarcinoma is an interesting one having both moderate and poorly differentiated areas, with the former
+characterized by cells with abundant vacuolatod foamy, light eoainophilic cytoplasm surrounding pools of mucin. In
+some areas, psammoma bodies are identified, and in atill other areas zones of solid growth are prominont. In several
+areas, focal squamoua differentiation is seen, however, this comprises only a small percentage of the overall tumor
+(<10%) and therefore, we have chosen not to classify thin as an adenosquamous carcinoma.
+
+CASE SYNOPSIS:
+SYNOPTIC DATA» PRIMARY LUNG TUMORS
+
+TUMOR LOCATION: Right Upper Lobe
+LUNG SEGMENTlS) INVOLVED: Basilar
+PROCEDURE: Lobectomy
+TUMOR SIZE: Maximum dimension: 2.4 cm
+‘ Minor dimension: 1.6 cm
+GROSS SATELLITES: Number of gross satellite lesions: 0
+TUMOR TYPE: Invasive adenocarcinoma
+HISTOLOGIC GRADE: GS, Poorly differentiated
+MICROSCOPIC SATELLITES: Number of microscopic satellite lesions: 0
+
+EXTRAPULMONARY PARENCHYMAL
+EXTENSIONIINVASION OF TUMOR: Visceral pleura
+
+ 
+
+ANGIOLYMPHATIC INVASION: Yes
+
+TUMOR NECROSIS: < or = to 50%
+
+SURGICAL MARGIN INVOLVEMENT: No
+
+SURGICAL MARGIN SITE: Distance of invasive tumor to closesl margin: 8.0 mm. Bronchial margin
+INFLAMMA‘I‘ORWDESMOPLASTIC) REACTION: Mild
+
+N1 LYMPH NDDES: Number of N1 lymph nodes positive; 0
+
+Number of N1 lymph nodes examined: 7
+EXTRACAPSULAR SPREAD 0F N1 METASTASES: N0
+N2 LYMPH MODE. GROUPS INVOLVED: Level 2R
+N2 LYMPH MODES: Number of N2 lymph nodes positive: 3
+
+Number of N2 lymph nodes examined: 15
+EXTRACAPSULAR SPREAD OF N2 METASTASES: Yes
+
+UNDERLYING DISEASES): Emphysema
+
+1' STAGE, PATHOLOGIC: p'm ‘
+
+N STAGE. PATHOLOGIC: pN2
+
+M STAGE, PATHOLOGIC: pMX
+
+ANCILLARY STUDIES: Histochemlcal stains, FISH studies, Molecular studies
+
+Comment: VVG stains Show visceral pleural and angiolymphatic invasion. PAS, PASD and
+
+Mucicarmine stains show a focal positivity. Gram and Grocotl stains for
+
+ 
+

@@ -1,0 +1,117 @@
+UUID : FAA72A58-CABS-45ED-8727-9D9811AE9FA2
+TCGA-DS-ABCG-OGA-PR
+
+Redacted
+|| Illl|||I|||ll|l|||lll|ll||||||||Illl|l|||||||||||ll|||||||||||||
+|| ||||||||ll|lll|lll||||||||||||||||||||||l|||lll|||||||lllllll ,c A, 0 , §
+|| lll|l|l||||||l||||||||||||ll||l|||l|||l||||l||||||lll|| |||l|l '
+
+EW ADDENDUM SECTION *******
+DIAGNOSIS
+
+Patient ID -
+
+Mo ; 8’ 7 .2 0/ 3
+(A) LYMPH NODES, RIGH INGUINAL, TIL PROTOCOL, DISSECTION: 7‘, . ‘ \
+METASTATIC EPITHELIOID NEOPLASM TO FIBROADIPOSE TISSUE. ’5 k“ /7"?/L WI 7
+Largest tumor deposit size: 50 x 40 mm. C 7 -‘f
+Ten lymph nodes, melanoma IS not Identiﬁed (0/10) : “113/“
+
+(B) RIGHT ILIAC AND OBTURATOR CONTENTS, DISSECTION:
+METASTATIC EPlTHELIOID NEOPLASM TO ONE OF FOURLYMPH NODES (1 l4).
+Largest tumor deposit size: 2.0 x 1.0 mm.
+Location: Subcapsular
+Extracapsular extension: Not identified
+
+Melanin pigment is not readily identiﬁed. An immunohistochemical study will be performed to try to conﬁrm the diagnosis of
+metastatic melanoma and an addendum report will follow.
+
+GROSS DESCRIPTION
+
+(A) RIGHT INGUINAL CONTENTS TIL PROTOCOL - Received sterile and processed in the sterile hood for TIL protocol studies
+is a 23.0 x 8.0 x 2.8 cm unoriented portion of ﬁbroadipose tissue partly surfaced by a 23.0 x 1.2 cm ellipse of pale tan, wrinkled
+skin. Specimen is sectioned to reveal a 5.0 x 4.0 x 3.0 cm tan, ﬁrm mass with tan, rubbery, lobulated cut surfaces that grossly
+comes to within 1.0 cm from the skin surface. The remainder of the adipose tissue is dissected to reveal ten possible lymph
+nodes ranging from 0.3 x 0.2 x 0.2 cm - 2.6 x 1.6 x 1.1 cm. The majority of the mass is given to TIL protocol and a portion has
+been given to tumor bank for research purposes.
+
+SECTION CODE: A1, representative section of mass to skin; A2—A4, remainder of mass; A5, two possible lymph nodes;
+A6, two possible lymph nodes; A7, one possible lymph node, bisected; A8, one possible lymph node, serially sectioned; A9, one
+possible lymph node, serially sectioned; A10, one lymph node, serially sectioned; A11, A12, one possible lymph node, serially
+sectioned; A13, A14, one possible lymph node, serially sectioned.
+(B) RIGHT ILIAC AND OBTURATOR CONTENTS - A 6.0 x 4.2 x 1.0 cm portion of ﬁbroadipose tissue which yields ﬁve possible
+lymph nodes ranging from 0.8 - 8.0 cm in greatest dimension. The lymph nodes are submitted entirely.
+
+SECTION CODE: B1, two lymph nodes; 32. one lymph node; B3, B4, one lymph node, serially sectioned; B5-B9, one
+lymph node, serially sectioned.
+
+CLINICAL HISTORY
+Melanoma.
+
+SNOMED CODES
+
+T-C4000, M-87206, M-87206
+
+Some tests reported here may have been developed and perfon'nance characteristics determined by l .. \. These tests have not been
+speciﬁcally cleared or approved by the US. Food and Drug Administration "
+
+Entire report and diagnosis completed by: ’
+
+Start of ADDENDUM
+
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+    
+ 
+
+irlterl: __
+mvosis Dixi'repancy
+'1 imary Tumor Site nIS'IL'P‘IEﬂ
+liPAA
+'rlor
+
+ 
+
+ 
+
+  
+
+:cvicwer
+
+ADDENDUM
+
+This modiﬁed report is being issued to report special studies/lHC/Molecular studies and to include an additional, negative lymph
+node in specimen B.
+
+Addendum completed by '
+
+(A) LYMPH NODES, RIGHT INGUINAL, TIL PROTOCOL, DISSECTION:
+METASTATIC MELANOMA TO FIBROADIPOSE TISSUE. (SEE COMMENT)
+Largest tumor deposit size: 50 x 40 mm.
+Ten lymph nodes, melanoma is not identiﬁed (0110).
+(B) RIGHT lLlAC AND OBTURATOR CONTENTS, DISSECTION:
+METASTATIC MELANOMA TO ONE OF FIVE LYMPH NODES (1/5). (SEE COMMENT)
+Largest tumor deposit size: 2.0 x 1.0 mm.
+Location: Subcapsular.
+Extracapsular extension: Not Identiﬁed.
+
+COMMENT
+
+Sections show metastatic melanoma involving adipose tissue; residual lymph node is not identiﬁed in this area. In part A, an
+immunohistochemical study performed here reveals that the tumor cells are positive with an anti-melanocytic cocktail (HMB45,
+anti-MART1, and anti-tyrosinase). This result supports the above diagnosis.
+
+In part B. the tumor in the lymph node is histologically similar to the tumor in part A. This supports the above diagnosis.
+
+Case discussed with Dr. '-
+
+Entire report and diagnosis completed by: ‘ ‘ ‘ ‘
+
+------ END OF REPORT---—--
+

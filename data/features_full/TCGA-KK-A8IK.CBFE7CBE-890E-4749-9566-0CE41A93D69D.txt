@@ -1,0 +1,138 @@
+UUID:CBFE7CBE-BBBE-4749-9556-BCE41A93D690
+TCGA-KK-ABIK-alA-PR Redacted
+
+Specimen Date? Time :
+
+******* MODIFIED REPORT - REVIEW ADDENDUM SECTION *******
+DIAGNOSIS '
+
+JED-(2 -3
+(A) ANTERIOR LYMPH NODE: ‘ BIL! D B
+Fibroadipose tissue with vessels, no tumor present. / Wt
+No lymph node present. WP”-
+(B) ANTERIOR APEX: ’E 3 i I t -
+Prostatic tissue and skeletal muscle, no tumor present. MDS $192513
+inked surfaced free of prostatic glands. _ _ _
+(C) RIGHT PELVIC LYMPH NODES: 6,117,: (fa/Lanai): NOS dbl ﬂ
+Two lymph nodes. no tumor present.
+(0) LEFT PELVIC LYMPH NODES: (9,70 M [ 24 ] L3
+Four lymph nodes, no tumor present.
+(E) PROSTATE. SEMINAL VESICLES:
+Supplemental report to follow.
+
+Entire report and diagnosis completed by
+
+Geese DESCRIPTION?!
+
+(A) ANTERIOR LYMPH NODES — Received is a 3.0 x 2.5 x 1.5 cm aggregate of ﬁbroadipose tissue. The specimen is dissected
+to reveal one possible lymph node measuring 1.0 x 0.6 x 0.2 cm. The specimen is submitted entirely.
+
+SECTION CODE: A1. one possible lymph node; A2. remainder of the specimen submitted entirely.
+(B) ANTERIOR APEX — A piece of tan-red soft tissue (0.3 x 0.3 x 0.3 cm) with one edge inked by the surgeon to indicate margin.
+This edge is reinked blue and specimen submitted entirely on edge in B for frozen section diagnosis.
+
+*FS/DX: FOCAL BENIGN GLANDS PRESENT, lNKED MARGlN NEGATIVE. _
+(C) RIGHT PELVIC LYMPH NODES - Yellow, ﬁbrofatty fragment, 8.0 x 6.5 x 2.2 cm and containing two possible lymph nodes, 5.2
+cm and 2.0 cm in diameter each. Lymph nodes are entirely submitted.
+
+SECTION CODE: C1, one possible lymph node, intact; 02-06, one possible lymph node. serially sectioned.
+(D) LEFT PELVIC LYMPH NODES - Yellow ﬁbrofatty fragment. 7.5 x 7.5 x 1.0 cm, and containing multiple lymph nodes. ranging
+between 1.5 to 5.0 cm in diameter. The lymph nodes are entirely submitted.
+
+SECTION CODE: D1-D4. one lymph node. serially sectioned; D5, two possible lymph nodes, intact; D6, one possible
+lymph node, bisected.
+(E) PROSTATE, SEMINAL VESICLES - Supplemental report to follow.
+
+CLINICAL HISTORY?
+
+None given.
+
+SNOM‘ED. CODES
+
+"Some tests reported here may have been developed and performance characteristics determined by These tests have not been
+speciﬁcally cleared or approved by the U.S. Food and Drug Administration."
+
+Page: 2
+Acce351on: —
+Specimen Date Time:
+
+Entire report and diagnosis completed by:
+
+Start of ADDENDUM
+
+Page: 3
+
+Access;on: — ”l- —
+Specimen Date Tlme:
+
+ADDENDUM
+
+This modified report is being issued to provide additional information/results.
+
+Addendum completed bv
+
+‘ DIAGNOSIS
+
+(E) PROSTATE AND SEMINAL VESICLES:
+PROSTATIC ADENOCARCINOMA, GLEASON SCORE 9 (4+5). (SEE COMMENT)
+TUMOR CONFINED TO THE PROSTATE.
+MARGINS OF RESECTION FREE OF TUMOR. RECUTS PENDING.
+PROSTATIC lNTRAEPITHELlAL NEOPLASIA (PIN), HIGH-GRADE.
+Right and left seminal vesicles, no tumor present.
+Segments of right and left vasa deferentia, no tumor present.
+
+COMMENT
+
+The prostate gland contains four separate foci of prostatic adenocarcinoma, two in the peripheral zone and two in the transition
+zone. The dominant tumor focus is located in the left lateral , left posterolateral and left posterior peripheral zone. This tumor
+focus measures 1.8 x 1.0 cm in the largest cross-sectional dimension and it is present in two cross sections and focally in the apex
+and base regions. The second tumor focus is located in the right posterolateral peripheral zone, exclusively in the base region. .
+This tumor focus measures 0.8 x 0.4 cm in the largest cross-sectional dimension and it is present in three base sections. The third
+tumor focus is located in the right transition zone. This tumor focus measures 0.4 x 0.1 cm in the largest cross-sectional
+dimension and it is present in two cross sections and focally in the apical region. The fourth tumor focus is located in the left
+transition zone. This tumor focus measures 0.4 x 0.1 cm in the largest cross-sectional dimension and it is present in two cross
+sections and focally in the apical region. All tumor feel are conﬁned to the prostate. The margins of resection are free of tumor.
+
+GROSS; DESCRIPTION
+
+(E) PROSTATE AND SEMINAL VESICLES — A specimen consisting of a prostate, attached right and left seminal vesicles and
+attached segments of right and left vasa deferentia.
+
+The prostate gland (4.5 x 3.5 x 3.8 cm, 34 grams, post ﬁxation) has the usual shape. The soft tissue present along the
+left posterolateral aspect of the prostate appears slightly more abundant than along the right side. A tumor is palpated on the left
+base region. Serial cross sections after ﬁxation demonstrate a ﬁrm area consistent with tumor in the left peripheral zone of the two
+cross sections of the prostate.
+
+The seminal vesicles and segments of vasa deferentia are grossly free of tumor.
+
+SECTION CODE: E1 -E3, right seminal vesicle and segment of right vas deferens from the base towards the tip; E4-E6,
+left seminal vesicle and segment of left vas deferens from the base towards the tip; E7, prostatic base, right border; E8-E1 1,
+prostatic base, right posterior border; E12-E17, prostatic base. central portion; E18. prostatic base, left border; E19—E21,
+prostatic base, left posterior border; E22-E24, apex anterior; E25, E26, apex left; E27-E29, apex posterior; E30, E31, apex right;
+E32-E39, sections of the two cross sections of the prostate according to the specimen radiograph.
+
+Page: 4
+
+Acce551on: —
+Specimen Date Time:
+
+The anterior aspect of the prostate is inked in green, left surface in red, right surface in yellow and posterior surface in
+black. Blue ink (E18, E20 and E21) denotes surfaces that do not represent the true margin of resection including anterior apex
+(inked by surgeon) and left base in an area which does not represent the true margin.
+
+SNOMED CODES
+
+Enlire repo! an! Eiagnosis completed by:
+
+------END OF REPORT-—----
+
+l‘rimv-r
+HIPM
+Prim
+
+Case
+
+initials
+
+ 
+

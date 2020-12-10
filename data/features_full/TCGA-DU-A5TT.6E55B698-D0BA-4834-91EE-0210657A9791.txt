@@ -1,0 +1,226 @@
+.2304) ~3
+
+' wag 9451/3
+5111 W725
+
+""0
+Surgical Pathology Report W (9%, 07/ /
+PatientName: Phone #: Accession ft: ) ”’5 '
+Med. Rec. #: Client: Taken: 9710—4 I
+DOB: (Age: Location: Received:
+Gender: M Accnt: Reported:
+Physician(s):
+Phy Location:
+Copy To:
+
+Clinical History
+
+-year—old man experienced new onset seizure, and on imaging study had a mostly non-enhancing
+lesion in
+the left frontal premotor area at the level of the middle frontal gyrus, without choline spike. However,
+seizure activity
+has increased and enhancement appears to have enlarged.
+
+Operative Diagnoses
+' : - -4834-91EE-9219657A9791
+Left frontal brain tumor ””19 55555698 095‘ d
+
+TCGA-DU-ASTT—DlA—PR Re acted
+Operation I Specimen m
+
+A' Brain uretumor bio s |||||||l||||||I|||||||I|||||||||||||||||||||||||||||||II|||I||||
+a} Brain Sure tumor: 1.1.3.3 Ill ||||II|||||||ll||||||||||||||||I||||||||||||||||||||I|||||
+Pathologic Diagnosis ||| ||||||||||IIIII|||l||l||||l|||||l|||||||||||||||l||||||
+
+A, B. Brain, left frontal tumor, excisional biopsies:
+1. Oligodendroglioma, anaplastlc (WHO 3).
+
+2. 1p. 19g LOH (codelation): Positive.
+
+3. lDH1-R132l-I, lmmunohistochernistry: Negative.
+4. Methylated MGMT promoter: Positive.
+
+5. MIB-‘l proliferation index: 1.8%.
+
+See Microscopy Description and Comment.
+Comment
+
+The sections contain portions of cerebrum that are inﬁltrated and extensively effaced by a glial neoplastic
+proliferation
+
+in which there are frequently mitoses. The neoplasm has a mixed cellularity. The MlB-1 proliferation index
+is 18%
+in the more active areas. There is focal microvascular cellular proliferation. There is not tumor necrosis.
+
+The morphological features are those of a glioma with anaplastic features. The glioma has codelation of
+arms 1p
+
+and 19q, a feature characteristic of oligodendrogliomas.
+“Electronically Signed Out‘“
+
+‘ Senior Staff Pathologist
+Consultant: Senior Staff Pathologist
+Procedures/Addenda
+
+Surgical Pathology
+
+Page 2 of 4
+Loss of Heterozygosity 1p. 19q Assay (LOH)
+Date Ordered: Date Reported:
+Interpretation
+POSlTlVE: Allelic toss on chromosome arm 1p and chromosome arm 19q is detected.
+informative loci are: 0181592, 018552, 0198219, 0198412
+Results-Comments
+
+Testing performed on DNA extracted from tumor parafﬁn block (A1). DNA extracted
+from a
+
+corresponding blood specimen was used as a normal reference control.
+
+H and E slide was examined and no microdissection was needed.
+
+TEST DESCRIPTION: Allelic loss is assessed by PCR assay in Normal DNA (baseline)! Tumor DNA
+pairs using 3
+
+markers at both 1p and 19q. The 3 markers on 1p are D1S548, D1 81 592, and 015552 (with D1 S468,
+D1 $1612. and
+
+D1 S496 as backup markers) and the 3 markers on 19q are 0198219. 0198412. and PLA2G4C (with
+0198606 and
+
+01981182 as backup). All markers are microsatellites (2 or 4 nt repeats) except PLAZG4C which is a
+minisatellite (26
+
+nt repeat) polymorphism. The markers were selected based on heterozygosity score, am plicon size, and
+ease of
+
+interpretation. The backup markers are used if the ﬁrst line markers at that chromosome arm are
+uninformative or
+
+otherwise ambiguous in their interpretation. LOH at all informative loci on each chromosomal arm
+represents the
+
+typical ﬁnding in oligodendrogliomas with 1p and 19q deletion.
+
+FDA COMMENT: The above data are not to be construed as the results from a stand-alone diagnostic
+test. This test
+
+was developed and its performance characteristics determined by the
+
+as required
+
+by CLIA ' 88 regulations. It has not been cleared or approved for speciﬁc uses by the US. Food and Drug
+Administration (FDA). The FDA has determined that such clearance or approval is not necessary. These
+results are
+
+provided for informational purposes only. and should be interpreted only in the context of established
+procedures
+
+and/or diagnostic criteria.
+
+TECHNICAL SENSITIVITY: The presence of >15% non-neoplastic cells in the sample may preclude the
+detection of
+
+allelic loss.
+
+*fElectronically Signed Out”
+
+MGMT Promowr metnyrauon
+Date Ordered: Date Reported:
+Interpretation
+POSITIVE: Methylated MGMT promoter is detected.
+Results-Comments
+Testing performed on DNA extracted from tumor paraffin block (A1)
+H and E slide was examined and no microdissection was needed.
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT promoter have been shown to
+beneﬁt
+from therapy with alkylating agents. Assessment of MGMT promoter methylation status involves bisulﬁte
+treatment of
+DNA followed by real-time PCR amplification of methylated and unmethylated DNA
+sequences. The
+analytic sensitivity of this assay was determined by serial dilution of methylated positive control DNA into
+unmethylated DNA. and was assessed to be 1% of methylated DNA in the background of unmethylated
+DNA. Factors
+Surgical Pathology
+
+Page 3 of 4
+such as the presence of >50% non-neoplastic cells in the sample, or extensive tissue necrosis, may
+preclude the
+detection of methylated MGMT promoter sequences.
+
+FDA COMMENT: The above data are not to be construed as the results from a stand alone diagnostic
+test. This test
+
+was developed and its performance characteristics determined by the
+
+as required
+
+by CLIA '88 regulations. It has not been cleared or approved for speciﬁc uses by the US. Food and Drug
+Administration (FDA). The FDA has determined that such clearance or approval is not necessary. These
+results are
+
+provided for informational purposes only, and should be interpreted only in the context of established
+procedures
+
+and/or diagnostic criteria.
+
+***Electronically Signed Out***
+
+Intra-Opcrative Consultation
+A
+
+Btain tumor, biopsy: Glioma, probably astrocytic and high grade? (Microvascular proliferation), other..
+
+Touch preparation smears performed at and results reported to the Physician of
+Record.
+Senior
+Staff Pathologist
+Gross Description
+A
+
+"Left frontal brain tumor," received fresh, two fragments, 0.8 cm in aggregate. Soft, pinkish-grey,
+glistening. In total,
+
+A1 .
+
+B
+
+."Left frontal brain tumor,"
+
+Received fresh, several fragments, 1.2 cm in aggregate. Pieces of brain and greyish sot tissue. In total,
+B1.
+
+Microscopic Description
+
+IMMUNOHISTOCHEMISTRY: The CD163 demonstrates numerous microglial cells in between the
+neoplastic cells.
+
+The IDH1 stain is negative. With the MlB-1 there is a proliferation index of about 18% in the more active
+areas. The
+
+0034 depicts focal neovascularization and focal microvascular cellular proliferation.
+
+lCD-9(s): 191.1 191.1
+
+Billing Fee Code(s):
+
+Histo Data
+Part A: Brain pure tumor, biopsy
+Taken: Received:
+
+Stainlcnt Block Ordered Comment
+CD163 Vector x 1 1
+
+CDB4-DA x 1 1
+
+H&E x 1 1
+
+IDH1-std x 1 1
+
+LOH-curts x 1 1 '
+
+Surgical Pathology
+Page4 of 4
+
+ 
+

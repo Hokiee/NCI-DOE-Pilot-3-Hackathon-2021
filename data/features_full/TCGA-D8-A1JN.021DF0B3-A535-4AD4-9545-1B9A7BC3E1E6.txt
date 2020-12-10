@@ -1,0 +1,111 @@
+/Cb«013
+CW “WWW [WW m; Xian/9
+jitti W No; C504 3/ll/H//
+
+ 
+
+page 1 / 2
+
+Department of Cancer Pathology
+copy No.
+
+Date:
+
+ 
+
+Examination: Histopathological examination
+
+Examination No.:
+
+Patient: w PESEL: . Age: Gender: F
+
+Material: Multiple organ resection — left breast
+Unit in charge:
+Physician in charge:
+
+Material collected on: Material received on:
+Expected time of examination: up to 8 working days
+Clinical diagnosis:
+
+ 
+
+Examination performed on: ‘ ‘
+
+Results of immunohistochemical examination:
+
+Estrogen receptors found in 75% of neoplastic cell nuclei. Progesterone receptors found in 10% of neoplastic
+cell nuclei. HER: protein stained with HercepTestm by DAKO.
+
+Score = 2+, verification by the FISH method recommended.
+
+a aiﬁyﬁi ,
+
+Compliance validated by:
+
+ 
+
+Examination performed on:
+
+Macroscopic description:
+Left breast sized 17.8 x 11.3 x 4.8 cm removed with axillary tissues sited 9 x 5 x 3 cm. Weight 400 3. Skin flap
+
+21.7 x 9.2 cm in size. Tumour sized 3.9 x 6.6 x 2.8 cm found in the central part, placed 1.4 cm from the upper
+edge, 0.9 cm from the base and 0.0 cm from the skin.
+Status after biopsy (test No. /
+
+Microscopic description:
+Carcinoma lobuiare invasivum (GZ acc. to Elston: 3+2+1; 0 mitoses [10 HPF diam. 0.55 mm) infiltratio
+
+carcinomatosa cutis et mammlllae. Glandular tissue showing parenchyma atrophy.
+invasive lesions are placed 0.1 cm from the base of the surgical specimen. Axillary lymph nodes: Metastases
+carcinomatosae ln lymphonodo (No Xi I Xlil).
+
+Histogathological diagnosis:
+(including test No.
+
+Ca rel nom alobulare lnvasivum mammae sinistrae. Invasive Iobular carcinoma of the l I, breast
+Metastases carcinomatosae in lymphonodis axillae (Xi / Xlii) Cancer metastases in axillary lymph nodes (x l/X ill)
+(NHGZ, p13, phlaa).
+
+Compliance validated by:
+
+ 
+
+UUID:O2IDFOBR-A535-4A04-9545-
+TCGA-DS-AIJN-OIA- 159A7BC3E1£6
+
+lllllllllllilllllllllllllllllllllllllPR mm“
+miluluuiunumimmuiunillllli'lli'lllHi'i'i'i'l'i'ili'ili'I"
+lHlllllllll.lllllllllllllllllllllllllllllllllllllllllllllllllll
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Examination performed on:
+
+Examination: Histopathological examination Page 2 / 2
+
+Examination No.:
+Patient: PESEL: Gender: F
+
+Examination performed on:
+
+Results of immunohistgchgmlcal examination:
+RESULT OF HERZ/neu GENE AMPLIFlCATlON with the FISH method by Path Vysion HERI DNA Probe Kit
+
+FINAL RESULT:
+HER-Z GENE AMPUFICATION NOT FOUND
+
+Compliance validated by‘
+
+ 
+
+ 
+

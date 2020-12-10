@@ -1,0 +1,39 @@
+De artment of Patholo
+
+Tissue Source Site (TSS) #: I—
+
+ 
+
+Pathology Report
+(A) RIGHT KIDNEY:
+RENAL CELL CARCINOMA, CONVENTIONAL (CLEAR CELL TYPE), FUHRMAN'S NUCLEAR GRADE 4.
+(SEE COMMENT)
+TUMOR MEASURES 2.4 CM IN MAXIMUM DIMENSION.
+Vascular and ureteral margins of resection free of tumor.
+No unequivocal lymphatic/vascular invasion present.
+
+COMMENT
+
+The tumor focally pushes into the perinephric adipose tissue as a polypoid nodule surrounded by a ﬁbrous capsule. No invasion
+into the adipose tissue is identiﬁed. Multiple additional deeper sections were examined.
+
+GROSS DESCRIPTION
+
+(A) RIGHT KIDNEY - A nephrectomy specimen (11.0 x 9.0 x 7.0 cm) with attached perinephric fat tissue, unremarkable segment
+of ureter (7.0 cm in length and 0.4 cm in circumference), and unremarkable segments of artery and vein (< 1.0 cm in length and
+0.4 cm in circumference each).
+A well circumscribed, bulging tumor (2.4 x 2.0 x 2.0 cm) with soft tan-brown to yellow cut surfaces and areas of hemorrhage is
+identiﬁed at the lower pole. The tumor bulges into the perinephric adipose tissue. The tumor is 3.5 cm away from the renal pelvis.
+The non-neoplastic kidney parenchyma is unremarkable. A portion of the tumor and normal kidney is sent to the tissue bank and
+is sectioned for special studies.
+
+SECTION CODE: A1, margin (artery, vein, and ureter); A2, tumor in relation with fat; A3, A4 tumor in relation to fat; A5,
+A6 tumor in relation with adjacent fat (one slice divided in two cassettes); A7, tumor in relation with adjacent fat; A8, fat with a
+portion of tumor; A9, A10 tumor in relation with a normal kidney; A11, normal kidney-
+CLINICAL HISTORY
+
+Right renal mass.
+SNOMED CODES
+
+T-71000, M-83123
+

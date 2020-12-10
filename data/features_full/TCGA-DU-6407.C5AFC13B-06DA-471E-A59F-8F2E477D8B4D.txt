@@ -1,0 +1,171 @@
+UUID:C5AFC13B-06DA-471E-A59F -8F2E477DEB4D
+TCGA-DU-6407-02A-PR Red
+
+acted
+ll lllHllHllllllllllllllllllll lllllllllllllllﬂllllllllllllllllll
+III" I lllllllllllll ll llllllllHllll I lllllllllllll I 10.3; 0 '3’
+
+ll llllllll
+
+|||||||||l||ll|||l|||lllllllllllllllllllllllllllllllllll|||| ' ,W
+58413 was
+
+A t . P th I [C t l umcn me: version ‘ ‘
+
+”21%;? ”3’ y°°gy°°° '5 ‘ ’ 8:12 W,
+
+Final 1 7 I .r C)
+Patient Name: MRN: Service Date/Time: ® W, W M
+DOB/AgdGender: Fem-k Provider: & '7] , a
+Location: Responsible Staff:
+
+947$ (mo/to
+
+Surgical Pathology Report
+Patient Name: Accession #:
+Med: Rec.: Phone NUmber:
+DOB: Gender: F
+Client:
+Taken:
+Received:
+Reported:
+Physician(s)=
+Phy Location:
+CLINICAL HISTORY
+The patient is a year—old woman with a history of oligodendroglioma (WHO
+grade II) resected in . At that time the reported Ki—67 labeling.
+index of the tumor was 3%. She now presents with an MRI signal abnormality
+concerning for recurrent tumor.
+OPERATIVE DIAGNOSES
+Not Given
+Operation/Specimen: A: Brain, right temporal excision biopsy
+B: Brain, right temporal excision biopsy
+PATHOLOGICAL DIAGNOSIS:
+Brain, right temporal lesion, excisional biopsy: oligoastrocytoma (WHO grade
+II) (see comment).
+COMMENT
+The focally high proliferative index and strong diffuse p53 immunoreactivity
+may suggest aggressive clinical behavior and/or transition toward a higher
+grade lesion. Clinical correlation is recommended.
+***Electronically Signed Out***
+, Senior Staff Pathologist
+
+MGMT Promoter Methylation
+
+Date Ordered: Date Reported:
+
+Interpretation
+
+POSITIVE — Methylated MGMT promoter is detected
+
+Results—Comments
+
+Testing was done on block (Bl).
+
+TEST DESCRIPTION: Bisulfite treatment of DNA followed by PCR amplification of
+both methylated and unmethylated MGMT promoter sequences, with products
+detected by gel electrophoresis.
+
+FDA COMMENT: The above data are not to be construed as the results from a
+stand—alone diagnostic test. This test was developed and its performance
+characteristics determined by the as
+required by CLIA ' 88 regulations. It has not been cleared or approved for
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA has
+
+ 
+
+determined that such clearance or approval is not necessary. These results
+are
+provided for informational purposes only, and should be interpreted only in
+the context of established procedures and/or diagnostic criteria.
+***Electronically Signed Out***
+
+, Senior Staff Pathologist
+Consultant:
+INTRA-OPERATIVE CONSULTATION
+A. Brain, right temporal lesion, excisional biopsy: infiltrating glioma
+(consistent with recurrent oligodendroglioma).
+
+, Senior Staff Pathologist
+GROSS DESCRIPTION
+A. Received from the operating room are two fragments of soft tan tissue
+measuring approximately 0.9 x 0.8 x 0.4 cm in aggregate. Small samples are
+used for smear preparations and frozen sections. The frozen section remnant
+is
+submitted in cassette Al and the unfrozen tissue is submitted in cassette A2.
+B. Received from the operating room are two fragments of soft tan tissue
+measuring approximately 1.2 x 0.9 x 0.5 cm in aggregate. The samples are
+submitted in 81—32.
+
+, Resident Pathologist
+MICROSCOPIC DESCRIPTION
+Sections of A and B show an infiltrating glial neoplasm composed of cells
+with
+mostly eccentrically placed round nuclei reminiscent of mini—gemistocytes.
+Other areas show similar cells with angulated nuclei and more astrocytic n
+appearing morphology similar to conventional gemistocytes. Rare mitotic @
+figures are noted and occasional apoptotic cells are seen. Necrosis and/or
+definite vascular proliferation are not identified. The tumor is strongly,
+diffusely p53 immunoreactive. The Ki—67 labeling index is approximately 5%
+overall and 15% in the most proliferative areas.
+ICD-9(s):
+239.6 239.6
+Billing Fee Code(s):
+A:
+B:
+MGMT:
+Histo Data
+Part A: Brain, right temporal excision biopsy
+
+Taken: Received:
+
+Stain/cnt Block Ordered Comment
+
+H/E X l l
+
+H/E x l 2
+
+Part B: Brain, right temporal excision biopsy
+Taken: Received:
+
+Stain/cnt Block Ordered Comment
+
+H/E x l l
+
+MGMT x l l
+
+H/E X l 2
+
+MIBl-DA X l 2
+P53DO7 x l 2
+*** End of Report ***
+
+aixeria . E 7‘3 I“)
+ﬂatness Dsscrepam,
+
+___...._—
+
+anarv Tumor Sixe Dlscrepamzy
+._. .__,_.
+
+HIPAA Discrepamv
+
+rvinr Malignancy History
+him/Sync)“ nrmus Primary Noted
+_.,~_. ..
+(‘19:.- is (time); UFI:D / DISQ
+
+«ie‘mewevlnitiak Walnut): “8 F2 9' %
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

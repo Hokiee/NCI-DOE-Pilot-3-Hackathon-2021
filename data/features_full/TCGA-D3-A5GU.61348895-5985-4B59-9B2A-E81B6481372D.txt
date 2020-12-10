@@ -1,0 +1,78 @@
+*******v MODIFIED REPORT - REVIEW ADDENDUM SECTION *******
+DIAGNOSIS
+
+(A) LEFT HIP, SKIN ELLIPSE:
+METASTATIC MELANOMA INVOLVING SUBCUTANEOUS TISSUE WITH EXTENSIVE NECROSIS, MARGINS
+FREE (WITHIN 1.1 MM FROM CLOSEST LATERAL MARGIN, A3). (SEE COMMENT)
+TUMOR SIZE: 7.9 X 6.0 MM (AS MEASURED ON SLIDE).
+Tumor borders pushing.
+
+(B) RIGHT AXILLA, EXCISION:
+METASTATIC MELANOMA INVOLVING ONE OF TWO LYMPH NODES (1/2). (SEE COMMENT)
+Largest tumor deposit size: 20.0 x 16.0 mm (per gross description).
+Location: Subcapsular and intraparenchymal.
+EXTRACAPSULAR EXTENSION: PRESENT.
+Exogenous black pigment, consistent with tattoo, involving one lymph node.
+
+COMMENTS
+
+In parts (A) and (B), the tumor cells demonstrate focal melanin pigment (specimen A) and similar morphology (specimen A and B)
+to the patient’s known melanoma of the right shoulder (see case , which supports the above diagnoses.
+
+GROSS DESCRIPTION
+
+(A) LEFT HIP NODULE, SHORT STITCH SUPERIOR, LONG STITCH LATERAL - A 2.4 x 0.6 cm tan-pink skin ellipse with
+subcutis, excised to a depth of 1.5 cm and oriented by the surgeon with a short stitch designating the superior tip and a long stitch
+designating the lateral tissue edge. The specimen is inked and serially sectioned to reveal a 0.7 x 0.6 x 0.5 cm subcutaneous
+nodule that grossly appears to abut the deep margin. The specimen is entirely submitted in A.
+
+INK CODE: Blue — lateral half; orange — medial half.
+
+SECTION CODE: A1, superior tip; A2, inferior tip; A3, A4, remaining central sections, entirely submitted from superior to
+inferior.
+(B) MASS RIGHT AXILLA, FOR - Two tan—pink possible lymph nodes (2.0 x 1.6 x 1.4 cm and 2.0 x 1.4 x 0.8 cm). The larger
+possible lymph node appears grossly positive for tumor. A portion of the larger lymph node is submitted for studies and tumor
+bank. The remaining specimen is entirely submitted In B.
+
+SECTION CODE: B1, 82, remainder of the larger possible lymph node; BB, B4, the smaller possible lymph node, entirely
+submitted.
+
+CLINICAL HISTORY
+Metastatic melanoma.
+SNOMED CODES
+
+T- 02480, T- C4710, M-87206
+
+"Some tests reported here may have been developed and performance characteristics determined by . These tests have not been
+speciﬁcally cleared or approved by the US. Food and Drug Administration."
+
+Entire report and diagnosis completed by:
+
+Star: Of'ADDENDUM
+0010: 61:64:89:- -5A985- UABS9- 952A— RE813648137R20da cted ‘ ‘
+22.10.05
+IlllIlIlIIlllIIllllIIIlIIlIIIIlllllIIIIIIlIlIlIIll . . . .
+lllllllll‘llll‘lll IIlllII Il|l|ll| IllII llIHllllllIl lllll 477mm m, 774 Item/7 ms arm/L5
+lllllIIlllll‘ll‘llllllllllllIlllIlllllIllIIIIlllIllllllllllllllll 5m Ail/a lymph Wt 477. .3
+
+9104/ I3
+
+ADDENDUM
+
+This modified report is being issued to report special studies/lHC/Molecular studies.
+
+COMMENT
+
+At the request of the clinician Dr. and per . protocol, immunohistochemical studies for panmelanocytic cocktail (HMB45,
+anti—Mart-1, anti-tyrosinase) was performed on tissue block B1. The tumor cells are strongly reactive for panmelanocytic cocktail.
+
+Entire report and diagnosis completed by:
+
+------ END OF REPORT---—--
+
+1 Medicine
+
+ 
+
+Date Reviewed:
+

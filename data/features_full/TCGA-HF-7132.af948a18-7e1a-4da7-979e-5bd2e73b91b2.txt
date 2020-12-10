@@ -1,0 +1,49 @@
+A description for each data field can be found in the 'Data description' worksheet (yellow tab).
+
+Sample Number
+
+Sample
+Type
+
+TUMOUR
+
+BUFFY
+
+Sample Site of Site of Year of Age at Sample
+
+Preparatio Tissue Primary Sample Sample Comments
+n (Event) Collection Collection
+(VrS)
+
+FF GAST - I
+
+FF GAST - I
+
+Days to Days to
+
+Type of Site of Primary Tumour Histology
+Procedure Diagnosis Procedure (Histology)
+
+Grade/
+Size (cm) Differentiat
+Date ion
+I I RESECT Antrum of stomach 5
+
+Mucinous adenocarcinoma II
+
+I RESECT Antrum of stomach 5 Mucinous adenocarcinoma ||
+
+Pathologic Pathologic ClinicalM HistologyComments Slide URL
+alT al N
+
+Macroscopic tumour
+configuration: type |
+(protruded); Borrmann
+type III (ulcerated tumour
+
+Macroscopic tumour
+configuration: type |
+(protruded); Borrmann
+type III (ulcerated tumour
+T2b N1 M0 with infiltrative margins).
+

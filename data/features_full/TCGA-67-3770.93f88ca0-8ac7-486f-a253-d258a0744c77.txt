@@ -1,0 +1,276 @@
+ 
+
+TISSUES:
+
+ 
+
+CODES:
+
+A. LYMPH NODE
+
+B. LUNGeRIGHT UPPER LGBE
+C. LYMPH NODE
+
+D.
+
+LYMPH NODE
+
+P88305 - 88305
+
+P88307 ~ 88307
+
+P88309 - 88309
+
+P8833l — 88331
+
+050114 — LUNG—LOBECTOMY
+D5017? — REGIONAL LYMPH
+88305TC ~ LEVEL lV — GROS
+88307TC e LEVEL V — GROSS
+88309TC m LEVEL VI — GROS
+88331TC — PATHOLOGY CONSU
+
+1 — SURGICAL SPECIM
+TOBOOO - LYMPH NODE
+
+  
+
+T28200 M81403 » RT UP LOBE LUNGIADENOCARCINOMA,
+
+ 
+
+ICD CODES: 162.9 - MAL NEO BRONCHiLUNG NOS
+
+MARKERS:
+
+88305, 88305TC, 88307,
+
+88307TC,
+
+88309, 88309TC,
+
+Continued on next page
+
+88331,
+
+CGA - 5? - 3778
+
+ 
+
+ 
+
+PATH CONSULT FS, LLG, RLN,
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+'JkiaiﬁCLINICAL-HISTORY“
+
+ 
+
+PERTINENT CLINICAL HISTORY:
+
+INALKDIAGNOSISWi.
+
+ 
+
+A. LYMPH NODE, LEVEL 9R:
+- LYMPH NODE, NEGATIVE FOR TUMOR.
+B. LUNG, RIGHT UPPER LOBE, LOBECTOMY:
+- ADENOCARCINOMA, SEE SYNOPTIC REPORT.
+
+C. LYMPH NUDE, ANTERIOR HILAR:
+
+e SINGLE LYMPH NODE, NEGATIVE FOR TUMOR.
+
+D. LYMPH NODESr LOBAR:
+
+— MULTIPLE LYMPH NODES, NEGATIVE FOR TUMOR.
+
+E. LYMPH NUDE, LEVEL 7:
+
+u LYMPH NODE, NEGATIVE FOR TUMOR.
+
+ 
+
+ 
+
+t page
+
+u.‘
+
+ 
+
+ 
+
+-n.,ur'GROSS DESCRIPTION
+
+A. The specimen is submitted fresh for frozen section as ”level BR“ and
+consists of a red black lymph node measuring 2 cm in greatest dimension
+which is submitted in toto, l {1) labeled ”FSP".
+
+FROZEN SECTION DIAGNOSIS: Node, negative for metastatic tumor. -
+
+B. The specimen is submitted fresh but not for frozen section as "right
+upper lobe" and consists of a 121 gram (formalin fixed), 13 x 9 X 2.2 Cm
+lung lobe received multiple stapled margins measuring 4 to 8.5 cm in
+length, a 2.5 cm in length stapled bronchial margin and adjacent stapled
+vasculature margin measuring 0.6 to 1.2 cm in diameter. The pleural
+surface is red purple to gray and focally dull and dusky with an
+underlying palpable firm area. The pleural surface overlying this area is
+inked blue. The stapled resection margins are removed and the underlying
+parenchyma inked black. Shave sections of the bronchial and vasculature
+margins are taken. The lobe is serially sectioned to reveal a 2.8 x 1.5 x
+1 cm ill defined white tan to gray firm mass which grossly appears to abut
+the blue inked pleural surface, measuring 2.2 cm from the closest black
+inked parenchyma underlying the stapled margin and 2 cm from the hilum.
+The remaining parenchyma consists of pink tan to brown spongy homogenous
+grossly unremarkable parenchyma. No other discrete masses or nodularities
+are grossly identified. Also identified at the hilum is a 1 cm in
+greatest dimension gray black possible lymph node which is submitted
+entirely intact. Representative sections are submitted, multiple {8) as
+
+follows:
+
+1: Vasculature and bronchial margins
+
+2: Greatest dimension of mass
+
+3: Masa with closest blue inked pleural surface
+
+4: Additional section of mass with pleural surface and
+uninvolved parenchyma
+
+5: Perpendicular section of the closest stapled resection
+margin
+
+6: Dull dusky pleura and underlying parenchyma
+
+7: Grossly unremarkable pleura and parenchyma away from
+mass
+
+8: One possible intact lymph node
+
+C. The specimen is submitted fresh as "anterior hilar node" and consists
+of a soft to moderately firm red brown node measuring 2 x l x 0.3 cm. The
+specimen is bisected and submitted in toto, 2 (l).
+
+D. The specimen is submitted fresh as "lobar node" and consists of
+multiple soft red black nodes measuring 2.5 x 2 x 0.5 cm in aggregate.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Continued on next page
+
+ 
+
+HfhjhiGROSS'DESCRIPTI0N*”7"'U-' (Continued)
+
+ 
+
+The specimen is wrapped in tissue paper and submitted in toto, multiple
+(2) labeled "1" and “2".
+
+E. The specimen is submitted fresh as “level 7" and consists of a soft
+red black node measuring 0.4 cm in greatest dimension. The specimen is
+wrapped in tissue paper and submitted in toto, 1 (l).
+
+ 
+
+'qPRIORITY
+
+P -. --.;:-: ;;;_,
+. H
+
+SURGICAL PROCEDURES:
+LUNG—LOBECTOMY, REGIONAL LYMPH
+
+  
+   
+
+SYNOPTIC .. REPORT -- .:-
+
+SYNOPTIC REPORT: LUNG
+(CAP/AJcc/Acs — REQUIRED ELEMENTS)
+
+SPECIMEN TYPE: LOBECTOMY
+
+LATERALITY: RIGHT
+
+TUMOR SITE: RIGHT UPPER LOBE
+
+TUMOR SIZE: 2.8 CM
+
+HISTOLOGIC TYPE: ADENOCARCINOMA
+
+HISTOLGGIC GRADE: 2 (MODERATELY DIFFERENTIATED)
+
+EXTENT OF INVASION: CONFINED TO LUNG
+
+EXTENTION TO PLEURA/OTHER STRUCTURES (SPECIFY): NONE IDENTIFIED
+ADDITIONAL PERTINENT FINDINGS « ATELECTASIS, PNEUMONIA, ETC: (SEE
+BELOW)
+
+MARGINS :
+BRONCHIAL: UNINVOLVED
+PARENCHYMAL: UNINVOLVED
+VASCULAR: UNINVOLVED
+DISTANCE TO PERTINENT MARGIN(S): 2 CM FROM THE BRONCHIAL MARGIN
+
+VENOUS INVASION: NOT IDENTIFIED
+ARTERIAL (LARGE VESSEL) INVASION: NOT IDENTIFIED
+
+ 
+
+ 
+
+ 
+
+ 
+
+Continued on next page ...
+
+ 
+
+= IgﬁﬂﬁTSYNOPTIC REPORT 'ﬁLL;-: (Continued)
+
+ 
+
+LYMPH NODE:
+Nl - # INVOLVED/ﬂ EXAMINED: O/4+ LYMPH NODES
+
+N2 — # INVOLVED/ﬂ: EXAMINED: 0/8+ LYMPH NODES
+N3 - i: INVOLVED/ii EXAMINED: 0/0
+
+OTHER PERTINENT FINDINGS:
+- NO VISCERAL PLEURAL INVASION IS NOTED.
+" FOCUS OF ATYPICAL ADENOMATOUS HYPERPLASIA (0.4 CM),
+TUMOR MASS.
+— MILD EMPHYSEMA.
+7 PLEORAL FIBROSIS WITH FOCAL CALCIFICATIONS.
+
+ 
+
+*** End of Report ***
+
+AWAY FROM MAIN
+
+  
+
+ 
+
+ 
+

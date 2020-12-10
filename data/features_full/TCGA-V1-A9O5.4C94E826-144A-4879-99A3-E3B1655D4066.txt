@@ -1,0 +1,227 @@
+UUID:4C94E826-144A-4879-99A3- E351655RD4eO66ac
+TCGA- V1- -A905- 91A- PR
+
+SURGICAL PATHOLOGY REPORT
+
+ 
+
+ 
+
+ 
+
+FINAL PATHOLOGIC DIAGNOSIS
+
+A. Left pelvic lymph node, biopsy: Metastatic carcinoma in one lymph node (1 / 1); see
+comment.
+
+B. Right pelvic lymph node, biopsy: Metastatic carcinoma in one lymph node (ill); see
+comment.
+
+C. Left pelvic lymph nodes, dissection: No tumor identiﬁed in ten lymph nodes (0/ 10].
+
+D. Right pelvic lymph nodes, dissection: Metastatic carcinoma in four of eight lymph
+nodes (4/8); see comment.
+
+E. Bladder neck, biopsy: Micro-focus of carcinoma involving muscular tissue.
+
+F. Prostate, prostatectomy:
+
+1. Prostatic adenocarcinoma, Gleason score 5+4, with extracapsular extension, and
+focally present at right bladder margin.
+
+2. Seminal vesicle with no tumor.
+
+G. Left urethral margin, biopsy: Benign ﬁbromuscular tissue, no tumor identified.
+
+H. Right urethral margin apex, biopsy: Benign ﬁbromuscular tissue, no tumor
+identiﬁed.
+
+COMMENT:
+
+Synaptic Comment for Prostate Tumors
+
+1. Type of tumor: Small acinar adenocarcinoma.
+
+2. Location of tumor: Right and left apex, slides F1, F2; right anterior quadrant. slides F3-F5; right
+
+#62) 0-3)
+(My MLMMNOS S’ILJo/g
+0J1 Wraﬁ Mo; (Mal/57
+”)433/23/1Lf
+
+posterior quadrant, slides PIS-F9; left posterior quadrant, slides Flo-F13; left anterior quadrant,
+slide F15; right and left bladder margins, slides F17-F18.
+
+Estimated volume of tumor: Approximately 90% of prostate is involved by tumor. The prostate volume
+is 113 cubic cm; 90% of this is the estimated volume of tumor, which is 102 cubic cm.
+
+Gleason score: Primary pattern 5, secondary pattern 4.
+
+Estimated volume > Gleason pattern 3: 85%.
+
+Involvement of capsule: Tumor invades capsule.
+
+Extraprostatic extension: Present, extensive.
+
+Status of excision margins for tumor: Tumor attends to inked excision margin at the right bladder
+margin, slide F17.
+
+Status of excision margins for benign prostate glands: No benign glands present at inked excision
+margin.
+
+9. Involvement of seminal vesicle: Not present.
+
+10. Perineural infiltration: Present.
+
+11. Prostatic intraepithelial neoplasia (PIN): Present. I
+
+12. MCC/UICC stage: at least T3aN1MX; however, specimen E, which was submitted as bladder neck,"
+
+contains a micro-focus of carcinoma. HistologicaIIy, this micro-focus of carcinoma involves muscular
+
+tissue. No urothelial mucosa is present in the specimen. By morphology, we cannot determine whether the
+
+carcinoma is involving the stroma of bladder neck or the stroma of the prostate. Clinical correlation is
+
+suggested.
+
+snows 9
+
+ 
+
+ 
+
+Specimen(s) Received
+A:Left pelvic lymph node (FS)
+B:nght pelvic lymph node (F5)
+C:Left pelvic lymph nodes
+D:Right pelvic lymph nodes
+E:Bladder neck
+
+FzProstate (fresh)
+
+G:Left urethral margin
+
+HzRight urethral margin/apex
+
+Intraoperative Diagnosis
+
+F81 (A) Left pelvic lymph node, biopsy: Metastatic prostate carcinoma. M
+F82 (B) Right pelvic lymph node, biopsy: Metastatic prostate carcinoma. “A
+
+Clinical Histo
+The patient is h with prostate carcinoma.
+
+Gross Description
+
+The specimen is received fresh in eight parts, each labeled with the patient's name and medical record
+number.
+
+Part A is additionally labeled "1. Left pelvic lymph node." It consists of a single ﬁrm, oval, pink-tan
+candidate lymph node, measuring 2.3 x 1.4 x 0.7 cm. The specimen is bisected, and one-half is submitted
+for frown section diagnosis as F81, with the frozen section remnant submitted in cassette Al. From the
+remaining unused portion, a piece is submitted for the The remainder of the tissue is
+submitted in cassette A2.
+
+Part B is additionally labeled ”right pelvic lymph node." It consists of a single firm, oval, pink-tan candidate
+lymph node, measuring 2.3 x 1.5 x 0.7 cm. The specimen is bisected, and one-half of the specimen is
+submitted for frozen section diagnosis as F82, with the frozen section remnant submitted in cassette Bl.
+From the remaining unused portion, a piece is saved for the The remaining tissue is
+submitted in cassette B2.
+
+Part C is additionally labeled ”left pelvic lymph node.“ It consists of multiple fragments of tan-yellow soft
+tissue measuring 4.2 x 2.8 x 1.0 cm in aggregate. The specimen is serially sectioned and searched for
+lymph nodes. Representative sections are submitted as follows:
+
+ 
+
+ 
+
+Cassette Cl: Multiple candidate lymph nodes.
+Cassette C2: 'l‘wo candidate lymph nodes.
+
+Part D is additionally labeled "right pelvic lymph node." It consists of a single fragment of tan-yellow soft
+tissue measuring 3.5 x 2.2 x 1.0 cm in aggregate. The specimen is serially sectioned and representative
+sections are submitted as follows:
+
+Cassette D1: Multiple candidate lymph nodes.
+
+Cassette D2: Two candidate lymph nodes.
+
+Part E is additionally labeled "bladder neck.” it consists of a single fragment of tan-yellow, soft tissue
+measuring 1.1 x 0.5 x 0.3 cm. The specimen is entirely submitted in cassette E1.
+
+Part F is additionally labeled "prostate." It consists of a prostate and attached seminal vesicle glands which
+weigh 66 grams and measure 4.5 cm apex to base, 5.6 cm medial to lateral and 4.5 cm anterior to
+posterior. The exterior gland is smooth, with multiple surgical clips. The seminal vesicles are soft and
+tan-red. The left measures 3.2 x 1.8 x 0.5 cm and the right measures 3.2 x 1.6 x 0.4 cm. There are no
+discrete palpable lesions noted on the surface of the gland. The right is inked green. The left is inked blue
+and the posterior is inked black. The apical margin and bladder margins are removed. The specimen is
+serially sectioned into eight slices. The cut surface reveals a tannyellow, semi-porous parenchyma with a
+vaguely nodular appearance. There is no one discrete dominant mass or nodule. Representative sections
+are submitted as follows:
+
+Cassette Fl: Right apical margin, entirely submitted.
+Cassette F2: Left apical margin, entirely submitted.
+Right anterior quadrant
+
+Cassette F3: Serial slice 2.
+Cassette F4: Serial slice 4.
+Cassette F5: Serial slice 7.
+
+Right posterior quadrant
+
+Cassette F6: Serial slice 2.
+Cassette F7: Serial slice 4.
+Cassette F8: Serial slice 5.
+Cassette F9: Serial slice 8.
+
+Left posterior quadrant
+
+Cassette F10: Slice 3.
+
+Cassette F11: Slice 5.
+
+Cassette F12: Slice 6.
+
+Cassette F13: Slice 8.
+
+Lott anterior quadrant
+
+Cassette F14: Slice 2.
+
+Cassette F15: Slice 5.
+
+Cassette F16: Slice 7.
+
+Cassette F17: Right bladder margin.
+Cassette F18: Left bladder margin.
+Cassette F19: Right seminal vesicle.
+Cassette F20: Left seminal vesicle.
+
+Part G is additionally labeled "left urethral margin.“ It consists of a single fragment of unoriented,
+
+tan-brown soft tissue measuring 1.4 x 0.6 x 0.3 cm in diameter. The specimen is entirely submitted in
+cassette G l .
+
+Part H is additionally labeled ”right urethral margin apex.“ It consists of a single fragment of unoriented,
+tan-brown soft tissue measuring 1.6 x 0.5 x 0.3 cm. The specimen is entirely submitted in cassette H1.
+
+glﬁgnosis based 0? gd'oss 'and microscopic examinations. Final diagnosls made by attending pathologist {it , 4
+o owing review 0 a pat 0 slides. ‘ '
+°°Y 772. 15/1 a...»
+
+At ‘l' (it
+
+\ 33
+.1 ”a;
+
+ 
+  
+   
+ 
+
+Electronically Sig
+
+Reviewer
+

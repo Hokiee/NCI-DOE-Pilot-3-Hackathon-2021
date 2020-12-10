@@ -1,0 +1,71 @@
+Gross Description
+CaseID
+
+    
+
+Lung lobe with the tumor of up to 3.5 x 3 cm in
+its size. Hilar lymph nodes are soft, hyperemic.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Microscopic Description Diagnosis Details
+
+  
+
+denocarcinoma of the lung with solid type of umor Features: Unknown, Tumor Extent:
+qrowth, G-3. Seven examined hilar lymph Localized, NOS , Venous Invasion: Absent,
+nodes demonstrated reactive changes. Margins: Absent, Treatment Effect:
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+Comments
+
+  
+
+ 
+
+Formatted Path Report
+
+LUNG TISSUE CH ECKLIST
+
+Specimen type: Lobectomy
+umor site: Lung
+umor size: 3 x 0 x 3.5 cm
+Histologic type: Adenocarcinoma
+Histologic grade: Poorly differentiated
+umor extent: Not specified
+Other tumor nodules: Not specified
+Lymph nodes: 0/7 positive for metastasis
+(Hilar peribronchial lymph nodes 0/7)
+Lymphatic invasion: Not specified
+enous invasion: Absent
+Margins: Uninvolved
+Evidence of neo-adjuvant treatment: Not
+specified
+dditional pathologic findings: Not specified
+Comments: Left- upper
+
+ 
+
+ 
+
+ 
+
+Excision date
+
+ 
+

@@ -1,0 +1,225 @@
+UUID:63D65511-EE47-4519-A811-56D61036D7EC
+TCGA-HG-AZPA-BlA-PR R dacted
+
+e
+II||||||||IIIIIIII||||||||||||||IIIIIIIIllllIIlIIII
+I IIIIIIIIIIIIIIIIIIIIIIIIII|I|||||II|II
+| ||||||||III|||||||||||||||||IIIIIIIIII
+
+III III
+III"
+
+SPECIMENS:
+
+A. LEFT PELVIC LYMPH NODE
+
+B. LEFT PELVIC LYMPH NODES /aA - 0 , 3
+c. RIGHT PELVIC LYMPH NODES w m; 3470/3
+D. UTERUS AND CERVIX all/WW“: ' 7
+E. PARA-AORTIC LYMPH NODES . - 5 a 53 .
+
+F. APPENDIX J’f’ ' W’“ w
+
+W 3/8 4/1/
+
+SPECIMEN(S):
+
+A. LEFT PELVIC LYMPH NODE
+
+B. LEFT PELVIC LYMPH NODES
+C. RIGHT PELVIC LYMPH NODES
+D. UTERUS AND CERVIX
+
+E. PARA-AORTIC LYMPH NODES
+F. APPENDIX
+
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+
+FSA-left pelvic lymph node: Negative for squamous cell carcinoma; diagnosis called by Dr. to Dr. at
+
+D: Uterus. TAH (GROSS). 3.5 cm fungating tumor involving exo/endo cervix and likely lower uterine
+segment. Closest mucosal margin 1.5 posterior. Called by Dr. to Dr. at
+
+DIAGNOSIS:
+
+A. LYMPH NODE. LEFT PELVIC, EXCISION:
+- REACTIVE LYMPH NODE (0/1)
+
+B. LYMPH NODES, LEFT PELVIC, EXCISION:
+- REACTIVE LYMPH NODES (Ol13)
+
+C. LYMPH NODES, RIGHT PELVIC. EXCISION:
+- REACTIVE LYMPH NODES (0/8)
+
+D. UTERUS AND CERVIX, RADICAL HYSTERECTOMY:
+
+- MODERATELY DIFFERENTIATED SQUAMOUS CELL CARCINOMA OF THE
+
+CERVIX MEASURING 8 X 6 CM, IT IS OF 1.5 CM OF DEPTH OF STROMAL INVASION AND
+IT IS INVOLVING THE ENDOMETRIUM.
+
+- PARAMETRIUM AND VAGINAL MARGIN ARE FREE OF TUMOR.
+
+- LYMPHATIC INVASION IS SEEN.
+
+- SECRETORY ENDOMETRIUM WITH CHRONIC ENDOMETRITIS.
+
+- INTRA-UTERINE DEVICE (GROSS)
+
+- SEE SYNOPTIC REPORT.
+
+E. LYMPH NODES, PARA-AORTIC, EXCISION:
+- REACTIVE LYMPH NODES (0/4).
+
+F. APPENDIX, APPENDECTOMY:
+- APPENDIX WITH NO PATHOLOGIC ABNORMALITIES.
+
+SYNOPTIC REPORT - UTERINE CERVIX
+Specimen Type: Radical hysterectomy
+Tumor Site: Anterior and Posterior cervix
+
+Tumor Size: Greatest dimension: 8cm
+Additional dimensions: 6cm x 2.50m
+
+Other Organs Present: Vagina, Uterine corpus and Appendix
+WHO CLASSIFICATION
+
+Squamous cell carcinoma, NOS 8070/3
+
+Histologic Grade: 62: Moderately differentiated
+Depth of Invasion: Invasion present
+
+Depth: 1.5cm
+
+Horizontal spread: 8cm
+
+TSS: ‘
+
+Extent of Invasion: Uterine involvement
+
+No Parametrial involvment
+
+No Vaginal involvement
+
+Venous/Lymphatic (Large/Small Vessel) Invasion (V/L): Present
+Margins: Margins uninvolved by invasive carcinoma
+
+Distance of invasive carcinoma from closest margin: 1cm
+Speciﬁc margin: vaginal mucosa
+
+Distance of invasive carcinoma from parametrium: 1.5cm
+Lymph Node Dissection: Right pelvic 0 / 8 Left pelvic 0 / 14 Para-aortic 0 / 8
+Non-Lymph Node Metastases: None
+
+Other Pathologic Findings: chronic endometriosis
+
+Pathologic Staging (pTNM [FIGO]): pT 1b2 N 0 M X
+
+GROSS DESCRIPTION:
+A. LEFT PELVIC LYMPH NODE
+Received fresh labeled with matching patient identiﬁers is a 2.7 x 1.8 x 1.2 cm lymph node. Specimen
+is serially sectioned and has a uniform pink-tan cut surface. Touch prep is performed and the specimen
+is submitted entirely for frozen section diagnosis in cassettes FSA1-FSA3.
+8. LEFT PELVIC LYMPH NODES
+Received in formalin labeled with the patient's identiﬁcation and "left pelvic lymph nodes" are 8 x 5 x
+2cm of adipose tissue. within which, thirteen possible lymph nodes are identiﬁed. The nodes range
+from 0.2 cm to 4.0 x 1.5 x 0.7 cm. The cut surfaces are ﬁrm white to tan-pink. The nodes are entirely
+submitted:
+B1-ﬁve lymph nodes
+BZ-four lymph nodes
+B3-one bisected lymph node
+B4-B5-one lymph node, serially sectioned
+B6-B7-one lymph node, serially sectioned
+BB-B11-one lymph node, serially sectioned
+
+C. RIGHT PELVIC LYMPH NODES
+
+Received in formalin labeled with the patient's identiﬁcation and "right pelvic lymph nodes" are 7.5 x 5.5
+x 2.0 cm of adipose tissue, within which, ten possible lymph nodes are identiﬁed. The nodes range
+from 0.5 cm to 4.5 x 1.0 x 0.6 cm. The cut surfaces are ﬁrm white to tan-pink. Representative sections:
+C1- two bisected lymph nodes (one node inked blue)
+
+CZ-one bisected lymph node
+
+C3-one bisected lymph node
+
+C4-two lymph nodes
+
+C5-one lymph node
+
+C6-8 one lymph node. serially sectioned.
+
+D.UTERUS AND CERVIX:
+
+Specimen is labeled "uterus and cervix" and consists of a 265 gram radical hysterectomy specimen.
+The uterus measures 6.5 x 7 x 5 cm. The cervix measuring 5 x 7 x 6 cm. The right parametrium soft
+tissue measures 2.0 x 1.0 x 0.5 cm. The left parametrium soft tissue measures 2 x 1 x 0.6 cm. Both
+are unremarkable. The serosa of the posterior uterus is entirely inked black, and the anterior is entirely
+inked blue. The uterus is laterally bisected along the longitudinal axis to reveal fungating 8 x 6 x 2.5 cm
+mass originating from the cervix and involving a vast majority of the endometrial cavity. The mass is
+white, soft. and friable. It is at least 2cm of depth of invasion at the anterior cervix and 1.5cm at the
+posterior cervix. It is at 1.0 cm from the vaginal mucosal margin and at 1.5 cm from the nearest
+parametrium (right). Also, the uterine cavity showed a T shape intra-uterine device (3.5 x 3 cm). The
+endometrial cavity is 3.3 cm from cornu to comu, and 5 cm from superior to inferior. The myometrium
+has maximum thickness of 3.50m. The endometrium is of 0.3 cm thick. The following representative
+sections are submitted:
+
+D1: right parametrium
+
+DZ: left parametrium
+
+D3: right cul de sac tissue.
+
+D4: left cul de sac tissue.
+
+05-09: complete cross section through the anterior cervix (D7 and DB are one section from
+
+TSS:
+
+superior to inferior, respectively) (D5 also contains the nearest vaginal margin)
+D10: additional vaginal margin
+
+D11-D13: sections through the posterior cervix
+
+D14: complete cross section of the myometrium from the anterior cavity
+
+DI 5: complete cross section from the posterior myometrium and cavity
+D16-Dl7: uninvolved posterior and anterior upper endometrium.
+
+E. PARA-AORTIC LYMPH NODES
+
+Received in formalin labeled with the patient's identiﬁcation and "para-aortic lymph nodes" are four
+lymph nodes, ranging from 0.5 x 0.5 x 0.3 cm to 1.5 x 0.8 x 0.5 cm. The cut surfaces are ﬁrm tan-pink.
+Entirely submitted:
+
+E1- two bisected lymph nodes (one inked black. one inked blue)
+
+E2-one whole lymph node (inked blue) and one bisected (inked black)
+
+F. APPENDIX
+
+Received in formalin labeled with the patient's identiﬁcation and "appendix” is a 6.5 x 0.5 x 0.5 cm
+vermiform appendix. It has a smooth tan-pink serosa. It has an intact 0.3 cm wall. The lumen is
+dilated, proximally, ranging from 0.1 cm to 0.6 cm, and contains soft feces. No tumor is identiﬁed.
+Representative sections. E1.
+
+CLINICAL HISTORY:
+None given
+
+PRE-OPERATIVE DIAGNOSIS:
+Cervical cancer
+
+Microscopic/Diagnostic Dictation:, ,
+Microscopic/Diagnostic Dictation:, M.D., PATHOLOGIST, .
+Microscopic/Diagnostic Dictation:, M.D.. PATHOLOGIST,
+Final Review: M.D., PATHOLOGIST, 3-. ‘
+Final Reviewz, M.D., PATHOLOGIST.
+
+Final Review, M.D.. PATHOLOGIST, v
+
+Final Review, M.D., PATHOLOGIST,
+
+Final, M.D., PATHOLOGIST,
+
+ 
+

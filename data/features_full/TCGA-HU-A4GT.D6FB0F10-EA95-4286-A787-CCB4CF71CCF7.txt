@@ -1,0 +1,127 @@
+UUID: DGFBOFIO- EASS- 4286- A787- CCBACF71CCF7d
+
+TCGA-HU-A4GT—01A-PR
+
+GROSS:
+
+Specimen state: Fresh
+
+Operation: Distal gastrectomy
+
+Measurement: Greater curvature 16.5 cm
+Lesser curvature 14.0 cm
+Proximal resection margin 15.0 cm
+
+, Distal resection margin 6.5 cm
+
+Duodenum 0.7 cm
+
+Lesion: Ulcerofungating mass
+
+Tumor size: 8.5 x 7.5 x 1.5 cm ’05 ' 0 ’ 3
+Location: Antrum (LOU/n1 madam, {wow 3‘5“” 3
+Tumor type: AGC (Borrmann type III) SHw ; gm 4 NW C ”1.3
+
+From proximal resection margin - 7.0 cm
+From distal resection margin - 1.0 cm
+Gross serosal invasion: No
+
+Blocks
+511-10462
+T14 and TB, tumor and surrounding tissue x 5
+A, antrum mucosa x 1
+B and NB, body mucosa x 2
+P, proximal resection margin x 1
+D, distal resection margin of resected specimen x 1
+DRM, separately submitted specimen, labeled as 'distal margin' x 1
+LN1-3, superior gastric lymph nodes x 3
+LN4-6, inferior gastric lymph nodes x 3
+LN7-8. '1' lymph nodes x 2
+LN9, '4sb' lymph nodes x l
+LN10, '5‘ lymph nodes x 1
+LN11-14, '6’ lymph nodes x 4
+LN15, ‘7‘ lymph nodes x 1
+mm '8' lymph nodes x 1
+LN17, '9' lymph nodes x l
+LN18, '11p' lymph nodes x 1
+LN19, '12' lymph nodes x 1
+811- 10463
+A1-2. labeled as 'mesenteric cystic wall' x 1
+
+\
+
+It“) q/37/l3’
+
+ 
+
+ 
+
+ 
+
+MICROSCOPIC:
+
+Tumor type: Adenocarcinoma
+Differentiation: Poorly diffrentiated
+Depth of tumor invasion:
+
+T3: Tumor penetrates subserosal connective tissue without invasion of
+
+visceral peritoneum or adjacent structures
+
+Margins: Proximal resection margin (—)
+Distal resection margin (-)
+
+Ming classification (Growth pattern): Expanding
+Lymphoid reaction: Present
+Lymphovascular invasion: Present
+Venous (large vessel) invasion: Absent
+Perineural invasion: Absent
+Lymph node metastasis: Absent (0/81)
+Pathologic stage: pT3NOMx (AJCC 7th edition)
+
+DIAGNOSIS:
+
+Stomach. distal gastrectomy.
+Adenocarcinoma, poorly differentiated, infiltrating
+(Advanced gastric cancer)
+
+<Addendum>
+
+Final dragnosrs. Stomach Intestinal AdenocarcinOma,_ Tubular Type pr55 dwdprlwb
+
+Lymph node, perigastric, distal gastrectomy:
+Superior gastric: No tumor present (0/16)
+Inferior gastric; No tumor present (0/10)
+
+Abdominal cavity, labeled as ‘mesenteric cystic wall‘, excision:
+fyetir lymphanoioma
+
+Lymph node, labeled as 'mesenteric cystic wall', excision:
+No tumor present (0/4)
+
+Lymph node, regional, biopsy:
+Labeled as '1': No tumor present (0/10)
+Labeled as '4sb': No tumor present (0/3)
+Labeled as '5': No tumor present (0/4)
+Labeled as '6‘: No tumor present (0/17)
+
+ 
+
+ 
+
+ 
+
+Labeled as ‘7': No tumor present (0/2)
+Labeled as '8': No tumor present (0/2)
+Labeled as '9‘: No tumor present (0/6)
+Labeled as ’llp’: No tumor present (0/5)
+Labeled as '12': No tumor present (0/2)
+
+ 
+
+ 
+
+ 
+
+ 
+

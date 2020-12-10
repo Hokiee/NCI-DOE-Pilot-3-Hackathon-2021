@@ -1,0 +1,296 @@
+ 
+
+.l,_._..__.~._....,.,‘.. . __.._ .m._lw _.
+
+/ UUID:2EF5F7E1-5863-4E99-84EE-3152319FFCE3
+
+mireiﬁYimn'ITiI'riiﬁﬁInIInIIlllﬁﬁﬁﬁﬁf‘ed
+. lHlllHllllHlll m Ill
+IlllllllllIlllllllllllllllllllllllllllllllllllllllllllllllllllll
+
+mHIHIIIIHHIIllllllllIIIHIIHHIIIIIIlllllllllllllllllllll
+
+. :
+
+Name
+Lee I to}
+Acct# W“ _‘____..___._._ 7W"- __ - _
+0rd #= - E SIGNED Perform D/T=
+
+SURGICAL PATH
+
+(1 of 1)
+
+iwwrt ADDENDUM #1 *****
+
+ADDENDUM REPORT:
+
+FINAL DIAGNOSIS (based on GROSS and MICROSCOPIC examination):
+
+1. MIXED GERM CELL TUMOR, UNIFOCAL (LARGEST FRAGMENT 9 CM). 50%
+YOLK SAC, 40 % IMMATURE AND MATURE TERATOMA, 10% SEMINOMA,
+left testis and spermatic cord, left radical orchiectomy (see
+note) ‘
+
+SPERMATIC CORD MARGIN FREE OF TUMOR
+
+NO DIRECT EXTENSION OF INVASIVE TUMOR
+
+LYMPHOVASCULAR INVASION NOT IDENTIFIED '
+
+N0 RECOGNIZABLE TESTICULAR PARENCHYMA IDENTIFIED
+
+pTleMx ‘ _
+
+GUIIbUM
+
+Note: Because of the fragmentation of the specimen, evaluation of
+margins cannot be ascertained. The seminoma component is c-kit and PLAP
+positive and CAM.5.2 keratin stain negative. The yolk sac tumor is
+keratin and AFP strongly positive. CD30_is non—contributory. These
+findings support the above diagnosis.
+
+Immunohistochemistry disclaimer: '
+
+This test was developed and its performance characteristics determined
+by It has not been
+cleared or approved by the U.S. Food and Drug Administration. The FDA
+has determined that such clearance or approval is not necessary. This
+test is used for clinical purposes. It should not be regarded as '
+
+- Idea- *3
+VIZLW'J , maLQEWx 9085/3 "
+(54.5: JMwMQS 6&9 29
+
+I <31.) 5/ 20/; 4/
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 2
+
+.—..—...«———..—.—..—~..——_.-——_—_....__—_.—_._......_..
+
+SURGICAL PATH
+
+Acct#:
+
+investigational or for research. This Laboratory is certified under the
+Clinical Laboratory Improvements of 1988 (CLIA) as qualified to perform
+high complexity clinical laboratory testing.
+
+‘Dictated By:
+Released By: --4 ---------------------- SIGNED
+
+Transcribed:
+
+Specimen Source: L TESTIS SPERMATIC C
+CASE NO.:
+
+GROSS EXAM DATE:
+
+PHYSICIAN & PAGER #:
+
+PRELIMINARX DIAGNOSIS .(based on GROSS and MICROSCOPIC
+,examination): -
+
+l. MIXED GERM CELL TUMOR, UNIFOCAL (LARGEST FRAGMENT 9 CM),
+50% YOLK SAC, 40 % IMMATURE AND NATURE TERATO . 10%
+SEMINOMA, left testis and spermatic cord, left radical
+orchiectomy (see note) ‘
+SPERMATIC CORD MARGIN FREE OF TUMOR
+
+N0 DIRECT EXTENSION OF INVASIVE TUMOR
+
+LYMPHOVASCULAR INVASION NOT IDENTIFIED
+
+NO RECOGNIZABLE TESTICULAR PARENCHYMA IDENTIFIED
+p'l‘leMx
+
+mtnssunu
+
+Note: Because of the fragmentation of the specimen, evaluation
+of margins cannot be ascertained. Special stains pending.
+
+GROSS DESCRIPTION:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Page 3
+
+Name: ' DOB:
+LOC: Att:
+
+SURGICAL PATH lllll
+. (Continued)
+Acct#:
+
+One specimen received, fixed in formalin, labeled with the
+patient's name, medical record number, and "left testis and
+spermatic cord." It consists of a fragmented specimen consisting
+of the spermatic cord, epididymis, fragments of testis
+parenchyma. Because this specimen is received fragmented. the
+exterior is not inked. The entire specimen weighs 150 gm. The
+spermatic cord is'8 cm in length x 1.3 cm in diameter. The,
+epididymis is 3.5 x 2 x 0.5 cm. The main specimen measures 9 x
+6.5 x 3 cm in aggregate and is white—pink soft tissue with focal
+areas of cystic spaces.
+
+SUMMARY OF CASSETTES:
+1. Spermatic cord margin.
+2.7 Tumor. '
+8. Dense fibrous tissue.
+9. epididymis
+10-11 Additional sections of spermatic cord R11.
+
+Dictated By:
+
+ 
+
+PW m an: WWW 2W
+
+fcéﬂ W (.5; 5
+
+mph/1A
+
+ 
+
+ 
+
+gig“. {12
+
+W 5'0?”
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+1/4. 00
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mans; The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (T83): 77 ‘ TSS Identiﬁer: 7a. A TSS Unique Patient Identiﬁer: _
+Completed By (Interviewer Name on OpenClinica): _ Completed Date: ___7p_ ‘7
+Diagnosis Information
+# Data Element Entry Alternatives Working Instructions
+Yolk 33C 5 0 3" I Provide the diagnosis] histologic subtype(s) documented on
+
+Pathologic Diagnosis Imature and Mature Teratoma 4 0%. . the initial pathology report for this case. lfche histology for
+
+1 Provided an Initial —————-——-—-——— this use is mixed. provide all listed subtypes.
+
+Seminoma 10%
+Pathology Report
+. . . Provide the hlsrologlc features selected on the TCGA Case
+
+Hlstologlc features 0f Yolk Sac Tumor 5 o a; , Quallty Control Form completed for this case.
+
+2 the sample prowded .
+for TCGA’ as reﬂected Taratoma (Natural 50 % ,
+on the CQCF.
+
+Discrepancy between Pathology Report and Case Quality Control Form I
+
+3 Provide the reason for _ . , Provide a reason describing why the dlagnosis on the initial
+the discrepancy h15t°1091c heterogeneity pathology report for this case is not consistent with the
+between the pathology characteristic of mixed germ dlagnosni selected on the TCGA Case Quallty Control Form.
+report and the TCGA cell tumors
+Case Quality Control
+Form.
+Name of TSS Reviewing Provide the name of the pathologist who revlewed this case
+
+4 Pathologist or for chn.
+
+Biorepository Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above lnformatlon provlded by my Institution is true and correct and has been quality controlled.
+
+T55 Reviewing PatholuglsL or 13qu cpuauul y m. cu... b até
+
+I acknowledge that the above information provlded by my institution ls true and correct and has been quality controlled. The Attendlng Pathologist or the
+Department Chalrman has been informed ar ls aware of the above discrepanq in diagnoses.
+
+Principal mvesugator Signatm c Date
+
+ 
+
+ 
+

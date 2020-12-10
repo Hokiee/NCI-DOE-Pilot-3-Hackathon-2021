@@ -1,0 +1,25 @@
+UUID: B4BF10F9-5250-49DB-56C9-1C17AEZR7D51Eac LC$ O ‘3010/
+
+TCGA- GS- A9U3- --a1A PR 8 dado MOS
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIII‘I JII‘IJW JII‘J “II II III
+IIII|||III|IIIIIIIIIIIIIII|||||||II|I|I||I|||I|||||||||||||I||I| Lira: IIZWI/i ﬂw/eL9M1/Iﬂ_77 9/
+
+LEFT lNGUINAL LYMPH NODE: {3N2 \ 616,-] it)
+
+We receive a lymph node measuring 3,5 x 3,5 x 2,8 cm.
+
+lNGUINAL LYMPH NODE (BIOPSY):
+- DIFFUSE LARGE B-CELL LYMPHOMA, CD20 POSITIVE
+
+The lymph node shows a diffuse and partially nodular lymphoid inﬁltration composed
+by large centroblastic cells, accompanied by abundant small lymphocytes, histiocytes
+and plasma cells.
+
+The atypical cells are positive for CD20, BCL2, BCL6 and IgD, and are negative for
+CD10 and MUMl. There is Kappa light chain restriction. The small accompanying
+lymphocytes are CD3positive. The Ki—67 proliferative index is 50-60%.
+
+PCR BCL2 : Rearranged
+
+ 
+

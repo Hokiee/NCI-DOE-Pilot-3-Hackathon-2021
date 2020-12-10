@@ -1,0 +1,395 @@
+ 
+
+AP Report ——
+
+* Final Report *
+
+ 
+
+I teen—144329
+
+Document Type:
+Document Date:
+Document Status: 0 i la
+AP REPORT
+
+Document Title:
+——E—ncounter—info:——
+
+ 
+
+* Final Report *
+
+AP REPORT
+i n - Accession Number: —
+
+Date Collected:
+Date Received:
+
+   
+ 
+ 
+
+Financial Number:
+Room/Bed:
+Admitting PF ysician:
+Ordering Physician:
+
+SUPPLEMENTAL REPORT
+
+SUPPLEMENTAL DIAGNOSIS:
+Previous diagnosis remains unchanged.
+
+COMMENT:
+This test was not requested, performed or reported at—
+
+Hospital Department of Pathology.
+
+The test wa The test was performed and results
+reported by
+
+Results are included with this Surgical Pathology report so that all available
+information on this tumor may be accessed at one site.
+
+MGMT GENE AMPLIFICATION
+DNA was isolated from a paraffin embedded block of the brain tumor biopsy
+
+— DNA methylation atterns in the CpG island of the MGMT gene
+(Genebank accession number“ was determined by chemical
+(bisulfite) modification of unmet y ate , u no methylated, cytosines to
+
+Page 1 of 8
+
+Printed by:
+(Continued)
+
+Printed on:
+
+ 
+
+ 
+
+ 
+
+AP Report
+
+ 
+ 
+
+* Final Report *
+
+I TWA—144829
+
+uracil and subsequent PCR usin rimers s ecific for either methylated or the
+modified unmethylated DNA ( The
+PCR products were analyzed in duplicate parallel runs by capillary gel
+
+electrophoresis. The sensitivity of the assay based on DNA dilution studies
+
+is at least 1:1000.
+
+RESULT:
+The analyzed region of the MGMT promoter is UNMETYLATED.
+
+INTERPRETATION:
+MGMT (06 methylguaine DNA methyltransferase) is a DNA repair gene. Methylation
+of the promoter leads to gene silencing and loss of MGMT expression. A recent
+study that tested the methylation status of the same region of the MGMT
+promoter in glioblastomas found that MGMT promoter methylation was an
+independent favorable prognostic factor and was associated with a survival
+
+    
+
+ 
+
+SURGICAL PATHOLOGY REPORT
+
+DIAGNOSIS:
+1. LEFT TEMPORAL BRAIN LESION, BIOPSY, FSlA, TPlA:
+- GLIOBLASTOMA WITH OLIGODENDROGLIAL COMPONENT (WHO GRADE IV).
+
+— SEE COMMENT.
+
+2. LEFT TEMPORAL BRAIN LESION, EXCISION:
+- GLIOBLASTOMA.WITH OLIGODENDROGLIAL COMPONENT (WHO GRADE IV).
+
+- SEE COMMENT.
+
+COMMENT:
+Sections show fragments of tumor composed of cells of both astrocytic and
+
+oligodendroglial morphology. Microvascular proliferation, mitoses and
+Page 1 (Continued...)
+
+Printed by: Page 2 of 8
+Printed on: (Continued)
+
+ 
+
+ 
+
+ 
+
+AP Report —- _
+
+* Final Report *
+
+    
+
+Willie 14— 1829
+
+Patient: — Accession Number: —
+Patient Number: —
+
+ 
+
+SURGICAL PATHOLOGY REPORT
+
+COMMENT:
+necrosis are present. Taken together, these findings are diagnostic for
+
+glioblastoma with an oligodendroglial component. Fluorescent in situ
+hybridization (FISH) for loss of heterozygous of Chromosomes 1P and 19Q, and
+amplification of epidermal growth factor receptor (EGFR) will be performed and
+reported as an addendum to this report. MGMT Promotor Methelation Analysis
+will be sent to an outside laboratory, and results will be addended to this
+
+report.
+
+SPECIMEN:
+1. Left temporal brain lesion.
+2. Left temporal brain lesion.
+
+CLINICAL HISTORY/OPERATIVE FINDINGS:
+Craniotomy for tumor (L). Brain lesion.
+
+GROSS DESCRIPTION:
+Two Specimens are received, each labeled with the patient‘s name and medical
+
+record number.
+
+Specimen #1 is received fresh for intraoperative consultation and designated
+"left temporal brain lesion.” The specimen consists of multiple fragments of
+soft gray tissue meaSuring 2.5 x 1.5 x 0.5 cm in aggregate. Representative
+tissue is submitted for frozen section diagnosis and the contents of the
+cryoblock are transferred to cassette "FSlA." A touch preparation is made.
+The remainder of the specimen is submitted entirely in cassette "lB."
+
+Specimen #2 is received in formalin and labeled as "left temporal brain
+lesion." The specimen consists of multiple fragments of brain tissue
+
+measuring 5.0 x 5.0 x 1.5 cm in aggregate. Re resentative sections are
+submitted in sssssssss "2A" through "."2F _ _;
+
+Page 3 of 8
+
+Printed by:
+(Continued)
+
+Printed on:
+
+ 
+
+ 
+
+ 
+
+ 
+
+AP Report —~_
+
+* Final Report *
+
+ 
+   
+
+- Wilt—144829
+
+ 
+
+INTRAOPERATIVE CONSULTATION:
+FSlA,TPlA: LEFT TEMPORAL BRAIN LESION, BIOPSY (FROZEN SECTION, TOUCH
+
+PREPARATION): GLIOBLASTOMA.
+
+MICROSCOPIC DESCRIPTION:
+Microscopic examination performed.
+
+The pathologist has reviewed and interpreted the case with the
+resident/fellow.
+
+SPECIAL STAINS:
+
+FISH DONE
+FISH DONE
+FISH DONE
+FISH DONE
+FISH DONE
+FISH DONE
+
+Page 2 (Continued...)
+
+Patient: — Accession Number: —
+Patient Number: _
+
+FLUORESCENCE IN SITU HYBRIDIZATION
+
+Page 4 of 8
+
+Printed by:
+(Continued)
+
+Printed on:
+
+ 
+
+ 
+
+ 
+
+AP Report ———
+
+* Final Report * -
+
+- men—144829
+
+    
+
+SPECIMEN:
+Brain, left temporal lesion.
+
+ 
+
+CLINICAL Hisroaf/REFERRING olnonosrs:
+Glioblastoma with oligodendroglial component (WHO Grade IV).
+
+GROSS DESCRIPTION:
+Paraffin block 1B.
+
+TEST PERFORMED/PROBES USED:
+Probe for chromosome lp36
+Probe for chromosome lq25
+
+Probe for chromosome 19p13
+Probe for chromosome l9q13
+
+EGFR gene locus specific probe(7p12)
+Chromosome 7 alpha satellite DNA specific probet7pll.1—7qll.1)
+
+RESULTS:
+POSITIVE for chromosome 1p36 deletion
+nuc ish lp36th36 x l),lq25(lQ25 x 2){152/2001
+
+POSITIVE for chromosome 19q13 deletion
+nuc ish 19pl3tlgPl3 x 2),19q13(lBQl3 x 1)[126/200)
+
+POSITIVE for EGFR gene amplification
+nuc ish amptEGFR)[200/200]
+
+Page 5 of 8
+
+Printed by:
+(Continued)
+
+Printed on:
+
+ 
+
+ 
+
+ 
+
+AP Report
+
+* Final Report *
+
+ 
+
+ 
+
+ 
+
+Page 3 (Continued...)
+
+Patient: Accession Number: —
+Patient Number:
+
+FLUORESCENCE IN SITU HYBRIDIZATION
+
+INTERPRETATION:
+Fluorescence in situ hybridization was performed using the above listed DNA
+probes (Vysis Inc.). The probes were simultaneously hybridized to a section of
+
+the formalin~fixed paraffin—embedded tissue submitted for evaluation.
+
+Of 200 interphase nuClei analyzed, 24% demonstrated loss of signal for the
+
+Page 6 of 8
+
+Printed by:
+(Continued)
+
+Printed on:
+
+ 
+
+ 
+
+ 
+
+AP Report —-—
+
+* Final Report *
+
+ 
+
+TCGA~ 14-1829
+
+ 
+
+lp36 probe which indicates the presence of deletion for chromosome lp36.
+Correlation with clinical and other laboratory parameters is suggested.
+
+Fluorescence in situ hybridization was performed using the above listed DNA
+
+prom-7 T"Themprobes—werémsﬁﬁ'ﬁ'ltaneously’hybridized to a section or
+the formalin—fixed paraffin—embedded tissue submitted for evaluation.
+
+Of 200 interphase nuclei analyzed, 13% demonstrated loss of signal for the
+19ql3 probe which indicates the presence of deletion for chromosome 19q13.
+Correlation with clinical and other laboratory parameters is suggested.
+
+Flourescence in situ hybridization was performed using the above listed DNA
+probes .The probes were simultaneously hybridized to a section of
+
+the formalin—fixed paraffin—embedded tissue submitted for evaluation.
+
+Of 200 interphase nuclei analyzed, 100% of cells Were POSITIVE for EGFR gene
+amplification. Positive and negative controls were appropriate. Correlation
+with clinical and other laboratory parameters is suggested.
+
+This test was developed and its performance characteristics determined by the
+Emory medical Laboratories. It has not been cleared or approved by the 0.8.
+food and Drug Administration.
+
+The results of this test should not be used alone as the sole basis for
+diagnosis and/or treatment. These results may, howaver, prove useful when
+used in conjunction with other diagnostic procedures and clinical evaluations.
+Use of these results, in this manner, can be considered to fall within the
+
+scope of practice of medicine. This test was develo ed and its performance
+characteristics determined by 131*. It has not been
+cleared or approved by the U.S. Food and Drug A inistration.
+
+COMMENT:
+
+See above.
+Printed by: Page 7 of 8
+Printed on: (Continued)
+
+ 
+
+ 
+
+ 
+

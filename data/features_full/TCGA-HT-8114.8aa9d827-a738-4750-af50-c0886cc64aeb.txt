@@ -1,0 +1,19 @@
+Tumor:
+Control:
+
+Diagnosis- Anaplastic Oligoastrocytoma
+MIB-l Labeling Index: 5.2%
+
+Microscopic description:
+
+Sections demonstrate a moderately to markedly hypercellular glial neoplasm that
+diffusely infiltrates both gray and white matter. The tumor demonstrates several distinct
+regional patterns. These include regions with a predominant phenotype. The majority of
+these appear to be ordinary gemistocytes but some microgemistocytes are also noted. In
+other areas a fibrillary or protoplasmic astrocytoma phenotype predominates. Finally, a
+microcystic stroma is focally prominent. Although nuclei tend to be round, and some
+have few processes, classic oligodendroglioma differentiation is not seen. Atypia ranges
+from mild to marked with the latter regionally present as scattered large, often
+multinucleated cells. Mitoses are rare with never more that 2 mitoses per 10 high power
+fields. Microvascular proliferation is not seen but there is focal tumor necrosis.
+

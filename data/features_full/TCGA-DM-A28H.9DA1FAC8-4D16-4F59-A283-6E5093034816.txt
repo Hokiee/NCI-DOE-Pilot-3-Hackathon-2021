@@ -1,0 +1,158 @@
+ 
+
+Path (First Tumor)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tumor Site: [Cecum Proximal 3
+
+Date of Cancer Sample Procurement:
+
+Histology: [Adenocarcinoma :3
+
+Description of other histology: f—
+
+Grade: [Poorly Differentiated :5]
+
+Mucinous: (5‘ No F Yes (23:88; P Unknown
+Signet Ring Feature: G No C Yes (gozae; F Unknown
+Histologic Heterogeneity: (6 No F Yes r Unknown
+Host Response: I None :1
+
+Crohn's like reaction (0‘ None (" Yes F Unknown
+Plasma cell rich stroma C No (‘ Yes r“ Unknown
+
+ 
+
+ 
+
+Growth Pattern:
+
+(‘ Expansile 5 Invasive (‘ Expansile (‘ Unknown
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and Invasive
+Inﬂammatory Bowel Disease (0‘ No C Yes F Unknown
+Angiolymphatic Invasion: (0‘ No (‘ Yes F Unknown
+Mutator Phenotype: (0‘ No F Yes (‘ Unknown
+Number of Slides F—
+Garland Necrosis present: (‘ No (0‘ Yes (1:62;: P Unknown
+
+ 
+
+ 
+
+TIL Cells / HPF
+
+'0
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pathologist Comment:
+
+F—_——
+
+ 
+
+ 
+
+UUID:SDA1FAC8-4D16-4F59-A283-6E5093634816
+TCGA-D - SH-OlA-PR
+
+M A2 Redacted
+ll IIll|lI||I|IIIIIIIIIIIIIIIIIIlIlIIIIlIIIIIIIIIIIlIIIIIIIIllIIlll
+
+ll|l|l|l||||||||||l||l||||||||||||||I||I|||||||||||I|||||| l||||
+
+Ill lllllIIIIIllllllllllllllllllllllllllllllllll|||ll
+
+/cA—a—)
+W Nu (040/3
+
+/‘/ 5/3/11
+
+Sﬁw mew cvaa
+
+ 
+
+ 
+
+ 
+

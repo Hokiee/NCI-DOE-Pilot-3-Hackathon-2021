@@ -1,0 +1,73 @@
+Page 1 of 1
+
+UUID:875158“:-ICED-AIDS-9951-9157A81316D5
+Patient. 1 < l... . TCGA-BG-A4BC-61A-PR Rﬁldlﬁlilited
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+HIlllllHlllllHlHllllHlllHl l
+|||||I||| |l||||||ll||||||l||| | lllllilﬂll IIIIIIIIHHHIIIIHEH
+
+ 
+
+AP Surgical Pathology: Additional Info 1
+Surg Path
+
+CLINICAL HISTORY:
+
+Spiculated mass with pleomorphic calcifications. If invasive carcinoma,
+please obtain ER, PR, EGFR, HERZ/Neu by immunohistochemistry; for all 2+ IHC
+results please do FISH analysis..
+
+GROSS EXAMINATION:
+A. "Left breast, seven cores, with calcifications, 1*2:00 region", in
+formalin. A 1.5 x 1.0 x 0.3 cm aggregate of multiple core biopsies of
+pink~tan tissue is entirely submitted in a mesh bag in A1.
+
+MICROSCOPIC EXAMINATION:
+
+Microscopic examination is performed.
+Cue
+
+  
+
+DIAGNOSIS:
+A. "LEFT BREAST, SEVEN CORES, WITH CALCIFICATIONS, 1-2:00 REGION"
+(STEREOTACTIC NEEDLE CORE BIOPSY):
+
+36003
+INVASIVE ADENOCARCINOMA OF THE BREAST. . }
+HISTOLOGIC TYPE: LOBULAR. cardnomq’ ; AR ”ya-h Mr ADDS
+NOTTINGHAM COMBINED HISTOLOGIC GRADE: 2 OF 3.
+TUBULE FORMATION SCORE: 3. $7 013
+NUCLEAR PLEOMORPHISM SCORE: 2. .
+MITOTIC RATE SCORE: 2. 5,45; Eng/£573,403 CSOrq
+IN—SITU CARCINOMA: PRESENT. 7’2'17, c 0
+
+TYPE OF IN-SITU CARCINOMA: LOBULAR (FOCAL DUCTAL FEATURES NOTED).
+NUCLEAR GRADE OF IN-SITU CARCINOMA: l.
+
+MICROCALCIFICATIONS: PRESENT IN ASSOCIATION WITH INVASIVE CARCINOMA.
+
+ESTROGEN/PROGESTERONE RECEPTOR, HERZ/NEU, AND EGFR ANALYSIS: PENDING.
+PARAFFIN BLOCK NUMBER: A1.
+RESULTS WILL BE ISSUED IN A SEPARATE REPORT FROM THE IMAGE CYTOMETRY
+LAB.
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+Electronically signed:
+
+Y ADDENDUM 1:
+Please see '
+tests.
+
+for results of supplementary
+
+I certify that I personally conducted the diagnostic evaluation of the above
+specimen(s) and have rendered the above diagnosis(es).
+
+- N
+
+Electronically signed: it."
+

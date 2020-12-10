@@ -1,0 +1,45 @@
+ 
+
+Pathology Report
+DIAGNOSIS
+
+(A) LEFT KIDNEY AND ADRENAL GLAND, RADICAL NEPHRECTOMY:
+RENAL CELL CARCINOMA, CONVENTIONAL (CLEAR CELL) TYPE, FUHRMAN NUCLEAR GRADE 3.
+TUMOR MEASURES 6.5 CM IN MAXIMUM DIMENSION.
+TUMOR IS CONFINED TO THE KIDNEY.
+Margins of resection, negative for tumor.
+Adrenal gland, no tumor present.
+
+GROSS DESCRIPTION
+
+(A) LEFT KIDNEY AND ADRENAL GLAND - A radical nephrectomy specimen (15.2 x 14.1 x 6.2 cm) including the left kidney
+(12.2 x 6.1 x 6.0 cm), a segment of renal artery, the renal vein, and ureter (9.0 cm in length by 0.8 cm average diameter), and the
+adrenal gland (4.0 x 3.2 x 1.2 cm).
+
+There is a 6.5 x 6.0 x 5.2 cm, well-circumscribed tumor in the upper pole of the kidney. The tumor is yellow-tan, with
+extensive areas of hemorrhage and necrosis. The tumor is confined to the kidney, although it does abut the capsule. The tumor
+does not invade into the perinephric adipose tissue, renal sinus, or renal vein. The tumor comes to within 0.3 cm of the renal sinus
+and renal calyces. The tumor does not extend to Gerota's fascia.
+
+The adjacent kidney parenchyma is unremarkable. The pelvicalyceal system is smooth, devoid of any lesions. No lymph
+nodes are identified in the hilar area. Cross sections of the right adrenal gland show unremarkable cortex and medulla.
+
+Portions of the tumor are submitted for possible electron microscopy, as well as other research protocols.
+
+Tissue has been submitted to tissue bank.
+
+INK CODE: Green - Gerota's fascia.
+
+SECTION CODE: A1, ureter, renal vein margin; A2, A3, tumor abutting ink (stain); A4, A5, tumor in relationship to
+pelvis/sinus; A6, A7, tumor in relationship to normal renal parenchyma; A8, sections of pale yellow tan tumor foci; A9, section of
+normal renal parenchyma; A10, section of unremarkable adrenal gland. —
+
+CLINICAL HISTORY
+None given.
+
+SNOMED CODES
+
+T-71000, M-82123
+
+ 
+

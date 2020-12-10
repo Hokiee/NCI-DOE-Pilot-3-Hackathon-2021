@@ -1,0 +1,29 @@
+A description for each data field can be found in the 'Data description' worksheet (yellow tab).
+
+Sample Sample Sample Site of
+Number Type Preparatio Tissue
+n
+
+TUMOUR FF
+BUFFY FF
+
+Site of Year of Age at Sample Days to
+Primary Sample Sample Comments Procedure
+(Event) Collection Collection Date
+
+(VrS)
+
+GAST 0
+GAST 6
+
+Days to Type of Site of Tumour Histology Grade/ Pathologic Pathologic Clinical M
+
+Diagnosis Procedure Primary Size (cm) Diﬁerentiat alT alN
+(Histology) ion
+9 RESECT Fundus of 36 Adenocarcinll T1b N0 MP
+
+15 RESECT Fundus of S' 6 Adenocarcin || T1 b N0 MP
+
+Histology Slide URL
+Comments
+

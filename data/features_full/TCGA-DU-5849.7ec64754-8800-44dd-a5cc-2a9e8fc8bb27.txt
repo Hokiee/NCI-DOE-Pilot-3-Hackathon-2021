@@ -1,0 +1,325 @@
+ 
+
+ 
+
+    
+
+TCGA - DU "—5849
+
+Surgical Pathology Report
+
+ 
+
+Taken : —
+Received:
+Reported:
+
+CLrNICAL HISTORY
+who experienced sudden —
+Imaging ‘
+
+studies show a left frontal heterogeneous, somewhat enhancing intra-
+axial
+tumor.
+OPERATIVE DIAGNOSES
+.Left frontal brain lesion.
+Operation/Specimen: A: Brain, left frontal, excision biopsy
+PATHOLOGICAL DIAGNOSIS:
+A. Brain, left frontal lesion, excision: Oiigodendroglioma (WHO Grade
+II} {see
+comment)
+COMMENT
+Sections show an oligodendroglioma with areas of microcystic change.
+Focal -
+. moderately hypercellular areas are present, however mitotic figures
+‘are not
+cdnspicuous. Vascular proliferation and necrosis are not seen p53
+shows _
+scattered weak to moderate reactivity. The Ki—67 labeling index is
+approximately 4% in the most cellular areas. Positive and negative
+controls ' ‘
+show appropriate immunoreactivity.
+Molecular studies show allelic loss for chromosome segments 1p and
+19q,’and
+-; u ‘ the presence “of MGMT promotor methylation. EGFRvIII mutation was not
+.1? detected
+“7 (see procedure addenda below).
+
+***Electronicalli Siined Out***
+
+PROCEDUREs/ADDENDA
+Loss of Heterozygosity 1p, 19q Assay (LOH)
+
+  
+   
+
+Interpretation
+POSITIVE: Allelic loss on chromosome arm 1p and chromosome arm 19q is
+
+detected.
+
+ 
+
+ 
+
+Informative loci are: D15548, D181592, D13552, D1932l9, PLA2G4C
+Results—Comments
+Testing performed on DNA extracted from tumor paraffin block
+and a corresponding blood specimen for germline comparison.
+TEST DESCRIPTION: Allelic loss is assessed by PCR assay in Normal DNA
+(baseline)/ Tumor DNA pairs using 3 markers at both 1p and I9q. The 3
+markers 7 i
+V on lp are D18548, D131592, and D13552 (with D18468, DlSlGlZ, and
+
+. D1 S496 as
+
+backup markers) and the 3 markers on l9q are D198219, D198412, and
+PLA2G4C
+
+(with D198606 and D1981182 as backup) All markers are microsatellites
+(2 or 4
+
+nt .repeats) except PLA2G4C which is a minisatellite (26 nt repeat)
+polymorphism. The markers were selected based on heterozygosity score,
+amplicon size, and ease of interpretation. The backup markers are used
+if the ' “
+
+first line markers at that chromosome arm are uninformative or
+
+' Otherwise
+
+ambiguous in their interpretation. LOH at all informative loci on each
+chromosomal arm represents the typical finding in oligodendrogliomas
+with 1p
+
+and 19q deletion.
+
+FDA COMMENT: The above data are not to be construed as the results
+from a
+
+stand- alone diagnostic test. This test was developed and its
+' performance
+
+characteristics determined h the as
+— I . It has not been cleared or
+
+approved'for'
+
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA
+has '
+
+'determined that such clearance or approval is not necessary. These
+results are
+
+provided for informational purposes only, and should be interpreted
+. only in ~
+
+the context of established procedures and/or diagnostic criteria.
+TECHNICAL SENSITIVITY: The presence of >15% non— neoplastic cells in
+the sample H
+
+may preclude the detection of allelic loss.
+
+***Electronically Signed Out***
+
+Interpretation
+.POSITIVE: Methylated MGMT promoter is detected.
+
+Results~Comments _
+
+Testing performed on DNA extracted from tumor paraffin block
+‘ TEST DESCRIPTION: Patients with glioma containing a methylated MGMT
+promoter
+
+have been shown to benefit from therapy with alkylating agents.
+Assessment of '
+
+MGMT promoter methylation status involves bisulfite treatment of DNA
+followed ‘
+
+by real—timerPCR amplification {MethyLight) of methylated and
+'_unmethylated DNA
+
+ 
+
+sequences. The analytic sensitivity of this assay was determined by
+
+' .serial
+
+ 
+
+dilIution of methylated positive control DNA into unmethylated DNA, and
+was
+assessed to be 1% of methylated DNA in the background of unmethylated
+DNA. - ‘ I
+Factors such as the presence of >50% non—neoplastic cells in the
+sample, or w
+extensive tissue necrosis may preclude the detection of methylated
+' MGMT _ -~
+promoter sequences.
+FDA COMMENT. The above data are not to be construed as the results
+from a
+_ sItand alone diagnostic test. This test was developed and its
+performance “
+
+h determined e the — as
+required by - i. It has not been cleared or approved
+
+for
+
+specific uses byI_ the U. S Food and Drug Administration (FDA). The FDA
+has
+
+determined that such clearance or approval is not necessary. These
+results are
+
+provided for informational purposes only, and should be interpreted
+only in
+
+the context of established procedures and/or diagnostic criteria.
+***Electronicall Si ned Out***
+
+    
+
+NEGATIVE — No evidence of EGFRVIII mutation is detected
+ReSults4Comments
+TEST DESCRIPTION: Testing performed on RNA extracted from tumor
+paraffin block
+TheIepidermal growth factor receptor (EGFR) is an attractive
+: molecular target
+inI glioblastomaI because it is amplified, overexpressed, and/or mutated
+in- upI
+to '40% to 50% of. patients. Epidermal growth factor receptor variant
+
+III
+(EGFRvIII) is an Ioncogenic, constitutively active mutant form of EGFR
+
+that is
+commonly expressed in glioblastoma. Cell culture and in vivo models of
+glioblastoma have demonstrated EGFRvIII as defining prognostically
+distinct
+‘ -subgroups of glioblastomas. Additionally, the presence of EGFRvIII has
+. been
+shown Ito sensiti tumors to EGFR tyrosine kinase inhibitors when the
+
+.tumor
+suppressor protein PTEN is intact. RNA is extracted from formalin
+
+fixed,
+paraffin embeddedI tissue samples and reverse transcribed to cDNA. The
+
+cDNA is
+then amplified using standard PCR technique for DNA templates. PCR
+
+.Iproducts ~
+
+ 
+
+are detected byI geIl electrophoresis. The limit of detection of this
+aesay has II
+
+been determined to be approximately 5 mutant cells in 100 normal
+celIlIs.
+
+FDA Comment. The above data are not to be construed as the results
+from a
+
+stand alone_diagnostic test. This test was developed and its
+performance
+
+cemeterieeeee .eeeeeeenee e eee — ee
+eeqeeree by — It has not been eleeree er eppeevee
+
+'for; - . 1.
+
+specific'uses by the U.S. Food and Drug Administration (FDA). The FDA
+has'f '
+
+determined that such clearance or approval is not necessary. These
+results are
+
+provided for informational purposes only, and should be interpreted
+only.in
+
+the context of established procedures and/or diagnostic criteria.
+
+INTRAeOPERATIVE CONSULTATION
+
+A.
+
+BraIin,I left frontal, excision biopsy: Glioma, infiltrating -
+
+oligo,
+
+mixed?) . __ Touch preparation smears performed at _
+and
+
+I results reported to the Physician of Record.
+
+    
+ 
+
+GROSS DESCRIPTION
+
+A. _ .
+
+Brain, left'frontal, excision biopsy: Received fresh, large fragment,
+2.2 x I . I
+
+2.0 x 1.4 cm; Brain tissue, semi firm, cerebral cortex and white
+matter with
+
+lost demarkation and expansion of the cortex. No necrosis or
+hemorrhage.
+
+’oned, A1~A4.
+
+ 
+
+225.0 225.0
+
+ 
+
+-Histo Data
+Part A. . Brain, left frontal, excisionﬁ bio s
+
+    
+
+Takenz' Received:
+Stain/cnt ' Block
+H/E x 1
+MGMT—curls x l
+Rct l H/E x l
+TPS H/E x l
+.‘H/s x 1' . f
+
+    
+
+Ordered Comment
+
+Also run 1p19q
+
+M H H H H
+
+ 
+
+-MIBl—DA x 1
+
+‘ 13531307 x 1 _
+
+'Rct l H/E x I.
+
+H/E x .1
+
+H/E x l , .
+
+Hi End of Report *1”?
+
+#MNNN
+
+ 
+
+ 
+
+ 
+

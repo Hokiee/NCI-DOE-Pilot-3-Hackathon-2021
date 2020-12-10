@@ -1,0 +1,211 @@
+3.; m.
+
+ 
+
+ 
+
+PATIENT HISTORY.
+
+CHIEF COMPLAINT/PRE- OP/POST- OP DIAGNOSIS: Hyperparathyroidism
+
+PROCEDURE: Not answered
+
+SPECIFIC CLINICAL QUESTION: Not answered uUID: 'A28621310-SDSB-4530—8 cited
+OUTSIDE TISSUE DIAGNOSIS: Not answered
+
+N ' otanswere ‘u PIIIIIIIIIIIIIIIIIII|III|III|CIII
+EgggoMg’ﬁmog‘YNE‘“we“; IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIIIll IIIIIII
+
+RIRSSI‘OETJ’LIZELé‘éIEN'?ﬁctitéiizied IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+OTHER DISEASES: Not answered
+
+976-99A15E49384E
+Re da
+
+ 
+
+ADDENDA: I u). o ,
+Addendum 5
+
+MOLECULAR ANATOMIC PATHOLOGY TESTING:
+
+ 
+
+QWW prpaJII‘MII ‘g/I‘W
+
+Valued" 5’ 340/3
+3,41,; Wit C75 -7
+A. BRAF mutation POSITIVE (p.V600E, c.1799T>A).
+B. Mutations in NRA561, HFlAso'1, KRAS12/13 NOT Identified.
+C. FISH test results are negative for RET/PTC rearrangement. (rim/I}-
+
+Block 2A:
+
+NOTE:
+DNA was extracted in the amount sufficient for testing.
+
+BACKGROUND:
+
+Mutations in either BRAF or RAS genes or FIET/PTC rearrangements are found in more than 70% of papillary thyroid carcinomas
+(1). BFI’AF V600E (T1799A) mutation has been associated with more aggressive behavior of papillary carcinoma (2. 3). The
+association between BFIAF V600E mutation and features of tumor aggressiveness have also been observed in papillary
+microcarcinomas (4). Mutations in the FIAS genes or PAX8/PPARg rearrangement occur in ~70% of follicular thyroid carcinomas
+and with lower frequency in oncocytic (Hiirthle cell) carcinomas (5). Regarding the speciﬁcity of these mutations for cancer. BRAF
+V600E mutation and FIET/PTC and PAX8/PPAFlg rearrangements are overall specific for malignancy in the thyroid, although they
+have been reported with a very low frequency in benign thyroid lesions (6). FIAS mutations occur in malignant and benign thyroid
+tumors, being found in ~40-50°/o of follicular and anaplastic carcinomas, 30-40% of follicular adenomas and 10-15% of papillary
+carcinomas (6).
+
+1. Adeniran AJ, et aI. Correlation between genetic alterations and microscopic features, clinical manifestations, and prognostic characteristics of
+thyroid papillary carcinomas. Am J Surg Pathol 2006, 30:216-222
+
+2. Xing M, et al. BRAF mutation predicts a poorer clinical prognosis for papillary thyroid cancer. J Clin Endocrinol Metab 2005, 90:6373-6379.
+
+3. Elisei R, et al. BRAF VGOOE mutation and outcome of patients with papillary thyroid carcinoma: a 15-year median follow-up study. J Clin
+Endocrinol Metab 2008, 93:3943-3949. -
+4. Lee X Gao M, Ji Y, Yu V, Feng Y, Li Y, Zhang Y. Chang W, Ztao W. Analysis of differential BRAF(V600E) mutational status in high aggressive
+papillary thyroid microcarcinoma. Ann Surg Oncol. 2009 Feb, 16(2). '240-5.
+5. Nikiforova MN, et aI HAS point mutations and5PAX8~PPAFlyrearrangement in thyroid tumors. Evidence for distinct molecular pathways in
+thyroid follicular carcinoma J Clin Endocrinol Metab 2003, 88: 2318-26.
+
+6. Nikiforov YE. Recent developments in the molecular biology of the thyroid In: Lloyd FiV, ed Endocrine Pathology: Differential Diagnosis and
+Molecular Advances. Humana Press, Totowa,2004, 191-209.
+
+MUTATIONAL ANALYSIS:
+For paraffin- -embedded surgical specimens, manual microdissection was performed to collect tumor tissue. Specimens with the minimum of 50% of
+tumor cells in a microdissection target are accepted for the analysis Optical density readings were obtained. Real-time PCR was performed on the
+
+’ ’ platform to amplify BRAF codons 599-601, NRAS codon 61 HFiAS codon 61, and KRAS codons 12/13 sequences. Post-PCB me/tIng
+curve analysis was used to detect possible mutations If required, the mutation type was confirmed by _, r sequencing of the PCFI product on
+
+‘ ‘ DNA from samples positive for each of these mutations was used as positive controls. Amplification at 35 cycles or earlier was
+
+considered sufficient for the analysis. The limit of detection is approximately 10- 20% of alleles with mutation present in the background of normal
+DNA
+
+Addendum
+
+ 
+     
+   
+  
+ 
+ 
+   
+  
+
+   
+ 
+
+Cntula
+Dim
+lit-tier Site
+HIV/- 1 Lisuetnncv .— ___ _
+TIE-Ringgit“ lihtor y
+
+onnu: l'
+
+ 
+   
+
+MOLECULAR ANATOMIC PATHOLOGY TESTING:
+
+     
+ 
+
+is '
+Reviewer 'nitials
+_._.._——-
+
+Block 1A:
+
+D. Loss of heterozygosity IDENTIFIED at 1p, 10g, and 13g.
+E. Allelic loss 38% (5/13 informative loci).
+
+F. Loss of heterozygosity of 1p IDENTIFIED; Loss of Heterozygosity of 13q (R81) IDENTIFIED.
+
+NOTE:
+The quantity and quality of Isolated DNA was acceptable for testing.
+
+BACKGROUND: .
+Loss of tumor suppressor gene alleles is known to occur in parathyroid neoplasms and to correlate with tumor progresSIon. As
+reported in the literature, parathyroid carcinomas frequently have a mean fractional allele loss of ~ 63%, and many of these tumors
+have retinoblastoma gene deletions at 13q14 (1,2). Parathyroid adenomas typically have lower frequency of LOH, frequently fewer
+than 11% (1). Some studies have shown that parathyroid adenomas and carcinomas often have identIfIable LOH on chromosome
+1 p, while hyperplasia is less commoniwaﬁected by this genetic loss (1,3). However, not alltumors reveal such a correlation and.
+therefore, the LOH profile should be interpreted in the context of the cytologic and histologrc ﬁndings and the patent s clInIcal
+
+histo . ,
+
+1. Hunryt J, et al. Am J Surg Pathol. 2005;29:1049-55.
+
+2. Cetani F, et. al. Clinical Endocrinology. 2004;60:99-106.
+
+3. Valimakl S, et. al. Intematlonal Journal of Oncology. 2002;21:727-35.
+
+LOSS OF HETEROZYGOSITY ANALYSIS: . . ' . '
+For cytology samples, extraction of DNA was performed from the fluid or sample provided. For surgIcaI spec/mans, manual microdIssectIon was
+performed to include neoplastic tissue and normal adjacent tissue. Specimens with the minimum of 50% of tumor cells In atmrcrodissection target
+are accepted for the analysis. DNA was Isolated using standard laboratory procedure. Optical densIty readings were obtaIned. SIxteen
+microsatellite markers (D1S407(p21,1p36.21), D181161 (p21, 1p35.1). D181183(HHPT2, 1q25.3), 0381516 (VHL, 3p25.3), 058659 (APC,
+5023.2). 098251 )016, 9p21.3), D108520 (PTEN, 10q23.31), 01081173 (PTEN, 10q23.31), 01181319 (KAI1, 11p11.2) D1184177(11p15.5),
+0118916 (MEN1, 11q23), 0118367 (MEN1, 11q25), 0138161 (RB, 13q14.9), 0138319 (RB, 13q14.3), 0178516 (p53, 17p13.1), D1781844 (p53,
+17p13.1), 01781877 (17q21), D2281150 (NF-'2, 22q12.2) that have been previously found to be involved in parathyroid neoplasia and co—localize
+with known tumor suppressor genes were used for analysis. PCFI was performed using fluorescent/y labeled primers and the products of
+amplification were detected using capillary electrophoresis on ‘ ‘“‘ 3 platform. Relative fluorescence was determined for individual alleles and
+the ratio of peaks was calculated , ‘ ' ‘ 7). Normal tissue was examined to determine whether the patient is heterozygous at the
+marker (genetically informative) and neoplastic tissue was then analyzed to detect loss of heterozygosity. Thresholds for significant allelic
+
+imbalance were determined using normal (non-neoplastic) specimens for every marker. Loss of heterozygosity was determined using (NL / N5)/
+
+(TL/T5) formula and reported when allelic ratio for a particular marker was below 0.5 or above 2.0. When normal tissue was not available, peak
+M112 Ilinn nIIfsirln nf 2 SDs beyond the mean for each polymorphic allele paring were assessed as showing loss of heterozygosity.
+
+FINAL DIAGNOSIS:
+
+PART 1: PARATHYROID, RIGHT SUPERIOR, EXCISION (948 MG) —
+ENLARGED AND HYPERCELLULAR PARATHYROID GLAND WITH FIBROSIS, SEE COMMENT.
+
+PART 2: THYROID, TOTAL THYROIDEﬁOMY - /
+
+A. PAPILLARY MICROCARCINOMA 0.7 CM, LOCATED IN RIGHT LOBE, SEE COMMENT
+B. NO ANGIOLYMPHATIC INVASION OR EXTRATHYROIDAL EXTENSION.
+0. ALL MARGINS ARE FREE OF TUMOR.
+D. BACKGROUND THYROID SHOWS NODULAR HYPERPLASIA WITH A D
+2.0 CM, LOCATED IN LEFT LOBE. OMINANT HYPERPLASTIC NODULE,
+
+“
+COMMENT:
+
+Part 1: The intraoperative PTl-I level dropped from 512 pglml to 78 pglml after exclsl
+
+. _ _ on of the right su rior rath rold
+gland, thch, in addition to the microscopic appearance. is consistent with an adenoma. The parathygzid 93nd y
+addItIonally shows significant fibrosis, mostly in the peripheral location, but no deﬁnitive Invasion Into adjacent soft
+tissue. During surgery, this parathyrord gland was found to be mildly adherent to the right thyroid lobe. To provide
+
+additional information on the nature of this apparenti adenomatous lesion the In '
+and reported as an addendum. y , olecular LOH test WIII be performed
+
+Part 2: The focus of papillary/microcarcinoma shows folliciﬁar a ' V '
+growth. Molecular mutational test will be performed anmpoﬁédrgaﬂsﬂgﬁjggdel:::r$:psu'ated’ and reveals no infiltrative
+Results .
+
+RET/PTO Methodology Description:
+
+Probe: FiET/PTC Probe (10q11.2) and HET/PTCI Dual-Color Fusion Probe 10q11.2-10q21
+
+Probe Description: The RET probe (labeled SpectrumGreen) is a 207 kb DNA probe located at band 10q11.2.
+
+The H4 and 369 probes are approximately 100kb each (labeled in SpectrumOrange), and are located at band 10q21.
+
+FIET/PTC rearrangement is suggested to be present when three RET signals are identified in greater than 8% of the analyzed
+cells.
+
+FiET /PTCi rearrangement detection is as follows: Normal cells without the RET/PTC1 rearrangement show two pair of green and
+orange signals separated. Cells with the RET/PTCI rearrangement show two pair of signals (green and orange) in juxtaposition
+and one green and one orange signal separated in greater than 8% of analyzed cells within the targeted area.
+
+RET/PTO FISH analysis was manually performed and quantitatively assessed by analysis of a minimum of 60 cells using the PTC
+(369/H4) SpectrumOrange and the RET SpectrumGreen probes.
+

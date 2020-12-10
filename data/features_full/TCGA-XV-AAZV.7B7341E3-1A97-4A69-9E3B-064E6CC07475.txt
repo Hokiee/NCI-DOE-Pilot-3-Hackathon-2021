@@ -1,0 +1,56 @@
+Date:
+
+Patient lD:
+
+Age:
+
+Sex:
+
+Clinical Dx:
+Tumor Location:
+Localization:
+Source:
+
+Clark Level (1-5):
+Breslow (mm):
+Tumor:
+
+Normal:
+Metastasis:
+
+Stage (l-iV):
+
+Tumor size (mm x mm):
+
+NeoAdj lmmunoTx:
+
+Pathology Report
+
+F
+Melanoma
+
+Skin
+
+Back
+
+Epithelial melanoma
+4
+
+10
+
+10x12
+
+No
+
+UUID:737341E3-1A97-4A69-9E35- -964E6C!h07el75ac
+ICGA- XIV"- AIAZV- B1A- PR
+
+rob a) :5
+
+WWW N08 8%») 2:)
+
+Spla- VQM/a Mos 644.6
+W3 elm/I4
+
+ 
+

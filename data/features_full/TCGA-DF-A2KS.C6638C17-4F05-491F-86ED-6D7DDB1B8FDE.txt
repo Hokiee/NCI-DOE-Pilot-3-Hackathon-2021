@@ -1,0 +1,90 @@
+I
+I
+
+I
+I
+I
+
+UUID: (6638(17- 4F05- 491F- 86ED- 6D7DDBIBBFDE
+
+I
+I
+|
+
+TCGA- DF- AZKS- BlA- PR
+
+I IIIII|IIIIIIIIIIIIIIIIIII||II|I|||II||I|I|||I|IIIIIIIII|
+
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIII|||III|II IIIIIIIIIIHIHII
+
+IIIIIIIIIIIII||||I||||||I|IIIIIIIIIIIIIIIIIIIIIIIIII
+
+Sample Preparation
+
+Site of Primary (Event)
+Site of Tissue
+
+Year of Sample Collection
+
+Read c
+Illllll
+
+II
+
+ted
+
+Age at Sample Collection (yrs)
+
+Sample Comments
+
+Days to Procedure Date
+Days to Diagnosis
+
+Type of Procedure
+
+Site of Primary (Histology)
+Bilateral Disease
+
+Tumour Size (cm)
+Histology
+Grade/Differentiation
+Pathological T
+Pathological N
+
+Number of Nodes Sampled
+Number of Nodes Positive
+Clinical M
+
+Histology Comments
+
+ 
+
+Sample Type TUMOUR
+
+Fresh Frozen
+Uterine
+mass on posterior wall
+
+lab 0 3
+WW ”MM/“’1‘! ’90;
+Kara/3
+0 9%,; WW cw /
+22
+Surgical resection W 643/“
+Uterus
+NO
+4.2999999999999998
+
+Endometrioid adenocarcinoma, NOS
+lll
+
+le
+
+N0
+
+0
+
+18
+
+M0
+

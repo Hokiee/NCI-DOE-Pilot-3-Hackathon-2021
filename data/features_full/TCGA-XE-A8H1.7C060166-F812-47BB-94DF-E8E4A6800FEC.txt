@@ -1,0 +1,98 @@
+UUID: 7C060166- F812- 4733- 94DF- E8E4A68lgaeFECa
+, TCGA- XE- A8H1- OlA- PR
+
+||IIIII|||||||IIIIIII||||||||l|||lIIlII|||||||||I||||||||I|IIIIIII
+IIIIII IIIIIHIIIIIIIIIIIII |||||| IIIIIII |||||| IIIIIIIIII
+II IIIIIIIIIIIII|III|||I|I||||||||||I||I IIIIIIIIIIIIIIIIIIIIIIII
+
+0rd #2 g RESULTED Collect D/T=
+SURGICALgPATHOL
+Modifiers: (1 of 1)
+Surgical Pathology Report ;IC1)-C>1ES
+6W WWW—4W 4:0- 70/3
+Specimen(s) Received ‘2: '
+Right testicle (“am 3 6&2”)
+
+Clinical History $%JWMS £92 9
+Not stated 9 E >l/lZL/[k'3
+
+Gross Description . .
+
+Right testicle: Received fresh is a testicle weighing 75 grams and
+measuring overall 15 x 5 x 3 cm. The testis measures 6.5 x S x 3 cm.
+The spermatic cord measures 11 x 2 x 0.5 cm. The entire specimen is
+inked black. The tumor measures 3 x 2 x 2 cm and is firm tan with
+brown area. The remaining parenchyma is unremarkable. The tumor abuts
+the tunica albuginea, however, the tunica albuginea is not adherent
+to the tumor. Representative sections are submitted as follows:
+
+1 spermatic cord margin
+
+2 cord adjacent to margin (green) and mid cord section
+3 epididymis
+
+4—6 tumor
+
+7 normal
+
+Date of Dictation:
+
+Gross Description By:
+
+Microscopic Description
+Performed.
+
+Final Pathologic Diagnosis
+Specimen Type: Right testicle
+—Laterality: Right
+
+—Focality: Multifocal
+
+ 
+
+ 
+
+Page
+
+RESULTS FOR SELECTED GRID CELL, SUMMARY
+
+—Tumor Size. 3 x 2 x 2 cm
+
+-Histologic Type: Embryonal carcinoma, pure. (see comment)
+eIntratubular germ cell neoplasia is present (slide 4).
+
+*-Tumor is limited to the testis. Tumor does not involve rete testis,
+epididymis, perihilar fat, spermatic cord, tunica vaginalis or
+scrotal wall.
+
+—Lymphovascular Invasion: Present (slide 5).
+
+—Margin: Spermatic cord is negative for tumor.
+
+'-Remaining testicular tissue shows tubular atrophy, and the
+epididymis normal and uninvolved by tumor.
+
+Comment: Immunohistochemical stain was performed on slide 6 for
+pancytokeratin (AEl/AE3), CD30 and_PLAP are positive on the critical
+cells; the PLAP stain shows membrane staining. Immunohistochemical
+stain for hCG is negative for syncytiotrophoblastic elements.
+Pathologic Tumor Stage: pTZNXMX (Stage IS)
+
+Attending Pathologist:
+
+***Electronically Signed Out By .***
+*** Note: Immunohistochemistry testing was developed and its
+performance characteristics determined by
+
+' ' It has not been cleared or approved by the
+U.S. Food and Drug Administration. The FDA has determined that such
+clearance or approval is not necessary. This test is used for
+clinical purposes. It should not be regarded as investigation or
+research. This laboratory is certified under the Clinical Laboratory
+Improvement Amendments of 1988 (CLIA—aa) as qualified to perform high
+complexity clinical laboratory testing. ***
+
+ 
+
+ 
+

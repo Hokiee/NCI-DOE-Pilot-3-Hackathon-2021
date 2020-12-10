@@ -1,0 +1,259 @@
+Ramm—
+
+TEST: Surglcal Pathology
+Collected Date & Time:
+Result Name Results Units
+
+Surgical Pathology SURGICAL P
+SURGICAL PATHOLOGY REPORT
+
+Reference Range
+
+Patient Nam
+
+Accession #
+
+Med. Rec. #:
+
+Billing Type: Inpatient
+Location: Discharge Location
+
+Tumor Eile
+
+ 
+
+DOB: (Age:
+Serv1ce: Surgery
+Gender:
+Billing ,
+Taken L Received Reported:
+Physician(s): ‘
+- v3
+Specimen(s) Received ::T<L§> C)
+l ' 0 01 9a, {Ila/H,
+
+A: Total thyroid C11f7}(r1 ’7) ’i f)
+B: Tip of possible left inferior parathyroid ﬁ-hqfOfJ W,
+C: Level six lymph nodes CQLF' SQUO‘Z .
+D: Left level two lymph nodes — ' ‘ h) 8540/5
+8: Left modified radical neck dissection 5i“k- “Pin—{(0745 03
+
+.3.
+Pathologic Diagnosis .9ka C7 4
+
+Total thyroid (A):
+
+Multifocal papillary carcinoma involving the left
+thyroid lobe and left portion of thyroid isthmus (largest focus
+2.2 cm) with numerous (<10) microscopic foci and remaining
+thyroid lobe all measuring <1 mm in greatest dimension.
+
+Tumor confined to the thyroid, negative for extrathyroidal
+extension.
+
+Margins of surgical resection negative for tumor
+
+involvement.
+
+Negative for lymphovascular and perineural invasion.
+Background of lymphocytic thyroiditis.
+
+Tip of possible left inferior parathyroid (B):
+
+Normocellar parathyroid tissue.
+
+Level 6 lymph nodes (C):
+
+— Metastatic papillary carcinoma involving two of three
+
+lymph nodes (largest metastatic focus 2.0 cm, negative for
+
+extranodal extension)
+
+Level 2 lymph nodes (D):
+
+Metastatic papillary carcinoma involving one of four
+
+lymph nodes (0.5 cm metastatic focus, negative for extranodal
+
+extension).
+
+Left modified radical neck dissection (E):
+
+Metastatic papillary thyroid carcinoma involving two
+
+of 23 lymph nodes (2.5 cm and 2.0 cm metastatic foci with
+
+extranodal extension present in both nodes).
+
+SURGICAL PATHOLOGY CANCER CASE SUMMARY CHECKLIST: THYROID GLAND
+
+RESECTION:
+
+Procedure:
+
+Total thyroidectomy.
+
+--—-
+
+uuxn:912Fae1n-s14r-irA4-9215-r525375AAA7F
+TCGA-FY-A3R6-B1A-PR Redacted
+l||||||||||
+
+ll ||llIIllI||Illll|llll|||||||||||||||||||||||||||||||||
+llllllllll ||l||||||||||
+' l‘llllll'll'lllllllllllllllllllllllumnullllnun
+
+Received: In formalin.
+Specimen Integrity: Intact.
+Specimen Size:
+
+Right lobe: 4.5 x 2.0 x 1.4 cm.
+Left lobe: 4.0 x 1.8 x 1.8 cm.
+Isthmus: 1.0 x 0.2 x 0 2 cm
+
+Left neck dissection: 9.0 x 535 x 1.3 cm.
+Specimen Weight: 14 grams.
+Tumor Focality: Multifocal, ipsilateral.
+Dominant Tumor:
+Tumor Laterality: Left lobe.
+Tumor Size: 2.2 cm. y;
+Histologic Type: "
+Variant: Papillary carcinoma, follicular and th’ T?;5l VbanU 5
+classical. ijll’l‘Cl/‘i’ :40 ‘
+Architecture: Classical and follicular.
+Cytomorphology: Classical.
+Histologic Grade: Grade 1, well-differentiated
+margins, uninvolved by carcinoma.
+Tumor Capsule: Not present.
+Tumor Capsular Invasion: Not applicable.
+Lymph—Vascular Invasion: Not identified.
+Perineural Invasion: Not identified.
+Extrathyroidal Extension: Not identified.
+Second Tumor:
+Tumor Laterality: Left lobe.
+Tumor Size: >10 foci of microscopic tumor surrounding
+larger nodule, all measuring <1 mm in greatest dimension.
+Histologic Type:
+Variant: Follicular variant, papillary carcinoma.
+Architecture: Follicular.
+Histologic Grade: Well-differentiated. Grade 1.
+Margins: Uninvolved by carcinoma.
+Tumor Capsule: Not present.
+Tumor Capsular Invasion: Not applicable.
+Lymph—Vascular Invasion: Not present.
+Perineural Invasion: Not present.
+Extrathyroidal Extension: Not present.
+Additional Pathologic Findings: Lymphocytic thyroiditis,
+benign Hurthle cell nodules and numerous microscopic foci of
+tumor (>10) present in the left thyroid lobe and focally in the
+left side of the thyroid isthmus (all measuring <1 mm in greatest
+dimension).
+Ancillary Studies: Not performed.
+Clinical History: Defer to clinical correlation as to
+whether this patient has a history of radiation exposure or
+family history of thyroid neoplasia.
+PATHOLOGIC STAGE: pT2(m), leb (number of lymph nodes
+examined 30, total number of positive lymph nodes 5), pMX
+NOTE: Information on pathology stage and the operative procedure
+is transmitted to this Institution‘ 3 Cancer Registry as required
+for accreditation by the Commission on Cancer. Pathology stage
+is based solely upon the current tissue specimen being evaluated
+and does not incorporate other relevant data. Pathology stage is
+only a component to be considered in determining the clinical
+stage and should not be confused with nor substituted for it.
+The exact operative procedure is available in the surgeon‘ s
+operative report.
+
+Primary Pathologist: "
+‘ Electronics y Signed Out by: a
+
+Clinical History
+Papillary thyroid cancer.
+Intraoperative Consultation
+
+8. Tip of possible left inferior parathyroid: Parathyroid
+tissue (microscopic evaluation).
+
+Gross Description
+
+A. The specimen is received fresh labeled "total thyroidectomy"
+and consists of a 14 g total thyroid resection. There is a
+suture designating the pole of the left lobe of the thyroid. The
+surface is shaggy and gray—purple. The right lobe which is inked
+blue is 4.5 x 2.0 x 1.4 cm. The left lobe which is inked black
+is 4.0 x 1.8 x 1.8 cm. The isthmus which is inked yellow is 1.0
+x 0.2 x 0.2 cm. The specimen is serially sectioned to reveal a
+multinodular ill—defined firm tan—brown lesion that encompasses
+the majority of the left lobe of the thyroid and approximates 2.2
+x 1.5 x 1.3 cm. There are additional nonsuspicious
+we1l~circumscribed soft tan-brown nodules identified in the
+isthmus and the right lobe that measure up to 0.4 cm. The
+majority of the right lobe has a firm red-brown cut surface.
+Representative sections are submitted as A1-A6 entire left lobe
+lesion: A7 isthmus and right lobe with nodules; A8 and A9 right
+lobe with remaining nodules. This specimen is reviewed with-
+
+A portion of the lesion is submitted for studies.
+
+B. The specimen is received fresh for frozen section labeled
+"possible tip of left inferior parathyroid" and consists of two
+irregular tan—pink soft tissue fragments that are 10 mg and
+average 0.2 cm. The are frozen and submitted in their entirety
+in cassette BlFS.
+
+C. The specimen is received in formalin labeled "level 6 lymph
+nodes" and consists of two firm tan-gray grossly positive lymph
+nodes that are 1.5 and 2.0 cm. Two representative sections from
+each lymph node are submitted as C1 one lymph node, and C2
+other lymph node.
+
+D. The specimen is received in formalin labeled "left level 2
+lymph nodes" and consists of four firm tan-gray lymph nodes that
+range from 0.5 to 2.5 cm. Their cut surfaces are firm tan-gray
+and grossly positive. They are submitted entirely as D1 one
+bisected lymph node, D2 two whole lymph nodes; DB one bisected
+lymph node.
+
+E. The specimen is received in formalin labeled "left modified
+radical neck dissection" and consists of a 9.0 x 5.5 x 1.3 cm
+irregular indurated tan-yellow portion of fibroadipose tissue.
+There is a double suture designating the lowest level 4 and a
+
+single suture designating the lateral level 5. The specimen is
+divided into a superior half (with level 4) and an inferior half
+(with level 5). There is no attached salivary gland identified.
+
+Identified within the inferior half of the specimen is a
+prominent vessel that is 1.5 cm in length and 0.4 cm in diameter.
+There is no gross evidence of tumor involvement. There are two
+enlarged, grossly positive lymph nodes identified within level 4.
+There are a few additional firm tan—gray lymph nodes identified
+that range from 0.2 to 0.6 cm. Also noted separate from the
+oriented tissue are two irregular, indurated tan—yellow portions
+
+'1
+
+w
+
+of fibroadipose tissue that measure 4 cm in aggregate. Within
+the tissue there are several firm tan—gray lymph nodes that range
+from 0.2 to 1.6 cm. Representative sections are submitted in
+nine cassettes.
+
+Cassette summary: E1 section from one grossly positive lymph
+node, level 4; E2 section from one grossly positive lymph node,
+level 1; E3 three whole lymph nodes, level 4; E4 cross—sections
+of vessel, level 5; E5 two whole lymph nodes, level 5; E6 five
+whole lymph nodes, level 5; E7 one bisected lymph node and
+additional tissue; E8 five whole lymph node in additional
+tissue; E9 five whole lymph nodes in additional tissue.
+
+Microscopic Description
+
+Microscopic examination has been performed on all slides. The
+pathologic diagnosis encompasses the essential microscopic
+findings of this case.
+
+Interpretation performed at
+

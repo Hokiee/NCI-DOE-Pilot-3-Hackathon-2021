@@ -1,0 +1,305 @@
+UUID: 54BFFF2A- £42D- 4287- 9753- 32DCC2DEISC8
+TCGA- LB- A9Q 5- 01A- PR
+
+ 
+
+ 
+
+ 
+
+llllllHllHH||||l|||llllllllllHllllllllllllHllllllllllelllllllllecl V
+MMDME= IMMWMMWMWMWMWMMWMNM . PMEI
+
+ 
+
+ 
+
+ 
+
+RUN TIME:
+RUN USER: IHHHHHHNHHHHHHHHMHHHHHMHHHHHHHI
+PATIENT?“ ACCT u. * LDC: . I
+" " ’~ AGE/SX' ’F ' Room ﬂ
+REG, DR: _ DOB? 13311"
+x ’- ‘ ‘ ‘ STATUS; ‘
+SPEC u: RECD: STATUS: PERFORMED AT.
+COLL: . TIME IN FORMALIN: 3:42 hrs.
+cow ISCHEMA TIME: 0:00 mins.
+
+CLINICAL INFORMATION:
+Pre-Op Diagnosis: Periampullary carcinoma
+Remarks: Tissue banking, stitch marks pancreatic margin
+Specimen(s): A. Pancreatic margin
+B Common duct margin
+C. Whipple contents
+D Peripancreatic node
+
+ 
+
+HICPDSCCPIU DIAGNOSIS
+
+A. PANCREATIC MARGIN:
+— PANCREATIC INFRAEPITHELIAL NEOPLASIA GRADE 1 (PanINl)
+— NEGATIVE FOR CARCINOMA
+
+B. COMMON DUCT MARGIN:
+— INFLAMMATION AND REACTIVE GLANDULAR EPITHELIUM
+- NEGATIVE FOR CARCINOMA
+
+C. WHIPPLE RESECI‘ION:
+
+— POORLY DIFFERENTIATED PANCRBATICD—BILIARY ADENOCARCINOMA MEASURING APPROXIMATELY
+3 CM
+
+— TUMOR INVADES DUODENAL WALL. AMPULLA. AND PERIPANCREATIC SOFT TISSUE WITH
+PERINEURAL AND LYMPHATIC INVASION NUI'ED
+
+- TWO (2) OF (5) FIVE PERIPANCREATIC LYMPH NODES POSITIVE FOR METASTATIC CARCINOMA
+WITH EXTRANODAL CAPSULAR EXTENSION PRESENT
+SIX [6) LESSER CURVATURE LYMPH MODES NEGATIVE FOR CARCINOMA
+MARGINS NEGATIVE WITH CLOSEST MARGIN RETROPERITONEAL/UNCINATE (4 MM)
+
+D. TISSUE SUBMITTED AS PERIPANCREATIC LYMPH NODE:
+- ONE (1] LYMPH NUDE POSITIVE EUR METASTATIC ADENOCARCINOMA
+
+COMMENT‘S’ <3¢AD-¢%sll‘/
+
+The sections demonstrate a poorly differentiated adenocarcinoma involving the head of
+pancreas and ampullary region extending into the duodenal wall without duodenal mucosal
+involvement. Based on the overall morphologic findings. the carcinoma is best classified
+as arising from the pancreaticobiliary tract rather than from the ampulla. This
+distinction‘ however. can be somewhat problematic in tumors involving both regions.
+
+This tumor does demonstrate extraprostatic extension as well as vascular and perineural
+
+** CONTINUED ON NEXT PAGE *"
+
+(:Ldlﬁbb z:ZKD—C>3 6££L¢J+)th13 3t15C¥c
+
+w
+
+ 
+
+ 
+
+ 
+
+ 
+
+RUN DATE: M PAGE 2
+RUN TIME: Specimen Inquiry
+RUN USER: Lab Database:
+
+ 
+
+ 
+
+SPEC «3' ' PATIENT: " — (Continued)
+
+ 
+
+COMMENT( S I (Continued)
+
+invasion with regional lymph node metastasis. Immunohistochemical stains performed on the
+tumor with appropriate control reveal the following immunoprofile: CK? and CA19~9 positive:
+CK20 and CDXZ negative.
+
+COLLEGE OF AMERICAN PATHOLOGISTS' PROTOCOL FOR EXAMINATION OF SPECIMENS WITH CARCINOMA OF
+THE EXOCRINE PANCREAS. BASED ON AJCC/UICC TNM. 7TH EDITION
+
+Specimen: ' Head of pancreas. duodenum. stomach, common bile duct
+Procedure: Pancreaticoduodenectomy
+
+Tumor Site: Pancreatic head ,
+Tumor Size: 3 cm in greatest dimension
+
+Histologic Type: Ductal adenocarcinoma
+
+Histologic Grade: G3: poorly differentiated
+
+Microscopic Tumor Extension: Tumor invades ampulla of Vater or sphincter of Oddi:
+
+tumor invades duodenal wall; tumor invades
+peripancreatic soft tissues
+
+Margins: Margins uninvolved by invasive carcinoma
+Distance of invasive carcinoma from closest margin: 4
+mm
+
+Treatment Effect: No prior treatment
+
+Lymph~Vascular Invasion: Present
+
+Perineural Invasion: Present
+
+Pathologic Staging: Primary Tumor: pT3
+
+Regional Lymph Nodes: le
+Number examined: 12
+Number involved: 3
+Distant Metastasis: Not applicable
+
+GROSS DESCRIPTION :
+
+A. Received fresh for frozen section labeled with the patient's name and "pancreatic
+margin" is a 2 x 2 x 0.5 cm portion of pancreas. A stitch marks the true margin. The
+specimen is submitted in block A for frozen section of the margin.
+
+B. Received fresh for frozen section labeled with the patient‘s name and ”common bile
+duct margin” is the common bile duct margin consisting of two dilated ducts. one measuring
+1.5 cm and an adjacent smaller duct measuring 0.8 cm. A suture marks the true margin.
+Blue ink is applied to the true margin. The specimen is submitted on face in block B for
+frozen section.
+
+C. Received fresh in the operating room labeled with the patient's name and "whipple
+contents“ with request for tissue banking is a Whipple resection. The following
+measurements are obtained: length across from the lesser curvature 10 cm. length along
+greater curvature 9 cm. proximal gastric margins 7 cm. duodenum 13 cm in length and 3 cm in
+diameter. common bile duct 1 cm in length. 1.5 cm in diameter at margin, and pancreatic
+head approximately 5.5 x 5 x 4 cm. There is a posterior—inferior staple line which
+measures 4.5 cm in length. Adjacent to this is a stitch which marks the
+uncinate/retroperitoneal margin. Yellow ink is applied to this margin. The pancreatic
+
+** CONTINUED ON NEXT PAGE **
+
+ 
+
+ 
+
+ 
+
+RUN DATE: PAGE 3
+RUN TIME: Specimen Inquiry
+RUN USER: Lab Database:
+
+ 
+
+SPEC rt: - ' PATENT:— _ (Continued)
+
+ 
+
+ 
+
+GROSS DESCRIPTION: (Continued)
+
+margin measures 2 x 1.5 cm. Blue ink is applied to this margin. There is a stent
+
+within the common bile duct. Black ink is applied to the common bile duct margin. Black
+ink is also applied along the stapled gastric margin and blue ink is applied along the
+stapled duodenal margin. The adipose tissue adjacent to the lesser and greater curvature
+are separated for lymph node dissection. The specimen is opened lengthwise along the
+lesser curvature and along the border of the duodenum. The mucosa surrounding the ampulla
+of Vater is heaped up and hyperemic for three—fourths of the circumference. I am hesitant
+to completely open the specimen in the fresh state as that this may represent an ampullary
+or periampullar area tumor which would require better fixation. In an attempt to see if
+there is a pancreatic head mass, I placed an incision along the posterior aspect of
+
+the pancreas going into the head of the pancreas revealing a possible tumor within the
+pancreatic head where the pancreatic tissue has a more gray—white appearance and fibrotic
+texture. within the plane of section. this area measures approximately 1.5 cm. A small
+portion of this area is provided to the tissue bank coordinator. The specimen is then
+pinned out on corkboard and placed into formalin for overnite fixation prior to further
+sectioning and evaluation. Blue ink is further applied to the staple line adjacent to the
+uncinate process.
+
+The fixed specimen is evaluated. A longitudinal cut is made from the ampulla of Vater
+through to the common bile duct margin. In this plane. a tumor is identified in the
+periampullary region from the ampulla of Vater extending for 2.3 cm. The tumor tapers at
+the junction of the common bile duct and pancreatic duct. This area is contiguous with the
+area in the pancreatic head identified at the time of initial evaluation for tissue
+
+banking and the mass is judged to measure approximately 3 cm. Several peripancreatic
+
+lymph nodes are identified which range from 0.8 to 1.5 cm. Several lymph nodes are
+identified along the lesser curvature ranging up to 1 cm.
+
+Cassette Summary:
+
+C1 — common bile duct margin of this specimen
+
+C2 - pancreatic margin of this specimen
+
+C3 w longitudinal section through ampulla of Vater
+
+C4.5 — perpendicular sections through ampulla of Vater
+
+06.7 — sections adjacent to retroperitoneal (uncinate) margin
+
+C8—10- additional sections of tumor
+
+C11.12— peripancreatic lymph nodes with two lymph nodes present in 012 bisected. one
+inked
+
+C13.14— lesser curvature lymph nodes
+
+C15 — gastric margin
+
+C16 — pylorus
+
+C17 — small bowel margin
+
+D. Received fresh labeled with the patient‘s name and peripancreatic node is a 2 x 1.3 x
+0.5 cm tan lymph node bisected and submitted in block D.
+
+INTRAOPERATIVE CONSULTATION:
+FROZEN SECTION DIAGNOSIS:
+A. PANCREATIC MARGIN:
+
+** CONTINUED ON NEXT PAGE **
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RUN DATE: PAGE 4
+RUN TIME: Spec
+
+RUN USER: Lab Database :
+
+ 
+
+SPEC 3:: . ‘ unannw ‘_ ! (Continued)
+
+IN‘I'RAOPERATIVE CONSULTATION 7 ( Con t i nued )
+
+— NEGATI VF. FOR INVAS I VE CARCINOMA WITH PAN CREATI C I N’l'RADUCl‘AL NEOPLAS I A GRADE 1
+IDE NTI F IED ‘
+
+B . COMMON B I LE DUCT MARG IN : _
+— ' INFLAMMATION , FIBROSIS . REACTIVE GLANDULAR E? ITHEL IUM AND EOCAL ATYP I CAL
+GLANDULAR EP I THEL I UM WITH NO OBVIOUS INVASIVE CARCINOMA IDENTI FIED
+
+Results given to Dr. V ‘- in the operating room at
+
+C. GROSS INTRAOPBRATIVE EVALUATION:
+— FIBROTIC MASS PRESENT IN HEAD OF PANCREAS ADJACENT TO UNCINATE PROCESS ON
+PARTIAL DISSECTION WITH TISSUE PROVIDED TO TISSUE BANK COORDINATOR ‘
+— GROSS MARGINS APPEAR FREE OP INVOLVEMENT
+— FINDINGS DISCUSSED WITH DR. ‘ IN THE OPERATING ROOM AT
+
+Signed (signature on file)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+** END OF REPORT *"‘
+
+ 
+
+ 
+

@@ -1,0 +1,288 @@
+Surgical Pathology Report
+
+Patient Name: Phone #: Accession #:
+
+Med. Rec. #: Client: Taken:
+
+DOB: (Age: Location: Received:
+Gender: F Accnt: Reported:
+Physician(s):
+
+Phy Location:
+
+Clinical History
+
+ZED—O ~13
+
+WW
+
+47/ ‘7
+
+07104112123
+
+UUID: 70236BAA- -BADSIE- ”MA!-
+TCGA DU UA- 481:8- -63F27289516e0d
+
+iiilliiiiiiiiililliiiilliiliililiililiiiililliliilliilllliilliiilii
+
+Braintumo, iiillllli liiilliiiii iiiiii iiiiiiiiiiiiiiiiiiiii
+Operative Diagnoses iii illiiiliiiiilliiililiiiliiillilllil llﬂilllliui:illlillllilllllllllilllll
+
+Operation I Specimen
+
+A: Brain tumor, biopsy
+
+B: Brain tumor. biopsy
+Pathologic Diagnosis
+A. and B. Brain, tumor. biopsies: Anaplastio astrocytoma, WHO grade III (see comment).
+Comment
+
+Permanent sections conﬁrm the frozen section diagnosis and show a gemistocytic astrocytoma.
+intermingled with
+
+nodules of medium large gemistocytes are ares of tightly packed, higher-grade pleomorphic astrocytoma
+nuclei with
+
+indistinct cytoplasm. Mitotic ﬁgures are easily identified. Vascular proliferation and necrosis are not seen.
+The tissue fragments are relatively small therefore a higher-grade lesion e. g glioblastoma, WHO grade
+IV, cannot
+
+be completely ruled out due to sampling phenomena. Clinical correlation is recommended.
+
+The patient's tumor bank slide was also reviewed. Results of ancillary studies will be reported
+below in
+
+procedure addenda.
+
+***Electronically Signed Out‘“
+
+Senior Staff Pathologist
+Procedures/Addenda
+lmmunohistology
+Date Ordered: Date Reported:
+
+interpretation
+The tumor cells are diffusely GFAP and p53 positive.
+The lDH1 R132H mutation is negative.
+The Ki-67 labeling index is up to approximately 45%.
+Surgical Pathology
+Page 2 of 4
+Results-Comments
+lmmunohistochemicai stains are performed on A2 Controls show appropriate immunoreactivity
+*“Electronicaily Signed Out**"
+Senior Staff Pathologist
+PCR for EGFR variant Ill mutation
+Date Ordered: Date Reported:
+Interpretation
+NEGATiVE- No evidence of EGFvail mutation' Is detected
+Results-Comments
+
+TEST DESCRIPTION: Testing performed on RNA extracted from parafﬁn tissue block
+
+(A2)
+
+The epidermal growth factor receptor (EGFR) is an attractive molecular target in glioblastoma because it
+is amplified,
+
+overexpressed. and/or mutated in up to 40% to 50% of patients. Epidermal growth factor receptor variant
+lll
+
+(EGFRvIIl) Is an oncogenic, constitutively active mutant form of EGFR that is commonly expressed in
+glioblastoma.
+
+Cell culture and in vivo models of glioblastoma have demonstrated EGFvall as deﬁning prognosticaily
+distinct
+
+subgroups of glioblastomas. Additionally, the presence of EGFvall has been shown to sensitize tumors
+to EGFR
+
+tyrosine kinase inhibitors when the tumor suppressor protein PTEN is intact. RNA is extracted from
+formalin ﬁxed,
+
+parafﬁn embedded tissue samples and reverse transcribed to cDNA. The cDNA is then amplified using
+standard PCR
+
+technique for DNA templates. PCR products are detected by gel electrophoresis. The limit of detection of
+this assay
+
+has been determined to be approximately 5 mutant cells in 100 normal cells.
+
+FDA Comment: The above data are not to be construed as the results from a stand alone diagnostic test.
+This test
+
+was developed and its performance characteristics determined by the .
+
+as required '
+
+by CLIA '88 regulations. It has not been cleared or approved for speciﬁc uses by the U3. Food and Drug
+Administration (FDA). The FDA has determined that such clearance or approval is not necessary. These
+results are -
+
+provided for informational purposes only, and should be interpreted only in the context of established
+procedures
+
+and/or diagnostic criteria.
+
+***Electronicallv Signed Out**'
+
+MGMT Promoter Methylation
+Date Ordered: Date Reported:
+Interpretation
+NEGATIVE: No evidence of methylated MGMT promoter is detected.
+Results-Comments
+Testing performed on DNA extracted from tumor parafﬁn block (A2)
+H and E slide was examined and no microdissection was needed.
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT promoter have been shown to
+beneﬁt
+from therapy with alkylating agents. Assessment of MGMT promoter methylation status involves bisulﬁte
+treatment of
+DNA followed by real—time PCR ampliﬁcation of methylated and unmethylated DNA
+sequences. The
+analytic sensitivity of this assay was determined by serial dilution of methylated positive control DNA into
+unmethylated DNA, and was assessed to be 1% of methylated DNA in the background of unmethylated
+DNA. Factors
+Surgical Pathology
+
+Page 3 of 4
+such as the presence of >50% non-neoplastic cells in the sample, or extensive tissue necrosis. may
+preclude the
+detection of methylated MGMT promoter sequences.
+FDA COMMENT: The above data are not to be construed as the results from a stand alone diagnostic
+test. This test
+was developed and its performance characteristics determined by the '
+as required
+
+by CLIA '88 regulations. It has not been cleared or approved for speciﬁc uses by the US. Food and Drug
+Administration (FDA). The FDA has determined that such clearance or approval is not necessary. These
+results are
+
+provided for informational purposes only, and should be interpreted only in the context of established
+procedures
+
+and/or diagnostic criteria.
+
+mElectronically Signed Out***
+
+IDH1IIDH2 Mutation Detection Assay
+
+Date Ordered: Date Reported:
+
+Interpretation
+
+NEGATIVE - There is no evidence of lDH1 point mutation, as indicated by the absence of any nucleotide
+changes in
+
+codon 132 of the IDH1 gene compared to the electropherogram of the reference normal sample (wild
+type)-
+
+Results-Comments
+
+TEST DESCRIPTION: lDH1/2 Mutation Analysis
+
+Test performed on DNA extracted from tumor parafﬁn block ' (A2)
+
+H and E slide was examined and no microdissection was needed.
+
+Mutation of lDH1 occurs early in glioma progression with somatic mutations of the R132 residue of |DH1
+identiﬁed in
+
+majority (>70%) of grades II and III astrocytomas and oiigodendrogliomas, as well as in secondary GBMs
+that
+
+developed from these lower grade lesions. Mutation analysis of closely related IDH2 revealed mutations
+of IDH2
+
+residue R172, with most mutations occurring in tumors lacking lDH1 mutations. Tumors with IDH1 or
+IDH2 mutations
+
+have distinctive genetic and clinical characteristics, and patients with such tumors have a better outcome
+than those
+
+with wild type IDH genes.
+
+Mutations in lDH1/2 are detected by DNA sequencing procedures. The limit of detection of standard
+bidirectional
+
+sequencing is approximately 20-25%. In order to increase assay sensitivity tumor enrichment must be
+performed by
+
+manual microdissection when tumor cells in the block constitute less than 50% of nucleated cells.
+
+FDA COMMENT: The above data are not to be construed as the results from a stand alone diagnostic
+test. This test
+
+was developed and its performance characteristics determined by the
+
+as required by CLIA "88 regulations. It has not been cleared or approved for speciﬁc uses by
+the US Food
+and Drug Administration (FDA). The FDA has determined that such clearance or approval is not
+necessary. These
+results are provided for informational purposes only, and should be interpreted only in the context of
+established
+procedures and/or diagnostic criteria.
+*“Electronically Signed Out“
+
+Senior Staff Pathologist
+
+[mm—Operative Consultation
+A. Brain tumor, biopsy: High—grade gemistocytic astrocytoma. Frozen section and smears performed at
+
+and results reported to the Physician of Record.
+Surgical Pathology
+Page 4 of 4
+
+Senior Staff Pathologist
+
+Gross Description
+
+A. Brain tumor, biopsy:
+
+CONTAINER LABEL: brain tumor.
+
+FIXATIVE: Forrnalin. NO. PIECES: few. SIZENOL: 10 x 8 x 4 mm. CASSETTES: 2, NS.
+3. Brain tumor. biopsy: CONTAINER LABEL: brain tumor.
+
+FIXATIVE: Forrnalin. NO. PIECES: 3 pieces of brain tissue. SIZENOL: 9x8x3 mm, 0.12gm in aggregate
+CASSETTES: 1, NS.
+
+lCD-9(s): 237.5 237.5
+Billing Fee Code(s): ’
+
+Histo Data
+
+Part A: Brain tumor, biopsy
+
+Taken: Received:
+
+Stalnlcnt Block Ordered Comment
+
+FS H&E x 1 1
+
+H&E x 1 1
+
+TPS H&E x 1 1
+
+EGFR vill-cuds x 1 2
+
+mGFAP-DA x 1 2 ' Please nIn lDH1 antibody.
+H&E x1 2
+
+MGMT'curls x 1 2 Please run IDHi/2 mutatiomal a
+MIB1-DA x1 2
+
+P5300? x 1 2
+
+Rct1 H&E x1 2
+
+Part 3: Brain tumor, biopsy
+
+Taken: Received:
+
+Stalnlcnt Block Ordered Comment
+
+H&E x1 1
+
+Page 4 of4
+
+ 
+

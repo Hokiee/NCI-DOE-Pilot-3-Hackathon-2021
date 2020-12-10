@@ -1,0 +1,107 @@
+UUID: A61C:06:-81283-N429E- 93FR1- -BAOFC06A3310
+
+l|lllIlll|ll|llllllllllllllllllllll
+
+lll
+llllllllll
+
+llllllllll
+
+Sample Preparation
+
+Site of Primary (Event)
+Site of Tissue
+
+Year of Sample Collection
+
+Age at Sample Collection (yrs)
+
+Sample Comments
+
+Days to Procedure Date
+Days to Diagnosis
+
+Type of Procedure
+
+Site of Primary (Histology)
+Bilateral Disease
+
+Tumour Size (cm)
+Histology
+Grade/Differentiation
+Pathological T
+Pathological N
+
+Number of Nodes Sampled
+Number of Nodes Positive
+Clinical M
+
+Histology Comments
+
+Md cted
+
+lllllllllllll I "III“ llllllllull Illl
+lllllllllllllllllllIlllllllllllllllllllllllllllll Ill
+
+~Linn in Yes
+'Dia “grasisD' .cre epancy
+_ l‘rimn iryTumo rm: Dis repancv
+iillPAADscr reapncy
+a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sample Type TUMOUR
+
+Fresh Frozen
+Uterine
+Uterus
+
+/ CA4 6 / 3
+WW WW, [1W/MW/IND’
+_ 8 3 81/ 3
+0 gm: WW 05W
+
+14 ‘ . W i/v‘3/ll
+
+Surgical resection
+Endometrium
+N/A
+
+6
+
+Endometrioid adenocarcinoma, NOS
+Ill
+
+T1c
+
+N0
+
+0
+
+20
+
+MO
+

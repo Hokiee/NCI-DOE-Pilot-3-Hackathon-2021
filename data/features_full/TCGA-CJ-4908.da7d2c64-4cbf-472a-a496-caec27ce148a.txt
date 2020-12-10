@@ -1,0 +1,48 @@
+Surgery Date:
+
+ 
+
+ 
+
+Pathology Report
+DIAGNOSIS
+
+(A) RIGHT KIDNEY:
+
+RENAL CELL CARCINOMA, CONVENTIONAL (CLEAR CELL TYPE), FUHRMAN'S NUCLEARGRADE 2.
+TUMOR CONFINED TO KIDNEY.
+
+TUMOR MEASURES 3.9 CM IN GREATEST DIMENSION.
+
+Vascular, ureteral and soft tissue margins of resection free of tumor.
+
+Renal cortical adenoma (0.2 cm).
+
+Renomeduliary interstitial cell tumor (0.3 cm).
+
+GROSS DESCRIPTION
+
+(A) RIGHT KIDNEY ~ A nephrectomy specimen (18.0 x 12.0 x 6.0 cm) including the right kidney (12.0 x 7.0 x 4.5 cm). a segment of the
+renal artery, the renal vein and ureter (10.0 cm in length and 0.4 cm In average diameter).
+
+There is a 3.9 x 3.5 x 3.5 cm well-circumscribed tumor in the mid pole of the kidney. The tumor is yellow—tan with extensive areas of
+hemorrhage, which are present predominantly in the center of the tumor. The tumor is confined to the kidney. The tumor does not
+invade into the perinephric adipose tissue, renal sinus or renal vein. The tumor does not extend to Gerota's fascia.
+
+The adjacent kidney parenchyma is unremarkable. The pelvicalyceal system is smooth and devoid of any lesions. No lymph nodes are
+identified in the hilum of the kidney. '
+
+Portions of the tumor have been submitted for pesslble electron microscopy and tumor bank.
+INK CODE: Black - Gerota's fascia.
+
+SECTION CODE: A1, ureter, renal artery and renal vein margin; A2-A4, tumor and rena! sinus; A5—A7, tumor and adjacent kidney; A8-
+A10, tumor and perinephric adipose tlssue; A11, A12, non-neoplastic kidney.
+
+CLINICAL HISTORY
+Mass right kidney.
+
+SNOMED CODES
+T-71000, M-83123, M-Y1640
+
+ 
+

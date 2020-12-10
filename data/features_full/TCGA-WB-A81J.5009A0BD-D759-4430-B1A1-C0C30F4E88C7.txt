@@ -1,0 +1,45 @@
+LIJID: 5809A03D-D759-4430-31A1-CDC39F4RE8eaC7ac
+TCGA- “3- A81]- 01A- PR
+
+Unique Patient identifier:
+Short descriptive translation of the pathology review reported by the
+
+Pathoanatomical review
+Date:
+
+Date report:
+
+Material: right adrenal
+
+There is an adrenal tumor with a diameter of 2.5 cm.
+
+Immunohistologically, there is positive staining for synaptophysin and chromogranin. Staining
+for lnhibin, SF1, Calretinin, MART1 and KL1 was negative. Only single cells stained positive
+for Ki67 pointing to a low rate of proliferation. A total score of 3 was found (Extension into
+adipose tissue, nuclear pleomorphism) indicating a benign disease.
+
+Total Score Score (max. 20) 3
+
+Final conclusion: pheochromocytoma
+
+Translated by:
+ram-or 3
+
+870010
+
+5J1 @ﬂd/wwzﬂ (/5339
+9&3/0/17/3 ‘
+
+.l'rltria
+Discr
+Tumor Sole litigant v
+HIP/\A
+Prior
+
+ 
+
+I:
+Reviewer lnmals
+
+ 
+

@@ -1,0 +1,286 @@
+ 
+
+Clinical Diagnosis & Histog:
+Patient with bilateral small thyroid nodules, FNA of right sided nodule showe PTC.
+
+Specimens Submitted:
+
+1: Tissue of cricoicl cartilage (f3)
+2: Pretracheal lymph node
+
+3: Delphian lymph node
+
+4: Pyramidal lobe
+
+5: Total thyroldectomy
+
+UUID: 335DABDB- 7CDO- 4035- MBE- SBSEBABFOBSeBd
+TCGA- DJ -A4UL- 91A- PR
+
+ted
+
+III II II I III I II I lllll l III III" I |l||||l ||l|||||||||| I ”III“ lllllllll
+l ||||||||||l||l||l|||lllll|||||||
+“ll “Hilmllllllllillll“IIIIIIIHIIIIIHIllll IIIIIIIIIIIIIIIIIHIIIII
+
+HUUlﬂUllal My ID
+
+ 
+
+ 
+
+DIAGNOSIS:
+
+Tissue of cricoid cartilage; excision (is):
+- Benign thyroid tissue.
+
+Pretracheal lyrnph node; excision:
+- One benign lymph node (0/1).
+
+Delphian lymph node; excision:
+- One benign lymph node (0/1).
+
+Pyramidal lobe; excision:
+- Benign thyroid tissue with cautery artifact.
+- One benign lymph node (0/1).
+
+Total thyroldectomy:
+Part # 5
+Tumor Type:
+Papillary carcinoma. classical type
+
+Histologlc Grade:
+Well differentiated
+
+Mitotic Activity:
+Not identiﬁed
+
+Tumor Necrosis:
+Not identiﬁed
+
+Tumor Location:
+Left lobe
+
+Tumor Size:
+Greatest diameter is 1.1 cm.
+
+Tumor Encapsulation:
+None identified
+
+/CD’0/3
+CWW pearl/“3,, W 89M];
+5,17; MW ms d573,? 1“)
+
+[0/97//)’
+
+ 
+
+Page 1 of 4
+
+ 
+
+eiooo vessel Invasion:
+Not identiﬁed
+
+Extrathyroid Extension:
+Not identiﬁed
+
+Surgical Margins:
+Tumor is presentat the inked and cauterized margin.
+
+Tumor Mullicentriclty: .
+Multiple foci of papillary microcarcinoma (9 foci) are present in both lobes r anging from 0.15 to 0.8 cm in geatest
+
+dimension
+
+Adenomals) (away from the carcinoma):
+Not Identiﬁed
+Non-Neoplastic Thyroid:
+Exhibits nodular hyperplasia
+Parathyroid Glands:
+One unremarkable parathyroid gland is identiﬁed on the right side
+
+ 
+
+ 
+
+I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXAMINATION OF THE SLIDES (AND/0R OTHER MATERIAL}. AND THAT I HAVE
+REVIEWED AND APPROVED THIS REPORT. '
+
+ 
+
+A:_
+
+Special Studies:
+
+Result Special Stain Comment
+RECUT
+
+Gross Description:
+
+ 
+
+1. The specimen is received fresh for frozen section consultation, labeled "tissue of cn'cold cartilage". and consists of a fragment
+of tan-pink soft tissue measuring 0.4 x 0.3 x 0.1 cm. The specimen is entirely submitted for frozen section.
+
+Summary of sections:
+FSC - frozen section control
+
+ 
+
+2. The specimen Is received fresh, labeled “Pro-tracheal lymph node" and consists of a ﬁrm tan lymph node measuring 0.3 x 0.2 x
+0.1 cm. The lymph node is entirely Submitted.
+
+ 
+
+Summary of sections:
+LN - lymph node
+
+ 
+
+3. The specimen is received fresh, labeled "Delphian lymph node" and consists of a possible lymph node measuring 1.5 x 1.0 x
+0.2 cm. The specimen is entirely submitted.
+
+Summary of sections:
+PLN - possible lymph node
+
+ 
+
+Page 20M
+
+ 
+
+4. The specimen is received fresh, labeled "Pyramidal lobe' and consists of an irregular fragment of soft tissue measuring 1.3 x
+0.5 x 0.4 cm. The specimen is bisected and entirely submitted.
+
+Summary of sections:
+U - undesignated
+
+ 
+
+~r r.
+
+5. The specimen Is received fresh, labeled "total thyroidectomy stitch marks left lobe of thyroid". and consists of a thyroid
+weighing 16.4 g. The right lobe measures 4.2 x 3.2 x 1.1 cm, the left lobe measures 4.1 x 3.3 x 1.1 cm and the isthmus measures
+1.4 x 0.5 cm. The external surface is covered by a thin fibrous capsule. The posterior surface of the specimen is inked black,
+and the anterior is inked blue. Sectioning reveals a 1.1 x 0.? x 0.6 cm nodule that is tan white and weil-clrcumscribed.— The
+nodule is located in the left Inferior lobe. Sections through the remaining tissue reveals an additional tan white wall circumscribed
+nodule that is located in the right upper pole and measures 0.7 x 0.5 x 0.4 cm. The remaining thyroid parenchyma is red brown
+and beefy. Representative sections of the specimen are submitted for TF'S. The remaining tissua is serially sectioned and
+entirely submitted.
+
+Summary of sections:
+
+NL - nodule left. entirely submitted
+
+NR - nodule right, entirely submitted
+
+Rt. - right lobe
+
+LL - left lobe
+is - Isthmus
+
+Summag of Sections;
+Part 1: Tissue of cricold cartilage (is)
+
+Block Sect. Site PCs _
+1 fed 1 ‘ 1»
+
+Part 2: Protracheal lymph node
+
+Block Sect. Site P03
+1 LN 1
+
+Part 3: Delphlan lymph node
+
+Block Sect. Site P03
+1 PLN 1 "
+
+Part 4: Pyramidal lobe
+
+Block Sect. Site PC:
+1 U 2
+
+Part 5: Total thyroidectomy
+
+ 
+
+Block Sect. Site P09
+1 IS 1
+[3 LL 0
+1 Ni. 1
+1 NR 1
+7 RL 7
+
+Intraogerative Consultation:
+Note: The diagnoses given in this section pertain only to the tissue sample examined at the time of the intraoperatlve
+
+consultation.
+
+1. FROZEN SECTlON DIAGNOSIS: Benign thyroid tissue
+
+ 
+
+ 
+
+Page 3 of 4
+
+PERMANENT DIAGNOSIS: Same
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+.
+g.
+I
+i.
+, I... .. it
+b
+‘5
+.‘Qtage--1~<-:ifrsL Emu“ '
+,
+,. Criteria _ . . Nu ,
+L‘lagncsisnlxrzpzncy \f __
+Primary'lumor Site Dlscrepancy ;;
+33M Discrepancy /
+Prim Miliunancy‘iiittery ‘/
+5/ .
+/ DISQUAHFIFD ‘
+ml} 4/
+
+ 
+
+ 
+
+‘7
+dﬂ‘W”
+
+ 
+

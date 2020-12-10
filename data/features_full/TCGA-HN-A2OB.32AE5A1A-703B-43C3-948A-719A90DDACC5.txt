@@ -1,0 +1,97 @@
+  
+
+UUID : 32AE5A1A-763B-43C3-948A-719ABBDDACC5
+
+TCGA-HN-Azos-elA-PR Redacted
+Ill
+
+Ill lllllIlllllllllllllllllllllllllllllllllllllllllllllllllllllll
+llllllllllllllllllllllllllllllllllllll ll ll
+Illllllllllllllllllllllllllllllllllllllllilllll'l'l'llﬂlllllll'lqllﬂll:l'lI
+
+Sample Preparation
+
+Site of Primary (Event)
+
+Site of Tissue
+
+Year of Sample Collection
+Age at Sample Collection (yrs)
+Sample Comments
+
+Days to Procedure Date
+Days to Diagnosis
+
+Type of Procedure
+
+Site of Primary (Histology)
+Bilateral Disease
+
+Tumour Size (cm)
+Histology
+Grade/Differentiation
+Pathological T
+
+Pathological N
+
+Number of Nodes Sampled
+Number of Nodes Positive
+Clinical M
+
+Histology Comments
+Bloom Richardson Grade: 1/3 (2). To
+
+SBR (Scarff-Bloom—Richardson) score
+ER Status
+
+PR Status
+
+HERZ Status
+
+Lymph Node Metastases
+
+  
+  
+
+le Type Tumour Primary
+
+Fresh Frozen
+right breast
+Breast
+
+MAM/35
+
+45 turf?" '/ wamr; @591qu m;
+
+0 9526/3
+14 5/77; M AM 050. 7
+
+Surgical resection ,AAJ
+
+Right breast ¢//lz///
+
+2.7000000000000002
+
+Other
+
+Grade X - Unknown
+
+T2
+
+Nla
+
+5
+
+2
+
+M0
+
+Histologic type: invasive lobular (e cadherin negative). Modified Scarff
+tal score 4/9.
+
+4
+Positive NOS
+Positive NOS
+Negative
+None Documented
+

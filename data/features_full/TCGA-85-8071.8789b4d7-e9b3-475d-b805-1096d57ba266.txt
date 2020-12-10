@@ -1,0 +1,85 @@
+TCGA Pathology Reports
+
+OpenClinicalD Gross Microscopic Diagnosis Comments
+
+CaselD Description Description Details
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Formatted Path Report
+
+ 
+
+LUNG TISSUE CHECKLIST
+
+Specimen type: Pulmonectomy
+Tumor site: Lung
+
+Tumor size: 2 x 1.2 x 0.7 cm
+Histologic type: Squamous cell
+carcinoma
+
+Histologic grade: Moderately
+differentiated
+
+Tumor extent: Tumor in main
+bronchus
+
+Other tumor nodules: Not specified
+Lymph nodes: 2/6 positive for
+metastasis (Intrathoracical 2/6)
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Margins: Not specified
+
+Evidence of neo-adjuvant treatment:
+
+Not specified
+
+Additional pathologic findings: Not
+specified
+
+Comments: None
+
+ 
+
+ 
+
+Laterality
+
+Right—upper
+
+ 
+
+ 
+
+ 
+
+ 
+
+Excision date
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,201 @@
+ 
+
+UUID: 267COEAB- ECC4- 44BC- 89C9- ~8C54F33R22eA6Ea
+TCGA- V1- ABXB- BlA- PR
+
+I IIIIIIII||IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIRIIeIIIIIIIcllad
+III IIIIII IIIIIIIIII II IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII III IIIIIIIII
+. _III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIIII II IIIIIIIIIIIII II II II III
+
+SURGICAL PATHOLOGY REPORT
+
+ 
+
+@4013
+WSW W “093/140 /3
+
+{Sim ﬁlm Lib/1‘}
+(3.— Q0 6/28/16:
+
+ 
+
+ 
+
+ 
+
+FINAL PATHOLOGIC DIAGNOSIS
+
+A. Urethra, anterior margin, biopsy: Fibrofatty tissue, no tumor seen.
+
+B. Prostate and seminal vesicles, prostatectomy:
+
+1. Prostatic adenocarcinoma, Gleason grade 3+5=8, bilateral involvement, with
+extraprostatic extension, tumor at cauterized margin; see comment.
+
+2. Seminal vesicles with no carcinoma.
+
+C. Left pelvic lymph nodes, dissection: No carcinoma in seven lymph nodes (0/7).
+
+D. Right pelvic lymph nodes, dissection: No carcinoma in 11 lymph nodes (0/11).
+
+COMMENT:
+
+Synoptic Comment for Prostate Tumors
+- Type of tumor: Small acinar adenocarclnoma.
+— Location of tumor:
+- Left apex: Slide 31.
+- Left mid gland: Slides 35, B7, 39, 313.
+- Right apex: Slides 32, 34.
+- Right mid gland: Slides 36, 38, 312, 314.
+- Right base: Slide 316.
+- Estimated volume of tumor: 2.2 cubic cm.
+- Gleason score: 3+5=8.
+- Estimated volume > Gleason pattern 3: 0.3 cubic cm.
+- Involvement of capsule: Tumor invades capsule: Left mid gland (slides B7, 39, 313), right mid
+gland (slides 38, 312)
+- Extraprostatic extension: Present.
+- Margin status for tumor: Positive; right mid gland (slides 38, 312), left mid gland (slide 39)
+- Margin status for benign glands: No benign glands present at inked excision margins.
+- Involvement of seminal vesicle: None.
+
+ 
+
+ 
+
+ 
+
+ 
+
+L . ..... . . . . .. a.“ WW- .. .WM .. . ......._..».,.W~
+
+- Perineurai infiltration: Present.
+- Prostatic intraepithelial neoplasia (PIN): None.
+- AJCC/UICC stage: pT3aR1NOMx.
+
+Dr. has reviewed selected slides and concurs with the ﬁndings.
+
+ 
+
+ 
+
+Specimen(s) Received
+
+AzAnterior urethral margin (FS)
+3:Prostate and seminal vesicles (fresh)
+C:Left pelvic lymph nodes
+
+D:Right pelvic lymph nodes
+
+Intraoperative Diagnosis
+
+F51 (A) Anterior urethral margin, biopsy: Smooth muscle, skeletal muscle, fibroadipose tissue and
+nerve. No epithelium, no tumor. (Dr.
+
+Clinical History
+The patient is 2 -year-old man with history of prostate cancer, Gleason grade 3+3.
+
+Gross Description
+The specimen is received fresh and in formalin in four parts, each labeled with the patient's name and
+unit number. Parts A and 3 are received fresh, and Parts C and D are received in formalin.
+
+Part A is additionally labeled "anterior urethral margin.“ It consists of two soft, irregular pieces of
+
+red-black tissue measuring 1.4 x 1 x 0.3 cm in aggregate. The specimen is submitted for frozen section
+diagnosis #1, and the frozen section remnant is submitted in cassette A1.
+
+Part B is additionally labeled "prostate + seminal vesicles." It consists of a prostate gland with attached
+seminal vesicles weighing 36 gm and measuring 3.5 cm anterior-posterior, 5 cm apex-base, and 4 cm
+medial-lateral. The left seminal vesicle bundle measures 4 x 0.75 x 0.5 cm : the right measures 3.75 x
+0.75 x 0.5 cm. The posterior is inked black, left anterior blue, right anterior green, the apex and base
+margins removed and the prostate serially sectioned from apex to base across the urethra Into six serial
+slices revealing prominent nodular hyperplasia around the urethra and ﬁrm, pink-tan peripheral zone
+throughout. Tissue is removed from the left and right slices 2, 3, and 4 and frozen for research
+purposes. The remaining tissue is then entirely submitted as follows:
+
+Apex
+
+Cassette 31: Left.
+Cassette 32: Right.
+
+Slice 1
+
+Cassette 33: Left.
+Cassette 34: Right.
+
+Slice 2
+
+Cassette 35: Left.
+Cassette 36: Right.
+
+Slice 3
+
+Cassette 37: Left.
+Cassette 38: Right.
+
+Slice 4
+
+Cassette 39: Left anterior.
+Cassette 310: Left posterior.
+
+Cassette 311:
+Cassette 312:
+
+Right posterior.
+Right anterior.
+
+Slice 5
+
+Cassette 313: Left.
+Cassette 314: Right.
+Slice 6
+
+Cassette 31 5:
+
+Left.
+
+ 
+
+ 
+
+Cassette 316: RIgnt.
+Seminal vesicles
+
+Cassette 317: Left.
+Cassette 318: Right.
+Bladder resection margin
+Cassette 319: Left.
+Cassette 320: Right.
+
+Part C is additionally labeled "left pelvic lymph nodes." It consists of multiple irregular fragments of
+soft-to-ﬁrm, yellow—tan to light-brown fibrofatty tissue, measuring 5 x 4 x 1 cm in aggregate. Multiple
+lymph node candidates are identiﬁed. The specimen is entirely submitted as follows:
+
+Cassettes C1-C2: One lymph node candidate, quartered.
+
+Cassettes C3-C4: Two small lymph node candidates each, intact.
+
+Cassettes C5-C6: The entire fibrofatty remnant.
+
+Part D is additionally labeled I'right pelvic lymph nodes.” It consists of three segments of soft-to-vﬂrm,
+rubbery, yellow-tan ﬁbrofatty tissue, measuring 5.3 x 2 x 1 cm in aggregate. Multiple lymph node
+candidates are identified. The specimen is entirely submitted as follows:
+
+Cassettes D1-DZ: One lymph node candidate each, bisected.
+
+Cassettes D3-D5: Two small iymph node candidates each, submitted intact.
+
+Cassette as: The entire fibrofatty remnant.
+
+Diagnosis based on gross and microscopic examinations. Final diagnosis made by attending pathologist
+following review of all pathology slides.
+
+(Pathology Resident
+
+(Pathologist
+
+Electronically signed out on
+
+ 
+
+ 
+

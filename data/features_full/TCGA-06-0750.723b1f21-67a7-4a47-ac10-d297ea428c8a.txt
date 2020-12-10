@@ -1,0 +1,112 @@
+ 
+   
+
+ 
+ 
+
+ 
+
+Sur ical Pathology Report
+
+ 
+
+“had a right parietooccipital glioblastoma diagnosed a
+few weeks ago, for resection of residual tumor.
+
+OPERATIVE DIAGNOSES
+Craniotomy for brain tumor.
+
+ 
+
+ 
+
+Operation/Specimen: A: Brain, excision biopsy
+
+PATHOLOGICAL DIAGNOSIS:
+Brain, site not specified, excision: Glioblastoma.
+
+.See Comment.
+
+COMMENT
+The specimen contains portions of an astrocytic neoplastic proliferation that
+
+effaces the brain tissue, and has nuclear anaplasia, mitotic figures,
+microvascular cellular proliferation, and zones of necrosis, many with
+pseudopalisading, i.e. a glioblastoma (WHO IV/IV).
+
+    
+
+PROCEDURES/ADDENDA
+
+Immunohistolo
+Date Ordered:_ Date Reported:
+
+Interpretation
+
+ 
+
+Brain, tumor, MIB~1 Proliferation Index: 16%.
+See Results and Comment (below).
+
+Results—Comments
+
+IMMUNOHESTOCHEMISTRY: The GFAP demonstrates gliofibrillogenesis by
+neoplastic cells. A very small minority of cells over expresses the p53
+protein. The CD163 depicts a prominent population of positive cells
+intermingled with neoplastic cells. With the MIB—l there is a proliferation
+index of about 16% in the more active areas.
+
+Comment: The immune results are consistent with a high histological grade
+
+glioma. The diagnosis remains as on the initial report.
+Pac
+
+TCCyAs DC: ~07SO '
+
+GROSS DESCRIPTION
+
+ 
+
+SPECIMEN: Brain tumor.
+
+FIXATIVE: None.
+
+GENERAL: Received is a 2 x l x 0.6 cm. aggregate of irregular, redutan to
+gray—white soft hemorrhagic glistening tissue fragments.
+SECTIONS: Al, A2 entirely submitted.
+
+ICD—9(s):
+4
+
+Histo Data
+
+Part A:
+
+Taken:
+
+Stain/ant
+
+CD163 Vector x l
+mGFAP—DA x l
+H/E x l
+
+MIBl-DA X l
+P53DO7 x l
+
+H/E x l
+
+*** End of Report ***
+
+ 
+
+' biopsy
+Received:
+Block Ordered Comment
+
+  
+   
+
+mahlwreksw
+
+ 
+

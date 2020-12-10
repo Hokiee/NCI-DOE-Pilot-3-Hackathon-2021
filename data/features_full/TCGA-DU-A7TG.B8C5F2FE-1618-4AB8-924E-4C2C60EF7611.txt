@@ -1,0 +1,313 @@
+Idlﬁﬁ
+% mug
+Anatomic Pathology/Cytology Document Stan: (version) mt, "A /W59~0MO§
+Update Date/Time:
+
+“M” a 7/ a
+Patient Name: . MRN: Service Date/Time: ® %in 1 ‘ ﬂat ‘2 N 9 A! E
+DOB/Age/Gender: Male Provider: / ‘
+
+Location: Responnble Slaﬁ‘:
+
+"U“=:::::2:::::=::1:::°::E-m:;6::.cted 94) 4m; 14
+IIII|||||||||||||I|||I|l||||||I|||||||||H||||II||IIIIIIIHI1||||||
+|||H|||||||||| ||||H||| l|||l|||I||||
+|||||||||||||||| |IIIIIIIIIIHIIIIIIIIIllllllllll||||||||||
+ODE; (Age: ) Gender: M
+Client:
+Taken:
+Received:
+Reported:
+
+Physician(s):
+Phy Location:
+
+CLINICAL HISTORY
+
+-old man with past history of long standing headaches and
+depression, and ' smoking, was found unresponsive at home. On CT
+there is a right frontal lobe slightly enhancing lesion, with thickened genu
+of corpus callosum and expansion of left frontal lobe.
+OPERATIVE DIAGNOSES
+Right frontal lesion.
+Operation/Specimen: A: Brain,right frontal lobe mass, biopsy
+B: Brain,right frontal lobe tumor, excision biopsy
+C: Brain,right frontal lobe tumor, excision biopsy
+PATHOLOGICAL DIAGNOSIS:
+A, B, and C. Brain, right frontal, excisional biopsies and excision:
+l. Oligodendroglioma (WHO II/III).
+2. MIB—l proliferation index: 2% to 4%.
+See Microscopy Description and Comment.
+COMMENT
+The neoplasm is an oligodendroglioma devoid of nuclear anaplasia,
+microvascular cellular proliferation, or necrosis. There are focal
+proliferation centers, and zones of white matter rarefaction and gliosis. In
+the tissues examined the neoplasm is a WHO grade II/III. The morphology is
+consistent with a tumor that has 1p/19q LOH.
+***Electronically Signed Out***
+
+, Senior Staff Pathologist
+
+PROCEDURES / ADDENDA
+
+MGMT Promoter Methylation
+
+Date Ordered: Date Reported:
+
+Interpretation
+
+POSITIVE: Methylated MGMT promoter is detected.
+
+Results—Comments
+
+Testing performed on tissue block (B3).
+
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT promoter
+have been shown to benefit from therapy with alkylating agents. Assessment of
+MGMT promoter methylation status involves bisulfite treatment of DNA followed
+
+by real—time PCR amplification of methylated and unmethylated
+DNA
+
+sequences.
+FDA COMMENT: The above data are not to be construed as the results from a
+stand alone diagnostic test. This test was developed and its performance
+characteristics determined by the as
+required by CLIA ' 88 regulations. It has not been cleared or approved for
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA has
+determined that such clearance or approval is not necessary. These results
+are
+provided for informational purposes only, and should be interpreted only in
+the context of established procedures and/or diagnostic criteria.
+***Electronically Signed Out***
+
+, Senior Staff Pathologist
+
+Consultant:
+
+Loss of Heterozygosity lp, l9q Assay (LOH)
+Date Ordered: Date Reported:
+Interpretation
+
+POSITIVE: Allelic loss on chromosome arm 1p and chromosome arm l9q is
+detected.
+
+Informative loci are: DlSlS92, DlSSSZ, D198219, D198412, and PLA2G4C
+Results—Comments
+
+Testing performed on tumor paraffin block (A2) and a blood
+specimen
+
+to establish germline genotype.
+
+TEST DESCRIPTION: Allelic loss is assessed by PCR assay in Normal DNA
+(baseline)/ Tumor DNA pairs using 3 markers at both 1p and 19q. The 3 markers
+on 1p are DlSS48, DlSlSBZ, and DlSSSZ (with DlS468, DlSl612, and DlS496 as
+backup markers) and the 3 markers on l9q are D195219, D193412, and PLA2G4C
+(with D198606 and D1981182 as backup). All markers are microsatellites (2 or
+4
+
+nt repeats) except PLA2G4C which is a minisatellite (26 nt repeat)
+polymorphism. The markers were selected based on heterozygosity score,
+amplicon size, and ease of interpretation. The backup markers are used if the
+first line markers at that chromosome arm are uninformative or otherwise
+ambiguous in their interpretation. LOH at all informative loci on each
+chromosomal arm represents the typical finding in oligodendrogliomas with 1p
+and l9q deletion.
+
+FDA COMMENT: The above data are not to be construed as the results from a
+stand—alone diagnostic test. This test was developed and its performance
+characteristics determined by the as
+required by CLIA ' 88 regulations. It has not been cleared or approved for
+specific uses by the U.S. Food and Drug Administration (FDA). The FDA has
+determined that such clearance or approval is not necessary. These results
+are
+
+provided for informational purposes only, and should be interpreted only in
+the context of established procedures and/or diagnostic criteria.
+
+TECHNICAL SENSITIVITY: The presence of >15% non—neoplastic cells in the
+sample
+
+may preclude the detection of allelic loss.
+
+PRINCIPLE: Among the major subtypes of gliomas, oligodendrogliomas are
+distinguished by their remarkable sensitivity to chemotherapy, with
+approximately 70% of anaplastic (malignant) oligodendrogliomas responding
+dramatically to treatment with procarbazine, lomustine, and vincristine
+(termed PCV) (Cairncross et al, 1998). Unfortunately, no clinical or
+pathologic feature allows accurate prediction of chemotherapeutic response.
+oligodendrogliomas are also associated with a longer average patient survival
+
+as compared to astrocytic tumors. However, the histologic distinction between
+oligodendroglioma and astrocytoma is often highly subjective, and there has
+been significant interobserver variation.
+
+Studies (Cairncross et al, 1998; Inc et al, 2001; Smith et al, 2000) have
+shown that:
+
+~ allelic loss (loss of heterozygosity) of chromosome arm lp is a
+statistically significant and currently the best predictor of
+chemosensitivity
+
+— combined loss involving chromosome arms 1p and 19q predicts both
+chemotherapeutic response and longer survival in patients with
+oligodendrogliomas
+
+— combined allelic loss of chromosomes lp and 19q can be considered a
+molecular signature of oligodendroglioma (present in approximately 70—80% of
+oligodendroglial tumors and in only 10% of astrocytomas)
+
+***Electronicallv Signed Out***
+
+Senior Staff Pathologist
+
+INTRA«OPERATIVE CONSULTATION
+
+A.
+
+Brain,right frontal lobe mass, biopsy: Atypical glial proliferation
+consistent
+
+with low—grade glioma. Frozen section performed at ’ and
+results reported to the Physician of Record.
+
+, Senior Staff Pathologist
+GROSS DESCRIPTION
+A. Brain,right frontal lobe mass, biopsy: Received are 2 pieces of tan
+tissue, 0.8 x 0.5 x 0.4 cm. Frozen sections and smears are performed. Frozen
+residual is submitted in Al and unfrozen is submitted in A2.
+B. Brain,right frontal lobe tumor, excision biopsy: FIXATIVE: Formalin. NO.
+PIECES: 1 segment of brain tissue. SIZE/VOL: 5.0x2.5x2.l cm. CASSETTES: 1-6,
+
+C. Brain,right frontal lobe tumor, excision biopsy: FIXATIVE: Formalin. NO.
+PIECES: 1 segment of brain tissue. SIZE/VOL: 4.3x2.4xl.3 cm. CASSETTES: 1—4,
+
+MICROSCOPIC DESCRIPTION
+
+H\T\E: There is a neoplastic proliferation of oligodendrocytes that has some
+"proliferation centers", and infiltrates the brain sparsely or moderately.
+There are only occasional mitotic figures, more readily observed in the
+proliferation centers, where there is also neovascularization. There is no
+microvascular cellular proliferation. There is no necrosis. In part C, in
+addition to focal neoplasm, there is rarefaction and prominent reactive
+astrocytosis with Rosenthal fibers.
+
+IMMUNOHISTOCHEMISTRY: The GFAP demonstrates absent or sparse gliofibrillarity
+by the neoplastic cells. The tumor cells do not over express the p53 protein.
+Synaptophysin and NeuN demonstrate the proclivity of the neoplasm for the
+cerebral cortex, and absence of positive reaction in the neoplastic cells.
+The CD34 depicts the neovascularization within the tumor. With the MIBl, the
+overall proliferation index is about 2%, and in the proliferation centers it
+may be up to about 4%.
+
+In the rarefied, gliotic areas of specimen C there are no neuronal elements,
+neoplastic astrocytes, or diffuse reactivity with CD34.
+
+SPECIAL STAIN: The PAS with/without diastase fails to demonstrate granular
+bodies.
+
+ICD-9(s):
+
+239.6 239.6
+
+Billing Fee Code(s):
+
+A:
+
+B:
+
+C: _
+
+LOH lp19q: ,
+
+MGMT: - , (More)
+
+Histo Data
+
+Part A: Brain,right frontal lobe mass, biopsy
+Taken: Received:
+Stain/cnt Block Ordered Comment
+FS H/E x l l
+
+H/E x l l
+
+TPS H/E x l l
+
+H/E x l 2
+
+Part B: Brain,right frontal lobe tumor, excision biopsy
+Taken: Received:
+Stain/cut Block Ordered Comment
+H/E x 1 l
+
+H/E x l 2
+
+mGFAP—DA x l 3
+
+H/E x l 3
+
+MGMT x l 3 . RUN LOH also. Thanks.
+MIBl-DA x l 3
+
+P53DO7 x l 3
+
+H/E x l 4
+
+H/E x l 5
+
+EMA-DA x 1 6
+
+mGFAP—DA x l 6
+
+H/E x l 6
+
+MIBl—DA X l 6
+
+NeuN x l 6
+
+Synap-DA x l 6
+
+Part C: Brain,right frontal lobe tumor, excision biopsy
+Taken: Received:
+Stain/cnt Block Ordered Comment
+mGFAP—DA X l l
+
+H/E x l l
+
+NeuN x l 1
+
+H/E x l 2
+
+H/E x l 3
+
+CD34-DA X 1 4
+
+mGFAPaDA x l 4
+
+H/E x l 4
+
+MIBl—DA X l 4
+
+NeuN x l 4
+
+PAS x l 4
+
+PAS d x l 4
+
+Synap—DA x l 4
+
+*** End of Report ***
+
+Eritrria
+
+‘ umor 5m:
+HIPM
+Prior
+
+Ease“:
+
+Reviewer
+
+ 
+

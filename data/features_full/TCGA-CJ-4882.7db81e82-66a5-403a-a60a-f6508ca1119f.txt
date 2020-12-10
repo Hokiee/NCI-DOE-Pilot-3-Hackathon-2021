@@ -1,0 +1,56 @@
+ 
+
+  
+
+Pathology Report
+
+DIAGNOSIS
+(A) RIGHT ADRENAL SPARING RADICAL NEPHRECTOMY:
+
+RENAL CELL CARCINOMA, CLEAR CELL TYPE, FUHRMAN NUCLEAR GRADE 3 (7.0
+
+CM IN DIAMETER).
+TUMOR EXTENDS TO ADIPOSE TISSUE OF THE RENAL SINUS.
+Margins of resection free of tumor.
+(3) REGIONAL LYMPH NODE:
+One lymph node, no tumor present (011).
+(C) ADDITIONAL REGIONAL LYMPH NODE:
+One lymph node, negative for tumor (011).
+
+GROSS DESCRIPTION
+
+(A) RIGHT ADRENAL SPARING RADICAL NEPHRECTOMY - A kidney with
+surrounding perinephric fat measuring overall 19.0 x 11.0 x 5.5 cm. Cut
+section reveals a yellow variegated, well-circumscribed mass in the
+lower pole of the kidney measuring 7.0 x 6.0 x 5.0 cm. The tumor
+appears to infiltrate focally into the renal sinus and pushes into the
+perinephric fat. The uninvolved renai parenchyma appears unremarkable.
+The renal vein and ureter margins are negative for gross tumor. One
+possible lymph node is identified adjacent to the renal hilum (0.5 x 0.4
+
+x 0.3 cm). No adrenal gland is identified.
+
+SECTION CODE: A1, renal vein margin, ureter margin and one
+possible lymph node; A2, tumor to perinephric fat; A3 and A4, tumor to
+renal sinus; A5-A6, tumor to renal parenchyma; A7-A8, tumor; A9,
+uninvoived renal parenchyma.
+
+(B) REGIONAL LYMPH NODE — A single lymph node measures 4.0 x 2.0 x 0.8
+cm. The specimen is serially sectioned and entirely submitted in B1433.
+
+(C) ADDITIONAL REGIONAL LYMPH NODE - A single lymph node measures 2.0 x
+1.0 x 0.6 cm. The s ecimen is serially sectioned and entirely submitted
+in 01 through 02. _
+
+CLINICAL HISTORY
+Right renal mass.
+
+SNOMED cones
+T-71000, M-73123
+
+ 
+
+ 
+
+ 
+

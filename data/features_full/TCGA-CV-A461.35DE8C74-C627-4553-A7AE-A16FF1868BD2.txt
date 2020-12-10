@@ -1,0 +1,167 @@
+Accession :
+Specimen Date] Time:
+
+DtAGNOSiS
+
+(A) CONTENTS LEVEL 3. LEFT NECK, DISSECTION:
+No tumor present in six lymph nodes (016)
+
+UUID : 350E8C74-C627 4553 -A7AE -A16FF18688D2
+TCGA-CV-A461-91A-PR Redacted
+
+Ill llllllllllllllllllllllllllIIllIlllIIlIIllIlllllIlllIIIIlIIIII
+Ill “NH" | I ll Illl l |||||l|l||l l |||l||l|||l||l||||||||||l||l|
+Ill |||||||||ll|l|ll||ll||||||l||lllllllllll lllllllllllllllllllll
+
+OTAL LARYNGECTOMY. BILATERAL CENTRAL COMPARTMENT AND RIGHT THYROID LOBECTOMY:
+
+Larynx:
+
+INVASNE SQUAMOUS CELL CARClNOMA1 MODERATELY DIFFERENTIATED (50 CM),
+
+EPIGLOTTIC SOFT TISSUE
+LYMPHOVASCULAR INVASION rs PRESENT
+Penneural invasion is not identified
+Resection margins are free of tumor
+No tumor present in one paratracheal lymph node
+Thyroid giand with no diagnostic abnormality
+
+Central compartment lymph node dissection:
+No tumor present in fifteen lymph nodes (0115)
+
+(C) RIGHT LARYNGEAL MARGIN:
+Squamous mucosa. no tumor present
+
+(D) POSTERIOR CRICOID MUCOSA:
+Squamous mucosa, no tumor present
+
+(E) LEFT PYRIFORM SINUS:
+Squamous mucosa. no tumor present
+
+(F) SUPERIOR VALLECULA MARGIN:
+Squamous mucosa with lymphoid stroma, no tumor present
+
+(G) LEFT LARYNGEAL MARGIN:
+Squamous mucosa with lymphoid strome, no tumor present
+
+(H) RIGHT PYRIFORM SINUS:
+Squamous mucosa. no tumor present
+
+Entire report and diagnosis completed by
+
+GROSS DESCRtPTICIN
+
+EXTENDING TO PRE-
+
+lab—o -3
+
+K
+
+WW‘ 9’
+Sch: IWg’ms
+
+Mime: 9070/3
+cam?
+
+ION”
+
+(A) CONTENTS, LEVEL 3. LEFT NECK ~ Muitipie tan«yellow irregular fragments of hemorrhagic soft tissue, 3.0 x 2.0 x 1.4 cm
+in aggregate. Seven possible lymph nodes are identified ranging in size from 0.4 x 0.3 x 0.2 cm to 1.5 x 1.3 x 0.8 cm.
+SECTION CODE: A1, three possible lymph nodes; A2, two possible lymph nodes; A3, A4, one bisected possible lymph
+
+node in each cassette.
+
+(8) TOTAL LARYNGECTOMY. BILATERAL CENTRAL COMPARTMENT AND RIGHT THYROID LOBECTOMY - A total
+
+Page : 2
+
+Accession:
+Specimen Date/Time:
+
+laryngectomy (10.2 x 8.3 x 4.5 cm) and attached right lobe of thyroid (4.5 x 3.0 x 1.2 cm) anteriorly contains muscle and soft
+tissue, and an elliptical stoma (3.0 x 2.2 cm).
+
+An ulcerated. nodular and polypoid tumor extends from the posterior superior aspect of the epiglottis. coming to within
+1.0 cm of the tip and 0.5 cm from the right and left aryepiglottic folds. The tumor extends 5.0 cm from superior to interior. 3.5 cm
+from right to left and 3 cm deep. The tumor is presented bilaterally in the supra glottis and is polypoid at the left false vocal cord,
+however does not extend to the true vocal cords on the right or left. The tumor is 4.2 cm above the distal tracheal margin and
+3.0 cm above the stoma. Subglottic extension is not identiﬁed. The tumor ﬁlls the pre—epiglotlic space and extends to the hyoid
+bone anterior superiorly. with a scant fibrous tissue covering over the superior aspect of the tumor. The tumor abuts the thyroid
+cartilage and appears to invade it anteriorly.
+
+The right lobe of thyroid is glassy pink-brown and tabular. No masses are identified. Within the fibroadipose tissue.
+multiple lymph nodes are identified.
+
+SECTION CODE: 81-32. tracheal margin for frozen section on face; BS, unremarkable subglottic mucosa from right
+trachea; 34. superior aspect of epiglottis; 85-86, left and right more inferior, 87-38. left and right epiglottis more inferior; 39—810,
+right epiglottis more inferior; B11812. right and left epiglottis more inferior; 813 and 314. tumor behind left and right behind
+hyoid bone; B15. vertical section through left true vocal cord; B16. vertical through right true vocal cord; 31?. left arytenoid; 818,
+right arytenoid; 319. stoma; 320. right thyroid; 821-825, nodes from left side of neck (821624. one bisected node in each block.
+825. 5 whole nodules); 326-829, possible iym ph nodes from right side of neck (826-828. one nodule bisected in each cassette,
+829. two whole nodes); 830. two whole possible lymph nodes centrally located.
+
+*FSIDX: TRACHEAL MARGIN FREE OF TUMOR.
+(C) RlGHT LARYNGEAL MARGIN -- A linear portion of pink soft tissue and mucosa (2.0 x 0.2 x 0.1 cm) is entirely submitted for
+frozen in C.
+
+*FSIOX: NO TUMOR PRESENT.
+(D) POSTERIOR CRICOlD MUCOSA — A linear portion of pink soft tissue and mucosa (1.6 x 0.3 x 0.2 cm) is entirely submitted
+for frozen in D.
+
+*FS/Dx: NO TUMOR PRESENT.
+(E) LEFTEPYRIFORM SlNUS —- A linear portion of pink soft tissue and mucosa (1.5 x 0.3 x 0.2 cm) is entirely submitted for
+frozen in .
+
+'FSIDX: NO TUMOR PRESENT.
+
+(F) SUPERlOR VALLECULA MARGIN - A linear portion of pink soft tissue and mucosa (1.6 x 0.3 x 0.3 cm) is entirely submitted
+for frozen in F. '
+
+*FS/DX: NU IUMUK PRESENT.
+
+(G) LEFT LARYNGEAL MARGIN - A linear portion of pink soft tissue and mucosa (2.0 x 0.3 x 0.2 cm) is entirely submitted for
+frozen in G.
+
+‘FSIOX: NO TUMOR PRESENT.
+(H) RIGHT PYRIFORM SlNUS - A linear portion of pink soft tissue and mucosa (2.2 x 0.4 x 0.1 cm) is entirely submitted for
+
+frozen in H.
+'FSIDX: NO TUMOR PRESENT. '
+CLlNlCAL HISTORY
+None given.
+SNOMED CODES
+T~24000. M30703
+"sum m reportedhon may have been developed and podonnanco mamas determined by
+
+spcdﬁmlly elected or approved by the US Food and Drug Administration,“
+
+Released by:
+
+”END OF REPOR --—--
+
+Page: 3
+
+ACCeSSlOD:
+Specimen Date/Time:
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+
+aw; . _.
+)iagnous Discrepancy ‘
+ninety Tumor ‘vite Disrrupancv
+
+«PM Disuepin'cl _
+’rior Malignancy History
+)uallSynclnonnus '
+Ease is (circle):
+
+ 
+

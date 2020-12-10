@@ -1,0 +1,61 @@
+Formatted Path Report
+
+1
+1
+
+t {:45
+-- n74.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LARGE INTESTI NE TISSUE CHECKLIST
+
+Specimen type: Anterior resection of
+rectum
+
+Specimen size: Not specified
+
+Tumor site: Rectum
+
+Tumor size: 6 x 6 x 1.5 cm
+
+Tumor features: Exophytic (polypoid)
+Histologic type: Adenocarcinoma
+Histologic grade: Moderately
+differentiated
+
+Tumor extent: Perirectal tissues
+
+Lymph nodes: 0/8 positive for metastasis
+(Regional 0/8)
+
+Margins: Not specified
+
+Evidence of neo-adjuvant treatment: Not
+specified
+
+Additional pathologic findings: Not
+specified
+
+Comments: None
+
+ 
+
+ 
+

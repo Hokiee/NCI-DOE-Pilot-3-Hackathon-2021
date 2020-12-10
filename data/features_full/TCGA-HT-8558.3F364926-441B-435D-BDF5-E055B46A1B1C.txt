@@ -1,0 +1,26 @@
+UUID: 3F364926- 4415- 435D- BDFS- E955846A151Cd
+TCGA- HT- 8558-01A- PR
+
+IlllIllllllllIllllllllllllllllllllllllllllllllIlllllllellllllllleal
+llllllllll I ll llllllllllllllllllll llllllllllllllll l lllllll
+llllllllllllllllllllllllllllllllIlllllllllllllllllllllll ||l|
+
+Pathology Report for Subject:
+
+Addendum Discussion:
+MIB-1 reactive cells tend to be grouped in several regions of the slide. The majority of
+the tumor demonstrates a labeling index of <0.1%. In the most proliferative areas, the
+labeling index is 2.9%.
+
+Addendum Diagnosis:
+
+Left Posterior Temporal Tumor
+- Oligodendroglioma, grade II
+- MlB-l labeling index = 2.9%
+
+Microscopic Description:
+
+Sections demonstrate a mildly hypercellular glial neoplasm, the cells of which resemble
+mildly atypical oligodendrocytes. No mitotic figures are seen. There is no microvascular
+or necrosis. The tumor diffusely infiltrates the gray and white matter.
+

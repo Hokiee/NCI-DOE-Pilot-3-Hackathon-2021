@@ -1,0 +1,108 @@
+SPECIMENS:
+A. PROSTATE
+
+SPECIMEN(S): CGA-GQ-537‘I
+A. PROSTATE
+
+GROSS DESCRIPTION:
+A. PROSTATE
+Received fresh labeled with the patient's identiﬁcation and "prostate“ is a 33-9 resected prostate gland
+measuring 4 cm from right lateral to left lateral, 3.7 cm from anterior to posterior, and 2.7 cm from apex
+to base. The capsule is smooth, red, and intact. ink code: Anterior-orange, apex—red, base-blue, right
+lateral-green, left lateral—yeliow, posterior-black. After removal of the apex and base, the prostate
+weighs 20 9. it censists of uniform tan parenchyma. The left seminal vesicle is 1.9 x 0.9 x 0.5 cm and
+the right is 3.4 x 1.6 x 0.8 cm; they are made of cystic tan tissue. The left vas deferens is 2 x 0.6 cm
+and the right is 1.8 x 0.9 cm; they consists of a tubular tart tissue. Tissue is procured (8 9). Submitted
+entirely:
+A1: right apex, perpendicular section
+A2: left apex, perpendicular sections
+A3: levei 1 right anterior
+A4: level 1. right posterior
+A: level 1, left anterior
+A6: level 1, left posterior
+A7: level 2, right anterior and lateral capsule
+A8: level 2, left posterior and lateral capsule
+A9: level 3, right anterior
+A10: level 3. right posterior
+A11: level 3, left anterior
+A12: level 3, left posterior
+A13: level 4, anterior and right iaterat capsule
+A14: level 4, posterior and left lateral capsule
+A15: right mid base, perpendicular sections
+A16: left mid base, perpendicular sections
+A17—A18: right lateral base, perpendicular sections
+A19-A21: left lateral base. perpendicular sections
+A22: base of right seminal vesicle and vas deferens
+A23; base of left seminal vesicle and vas deferens
+A24: right seminal vesicle and vas deferens
+A25: ieft seminal vesicle and vas deferens
+
+DIAGNOSIS:
+A. PROSTATE. SEMINAL VESICLES, AND VASA DEFERENTIA (RADICAL PROSTATECTOMY):
+- PROSTATIC ADENOCARCINOMA, GLEASON SCORE 3 + 3 = 6 INVOLVING THE RIGHT AND
+LEFT PROSTATE LOBES {APPROXIMATELY 20% OF PROSTATE TISSUE)
+- NO EXTRAPROSTATlC EXTENSEON IDENTIFIED
+— NO DEFINITE ANGIOLYMPHATIC AND PERINEURAL INVASION IDENTIFEED
+- TUMOR MICROSCOPICALLY INVOLVES THE LEFT POSTERIOR AND LATERAL SURGICAL
+MARGIN (LINEAR DISTANCE OF POSiTiVE MARGIN: <O.5-MM)
+- RlGHT AND LEFT SEMINAL VESICLES AND VAS DEFERENS, NEGATEVE FOR TUMOR
+
+- SEE SYNOPTIC REPORT
+
+SYNOPTIC REPORT - PROSTATE GLAND
+Specimens involved
+Specimens: A: PROSTATE
+
+Location: Left
+
+Right
+
+Posterior lateral
+
+Apical '
+
+Basal
+
+Anterior
+
+WHO CLASSEFICATION
+Epithelial tumors
+
+ 
+
+Adenocarcinoma 8140/3
+
+Multlcentricity: Yes
+
+Gland involvement: 20%
+
+Gleason GradefSum: Grade 3 + 3 , Sum 6
+High Grade PIN Present: Yes
+Perineurai invasiOn: No
+VascularlLymphatic invasion: No
+
+Seminal Vesicle Invasion: No
+Periprostatic Fat involved: No
+Bladder Neck Involved: N0
+
+Margins involvement: Yes
+Location: Level 2, left posterior and lateral
+
+Linear Distance: Microscopic (<1mm)
+Frozen Performed: No
+Lymph Nodes: No lymph nodes sampled
+
+Other Pathologic Findings: BPH
+Pathologicai Staging (pTNM): T 20 N x M x
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+
+CLINiCAL HISTORY:
+None given
+
+PRE-OPERATIVE DIAGNOSIS:
+Prostate cancer
+
+ 
+
+ 
+

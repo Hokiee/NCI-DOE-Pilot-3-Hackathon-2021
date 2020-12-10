@@ -1,0 +1,187 @@
+0/156," 1w -0 — 3
+
+MW” Mé‘g/s
+
+6 fWOIB
+
+#0 S
+POI-L (171.0
+Surgical Pathology Report @W M%
+Patient Name: Phone #: Accession #: / /
+Med. Rec. #2 Client: Taken: (2%) 4 I? )‘3
+DOB: Location: Received:
+Gender: M Accnt: Reported:
+Physicianls): '
+pm Location: uum.cus15D5F-aac5-4571 s43R1-ses1cMMa4éid
+Clinical History "G" ”U' "AST" 91" 4’
+Right parietal tumor lllll IIllIIlllllllllllllllllllllllllllllllllllllllllllllllllllllll
+Operative Diagnoses mm ”HI” "III”IIIH
+
+anemia“ I swim... III ”II”! rm IIIIIIIIIIIIIIIIIIIIIIIIIIIIIHIIIIIIIIIIIIIIIII
+
+A: Brain tumor, biopsy
+B: Brain tumor, excision biopsy
+Pathologic Diagnosis
+A. and B. Brain, right parietal tumor. biopsy and excision: Anaplastic astrocytoma. WHO grade III
+(see
+comment).
+Comment
+Permanent sections confirm the frozen section diagnosis. Sections show a moderately pleomorphic
+infiltrating glioma
+with mostly angular and irregular hyperchromatic nuclei. Some rounder nuclei are also present perhaps
+suggesting a
+minor oligodendroglial component. Mitotic activity is increased In areas of high cellular density (slide A2).
+The Ki-67 labeling index is approximately 10% overall but focally approaches approximately 45%. An
+experimental
+antibody for the R132H IDH1 mutation Is positive. Controls show appropriate reactivity.
+Results of additional studies will be reported below in procedure addenda.
+“Electronically Signed Out'“
+Senior Staff Pathologist
+ProcedureslAddenda
+PCR for EGFR variant Ill mutation
+Date Ordered: Date Reported:
+Interpretation
+NEGATIVE - No evidence of EGFRvIII mutation is detected
+
+Surgical Pathology
+
+Results-Comments
+
+TEST DESCRIPTION: Testing performed on RNA extracted from paraffin tissue block
+
+H and E slide was examined and no microdissection was needed.
+
+The epidermal growth factor receptor (EGFR) is an attractive molecular target in glioblastoma because it
+is amplified,
+
+overexpressed. and/or mutated in up to 40% to 50% of patients. Epidermal growth factor receptor variant
+III
+
+(EGFRvIII) is an cncogenic. constitutively active mutant form of EGFR that is commonly expressed in
+glioblastoma.
+
+Cell culture and in vivo models of glioblastoma have demonstrated EGFRvIII as defining prognostically
+distinct
+
+subgroups of glioblastomas. Additionally, the presence of EGFRvIII has been shown to sensitize tumors
+to EGFR
+
+tyrosine kinase inhibitors when the tumor suppressor protein PTEN is intact. RNA is extracted from
+formalin ﬁxed,
+parafﬁn embedded tissue samples and reverse transcribed to cDNA. The cDNA is then ampliﬁed using
+standard PCR
+technique for DNA templates. PCR products are detected by gel electrophoresis. The limit of detection of
+this assay ‘
+has been determined to be approximately 5 mutant cells in 100 normal cells.
+FDA Comment: The above data are not to be construed as the results from a stand alone diagnostic test.
+This test
+was developed and its performance characteristics determined by the
+as required
+by CLIA ’88 regulations. It has not been cleared or approved for speciﬁc uses by the US. Food and Drug
+Administration (FDA). The FDA has determined that such clearance or approval is not necessary. These
+results are
+provided for informational purposes only, and should be interpreted only in the context of established
+procedures
+and/or diagnostic criteria.
+***Electronically Signed Out”
+
+Senior Staff Pathologist
+Loss of Heterozygosity 1p, 19q Assay (LOH)
+Date Ordered: Date Reported:
+Interpretation
+POSITIVE: Allelic loss on chromosome arm 19q is detected.
+NEGATIVE: Allelic loss on chromosome arm 1p is NOT detected.
+Informative loci are: D181592, D181612, 018496, D198219, D19S412
+Results-Comments
+Testing performed on DNA extracted from tumor parafﬁn block DNA extracted from a
+corresponding blood specimen was used as a normal reference control.
+H and E slide was examined and no microdissection was needed.
+TEST DESCRIPTION: Allelic loss is assessed by PCR assay in Normal DNA (baseline)/ Tumor DNA
+pairs using 3
+markers at both 1p and 19q. The 3 markers on 1p are D18548, D181592, and 018552 (with 018468,
+D1 8161 2, and
+D18496 as backup markers) and the 3 markers on 19q are D198219, 0198412, and PLAZG4C (with
+D198606 and
+01981182 as backup). All markers are microsatellites (2 or 4 nt repeats) except PLAZG4C which is a
+minisatellite (26
+nt repeat) polymorphism. The markers were selected based on heterozygosity score, am plicon size, and
+ease of
+interpretation. The backup markers are used if the ﬁrst line markers at that chromosome arm are
+uninformative or
+otherwise ambiguous in their interpretation. LOH at all informative loci on each chromosomal arm
+represents the
+typical ﬁnding in oligodendrogliomas with 1p and 19q deletion.
+FDA COMMENT: The above data are not to be construed as the results from a stand-alone diagnostic
+test. This test
+was developed and its performance characteristics determined by the
+as required
+
+Surgical Pathology
+
+by CLIA ’ 88 regulations. It has not been cleared or approved for speciﬁc uses by the US. Food and Drug
+Administration (FDA). The FDA has determined that such clearance or approval is not necessary. These
+results are
+
+provided for informational purposes only, and should be interpreted only in the context of established
+procedures -
+
+andlor diagnostic criteria. '_
+
+TECHNICAL SENSITIVITY: The presence of >15% non-neoplastic cells in the sample may preclude the
+detection of
+allelic loss.
+***Electronically Signed Out”
+Senior Staff Pathologist
+MGMT Promoter Methylation
+Date Ordered: Date Reported:
+Interpretation
+NEGATIVE: No evidence of methylated MGMT promoter is detected.
+Results-Comments
+Testing performed on DNA extracted from tumor parafﬁn block
+H and E slide was examined and no microdissection was needed.
+TEST DESCRIPTION: Patients with glioma containing a methylated MGMT promoter have been shown to
+benefit
+from therapy with alkylating agents. Assessment of MGMT promoter methylation status involves bisulﬁte
+treatment of
+DNA followed by real-time PCR ampliﬁcation of methylated and unmethylated DNA
+sequences. The
+analytic sensitivity of this assay was determined by serial dilution of methylated positive control DNA into
+unmethylated DNA, and was assessed to be 1% of methylated DNA in the background of unmethylated
+DNA. Factors
+such as the presence of >50% non-neoplastic cells in the sample, or extensive tissue necrosis, may
+preclude the
+detection of methylated MGMT promoter sequences.
+FDA COMMENT: The above data are not to be construed as the results from a stand alone diagnostic
+test. This test
+was developed and its performance characteristics determined by the
+as required
+by CLIA ’88 regulations. It has not been cleared or approved for speciﬁc uses by the US. Food and Drug
+Administration (FDA). The FDA has determined that Such clearance or approval is not necessary. These
+results are
+provided for informational purposes only, and should be interpreted only in the context of established
+procedures ‘
+and/or diagnostic criteria.
+”Electronically Signed Out***
+Senior Staff Pathologist
+latte-Operative Consultation
+A. Brain tumor, biopsy: High-grade glioma. Frozen section and smears performed at
+and results
+reported to the Physician of Record.
+
+Senior Staff Pathologist
+
+Gross Description
+
+A. Brain tumor, biopsy:
+
+CONTAINER LABEL: F8 brain tumor.
+
+FIXATIVE: Formalin. NO. PIECES: no info given from frozen. SIZENOL: # mm. CASSETTES: 1, 2-
+cassettes
+
+transferred as received, NS,
+
+Surgical Pathology
+
+ 
+

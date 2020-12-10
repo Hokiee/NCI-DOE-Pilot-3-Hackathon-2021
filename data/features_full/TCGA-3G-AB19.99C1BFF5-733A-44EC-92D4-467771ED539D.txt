@@ -1,0 +1,201 @@
+UUID: 99CIBFF5 -733A- 44EC -SZDl-46‘7771ERDEéBBDa
+TCGA- 3Ci-A319 -91A- PR
+
+|||IIIIIIIII|||||l||l||||||Il||II|l|||||IIlI||||||I|||||IIIIIIIIICIIIad {-
+||I I|||III| II||||||||||| ||||||I|IIIII|I||I|IIIIIIIIIIIIIIIIIIII|I
+I|I IIIIIIIIIII|||||III|I|||I||I|| IIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+— 1' -
+Accession:
+Specimen Date/Time z
+
+DIAGNOSIS
+
+(A) THYMOMA:
+INVASIVE THYMOMA EXTENDING INTO PERITHYMIC ADIPOSE TISSUES
+MAXIMUM TUMOR DIMENSION 4. 5 cm
+Pen‘cardial sac free of tumor
+
+(8) ADDITIONAL. PERICARDIAL MARGIN:
+Pericardium negative for tumor.
+
+4 10:1) 6 ’5’?
+Entire report and diagnosis completed by :jILI/[W’VUZ‘L “ML QMW ‘ g??? {5
+
+\JJLA/YH/C‘YN4L N05 ”an
+
+”5.20/6
+{gin t/IILei-nuws L7 I19 ‘7‘} "
+
+GROSS DESCRIPTION
+
+(A) THYMOMA - Received is an 8.0 x 7.5 x 1.0 cm thymus with attached pericardium, 2.5 x 2.0 x 0.2 cm.
+
+A 4 5 x 3 5 x 2.8 cm encapsutated mass is present with focal areas of tan—yellow hemorrhage and calciﬁcation and a
+possible area of capsular Invasion The specimen is received unoriented.
+
+SECTION CODE: A1~A3 thymoma to pericardium; A4-A6, thymoma to capsule; A7, thymoma to capsule and thymoma
+with area of possible capsular InvaSIon A8 A9 thymoma; A10, normal
+
+(B) ADDITIONAL PERICARDIAL MARGIN Received Is a 4 0 x 2 O x 0 1 cm specimen, seriaiiy sectioned and submitted In its
+entirety SECTION CODE: Bi~B3, additional pericardial margin (32 and BS submitted’on edge).
+
+CLINICAL HISTORY
+
+None given.
+
+SNOMED CODES
+
+T—DSSOO. M85800
+
+"Some tests reported here may have been developed and performance characteristics determined by
+speciﬁcally cleared or approved by the U5. Feed and Drug Administration.“
+
+These tests have net been
+
+Released by:
+
+------END OF REPORT--——-— .
+
+Page: 2
+*F' ‘—
+Hpoesaion: ,_ ‘ a . J
+
+Specimen Date/Time:
+
+g»
+i: '
+
+ELU T33'6ﬂ‘ ciéomame¢¢7 ommm, .
+y 79C!“ 1144'”). I3” ‘nI‘I/ylmvjffypcﬂ‘.
+
+/ ar/H/
+
+  
+
+No
+
+    
+ 
+  
+
+GRT' Case
+
+   
+
+Initials
+
+  
+
+ 
+
+ 
+
+ 
+
+. V4.00
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+W The TCGA Pathologic Diagnosis Discrepancy Form should ‘be‘ completed when the pathologic diagnosis
+documented on the, initial pathoiogy report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case. Quaiity Control Form completed for the submitted case.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tissue Source Site (1‘55): _ TS'S Identiﬁer: TSS Unique Patient Identiﬁer:
+Completed By {Interviewer Name. on OpenCIinica):. Completed Date:
+IDiagnosis Information I W
+# Data Element: Entry Alternatives Working Instructions
+Provide the diagnosis] histologic subtype(s] documented on
+' Pathologic Diagnosis Thymoma the initial pathology report for this case. if the histoiogy for-
+1 Provided on Initial this case is mixed, provide aIl'Iisted subtypes.
+Pathologyf Report
+. , . . Provide the histologic features seiecued on the TCGA Case
+Histologic femur,“ Of A Quality Control- Form completed for this case.
+2 the sample prmnded
+for TCGA, as reﬂected
+on the CQCF.
+
+ 
+
+ 
+
+Discrepancy between Pathology Raport and Case Quality Control Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 Provide the reason for Provide a reason describing why the diagnosis on the initial
+. pathology report for this case is not co nsistentwith the
+giggigiﬁzrggthology diagnosis selected on the TCGA Case Quality Control Form.
+report and the TCG A Histologic subtype was not done at
+Case Quality Control initial pathologic diagnosis.
+Form.
+Reviewing. Pathologist has re—
+reviewed the case slide and provided
+the WHO subtype.
+' m f ev'e in Provide the name of the pathoiogist who reviewed this case
+Na e o TSS R 1 w g
+4- Pathologist or I” TCGA-
+Biorepository Director
+
+ 
+
+ 
+
+I acknowledge that the above information provided by my institution is true and correct and has been quality cona-oIied.
+
+ 
+
+’I‘SS Reviewing Pathologistor Biofeposttory Director
+
+Date‘
+
+I acknowledge that the above information provided by my Institution is true and correct and has been quality controlled. The Attending Pathologist or the
+Department Chairman has been informed or Is aware of the above discrepancy in diagnoses.
+
+ 
+
+Principal investigator Signature
+
+Date
+

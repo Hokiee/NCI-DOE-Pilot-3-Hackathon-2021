@@ -1,0 +1,53 @@
+UUID: 2AE644E0-B794-ABDB-9A3A-1EBD7CBE938e1
+TCGA EB- A5FP--91A -RP
+
+ted
+
+Illl||l|l|l|||||||||l|l|Illlllllllllllllllllllllllllllllll|||||||||
+Illlllllllllllllllllllllllllllllllll
+
+l“ llllllllllli lilllllnlllllllilllllllllllllll lllll lllll llllllll Ill
+
+Gross Description: There is a melanoma tumor on the broad base up to 3.5 in its diameter, 1.5 cm thick.
+
+Microscopic Description: Malignant melanoma of the skin with superficial ulceration. Breslow tumor
+thickness is 8 mm.
+
+Diagnosis Details: Tumor Features: Pigmented, Tumor Extent: More than 4 mm with or without
+ulceration, Venous Invasion: Absent, Margins: Absent, Treatment Effect:
+
+Comments: 1:& @IO _ 3
+Formatted Path Reports: SKIN TISSUE CHECKLIST Q N05
+WW, M
+
+Specimen type: Excision of skin lesion 3 7010/45
+
+Tumor site: Skin, trunk 900711 541-0. Skit/‘2‘? ﬂack CHILL:
+1/4-
+Tumorsize: 0x1.5x3.5cm (lac/r sJﬁ (6M [NOS a
+
+9%) 1/ ‘7) / 3
+Tumor features: Ulcerated, Pigmented
+
+Satellite nodules: Not specified
+
+Histologic type: Malignant melanoma
+
+Histologic grade:
+
+Lymph nodes: Not specified
+
+Lymphatic invasion: Not specified
+
+Venous invasion: Absent
+
+Margins: Uninvolved
+
+Evidence of neo-adjuvant treatment: Not specified
+
+Additional pathologic findings: Breslow tumor thickness is 8 mm.
+
+Comments: None
+
+ 
+

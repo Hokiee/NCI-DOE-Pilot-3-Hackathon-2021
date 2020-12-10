@@ -1,0 +1,28 @@
+03 T: PATHO O I ORT
+
+Code:
+
+Gender: F
+
+Age:
+
+Date of surgery:
+
+Localization: L frontal
+
+UUID:01982953-8F6F-ABDE-3645-824E04C6CAAB
+TCGA-QH-Asxs-a -
+
+1A PR Redacted
+lll"Ill!lMllllllll"Ill"llllllllllllllllllllllllllllllHllIll
+llllllllllllllllllllll lllllllllllllllllllllllll
+
+II I llll
+"I!flllllllllmllflllllllllHllllllllllleHlﬂlHHllllll
+
+Diagnosis: Anaplastic oligodendroglioma (grade III WHO)
+
+Name of Pathologist:
+
+ 
+

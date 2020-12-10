@@ -1,0 +1,74 @@
+UUID: 37ZDBFOF- -48D7- 457F- -B1AB- C38287C61A35c
+TCGA- 06- ~0125- BZA- -PR
+
+I|IIIIIIIIIII|||||III|IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIeIIIIIIICIIEd
+|l|l||| IllIlIIIIIIIlIIIl |||||I||I|
+IIIIiIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII|IIIIIIIIIIIIIIIIIIIIIII
+
+Anatomic Pathology] Cytology Document State: (version )
+
+Update Date/Time:
+
+Final
+
+Patient Name: MRNZ Service Date/'l'ime:
+DOB/Age/Gender: Female Provider:
+
+Location: Responsible Staff:
+
+PATH.NO:
+NAME: MED. REC. NO:
+AGE/SEX: F DOB: SURGERY DATE:
+
+RECEIVE DATE:
+
+PATIENT PHONE NO.:
+
+PHYSICIAN:
+
+COPY TO:
+
+PATHOLOGICAL DIAGNOSIS:
+
+A. OCCIPITAL LOBE:
+
+l. BENIGN CEBRAL CORTEX WITH MILD GLIOSIS.
+
+2. UNREMARKABLE LEPTOMENINGES.
+
+B. BRAIN TUMOR, BIOPSY: GLIOBLASTOMA MULTIFORME. (MIB: 15%)
+Operation/Specimen: Occipital pole — FS.
+
+Clinical History and Pre-Op Dx: H/O Crani for tumor
+
+GROSS PATHOLOGY:
+
+A. Occipital pole: Multiple tissue fragments, 0.4-0.6 cm.
+INTRAOPERATIVE CONSULTATION, Frozen section diagnosis: Brain
+parenchyma with gliosis. CASSETTES: l, 2.
+
+B. Brain tumor: Multiple 0.5—1.2 cm. tissue fragments.
+INTRAOPERATIVE CONSULTATION, Frozen section diagnosis: Glioma.
+CASSETTES: Glioma in cassette 3, remaining tissue in cassettes 4, 5.
+
+MICROSCOPIC: A. Sections show well preserved cerebral cortex with
+
+mild gliosis. No neoplasm present. The leptomeninges appears
+
+unremarkable with no evidence of glioma cells. Immunostain for GFAP
+
+confirms the absence of glioma cells in the leptomeninges.
+
+B. Sections show high grade glioma with hypercellularity, vascularendothelial
+hyperplasia and foci of necrosis. These changes are
+
+consistent with recurrent glioma.
+
+TISSUE COMMITTEE CODE: “-""
+
+9: 191.2 , -
+132mm CODES: W°5IW1W'W 7“I‘M/3
+5.4.: MM W cm
+
+1/1/1970”
+

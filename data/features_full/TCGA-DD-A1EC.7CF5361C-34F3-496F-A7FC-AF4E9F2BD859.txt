@@ -1,0 +1,214 @@
+Iw'u /
+
+(’wa WWW/um; gnu/2
+in cm: [Wu C 9” I/ﬁ/a
+
+Patient Key: ’A/
+Surgical date:
+
+TISSUE DESCRIPTION:
+
+A1 B1 B2 B3 B4 B5 B6 B7 BB B9 810 B11 B12 C1
+Tissue from liver (segments V and VI——810 grams, 14.0 x 13.5 x
+7.8 cm with gallbladder--8.8 x 2.2 X 1.3 cm), appendix (3.8 x
+0.6 x 0.5 cm), retrocholedochal lymph node (2.0 x 1.5 x 1.2 cm)
+
+DIAGNOSIS:
+
+Liver, segments V and VI and gallbladder, resection: Grade 3
+(of 4) hepatocellular/carcinoma forming a 13.2 x 11.0 x 7.8 cm
+lobulated mass. Margins of resection are free by at least 0.7
+cm. The gallbladder shows no diagnostic abnormality.
+
+Appendix, appendectomy: Fibrous obliteration of the tip.
+
+Lymph node, retrocholedochal, excision: One retrocholedochal
+lymph node, negative for tumor.
+
+UUID: 7CF5361C- 34F3- 496F- A7FC- AF4E9F2BD85eSd .
+TCGA- DD— A1EC— 01A— PR
+
+ 
+
+Patient Key:
+Surgical date:
+
+TISSUE DESCRIPTION:
+
+Al B1 B2 B3 B4 B5 B6 B7 B8 B9 B10 B11 B12 Cl
+Tissue from liver (segments V and VI——810 grams, 14.0 X 13.5 X
+7.8 cm with gallbladder——8 8 x 2.2 x 1.3 cm), appendix (3.8 x
+0.6 x 0.5 cm), retrocholedochal lymph node (2.0 x 1.5 x 1.2 cm)
+
+DIAGNOSIS:
+
+Liver, segments V and VI and gallbladder, resection: Grade 3
+(of 4) hepatocellular carcinoma forming a 13.2 x 11.0 X 7.8 cm
+lobulated mass. Margins of resection are free by at least 0.7
+cm. The gallbladder shows no diagnostic abnormality.
+
+Appendix, appendectomy: Fibrous obliteration of the tip.
+
+Lymph node, retrocholedochal, excision: One retrocholedochal
+lymph node, negative for tumor.
+
+ 
+
+Liver - Digestive System CAP Approved
+
+Data elements with asterisks are not required for accreditation purposes for
+the Commission on Cancer. These elements may be clinically important.
+
+but are not yet validated or regularly used in patient management.
+Alternatively. the necessary data may not be available to the pathologist
+
+at the time of pathologic assessment of this specimen.
+
+LIVER: Resection
+Patient name: (to be tie-identiﬁed)
+Surgical pathology number:
+
+MACROSCOPIC
+Spe imen Type
+
+Right lobectomy
+__ Extended right lobectomy
+__ Medial segmentectomy
+__ Left lateral segmentectomy
+_ Total left lobectomy
+_ Explanted liver
+_ Other (specify):
+__ Not specified
+
+ 
+
+ 
+
+ 
+
+Foqality n _. ..
+jg: Solitary (specify location): V 'V’ f
+_. Multiple (specify location): 3—,
+
+Tumor Size 07 v
+
+Greatest dimension: l "
+
+cm f)
+*Additional dimensions: . f, O x Hem
+__ Cannot be determined (see Comment)
+MICROSCOPIC
+Histologic Type
+'3; Hepatocellular carcinoma
+__ Fibrolamellar hepatocellular carcinoma variant (specify):
+__ Combined hepatocellular and cholangiocarcinoma
+__ Cholangiocarcinoma, intrahepatic
+__ Bile duct cystadenocarcinoma
+__ Undifferentiated carcinoma
+__ Other (specify):
+___ Carcinoma. type cannot be determined
+Histologic Grade
+__ Not applicable
+“ GX: Cannot be assessed
+_ GI: Well differentiated
+Il: Moderately differentiated
+__ GIII: Poorly differentiated
+__ GIV: Undifferentiated/anaplastic
+__ Other (specify):
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pathologic Staging (p’I‘NM)
+Primary Tumor (p'l’)
+__ pTX: Cannot be assessed
+7AJTO: No evidence of primary tumor
+
+pTl: Solitary tumor with no vascular invasion
+__ pT’l: Solitary tumor with vascular invasion or multiple tumors none more than 5 cm
+H pT3: Multiple tumors more than 5 cm or tumor involving a major branch of the portal
+or hepatic vein(s)
+_ pT4: Tumor(s) with direct invasion of adjacent organs other than the gallbladder or
+perforation of visceral peritoneum
+Regional Lymph Nodes (pN)
+
+pNX: Cannot be assessed
+Z pNO: No regional lymph node metastasis
+__ le: Regional lymph node metastasis , g g , g”
+Specify: Number examined: 4 W. ’ I" 1 r111 a
+Number involved: .
+[3‘an Metastasis (pl; )
+__ pMX: Cannot be assessed
+__ le: Distant metastasis
+*Specify site(s). if known:
+
+)
+
+ 
+
+Margins (check all that apply)
+
+Parenchymal Margin
+
+_\_/Cannot be assessed
+
+__ Uninvolved by invasive carcinoma /) 377
+Distance of invasive carcinoma from closest margin: _'__ mm
+Specify margin:
+__ Involved by invasive carcinoma
+
+Bile Duct Margin (Chi)langiocarcinoma Only)
+_/_ Cannot be assessed
+
+__ Uninvolved by invasive carcinoma
+
+*___ Carcinoma in situ absent
+
+*___ Carcinoma in situ present
+
+__ Involved by invasive carcinoma
+
+Other Margin
+Specify margin:
+__ Cannot be assessed
+
+__ Uninvolved by invasive carcinoma
+
+__ Involved by invasive carcinoma
+
+*Venous (Large Vessel) Invasion (V)
+
+*_ Absent
+
+"‘ Present
+
+*_ Indeterminate
+
+*Addjtional Pathologic Findings (check all that apply)
+* 41’ None identified
+
+*_ Hepatocellular dysplasia
+
+*,_ Ductal dysplasia
+
+*_ Cirrhosis/fibrosis
+*_ Iron overload
+
+*_ Hepatitis (specify type):
+*__ Other (specify):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

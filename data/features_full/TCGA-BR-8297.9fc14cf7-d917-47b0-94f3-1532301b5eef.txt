@@ -1,0 +1,86 @@
+Case | D Gross Description
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Microscopic Description Diagnosis Details
+
+ 
+
+ 
+
+ 
+
+ 
+
+Comments Formatted Path Report
+
+STOMACH TISSUE CHECKLIST
+
+Specimen type: Gastrectomy
+
+Tumor site: Fundus
+
+Tumor size: 31 x 15 x 2 cm
+
+Tumor features: Ulcerated, Diffusely infiltrating
+(Iinitus plastica)
+
+Histologic type: Adenocarcinoma, diffuse type
+Histologic grade: Not specified
+
+Tumor extent: Adjacent structures (specify) -
+Esophagus
+
+Lymph nodes: 11/11 positive for metastasis
+(Intraabdominal 11/11)
+
+Lymphatic invasion: Not specified
+
+Venous invasion: Not specified
+
+Perineural invasion: Not specified
+
+Margins: Involved
+
+Evidence of neo-adjuvant treatment: Not
+specified
+
+Additional pathologic findings: Not specified
+Comments: None
+
+ 
+
+ 
+
+ 
+
+ 
+
+Laterality
+
+ 
+
+ 
+
+ 
+
+Excision date Case | D
+
+ 
+
+ 
+
+ 
+
+ 
+

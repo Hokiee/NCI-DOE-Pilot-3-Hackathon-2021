@@ -1,0 +1,18 @@
+_Surgical Pathology TCGA - 22 " 5474
+
+DIAGNOSIS:
+
+Lung, left: upper lobe, wedge resection: Grade 3 (of 4) squamous
+cell carcinoma forming a 2.0 x 1.8 x 1.8 cm mass arising in the
+background of usual interstitial pneurmonia. The tumor invades into
+visceral pleura. The tumor is completely excised and extends to
+within 1 millimeter from stapled surgical margin.
+
+Lymph nodes, superior and inferior mediastinal, excision: Multiple
+superior mediastinal (9 right lower paratracheal) , inferior
+mediastinal {7 subcarinal) lymph nodes are negative for tumor.
+
+ 
+
+ 
+

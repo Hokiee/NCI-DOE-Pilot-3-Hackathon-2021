@@ -1,0 +1,138 @@
+/CA~ o 3
+
+Wit/um», Nor limo/3
+
+J17} ', WWW fUSM/NDS (“/4 9
+DIAGNOSIS 37/5/11 [w
+
+(A) RIGHT UPPER ARM, SKIN ELLIPSE:
+
+MALIGNANT MELANOMA INVOLVING DERMIS AND SUBCUTANEOUS TISSUE , EXCISION.
+(SEE COMMENT) NN
+
+(8) ADDITIONAL MEDIAL MARGIN:
+Skin and subcutaneous tissue. Melanoma not identified.
+
+(C) ADDITIONAL LATERAL MARGIN:
+Skin and subcutaneous tissue. Melanoma not identified.
+
+(D) LEVELS 1, 2, AND 3 AXILLARY:
+
+MALIGNANT MELANOMA METASTATIC TO ONE OF TWENTY-TWO LYMPH NODES (1/22).
+TUMOR SIZE 50.0 X 30.0 MM.
+Extracapsular extension present.
+
+   
+  
+ 
+  
+ 
+
+ 
+
+(E) ADDITIONAL LEVEL #2: W. 5':
+Three lymph nodes negative for melanoma (0/3). W
+
+«PM Disney-rev
+I ' . ‘rior Mali nmcv Histor]
+Entire report and dlaQnOSls completed by )u..,sln:mlo;o..sm.
+III- I: c I: e:
+Xaviewcr Initials
+
+ 
+
+d:
+Date Review:
+
+COMMENT
+
+In specimen A, there is no Obvious intraepidermal component. A Wmmetastaﬂcmlglnsare
+possible. If this were to be a primary lesion, it would correspond to a Clark level V, at least 50.0 mm in
+
+BFESIO'w thickness.
+
+UUID:ssAIEDD7-3462-Iaza-acas-arsznuc51nzs
+TCGA-D3-A1Q6-06A-PR Rellcljﬁﬁlited
+I
+
+IIIllIIIlll|||||I|IIIIIIIIIl|l|l||||||||||||ll|IIIIIII
+llllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+lllllllIlllllllllllllllllllllllllllllllllllllllllllllllllllll
+
+(A) 2 CM, WIDE LOCAL EXCISION MELANOMA, RIGHT UPPER ARM (LONG STITCH-LATERAL,
+SHORT STITCH-SUPERIOR) - An 11.5 x 6.0 cm ellipse Of skin and excised to a depth of 1.6 cm).
+
+On the skin surface there is a 6.0x 5.0 x 4.0 cm, polypoid mass. The surface of the mass is
+covered gray-tan necrotic material. Grossly, the mass is 1.0 cm from the lateral resection margin, 1.8 cm
+from medial resection margin, 3.0 cm from the superior tip, and 4.5 cm from the inferior tip. The cut
+surface of the mass shows extensive necrosis with focal areas of black-tan tissue. Grossly, the tumor
+invaded the superﬁcial dermis is 0.6 cm from the deep resection margin. No satellite nodules are
+identified. The rest of the skin surface is grossly unremarkable.
+
+INK CODE: Blue-medial resection margin; yellow-lateral resection margin; black-deep resection
+margin.
+
+SECTION CODE: A1, superior tip; A2, Inferior tip; A3, representative sections from skin superior
+to the mass; A4, representative section from the skin inferior to the mass; A5, tumor with closest medial
+resection margin and deep resection margin; A6, tumor with closest lateral resection margin and deep
+resection margin; A7, A8, tumor with closest deep resection margin; A9-A14, representative sections from
+the tumor.
+
+(B) ADDITIONAL MEDIAL MARGIN, SHORT STITCH SUPERIOR, LONG STITCH TRUE MEDIAL
+MARGIN ) - A 11.0 x 1.3 cm ellipse of skin excised to a depth of 0.8 cm. The skin is grossly
+unremarkable. The true medial margin is inked in blue.
+
+SECTION CODE: B1, superior tip; 32, inferior tip; 83-86, the entire new medial margin, en face,
+from superior to inferior.
+
+|
+GROSS DESCRIPTION ll
+
+ 
+
+Sample Last Saved: “'
+Page 1 of 2
+
+    
+ 
+
+(C) ADDITIONAL LATERAL MARGIN (LONG STITCH TRUE LATERAL MARGIN, SHORT STITCH
+SUPERIOR) - A 11.5 x 1.5 cm ellipse Of skin and excised tO a depth of 0.9 cm. The specimen is grossly
+unremarkable. The true lateral margin is inked with blue.
+
+SECTION CODE: C1, superior tip; C2, inferior tip; C3-C7, the entire new lateral margin en face
+from superior to inferior. ‘
+
+(D) LEVELS 1, 2 AND 3 AXILLARY CONTENTS, SUTURE APEX - An oriented irregular fragment of
+adipose tissue measuring 13.0 x 13.0 x 2.0 cm. The specimen is oriented as suture at apex. The
+specimen is serially sectioned and 19 lymph nodes are identified ranging from (0.2 x 0.2 x 0.2 to 5.0 x 3.0
+x 3.0 cm). The cut surface Of the largest lymph node is slightly firm, dark brown.
+
+SECTION CODE: D1, five lymph nodes; DZ, three lymph nodes; 03, two lymph nodes; 04, one
+lymph node bisected; DS, one lymph node bisected; 06, D7, one lymph node bisected; D8, 09, one
+lymph node bisected; D10, one lymph node serially sectioned; D11, D12, one lymph node serially
+sectioned; D13, D14, one lymph node serially sectioned; D15, one lymph node - apex area marked by the
+stitch; D16-D22, largest lymph node serially sectioned.
+
+(E) ADDITIONAL LEVEL 2 - An irregular fragment of adipose tissue measuring 4.0 x 2.0 x 0.4 cm. Three
+lymph nodes are identified ranging in size from 0.3 x 0.2 x 0.1 cm to 0.5 x 0.3 x 0.2 cm.
+
+SECTION CODE: E, three lymph nodes.
+
+CLINICAL HISTORY
+None given.
+
+SNOMED CODES
+
+"Some tests reported here may have been developed and performance characteristics determined by’ '
+Medicine. These tests have not been specifically cleared or approved by the US. Food and Drug Administration.“
+
+Released by:
+
+------ END OF REPORT------
+
+ 
+
+Sample Last Saved:
+Page 2 of 2
+

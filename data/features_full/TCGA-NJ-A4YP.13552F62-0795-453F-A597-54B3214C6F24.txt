@@ -1,0 +1,226 @@
+UUID:13552F62-O795-453F—A597-5483214C6F2’éd
+TCGA- NJ-A4VP-91A- PR
+
+|||IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIc tad
+IIIIIIII IIIIIIIIIIIIIIIIIII IIIIIII IIIIIIIIIIIII III III IIIII
+IIIIIIlII IIIIIIIIIIIIIIIIIII II IIII IIIIIIIIIIIIIIIIIIIIIIIIIII III
+
+Procedure Location:
+
+H.041 ‘15
+
+51an
+. @ cm;
+51h." ”NJ I'M/”LL
+W,
+”II/IV
+
+WI Mimi My” E26513
+
+PATHOLOGY SURGICAL
+
+Results
+
+Entry Date
+
+Component Results
+
+PATHOLOGY RESULT:
+
+Department of Pathology
+
+Final
+Clinical Data Repository* This report may not match the original report
+
+format
+
+FINAL DIAGNOSIS
+A. (Level 7 lymph node, dissection): Fragments of lymph nodes, negative for
+
+malignancy.
+
+B. (Level 11 lymph node, right, dissection): Fragments of lymph nodes,
+
+negative for malignancy.
+
+C. (Level 11 lymph node, right, dissection): One lymph node, negative for
+
+malignancy. (0/1).
+
+D. (Level 9 lymph node, right, dissection): One lymph node, negative for
+
+malignancy. (0/1).
+E. (Right lower lobe, lobectomy): Invasive adenocarcinoma with papillary
+features, grade 3. Margins of resection are free of involvement. pTZaNO. See
+
+note.
+
+F. (Level 11 lymph node, dissection): Fragments of lymph nodes, negative for
+
+malignancy.
+
+6. (Level 10 right lymph node, dissection): Fragments of lymph nodes,
+
+negative for malignancy.
+
+INTRAOPERATIVE CONSULTATION
+
+E. FROZEN: RIGHT LOWER LOBE: Adenocarcinoma with focal mucinous features.
+
+Bronchial margin negative for tumor. (E91 bronchial margin, E92 tumor)
+
+NOTE
+
+Lung Cancer Summary
+
+Specimen type: Right lower Iobectomy
+
+Tumor location: Adjacent to main bronchus
+
+Tumor size: 3.4 cm
+
+Histologic type: Invasive adenocarcinoma with papillary features
+
+Histologic grade: 3
+
+Status of margins:
+
+Bronchial: Negative
+
+Vascular: Negative
+
+Parenchymal: Negative
+
+Pleural: Negative
+
+Visceral/Parietal pleural invasion: Absent
+
+Lymphatic vascular invasion: Absent
+
+Lymph node status: Negative (Level 7,9R,10R,11R)
+
+Extension into other structures: Absent
+
+Non-neoplastic pathology: Post obstructive pneumonia
+
+TMN stage: pTZaNO
+
+GROSS DESCRIPTION
+A. The specimen is labeled level 7 lymph node. Received are multiple
+fragments of pink—tan soft tissue measuring in aggregate 2.7 x 1.4 x 0.6 cm.
+
+The entire specimen is submitted in cassettes A1 and A2.
+
+B. The specimen is labeled level 11 node, right. Received are multiple
+
+fragments of tan lymphoid tissue measuring in aggregate 3.1 x 1.4 x 0.5 cm.
+
+The entire specimen is submitted in cassettes Bl and El.
+
+C. The specimen is labeled level 11 right lymph node. Received is a 0.6 x
+
+0.3 x 0.3 cm lymph node. The specimen is entirely submitted in cassette C1.
+
+D. The specimen is labeled level 9 lymph node. Received fresh is a 0.8 x 0.5
+x 0.5 cm lymph node. The specimen is bisected and entirely submitted in
+
+cassette D1.
+
+E. The specimen is labeled right lower lobe of lung. Received fresh for
+
+frozen section analysis is a 21.5 x 12.5 x 2.7 cm right lower lung lobe. In
+
+the lower posterior aspect of the lung there is a 3.4 x 2.1 x 1.9 cm firm
+
+white lung mass. This lung mass measures 2.4 cm from the bronchial margin of
+
+resection. The bronchi is opened showing a fungating tumor mass in its lumen.
+The tumor measures 0.5 cm from the pleural resection margin. The adjacent
+
+lung to the tumor has mucus plugs in the bronchi and is focally consodlidated.
+There do not appear to be any additional nodules within the lung. The lung
+
+at the upper aspect of the lobe (away from the tumor) is crepitant and
+
+unremarkable in appearance. Representative sections are taken and submitted
+
+as follows: E1, vascular margin; E2, bronchus with adjacent tumor; E3, vessels
+with adjacent tumor; E4, tumor and adjacent normal; E5, tumor and inner
+
+parenchymal lymph nodes; E6, consolidated lung adjacent to tumor; E7, normal
+
+lung away from tumor; E8, hilar lymph node.
+
+F. The specimen is labeled level 11 node. Received fresh is a 1.0 x 0.5 x
+0.5 cm fragment of brown-tan lymph node with accompanying red-yellow
+fibroadipose tissue. The lymph node is bisected and submitted entirely in
+
+cassette F1.
+
+G. The specimen is labeled level 10R. Received in formalin is a 0.5 x 0.2 x
+0.2 cm brown-black possible fragment of lymph node with accompanying red soft
+
+fibrous tissue. The entire specimen is submitted in cassette Gl.
+
+SPECIMEN(S) RECEIVED
+
+A: LEVEL 7 LYMPH NODE
+
+B: LEVEL 11 NODE RIGHT
+
+C: LEVEL 11 RIGHT NODE
+
+D: LEVEL 9 NODE
+
+E: FROZEN: RIGHT LOWER LOBE
+F: LEVEL 11 NODE
+
+G: LEVEL 10R
+
+* The above listed tests (if any) were developed and the performance
+characteristics determined by These tests have
+not been cleared or approved for commercial use by the US. Food and Drug
+Administration. The FDA has determined that FDA review is not required for
+
+such in-house assays.
+
+OPERATIVE INFORMATION
+
+DIAGNOSIS: LUNG CANCER; PROCEDURE: BRONCHOSCOPY FLEXIBLE FIBEROPTIC,
+
+THORACOSCOPY VIDEO ASSISTED
+
+INTRADEPARTMENT CONSULTATION PATHOLOGIST: QA COMMITTEE
+
+The attending pathologist was physically present when this specimen was
+
+diagnosed, and actively participated in all key decisions.
+
+Lab and Collection
+
+PATHOLOGY SURGICAL ' ab and Collection Information
+
+PATHOLOGY SURGICAL
+
+Pathology
+
+Procedure Location:
+
+ 
+  
+  
+    
+ 
+  
+ 
+
+Diagnosis Disc: um
+Primary Tumor Sile Dlscreparrcv
+IIIPM Disr'epanrv
+Prior Ma"gnanrv “'5th
+Duet/Synchronous Primary 1‘ -
+
+ 
+
+I
+

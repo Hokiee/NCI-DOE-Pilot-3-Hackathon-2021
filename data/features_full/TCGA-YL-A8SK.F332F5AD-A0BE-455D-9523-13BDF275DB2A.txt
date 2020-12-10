@@ -1,0 +1,211 @@
+uuxn:T332P5AD-ADDE-455D-9523-133DF215D32A
+TCGA-—YL-A85K-e1A-PR Redailted
+
+IIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII|I|II||IIllIIlI
+
+PROSTATE AND LYMPH NODES: RADICAL PROSTATECTOMY:
+
+TUMOR PROCUREMENT:
+
+HISTOLOGIC TYPE
+ACINAR ADENOCARCINOMA
+
+HISTOLOGIC GRADE (PRIMARY PATTERN+SECONDARY PATTERN = GLEASON SCORE):
+4 + 5 = 9
+
+TERTIARY PATTERN NOT PRESENT 6W = 5’ “I PW
+PERCENTAGE OF DIFFERENT GLEASON PATTERNS , dag «
+NOT DETERMINED d" E“ ‘" I I3
+TUMOR LOCATION
+APEX
+MID
+BASE
+BLADDER NECK
+ANTERIOR
+R'GHT TA’AD {D 23
+LEFI‘ I“ , _ 1
+POFEEIET'OR AAQJLZ‘M’I—éﬂwﬁvwﬁ) NOB 3/40/13
+I“
+LEFI' ,; . K . E .
+EXTRA-PROSTATIC EXTENSION EXACT; (97%wa NOS; (ICC/.6]
+PRESENT -- ~
+NON-FOCAL , \‘u (1
+SITE OF EXTRA-PROSTATIC EXTENSION $47” //52 ‘42)} 7’
+
+NOT REPORTED
+SEMINAL VESICAL INVASION
+PRESENT
+BOTH ,
+SURGICAL MARGINS
+INVOLVED BY INVASIVE CARCINOMA
+APEX
+BLADDER NECK
+ANTERIOR
+RIGHT
+LEFT
+POSTERIOR
+RIGHT
+LEFI'
+NATURE OF POSITIVE MARGINS
+NOT REPORTED
+EXTENT OF POSITIVE MARGINS
+MULTIFOCAL
+MILLIMETRIC EXTENT OF POSITIVE MARGINS: NOT REPORTED
+GLEASON GRADE OF CARCINOMA PRESENT AT THE POSITIVE MARGINS
+NOT REPORTED
+LYMPHOVASCULAR INVASION
+PRESENT
+PERINEURAL INVASION
+PRESENT
+TUMOR VOLUME
+PROPORTION OF PROSTATE INVOLVED BY CARCINOMA: _60%
+TREATMENT EFFECT ON CARCINOMA ‘
+NOT APPLICABLE
+LYMPH NODES
+
+Initials
+
+ 
+
+RIGHT OBTURATOR
+
+NUMBER OF NODES INDENTIFIED: _2_
+
+NUMBER OF NODES INVOLVED BY METASTASIS: _0_
+LEFT OBTURATOR
+
+NUMBER OF NODES IDENTIFIED: _7_
+
+NUMBER OF NODES INVOLVED BY METASTASIS: _0_
+RIGHT EXTERNAL ILIAC
+
+NUMBER OF NODES IDENTIFIED: _4_
+
+NUMBER OF NODES INVOLVED BY METASTASIS: _4_
+LEFT EXTERNAL ILIAC
+
+NUMBER OF NODES IDENTIFIED: _3__
+
+NUMBER OF NODES INVOLVED BY MET ASTASIS: _0_
+RIGHT INTERNAL ILIAC
+
+NUMBER OF NODES IDENTIFIED: _4_
+
+NUMBER OF NODES INVOLVED BY METASTASIS: _0_
+
+ADDITIONAL PATHOLOGIC FINDINGS
+HIGH-GRADE PROSTATIC INTRA-EPITHELIAL NEOPLASIA
+NODULAR HYPERPLASIA
+PATHOLOGICAL STAGING
+
+pT3b
+pN1
+pMX
+
+ 
+
+ 
+
+ 
+
+ 
+
+TCGA Pathologic Diagnosis Discrepancy Form
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lehuﬂ source bite Li SS}: _
+
+mm The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TC GA is inconsistent with the diagnosis provided on the
+
+ 
+
+_‘l'b‘s Identiﬁer:
+
+TSS Unique Patient Identiﬁer:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Com leted I3 (Interviewor Name on OpenCiim‘ca): V _Com leted Date: ;
+Y
+Diagnosis Information
+ii Data Element Entry Alternatives Working Instructions
+Provide the diagnosis] histologic suhtypeL'.) documented on
+Pathologic Diagnosis ‘~ » . .. ‘3 the initial pathology report for this case. lithe histology for
+1 Provided an Initial 0W” ”’4. this case is mixed, provide all listed subtypes.
+Pathology Report Git—Ili‘tD/d 4+5; 7
+H' I I v. f I f Provide the histologic features selected on the TCGA Case
+“1': :aombgfe :10::Z:3 /} (ﬂu I ()CﬁWC/ , LIA/7‘ Quality Control Point completed for this case.
+2 M f m
+for TCGA as reﬂected m .I i p _
+' , J i :2 1‘ —
+on the CQCF. Li‘- 4 9
+Discrepancy between Pathology Report and Case Quality Control Form
+3 Provide the reason for I’rolviclle a reason triescli'fbing wlhy the diaglnosis on tgiehmiliai
+. . pat ID ogy report or is case 5 not cons stem wit i e
+{iléitglesitgietgfgjlhology pail ;, ail) SQUI’LE AY/JLUCQ) diagnosis selected on the ’I'CGA Case Quality Control Form.
+report and the TCGA
+Case Quality Control ‘, ,
+Form. H010; Pry/(31A; 5 (Vi/bu ,1
+[Wit-2w iﬁ'SLbc’“)
+Name of'l‘SS Reviewing Fronds the name of the pathologist who reviewed this case
+4 Pathologist or or x ' A‘
+Biorepository Director
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+I acknowledge that the above Information provided by my institution Is true and Correct and has been quality con trolled.
+
+ 
+
+TSS Reviewing Pathologist Or Biorepository Director
+
+J acknowledge that the above information provided by my institution is true and correct and has been quality controlled The Attending Pathologist or the
+Department Chairman has been informed or is aware of the above discrepancy in diagnoses.
+
+Principal Investigator Signature
+
+ 
+
+Date
+
+ 
+
+ 
+
