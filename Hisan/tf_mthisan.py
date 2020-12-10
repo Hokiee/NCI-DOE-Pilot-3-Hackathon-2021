@@ -343,12 +343,12 @@ if __name__ == "__main__":
     #params
     batch_size = 128
     epochs = 100
-    max_lines = 101
-    max_words = 15
+    max_lines = 151
+    max_words = 10
     num_classes = [25,117]
     embedding_size = 300
     attention_heads = 8
-    attention_size = 400
+    attention_size = 512
     savepath = 'savedmodels/test'
     vocab_size=279836
     
