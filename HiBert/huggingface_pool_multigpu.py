@@ -26,7 +26,13 @@ num_classes = num_classes[task_idx]
 task = tasks[task_idx]
 
 class HiBERT(nn.Module):
-
+    '''
+    hierarchical BERT with max pooling across segments
+    designed for single task, single label document classification
+    splits long documents into n segments of 512 each
+    predicts on each individual segment, then uses maxpool on logits to combine results from each segment
+    returns logits across possible classes for given input document 
+    '''
     def __init__(self,bert_load_path,num_classes):
         
         super(HiBERT,self).__init__()
@@ -58,25 +64,28 @@ train_loader = DataLoader(train_data,batch_size=n_gpu,shuffle=True)
 val_loader = DataLoader(val_data,batch_size=n_gpu,shuffle=False)
 test_loader = DataLoader(test_data,batch_size=n_gpu,shuffle=False)
 
-#train bert
+#init bert
 model = HiBERT('savedmodels/ncbi_bert_base_pubmed_mimic_uncased',num_classes)
 model = torch.nn.DataParallel(model)
 model.to(device)
 
+#init loss and optimizer
 loss_fct = torch.nn.CrossEntropyLoss()
 params = [{'params':[p for n,p in model.named_parameters()],'weight_decay':0.0}]
 #optimizer = AdamW(params,lr=2e-5,eps=1e-8)
 optimizer = torch.optim.Adam(params,lr=5e-5,eps=1e-8)
 
+#variables to track patience and validation performance
 best_score = 0
 patience = 5
-batch_size = 16 #128 
+batch_size = 16 
 opt_every = np.ceil(batch_size/n_gpu)
 pat_count = 0
 
 if not os.path.exists('savedmodels/biobert_pool_%s' % task):
     os.makedirs('savedmodels/biobert_pool_%s' % task)
 
+#train loop
 for ep in range(100):
 
     model.train()
@@ -103,8 +112,8 @@ for ep in range(100):
 
     print()
 
+    #validation loop
     model.eval()
-
     val_preds = []
     val_labels = []
 
@@ -149,6 +158,7 @@ for ep in range(100):
         if pat_count >= patience:
             break
 
+#load best model to predict on test set
 model = HiBERT('savedmodels/biobert_pool_%s' % task,num_classes)
 model = torch.nn.DataParallel(model)
 model.to(device)
