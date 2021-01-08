@@ -9,6 +9,9 @@
  [Summit-Ascent](https://docs.olcf.ornl.gov/systems/summit_user_guide.html#training-system-ascent)  
  [Module instructions](https://docs.olcf.ornl.gov/software/analytics/ibm-wml-ce.html) (ibm-wml-ce/1.6.2-5) or (open-ce for HiBert)
 
+To login to Ascent:
+ssh ucams@login1.ascent.olcf.ornl.gov (use ucams password)
+
 ### Code: 
 
 #### Train Test Split : Creates files under data/split
