@@ -17,7 +17,7 @@ class hisan(object):
             each row should represent a word embedding
             NOTE: the word index 0 is dropped, so the first row is ignored
           - num_classes: list(ints)
-            number of output classes per task
+            number of unique classes per task
           - max_sents: int
             maximum number of sentences per document
           - max_words: int
