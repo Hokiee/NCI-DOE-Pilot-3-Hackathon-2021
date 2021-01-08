@@ -86,8 +86,8 @@ def main():
     validation_data = (
         { 'Input': np.array( test_x ) },
         {
-            'Dense0': test_y[ :, 0 ],
-            'Dense1': test_y[ :, 1 ],
+            'Site': test_y[ :, 0 ],
+            'Histology': test_y[ :, 1 ],
             # 'Dense2': test_y[ :, 2 ],
             # 'Dense3': test_y[ :, 3 ],
         }
