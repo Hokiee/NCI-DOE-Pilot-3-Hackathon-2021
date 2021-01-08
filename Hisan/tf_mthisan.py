@@ -8,43 +8,43 @@ from sklearn.metrics import f1_score
 import random
 
 class hisan(object):
-        '''
-        hierarchical self-attention network for text classification
+    '''
+    hierarchical self-attention network for text classification
+    
+    parameters:
+      - embedding_matrix: numpy array
+        numpy array of word embeddings
+        each row should represent a word embedding
+        NOTE: the word index 0 is dropped, so the first row is ignored
+      - num_classes: list(ints)
+        number of unique classes per task
+      - max_sents: int
+        maximum number of sentences per document
+      - max_words: int
+        maximum number of words per sentence
+      - attention_heads: int (default: 8)
+        number of attention heads to use in multihead attention
+      - attention_size: int (default: 512)
+        dimension size of output embeddings from attention 
+      - dropout_keep: float (default: 0.9)
+        dropout keep rate for embeddings and attention softmax
+      - activation: tensorflow activation function (default: tf.nn.elu)
+        activation function to use for convolutional feature extraction
+      - lr: float (default: 0.0001)
+        learning rate to use for adam optimizer
         
-        parameters:
-          - embedding_matrix: numpy array
-            numpy array of word embeddings
-            each row should represent a word embedding
-            NOTE: the word index 0 is dropped, so the first row is ignored
-          - num_classes: list(ints)
-            number of unique classes per task
-          - max_sents: int
-            maximum number of sentences per document
-          - max_words: int
-            maximum number of words per sentence
-          - attention_heads: int (default: 8)
-            number of attention heads to use in multihead attention
-          - attention_size: int (default: 512)
-            dimension size of output embeddings from attention 
-          - dropout_keep: float (default: 0.9)
-            dropout keep rate for embeddings and attention softmax
-          - activation: tensorflow activation function (default: tf.nn.elu)
-            activation function to use for convolutional feature extraction
-          - lr: float (default: 0.0001)
-            learning rate to use for adam optimizer
-           
-        methods:
-          - train(data,labels,batch_size=64,epochs=30,patience=5,validation_data=None,savebest=False,filepath=None)
-            train network on given data
-          - predict(data,batch_size=64)
-            return the predicted labels on each task for given data
-          - score(data,labels,batch_size=64)
-            calculate the micro and macro f1 scores on each task for given data
-          - save(filepath)
-            save the model weights to a file
-          - load(filepath)
-            load model weights from a file
-        '''
+    methods:
+      - train(data,labels,batch_size=64,epochs=30,patience=5,validation_data=None,savebest=False,filepath=None)
+        train network on given data
+      - predict(data,batch_size=64)
+        return the predicted labels on each task for given data
+      - score(data,labels,batch_size=64)
+        calculate the micro and macro f1 scores on each task for given data
+      - save(filepath)
+        save the model weights to a file
+      - load(filepath)
+        load model weights from a file
+    '''
     def __init__(self,embedding_matrix,num_classes,max_sents,max_words,attention_heads=8,
                  attention_size=512,dropout_keep=0.9,activation=tf.nn.elu,lr=0.0001):
 
