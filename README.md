@@ -9,8 +9,14 @@
  [Summit-Ascent](https://docs.olcf.ornl.gov/systems/summit_user_guide.html#training-system-ascent)  
  [Module instructions](https://docs.olcf.ornl.gov/software/analytics/ibm-wml-ce.html) (ibm-wml-ce/1.6.2-5) or (open-ce for HiBert)
 
-To login to Ascent:
-ssh ucams@login1.ascent.olcf.ornl.gov (use ucams password)
+To login to Ascent and work on project:
+```
+ssh <ucams>@login1.ascent.olcf.ornl.gov (use ucams password)
+cd /gpfs/wolf/proj-shared/gen149/
+mkdir <ucams>
+cd <ucams>
+git clone https://code.ornl.gov/93t/nci-hackathon-2021.git
+```
 
 ### Code: 
 
