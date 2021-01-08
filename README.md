@@ -14,7 +14,12 @@ git clone https://code.ornl.gov/93t/nci-hackathon-2021.git
 
 To launch an interactive shell:
 ```
-???
+bsub -Is -W 1:00 -nnodes 1 -P gen149 $SHELL
+jsrun -n1 hostname
+module load ibm-wml-ce/1.6.2-5
+ENVROOT=/gpfs/wolf/proj-shared/gen149/j8g
+conda activate $ENVROOT/ibmwmlce
+export PATH=$ENVROOT/ibmwmlce/bin:$PATH
 ```
 
 ### Code: 
