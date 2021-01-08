@@ -16,7 +16,7 @@ conda activate $ENVROOT/ibmwmlce
 export PATH=$ENVROOT/ibmwmlce/bin:$PATH
 export OMP_NUM_THREADS=1
 
-SRCROOT=/gpfs/wolf/proj-shared/gen149/j8g/nci-hackathon-2021/Hisan/
+SRCROOT=$(pwd)
 PYMODULE=$SRCROOT/tf_mthisan.py
 
 CMD="python $PYMODULE"

@@ -16,7 +16,7 @@ conda activate $ENVROOT/opence
 export PATH=$ENVROOT/opence/bin:$PATH
 export OMP_NUM_THREADS=1
 
-SRCROOT=/gpfs/wolf/proj-shared/gen149/j8g/nci-hackathon-2021/HiBert
+SRCROOT=$(pwd)
 PYMODULE=$SRCROOT/huggingface_pool_horovod.py
 
 CMD="python $PYMODULE"
