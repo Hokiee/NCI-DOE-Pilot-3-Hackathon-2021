@@ -7,18 +7,19 @@
 #BSUB -e logs/job%J.e
 #BSUB -nnodes 1
 
-module load ibm-wml-ce/1.6.2-5
+module load open-ce
 
 ENVROOT=/gpfs/wolf/proj-shared/gen149/j8g
-conda activate $ENVROOT/ibmwmlce
+conda activate $ENVROOT/opence
 
 # Make sure the environment is in our path
-export PATH=$ENVROOT/ibmwmlce/bin:$PATH
+export PATH=$ENVROOT/opence/bin:$PATH
 export OMP_NUM_THREADS=1
 
-SRCROOT=$(pwd)
-PYMODULE=$SRCROOT/tf_mthisan.py
+SRCROOT=$(pwd)/HiBert
+cd $SRCROOT
+PYMODULE=huggingface_dataloader.py
 
 CMD="python $PYMODULE"
 
-jsrun -n1 -c7 -g6 -r1 $CMD > logs/nci_hackathon.log
+jsrun -n1 -c7 -g6 -r1 $CMD > logs/nci_data3.log

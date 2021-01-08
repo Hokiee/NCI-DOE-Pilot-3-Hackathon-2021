@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#BSUB -P med107
+#BSUB -P gen149
 #BSUB -J nci_hackathon
 #BSUB -W 2:00
 #BSUB -o logs/job%J.o
@@ -9,15 +9,15 @@
 
 module load open-ce
 
-ENVROOT=/gpfs/alpine/proj-shared/med107/hackathon2020/env
+ENVROOT=/gpfs/wolf/proj-shared/gen149/j8g
 conda activate $ENVROOT/opence
 
 # Make sure the environment is in our path
 export PATH=$ENVROOT/opence/bin:$PATH
 export OMP_NUM_THREADS=1
 
-SRCROOT=/gpfs/alpine/proj-shared/med107/hackathon2020/src/nci-hackathon-2021/HiBert
-PYMODULE=$SRCROOT/huggingface_pool_horovod.py 
+SRCROOT=$(pwd)
+PYMODULE=$SRCROOT/huggingface_pool_horovod.py
 
 CMD="python $PYMODULE"
 

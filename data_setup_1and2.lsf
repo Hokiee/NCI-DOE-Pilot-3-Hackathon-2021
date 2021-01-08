@@ -17,8 +17,11 @@ export PATH=$ENVROOT/ibmwmlce/bin:$PATH
 export OMP_NUM_THREADS=1
 
 SRCROOT=$(pwd)
-PYMODULE=$SRCROOT/tf_mthisan.py
+PYMODULE1=$SRCROOT/trainTestSplitMetaData.py
+PYMODULE2=$SRCROOT/data_handler.py
 
-CMD="python $PYMODULE"
+CMD1="python $PYMODULE1"
+CMD2="python $PYMODULE2"
 
-jsrun -n1 -c7 -g6 -r1 $CMD > logs/nci_hackathon.log
+jsrun -n1 -c7 -g6 -r1 $CMD1 > logs/nci_data1.log
+jsrun -n1 -c7 -g6 -r1 $CMD2 > logs/nci_data2.log
