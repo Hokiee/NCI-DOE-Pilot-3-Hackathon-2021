@@ -259,24 +259,19 @@ def prep_data_CNN(documents):
     return padded_docs, max_length, vocab_size, t.word_index
 
 def word2Vec(docs,word_index):
-    # data goes here!!!!
-    # sentences = [['this', 'is', 'report', 'one'], \
-    #              ['this', 'is', 'report', 'two'], \
-    #              ['0', '5', '6', '4', '6']]
+
     # train word2vec
     sentences = docs
-    model = Word2Vec(sentences, min_count=1, size=300, workers=4, iter=10)
+    model = Word2Vec(sentences, min_count=5, size=300, workers=4, iter=10)
+
     # save all word embeddings to matrix
     vocab = zeros((len(word_index) + 1, 300))
     word2idx = word_index
-    # for key, val in model.wv.vocab.items():
-    #     idx = val.__dict__['index'] + 1
-    #     vocab[idx, :] = model[key]
-    #     word2idx[key] = idx
     for key, val in model.wv.vocab.items():
         if key in word2idx:
             idx = word2idx[key]
             vocab[idx, :] = model[key]
+
     # add additional word embedding for unknown words
     unk = len(vocab)
     vocab = vstack((vocab, random.rand(1, 300) - 0.5))
@@ -286,22 +281,22 @@ def word2Vec(docs,word_index):
     vocab /= (vocab.std() * 2.5)
     vocab[0, :] = 0
     max_len = 1500
+
     # convert words to indices
     text_idx = zeros((len(sentences), max_len))
     for i, sent in enumerate(sentences):
         idx = [word2idx[word] if word in model.wv.vocab else unk for word in sent][:max_len]
         l = len(idx)
         text_idx[i, :l] = idx
+
     # save data
     return text_idx,word2idx,vocab
 
-
 if __name__ == '__main__':
+    
     tr_docs, te_docs, tv_docs, y_train, y_test, y_val = get_split_docs2(args)
     prep_docs = tr_docs + tv_docs + te_docs
-
     padded_docs, max_length, vocab_size, word_index = prep_data_CNN(prep_docs)
-
     padded_docs, word2idx, vocab = word2Vec(prep_docs,word_index)
 
     with open('data/word2idx.pkl', 'wb') as f:
@@ -310,12 +305,10 @@ if __name__ == '__main__':
     train_x = padded_docs[:len(tr_docs)]
     val_x = padded_docs[len(tr_docs):len(tr_docs) + len(tv_docs)]
     test_x = padded_docs[len(tr_docs) + len(tv_docs):]
-    #
+    
     np.save("data/npy/train_X.npy",train_x)
     np.save("data/npy/test_X.npy",test_x)
     np.save("data/npy/val_X.npy",val_x)
     np.save("data/npy/train_Y.npy",np.array(y_train))
     np.save("data/npy/test_Y.npy", np.array(y_test))
     np.save("data/npy/val_Y.npy", np.array(y_val))
-# MtCNN => Multi-task labels
-# HiSAN
