@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#BSUB -P med107
+#BSUB -P gen149
 #BSUB -J nci_hackathon
 #BSUB -W 2:00
 #BSUB -o logs/job%J.o
@@ -9,14 +9,14 @@
 
 module load ibm-wml-ce/1.6.2-5
 
-ENVROOT=/gpfs/alpine/proj-shared/med107/hackathon2020/env
-conda activate $ENVROOT/ibm_wml_ce165
+ENVROOT=/gpfs/wolf/proj-shared/gen149/j8g
+conda activate $ENVROOT/ibmwmlce
 
 # Make sure the environment is in our path
-export PATH=$ENVROOT/ibm_wml_ce165/bin:$PATH
+export PATH=$ENVROOT/ibmwmlce/bin:$PATH
 export OMP_NUM_THREADS=1
 
-SRCROOT=/ccs/home/mayanka/nci-hackathon-2021/mtcnn/
+SRCROOT=/gpfs/wolf/proj-shared/gen149/j8g/nci-hackathon-2021/mtcnn/
 PYMODULE=$SRCROOT/mt_cnn_exp.py
 
 CMD="python $PYMODULE"
