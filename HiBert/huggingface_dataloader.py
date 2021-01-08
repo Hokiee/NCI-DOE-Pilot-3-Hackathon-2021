@@ -16,17 +16,6 @@ def data_handler():
     y_tests = []
     num_classes = [25,117]
 
-    # for task in tasks:
-    #     y_train = np.load('data/y_train_%s.npy' % task)
-    #     y_val = np.load('data/y_val_%s.npy' % task)
-    #     y_test = np.load('data/y_test_%s.npy' % task)
-    #
-    #     classes = max(np.max(y_train),np.max(y_val),np.max(y_test)) + 1
-    #     num_classes.append(classes)
-    #
-    #     y_trains.append(y_train)
-    #     y_vals.append(y_val)
-    #     y_tests.append(y_test)
     y_trains = np.load(r'../data/npy/train_Y.npy')
     y_trains = [y_trains[:, i] for i in range(y_trains.shape[1])]
 
@@ -69,7 +58,10 @@ def data_handler():
 
 
 class BertDatasetMemory(Dataset):
-
+    '''
+    Pytorch dataloader for generating dataset on the fly and keeping it in memory
+    Designed for single-GPU/Horovod implementation of HiBERT
+    '''
     def __init__(self, text, labels, tokenizer_path='data/vocab.txt'):
 
         self.tasks = ['site', 'histology']
@@ -137,7 +129,10 @@ class BertDatasetMemory(Dataset):
 
 
 class BertDatasetMemoryMultiGPU(BertDatasetMemory):
-
+    '''
+    Pytorch dataloader for generating dataset on the fly and keeping it in memory
+    Designed for multi-GPU implementation of HiBERT
+    '''
     def __init__(self, text, labels, max_seg=10,
                  tokenizer_path='data/vocab.txt'):
         self.tasks = ['site', 'histology']
@@ -153,8 +148,6 @@ class BertDatasetMemoryMultiGPU(BertDatasetMemory):
         masks = np.vstack((self.masks[idx], np.zeros((diff, 512))))
         seg_ids = np.vstack((self.segids[idx], np.zeros((diff, 512))))
 
-        # print(tokens.shape,masks.shape,seg_ids.shape)
-
         sample = {'tokens': torch.tensor(tokens, dtype=torch.long),
                   'masks': torch.tensor(masks, dtype=torch.long),
                   'seg_ids': torch.tensor(seg_ids, dtype=torch.long),
@@ -167,7 +160,11 @@ class BertDatasetMemoryMultiGPU(BertDatasetMemory):
 
 
 class BertDatasetToDisk(object):
-
+    '''
+    Pytorch dataloader for preparing dataset and saving outputs to disk
+    Designed to be used with BertDatasetFromDisk class 
+    Designed for single-GPU/Horovod implementation of HiBERT
+    '''
     def __init__(self, tokenizer_path='data/vocab.txt'):
 
         self.tokenizer = BertTokenizer.from_pretrained(tokenizer_path)
@@ -221,7 +218,11 @@ class BertDatasetToDisk(object):
 
 
 class BertDatasetFromDisk(Dataset):
-
+    '''
+    Pytorch dataloader for loading dataset from disk
+    Designed to be used with BertDatasetToDisk class 
+    Designed for single-GPU/Horovod implementation of HiBERT
+    '''
     def __init__(self, loadpath):
         self.loadpath = loadpath
         self.tasks = ['site', 'histology']
@@ -246,7 +247,11 @@ class BertDatasetFromDisk(Dataset):
 
 
 class BertDatasetFromDiskMultiGPU(Dataset):
-
+    '''
+    Pytorch dataloader for loading dataset from disk
+    Designed to be used with BertDatasetToDisk class 
+    Designed for multi-GPU implementation of HiBERT
+    '''
     def __init__(self, loadpath, max_seg=10):
         self.loadpath = loadpath
         self.tasks = ['site', 'histology']
@@ -266,8 +271,6 @@ class BertDatasetFromDiskMultiGPU(Dataset):
         tokens = np.vstack((tokens_, np.zeros((diff, 512))))
         masks = np.vstack((masks_, np.zeros((diff, 512))))
         seg_ids = np.vstack((seg_ids_, np.zeros((diff, 512))))
-
-        # print(tokens.shape,masks.shape,seg_ids.shape)
 
         sample = {'tokens': torch.tensor(tokens, dtype=torch.long),
                   'masks': torch.tensor(masks, dtype=torch.long),
