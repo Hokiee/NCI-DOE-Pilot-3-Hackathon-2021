@@ -229,7 +229,7 @@ class hisan(object):
           - labels: numpy array
             2d numpy array (task x label ids) of corresponding labels for each task
           - batch_size: integer (default: 64)
-            batch size to use during prediction
+            batch size to use during training
           - epochs: int (default: 30)
             number of epochs to train for
           - validation_data: tuple (optional)
