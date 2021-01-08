@@ -9,8 +9,40 @@ from sklearn.utils import class_weight
 import csv
 
 class text_cnn_multitask(object):
-
-    def __init__(self,embedding_matrix,num_classes,max_words,num_tasks,
+        '''
+        cross stitch multitask cnn for text classification
+        
+        parameters:
+          - embedding_matrix: numpy array
+            numpy array of word embeddings
+            each row should represent a word embedding
+            NOTE: the word index 0 is dropped, so the first row is ignored
+          - num_classes: list(ints)
+            number of unique classes per task
+          - max_words: int
+            maximum number of words per document
+          - num_filters: int (default: 300)
+            number of convolution filters per convolution layer
+          - dropout_keep: float (default: 0.5)
+            dropout keep rate after concatenating convolution layer outputs
+          - class_weights: list(floats) (default: None)
+            optional class weights for weighting each task differently in loss function
+           
+        methods:
+          - train(data,labels,batch_size=16,epochs=30,validation_data=None,savebest=False,filepath=None)
+            train network on given data
+          - predict(data,task,batch_size=16)
+            return the predicted labels for a given task
+          - score(data,labels,task,batch_size=16)
+            calculate the micro and macro f1 scores for a given task
+          - cross_stitch_weights()
+            prints the learned cross stich weighting associated with each task
+          - save(filepath)
+            save the model weights to a file
+          - load(filepath)
+            load model weights from a file
+        '''
+    def __init__(self,embedding_matrix,num_classes,max_words,
                  num_filters=300,dropout_keep=0.5,class_weights=None):
 
         self.embedding_size = embedding_matrix.shape[1]
@@ -18,7 +50,7 @@ class text_cnn_multitask(object):
         self.mw = max_words
         self.dropout_keep = dropout_keep
         self.dropout = tf.placeholder(tf.float32)
-        self.num_tasks = num_tasks
+        self.num_tasks = len(num_classes)
 
         #inputs and outputs for each task are stored in a list
         self.predictions = []
@@ -111,12 +143,7 @@ class text_cnn_multitask(object):
 
         self.loss /= self.num_tasks
         self.optimizer = tf.train.AdamOptimizer(0.001,0.9,0.99).minimize(self.loss)
-        #self.optimizer = tf.train.AdadeltaOptimizer(1.0).minimize(self.loss)
-        '''
-        #different learning rates for cross stitch weights and cnn weights
-        self.optimizer_cs = tf.train.AdamOptimizer(0.1,0.9,0.999).minimize(self.loss,var_list=self.var_cs)
-        self.optimizer_cnn = tf.train.AdamOptimizer(0.001,0.9,0.999).minimize(self.loss,var_list=self.var_cnn)
-        '''
+
         #init op
         self.init_op = tf.global_variables_initializer()
         self.saver = tf.train.Saver(max_to_keep=None)
@@ -125,7 +152,28 @@ class text_cnn_multitask(object):
 
     def train(self,data,labels,batch_size=16,epochs=30,validation_data=None,
               savebest=False,filepath=None):
-
+        '''
+        train network on given data
+        
+        parameters:
+          - data: numpy array
+            2d numpy array (doc x word ids) of input data
+          - labels: list(numpy array)
+            list of 2d numpy arrays (num docs x unique labels) of one-hot encoded labels, one for each task
+          - batch_size: integer (default: 16)
+            batch size to use during training
+          - epochs: int (default: 30)
+            number of epochs to train for
+          - validation_data: tuple (optional)
+            tuple of numpy arrays (X,y) representing validation data
+          - savebest: boolean (default: False)
+            set to True to save the best model based on validation score per epoch
+          - filepath: string (optional)
+            path to save model if savebest is set to True
+        
+        outputs:
+            None
+        '''
         #print size of validation set
         if validation_data != None:
             for i in range(self.num_tasks):
@@ -209,7 +257,22 @@ class text_cnn_multitask(object):
             self.save(filepath + '.ckpt')
 
     def score(self,data,labels,task,batch_size=16):
-
+        '''
+        calculate the micro and macro f1 scores for a given task
+        parameters:
+          - data: numpy arrays
+            2d numpy array (doc x word ids) of input data
+          - labels: numpy array
+            2d numpy arrays (num docs x unique labels) of one-hot encoded labels for desired task
+          - task: int
+            index of task to score
+          - batch_size: integer (default: 16)
+            batch size to use during prediction
+        
+        outputs:
+            float, float
+            micro and macro f1 scores for each task
+        ''' 
         y_true = []
         y_pred = []
         for start in range(0,len(data),batch_size):
@@ -232,7 +295,9 @@ class text_cnn_multitask(object):
         return micro,macro
 
     def cross_stitch_weights(self):
-
+        '''
+        prints the learned cross stich weighting associated with each task
+        '''
         vals = self.sess.run(self.cs_vars)
         for i in range(self.num_tasks):
             c3 = np.squeeze(vals[i*3])
@@ -243,7 +308,19 @@ class text_cnn_multitask(object):
             print('task %i conv5 cross stitch vals: ' % (i+1), c5)
 
     def predict(self,data,task,batch_size=16):
+        '''
+        return the predicted labels for a given task
+        
+        parameters:
+          - data: numpy array
+            2d numpy array (doc x word ids) of input data
+          - task: int
+            index of task to score
 
+        outputs:
+            numpy array, numpy array
+            predicted labels and associated probabilities for given task
+        '''
         y_pred = []
         y_prob = []
         for start in range(0,len(data),batch_size):
@@ -293,7 +370,7 @@ if __name__ == "__main__":
 
 
     #data params
-    tasks = ['site', 'histology']#'laterality', 'behavior', 'grade']
+    tasks = ['site', 'histology']
 
     all_y_true = [[] for i in range(len(tasks))]
     all_y_pred = [[] for i in range(len(tasks))]
@@ -305,7 +382,6 @@ if __name__ == "__main__":
         retval = np.zeros((size,classes))
         retval[np.arange(size),array] = 1
         return retval
-
 
     val_data = []
     num_classes = []
@@ -319,11 +395,6 @@ if __name__ == "__main__":
 
     X_tests = np.load('../data/npy/test_X.npy')
     y_test = np.load('../data/npy/test_Y.npy')
-
-    # for task in range(len(y_train[0, :])):
-    #     cat = np.unique(y_train[:, task])
-    #     y_train[:, task] = [np.where(cat == x)[0][0] for x in y_train[:, task]]
-    #     y_test[:, task] = [np.where(cat == x)[0][0] for x in y_test[:, task]]
 
     max_vocab = np.max( X_trains )
     max_vocab2 = np.max( X_tests )
@@ -345,13 +416,12 @@ if __name__ == "__main__":
 
         val_data.append((X_val,y_val))
 
-
     #create savedmodels directory
     if not os.path.exists('../savedmodels'):
         os.makedirs('../savedmodels')
 
     #train nn
-    nn = text_cnn_multitask(wv_mat,num_classes,seq_len,len(num_classes))
+    nn = text_cnn_multitask(wv_mat,num_classes,seq_len)
     nn.train(X_trains,y_trains,epochs=5,validation_data=val_data,savebest=True,
              filepath='./savedmodels/cnn_multitask_model')
 
