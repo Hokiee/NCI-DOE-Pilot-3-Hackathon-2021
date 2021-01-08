@@ -448,12 +448,12 @@ if __name__ == "__main__":
     embedding_size = 300
     attention_heads = 8
     attention_size = 512
-    savepath = 'savedmodels/test'
+    savepath = 'savedmodels/hisan_tf1'
     vocab_size=279836
     
     #create data
-    vocab = np.load(r'../data/vocab.npy')#np.random.rand(vocab_size,embedding_size)
-    train_x = np.load(r'../data/npy/train_X.npy')  # ./data/train_X.npy' )
+    vocab = np.load(r'../data/vocab.npy')
+    train_x = np.load(r'../data/npy/train_X.npy')
     train_y = np.load(r'../data/npy/train_Y.npy')
     print(train_y.shape)
     train_y = [train_y[:,i] for i in range(train_y.shape[1])]
