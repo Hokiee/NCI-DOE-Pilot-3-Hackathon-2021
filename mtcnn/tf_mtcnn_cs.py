@@ -9,39 +9,39 @@ from sklearn.utils import class_weight
 import csv
 
 class text_cnn_multitask(object):
-        '''
-        cross stitch multitask cnn for text classification
+    '''
+    cross stitch multitask cnn for text classification
+    
+    parameters:
+      - embedding_matrix: numpy array
+        numpy array of word embeddings
+        each row should represent a word embedding
+        NOTE: the word index 0 is dropped, so the first row is ignored
+      - num_classes: list(ints)
+        number of unique classes per task
+      - max_words: int
+        maximum number of words per document
+      - num_filters: int (default: 300)
+        number of convolution filters per convolution layer
+      - dropout_keep: float (default: 0.5)
+        dropout keep rate after concatenating convolution layer outputs
+      - class_weights: list(floats) (default: None)
+        optional class weights for weighting each task differently in loss function
         
-        parameters:
-          - embedding_matrix: numpy array
-            numpy array of word embeddings
-            each row should represent a word embedding
-            NOTE: the word index 0 is dropped, so the first row is ignored
-          - num_classes: list(ints)
-            number of unique classes per task
-          - max_words: int
-            maximum number of words per document
-          - num_filters: int (default: 300)
-            number of convolution filters per convolution layer
-          - dropout_keep: float (default: 0.5)
-            dropout keep rate after concatenating convolution layer outputs
-          - class_weights: list(floats) (default: None)
-            optional class weights for weighting each task differently in loss function
-           
-        methods:
-          - train(data,labels,batch_size=16,epochs=30,validation_data=None,savebest=False,filepath=None)
-            train network on given data
-          - predict(data,task,batch_size=16)
-            return the predicted labels for a given task
-          - score(data,labels,task,batch_size=16)
-            calculate the micro and macro f1 scores for a given task
-          - cross_stitch_weights()
-            prints the learned cross stich weighting associated with each task
-          - save(filepath)
-            save the model weights to a file
-          - load(filepath)
-            load model weights from a file
-        '''
+    methods:
+      - train(data,labels,batch_size=16,epochs=30,validation_data=None,savebest=False,filepath=None)
+        train network on given data
+      - predict(data,task,batch_size=16)
+        return the predicted labels for a given task
+      - score(data,labels,task,batch_size=16)
+        calculate the micro and macro f1 scores for a given task
+      - cross_stitch_weights()
+        prints the learned cross stich weighting associated with each task
+      - save(filepath)
+        save the model weights to a file
+      - load(filepath)
+        load model weights from a file
+    '''
     def __init__(self,embedding_matrix,num_classes,max_words,
                  num_filters=300,dropout_keep=0.5,class_weights=None):
 
