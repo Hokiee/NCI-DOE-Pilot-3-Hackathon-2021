@@ -43,5 +43,4 @@
     cd HiBert
     bsub horovod.lsf
 ##### 5. LANL Abstaining Code MTCNN
-##### 6. LANL Abstaining Code MTHiSAN
 
