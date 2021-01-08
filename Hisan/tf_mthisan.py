@@ -8,7 +8,43 @@ from sklearn.metrics import f1_score
 import random
 
 class hisan(object):
-
+        '''
+        hierarchical self-attention network for text classification
+        
+        parameters:
+          - embedding_matrix: numpy array
+            numpy array of word embeddings
+            each row should represent a word embedding
+            NOTE: the word index 0 is dropped, so the first row is ignored
+          - num_classes: list(ints)
+            number of output classes per task
+          - max_sents: int
+            maximum number of sentences per document
+          - max_words: int
+            maximum number of words per sentence
+          - attention_heads: int (default: 8)
+            number of attention heads to use in multihead attention
+          - attention_size: int (default: 512)
+            dimension size of output embeddings from attention 
+          - dropout_keep: float (default: 0.9)
+            dropout keep rate for embeddings and attention softmax
+          - activation: tensorflow activation function (default: tf.nn.elu)
+            activation function to use for convolutional feature extraction
+          - lr: float (default: 0.0001)
+            learning rate to use for adam optimizer
+           
+        methods:
+          - train(data,labels,batch_size=64,epochs=30,patience=5,validation_data=None,savebest=False,filepath=None)
+            train network on given data
+          - predict(data,batch_size=64)
+            return the predicted labels on each task for given data
+          - score(data,labels,batch_size=64)
+            calculate the micro and macro f1 scores on each task for given data
+          - save(filepath)
+            save the model weights to a file
+          - load(filepath)
+            load model weights from a file
+        '''
     def __init__(self,embedding_matrix,num_classes,max_sents,max_words,attention_heads=8,
                  attention_size=512,dropout_keep=0.9,activation=tf.nn.elu,lr=0.0001):
 
@@ -184,7 +220,28 @@ class hisan(object):
     
     def train(self,data,labels,batch_size=64,epochs=30,patience=5,
               validation_data=None,savebest=False,filepath=None):
+        '''
+        train network on given data
         
+        parameters:
+          - data: numpy array
+            2d numpy array (doc x word ids) of input data
+          - labels: numpy array
+            2d numpy array (task x label ids) of corresponding labels for each task
+          - batch_size: integer (default: 64)
+            batch size to use during prediction
+          - epochs: int (default: 30)
+            number of epochs to train for
+          - validation_data: tuple (optional)
+            tuple of numpy arrays (X,y) representing validation data
+          - savebest: boolean (default: False)
+            set to True to save the best model based on validation score per epoch
+          - filepath: string (optional)
+            path to save model if savebest is set to True
+        
+        outputs:
+            None
+        '''
         if savebest==True and filepath==None:
             raise Exception("Please enter a path to save the network")
 
@@ -268,7 +325,21 @@ class hisan(object):
             start_time = time.time()
 
     def score(self,data,labels,batch_size=64):
+        '''
+        calculate the micro and macro f1 scores on each task for given data
+        parameters:
+          - data: numpy array
+            2d numpy array (doc x word ids) of input data
+          - labels: numpy array
+            2d numpy array (task x label ids) of corresponding labels for each task
+          - batch_size: integer (default: 64)
+            batch size to use during prediction
         
+        outputs:
+            list(tuple(floats)), float
+            micro and macro f1 scores for each task
+            mean prediction loss across all tasks
+        '''     
         y_preds = [[] for t in range(self.num_tasks)]
         loss = []
         for start in range(0,len(data),batch_size):
@@ -304,7 +375,17 @@ class hisan(object):
         return scores,np.mean(loss)
 
     def predict(self,data,batch_size=64):
-
+        '''
+        return the predicted labels on each task for given data
+        
+        parameters:
+          - data: numpy array
+            2d numpy array (doc x word ids) of input data
+        
+        outputs:
+            list(numpy array)
+            predicted labels for each task
+        '''
         y_preds = [[] for t in range(self.num_tasks)]
         
         for start in range(0,len(data),batch_size):
@@ -331,11 +412,29 @@ class hisan(object):
         return y_preds
 
     def save(self,filename):
-
+        '''
+        save the model weights to a file
+        
+        parameters:
+          - filepath: string
+            path to save model weights
+        
+        outputs:
+            None
+        '''
         self.saver.save(self.sess,filename)
 
     def load(self,filename):
-
+        '''
+        load model weights from a file
+        
+        parameters:
+          - filepath: string
+            path from which to load model weights
+        
+        outputs:
+            None
+        '''
         self.saver.restore(self.sess,filename)
 
 if __name__ == "__main__":
@@ -370,7 +469,6 @@ if __name__ == "__main__":
     #make sure save dir exists
     if not os.path.exists(os.path.dirname(os.path.realpath(savepath))):
         os.makedirs(os.path.dirname(os.path.realpath(savepath)))
-
 
     #train model
     model = hisan(vocab,num_classes,max_lines,max_words,
