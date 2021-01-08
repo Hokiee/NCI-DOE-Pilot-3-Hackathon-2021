@@ -7,8 +7,10 @@ import logging
 import numpy as np
 import pickle
 
-
 def data_handler():
+    '''
+    function for loading TCGA numpy arrays
+    '''
     tasks = ['site', 'histology']
 
     y_trains = []
@@ -60,7 +62,7 @@ def data_handler():
 class BertDatasetMemory(Dataset):
     '''
     Pytorch dataloader for generating dataset on the fly and keeping it in memory
-    Designed for single-GPU/Horovod implementation of HiBERT
+    Designed for single-GPU implementation of HiBERT
     '''
     def __init__(self, text, labels, tokenizer_path='data/vocab.txt'):
 
@@ -162,8 +164,7 @@ class BertDatasetMemoryMultiGPU(BertDatasetMemory):
 class BertDatasetToDisk(object):
     '''
     Pytorch dataloader for preparing dataset and saving outputs to disk
-    Designed to be used with BertDatasetFromDisk class 
-    Designed for single-GPU/Horovod implementation of HiBERT
+    Designed to be used with BertDatasetFromDisk and BertDatasetFromDiskMultiGPU classes
     '''
     def __init__(self, tokenizer_path='data/vocab.txt'):
 
@@ -221,7 +222,7 @@ class BertDatasetFromDisk(Dataset):
     '''
     Pytorch dataloader for loading dataset from disk
     Designed to be used with BertDatasetToDisk class 
-    Designed for single-GPU/Horovod implementation of HiBERT
+    Designed for single-GPU implementation of HiBERT
     '''
     def __init__(self, loadpath):
         self.loadpath = loadpath
