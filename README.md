@@ -3,7 +3,7 @@
 ### Environment: 
  [Summit-Ascent](https://docs.olcf.ornl.gov/systems/summit_user_guide.html#training-system-ascent)  
 
-To login to Ascent and work on project:
+To login to Ascent and clone project:
 ```
 ssh <ucams>@login1.ascent.olcf.ornl.gov (use ucams password)
 cd /gpfs/wolf/proj-shared/gen149/
