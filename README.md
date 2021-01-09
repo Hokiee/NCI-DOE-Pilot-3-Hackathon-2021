@@ -51,7 +51,7 @@ jsrun -n1 -c7 -g6 -r1 hostname
     bsub tf_mtcnn_cs.lsf
 ##### 3. HiSAN (TF1)
     cd Hisan
-    python tf_mt_hisan.py
+    python tf_mthisan_new.py
     OR
     cd Hisan
     bsub hisan.lsf
