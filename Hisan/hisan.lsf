@@ -17,7 +17,7 @@ export PATH=$ENVROOT/ibmwmlce/bin:$PATH
 export OMP_NUM_THREADS=1
 
 SRCROOT=$(pwd)
-PYMODULE=$SRCROOT/tf_mthisan.py
+PYMODULE=$SRCROOT/tf_mthisan_new.py
 
 CMD="python $PYMODULE"
 
