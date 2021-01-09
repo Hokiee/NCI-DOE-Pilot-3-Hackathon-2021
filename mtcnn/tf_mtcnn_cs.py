@@ -64,7 +64,7 @@ class text_cnn_multitask(object):
         word_embeds = tf.gather(tf.get_variable('embeddings',initializer=self.embeddings,dtype=tf.float32),self.doc_inputs)
 
         #each task has its own path
-        for i in range(num_tasks):
+        for i in range(self.num_tasks):
 
             reuse = None
             if i > 0:
@@ -75,7 +75,7 @@ class text_cnn_multitask(object):
                 conv3_outs = []
                 conv4_outs = []
                 conv5_outs = []
-                for j in range(num_tasks):
+                for j in range(self.num_tasks):
                     conv3_W = tf.get_variable('conv3_W_%i' % j,[3,self.embedding_size,num_filters],tf.float32,tf.orthogonal_initializer())
                     conv3_b = tf.get_variable('conv3_b_%i' % j,[num_filters],tf.float32,tf.zeros_initializer())
                     conv3_out = tf.nn.relu(tf.nn.conv1d(word_embeds,conv3_W,1,'SAME') + conv3_b)
@@ -94,7 +94,7 @@ class text_cnn_multitask(object):
             with tf.variable_scope('cross_stitch'):
 
                 #convolution cross stitch operations
-                init_weights = np.ones((num_tasks,1,1,1)).astype(np.float32) * (0.1/(num_tasks-1))
+                init_weights = np.ones((self.num_tasks,1,1,1)).astype(np.float32) * (0.1/(self.num_tasks-1))
                 init_weights[i] = 0.9
 
                 conv3_cs = tf.get_variable('conv3_cs_%i' % i,dtype=tf.float32,initializer=init_weights)
