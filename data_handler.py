@@ -265,12 +265,13 @@ def word2Vec(docs,word_index):
     model = Word2Vec(sentences, min_count=5, size=300, workers=4, iter=10)
 
     # save all word embeddings to matrix
-    vocab = zeros((len(word_index) + 1, 300))
-    word2idx = word_index
-    for key, val in model.wv.vocab.items():
-        if key in word2idx:
-            idx = word2idx[key]
-            vocab[idx, :] = model[key]
+    vocab_size = len(model.wv.vocab)
+    vocab = zeros((vocab_size + 1, 300))
+    word2idx = {}
+    for i,(key,val) in enumerate(model.wv.vocab.items()):
+        if key in word_index:
+            word2idx[key] = i+1
+            vocab[i+1, :] = model[key]
 
     # add additional word embedding for unknown words
     unk = len(vocab)
@@ -285,7 +286,7 @@ def word2Vec(docs,word_index):
     # convert words to indices
     text_idx = zeros((len(sentences), max_len))
     for i, sent in enumerate(sentences):
-        idx = [word2idx[word] if word in model.wv.vocab else unk for word in sent][:max_len]
+        idx = [word2idx[word] if word in word2idx else unk for word in sent][:max_len]
         l = len(idx)
         text_idx[i, :l] = idx
 
