@@ -470,7 +470,7 @@ if __name__ == "__main__":
     num_classes = [25,117]
     embedding_size = 300
     attention_heads = 8
-    attention_size = 512
+    attention_size = 400
     savepath = 'savedmodels/hisan'
     vocab_size=279836
     
