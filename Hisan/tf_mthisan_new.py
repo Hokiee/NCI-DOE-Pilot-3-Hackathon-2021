@@ -496,6 +496,6 @@ if __name__ == "__main__":
     #train model
     model = hisan(vocab,num_classes,max_lines,max_words,
                   attention_heads,attention_size)
-    model.train(train_x,train_y,batch_size,epochs,validation_data=(test_x,test_y),
+    model.train(train_x,train_y,batch_size,epochs,validation_data=(val_x,val_y),
                 savebest=True,filepath=savepath)
     model.score(test_x,test_y,batch_size)
