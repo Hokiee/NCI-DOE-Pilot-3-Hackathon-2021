@@ -38,9 +38,11 @@ import ftplib
 def main():
     train_x = np.load(r'../data/npy/train_X.npy')#./data/train_X.npy' )
     train_y = np.load(r'../data/npy/train_Y.npy')
-
+    val_x = np.load(r'../data/npy/val_X.npy')
+    val_y = np.load(r'../data/npy/val_Y.npy')
     test_x = np.load(r'../data/npy/test_X.npy')
     test_y = np.load(r'../data/npy/test_Y.npy')
+    tasks=['site','histology']
 
     # for task in range(len(train_y[0, :])):
     #     cat = np.unique(train_y[:, task])
@@ -48,7 +50,7 @@ def main():
     #     test_y[:, task] = [np.where(cat == x)[0][0] for x in test_y[:, task]]
 
     max_vocab = np.max( train_x )
-    max_vocab2 = np.max( test_x )
+    max_vocab2 = np.max( val_x )
     if max_vocab2 > max_vocab:
         max_vocab = max_vocab2
 
@@ -84,10 +86,10 @@ def main():
     print( cnn.summary() )
 
     validation_data = (
-        { 'Input': np.array( test_x ) },
+        { 'Input': np.array( val_x ) },
         {
-            'Dense0': test_y[ :, 0 ], # Dense Layer associated with Site
-            'Dense1': test_y[ :, 1 ], # Dense Layer associated with Site
+            'Dense0': val_y[ :, 0 ], # Dense Layer associated with Site
+            'Dense1': val_y[ :, 1 ], # Dense Layer associated with Site
             # 'Dense2': test_y[ :, 2 ],
             # 'Dense3': test_y[ :, 3 ],
         }
@@ -108,6 +110,20 @@ def main():
                  epochs= 100,
                  verbose= 1,
                  validation_data= validation_data, callbacks= [ checkpointer, stopper ] )
+
+    # Predict on Test data
+    model = load_model(model_name)
+    pred_probs = model.predict(np.array(test_x))
+    for t in range(len(tasks)):
+        preds = [np.argmax(x) for x in pred_probs[t]]
+        pred_max = [np.max(x) for x in pred_probs[t]]
+        y_pred = preds
+        y_true = test_y[:,t]
+        y_prob = pred_max
+        micro = f1_score(y_true,y_pred,average='micro')
+        macro = f1_score(y_true,y_pred,average='macro')
+        print('task %s test f-score: %.4f,%.4f' % (tasks[t],micro,macro))
+        print(confusion_matrix(y_true,y_pred))
 
 
 if __name__ == "__main__":
