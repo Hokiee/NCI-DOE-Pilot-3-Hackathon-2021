@@ -458,4 +458,4 @@ if __name__ == "__main__":
         micro = f1_score(y_true,y_pred,average='micro')
         macro = f1_score(y_true,y_pred,average='macro')
         print('task %s test f-score: %.4f,%.4f' % (tasks[t],micro,macro))
-        print(confusion_matrix(y_true,y_pred))
+        #print(confusion_matrix(y_true,y_pred))
