@@ -5,7 +5,7 @@
 
 To login to Ascent and clone project:
 ```
-ssh <ucams>@login1.ascent.olcf.ornl.gov (use ucams password)
+ssh -o ServerAliveInterval=60 <ucams>@login1.ascent.olcf.ornl.gov (use ucams password)
 cd /gpfs/wolf/proj-shared/gen149/
 mkdir <ucams>
 cd <ucams>
