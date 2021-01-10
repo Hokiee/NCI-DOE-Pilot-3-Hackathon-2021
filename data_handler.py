@@ -18,14 +18,11 @@ def parse_arguments():
                                      formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('--data_dir', '-dr', default="data/features_full", type=str,
                         help='Provide the path for PathReports')
-    parser.add_argument("--task", default="site", type=str, required=False, help="site or histology?")
+    #parser.add_argument("--task", default="site", type=str, required=False, help="site or histology?")
     # Not required
-    parser.add_argument('--use_site_info', action='store_true', default=True, help='uses site info in ground truth')
+    #parser.add_argument('--use_site_info', action='store_true', default=True, help='uses site info in ground truth')
     # Not required
-    parser.add_argument('--use_full_features', action='store_true', default=True, help='uses the full report')
-    # TODO: pre-processing options; potentially LANL, MIMIC, API version
-    # TODO: vectorization options: Prep_CNN (LANL Vector), Word2Vec, etc.
-
+    #parser.add_argument('--use_full_features', action='store_true', default=True, help='uses the full report')
     args = parser.parse_args()
     print(args)
 
@@ -34,134 +31,53 @@ def parse_arguments():
 
 args = parse_arguments()
 
-def get_split_docs(args,task):
-    # x_train = np.load('./ground_truth/CNN/train_data.npy')
-    # x_test = np.load('./ground_truth/CNN/test_data.npy')
-    # train_df = pd.read_csv('./data/train_labels.csv', delimiter='\s+')
-    # test_df = pd.read_csv('./data/test_labels.csv', delimiter='\s+')
-    train_df = pd.read_csv('./data/split/train_labels.csv', delimiter=',')
-    val_df = pd.read_csv('./data/split/val_labels.csv',delimiter=',')
-    test_df = pd.read_csv('./data/split/test_labels.csv', delimiter=',')
-    test_df.index = test_df.filename.values
-    val_df.index = val_df.filename.values
-    train_df.index = train_df.filename.values
-    if args.task == 'site':
-        y_train = train_df.site.values
-        y_val = val_df.site.values
-        y_test = test_df.site.values
-    elif args.task == 'histology':
-        y_train = train_df.histology.values
-        y_val = val_df.histology.values
-        y_test = test_df.histology.values
-    # Assign train and test site info
-    tr_site_info, te_site_info, tv_site_info = [], [], []
-    if args.use_site_info:
-        if task == 'site':
-            # class_site_mapper = json.load(open('./data/class_site_mapper.json', 'r'))
-            class_site_mapper = json.load(open('./data/mapper/site_class_mapper.json', 'r'))
-            # Test site info
-        #     te_site_info = []
-        #     predicted_site = np.argmax(np.load('./new_val/CNN/TCGA/full_features/site/val_pred_scores.npy'), 1)
-        #     if not len(predicted_site) == test_df.shape[0]:
-        #         print("predicted site labels and original test dataset dimensions does not match")
-        #         # pdb.set_trace()
-        #         sys.exit(0)
-        #     for psite in predicted_site:
-        #         te_site_info.append(class_site_mapper[str(psite)])
-        #     # Train site info
-            tr_site_info = []
-            for tsite in train_df.site.values:
-                # print(tsite)
-                tr_site_info.append(class_site_mapper[str(tsite).strip()])
-            tv_site_info = []
-            for vsite in val_df.site.values:
-                tv_site_info.append(class_site_mapper[str(vsite).strip()])
-            te_site_info = []
-            for tesite in test_df.site.values:
-                te_site_info.append(class_site_mapper[str(tesite).strip()])
-        else:
-            class_histology_mapper = json.load(open('./data/mapper/histology_class_mapper.json', 'r'))
-            tr_site_info = []
-            for tsite in train_df.histology.values:
-                # print(tsite)
-                tr_site_info.append(class_histology_mapper[str(tsite).strip()])
-            tv_site_info = []
-            for vsite in val_df.histology.values:
-                tv_site_info.append(class_histology_mapper[str(vsite).strip()])
-            te_site_info = []
-            for tesite in test_df.histology.values:
-                te_site_info.append(class_histology_mapper[str(tesite).strip()])
-
-    tr_docs, _ = prep_splits_data(args, train_df, tr_site_info)
-    te_docs, _ = prep_splits_data(args, test_df, te_site_info)
-    tv_docs, _ = prep_splits_data(args, val_df, tv_site_info)
-
-    return tr_docs, te_docs,tv_docs, tr_site_info, te_site_info,tv_site_info
-
 # MTCNN Version
 def get_split_docs2(args):
-    # x_train = np.load('./ground_truth/CNN/train_data.npy')
-    # x_test = np.load('./ground_truth/CNN/test_data.npy')
-    # train_df = pd.read_csv('./data/train_labels.csv', delimiter='\s+')
-    # test_df = pd.read_csv('./data/test_labels.csv', delimiter='\s+')
     train_df = pd.read_csv('./data/split/train_labels.csv', delimiter=',')
     val_df = pd.read_csv('./data/split/val_labels.csv',delimiter=',')
     test_df = pd.read_csv('./data/split/test_labels.csv', delimiter=',')
     test_df.index = test_df.filename.values
     val_df.index = val_df.filename.values
     train_df.index = train_df.filename.values
-    if args.task == 'site':
-        y_train = train_df.site.values
-        y_val = val_df.site.values
-        y_test = test_df.site.values
-    elif args.task == 'histology':
-        y_train = train_df.histology.values
-        y_val = val_df.histology.values
-        y_test = test_df.histology.values
+    # if args.task == 'site':
+    #     y_train = train_df.site.values
+    #     y_val = val_df.site.values
+    #     y_test = test_df.site.values
+    # elif args.task == 'histology':
+    #     y_train = train_df.histology.values
+    #     y_val = val_df.histology.values
+    #     y_test = test_df.histology.values
     # Assign train and test site info
     tr_site_info, te_site_info, tv_site_info = [], [], []
     tr_histology_info, te_histology_info, tv_histology_info = [], [], []
 
-    if args.use_site_info:
+    class_site_mapper = json.load(open('./data/mapper/site_class_mapper.json', 'r'))
+    tr_site_info = []
+    for tsite in train_df.site.values:
+        # print(tsite)
+        tr_site_info.append(class_site_mapper[str(tsite).strip()])
+    tv_site_info = []
+    for vsite in val_df.site.values:
+        tv_site_info.append(class_site_mapper[str(vsite).strip()])
+    te_site_info = []
+    for tesite in test_df.site.values:
+        te_site_info.append(class_site_mapper[str(tesite).strip()])
 
-        # class_site_mapper = json.load(open('./data/class_site_mapper.json', 'r'))
-        class_site_mapper = json.load(open('./data/mapper/site_class_mapper.json', 'r'))
-        # Test site info
-    #     te_site_info = []
-    #     predicted_site = np.argmax(np.load('./new_val/CNN/TCGA/full_features/site/val_pred_scores.npy'), 1)
-    #     if not len(predicted_site) == test_df.shape[0]:
-    #         print("predicted site labels and original test dataset dimensions does not match")
-    #         # pdb.set_trace()
-    #         sys.exit(0)
-    #     for psite in predicted_site:
-    #         te_site_info.append(class_site_mapper[str(psite)])
-    #     # Train site info
-        tr_site_info = []
-        for tsite in train_df.site.values:
-            # print(tsite)
-            tr_site_info.append(class_site_mapper[str(tsite).strip()])
-        tv_site_info = []
-        for vsite in val_df.site.values:
-            tv_site_info.append(class_site_mapper[str(vsite).strip()])
-        te_site_info = []
-        for tesite in test_df.site.values:
-            te_site_info.append(class_site_mapper[str(tesite).strip()])
+    class_histology_mapper = json.load(open('./data/mapper/histology_class_mapper.json', 'r'))
+    tr_histology_info = []
+    for tsite in train_df.histology.values:
+        # print(tsite)
+        tr_histology_info.append(class_histology_mapper[str(tsite).strip()])
+    tv_histology_info = []
+    for vsite in val_df.histology.values:
+        tv_histology_info.append(class_histology_mapper[str(vsite).strip()])
+    te_histology_info = []
+    for tesite in test_df.histology.values:
+        te_histology_info.append(class_histology_mapper[str(tesite).strip()])
 
-        class_histology_mapper = json.load(open('./data/mapper/histology_class_mapper.json', 'r'))
-        tr_histology_info = []
-        for tsite in train_df.histology.values:
-            # print(tsite)
-            tr_histology_info.append(class_histology_mapper[str(tsite).strip()])
-        tv_histology_info = []
-        for vsite in val_df.histology.values:
-            tv_histology_info.append(class_histology_mapper[str(vsite).strip()])
-        te_histology_info = []
-        for tesite in test_df.histology.values:
-            te_histology_info.append(class_histology_mapper[str(tesite).strip()])
-
-    tr_docs, _ = prep_splits_data(args, train_df, tr_site_info)
-    te_docs, _ = prep_splits_data(args, test_df, te_site_info)
-    tv_docs, _ = prep_splits_data(args, val_df, tv_site_info)
+    tr_docs = prep_splits_data(args, train_df, tr_site_info)
+    te_docs = prep_splits_data(args, test_df, te_site_info)
+    tv_docs = prep_splits_data(args, val_df, tv_site_info)
 
     tr_info = list(zip(tr_site_info,tr_histology_info))
     tv_info = list(zip(tv_site_info,tv_histology_info))
@@ -180,31 +96,30 @@ def prep_splits_data(args, split_labels, site_info):
             filename = df.index[i].split('//')[1].strip() + '.txt.hstlgy'
         else:
             filename = df.index[i].strip()
-        if args.use_full_features:
-            fname = args.data_dir + "/" + filename.split('.hstlgy')[0].strip()
-        else:
-            fname = args.data_dir + "/" + filename
-        if args.use_site_info and args.task == 'histology':
+        #if args.use_full_features:
+        fname = args.data_dir + "/" + filename.split('.hstlgy')[0].strip()
+        #else:
+        #    fname = args.data_dir + "/" + filename
+        #if args.use_site_info and args.task == 'histology':
             # if not fname in site_info.keys(): print(fname)
-            site_inform = site_info[i]
-            doc = str(site_inform) + " " + open(fname, 'r', encoding="utf8").read().strip()
-        else:
+        #    site_inform = site_info[i]
+        #    doc = str(site_inform) + " " + open(fname, 'r', encoding="utf8").read().strip()
+        #else:
             # print(fname)
-            doc = open(fname, 'r', encoding="utf8").read().strip()
-            doc = clearup(doc)
+        doc = open(fname, 'r', encoding="utf8").read().strip()
+        doc = clearup(doc)
         documents.append(doc)
-        if args.task == 'histology':
-            labels = df.histology.values
-        else:
-            labels = df.site.values
-    return documents, labels
+        # if args.task == 'histology':
+        #     labels = df.histology.values
+        # else:
+        #     labels = df.site.values
+    return documents
 
 
 # Preprocessing
 
 def clearup(document):
     document = document.translate(string.punctuation)
-    # pdb.set_trace()
     numbers = re.search('[0-9]+', document)
     document = re.sub('\(\d+.\d+\)|\d-\d|\d', '', document) \
         .replace('.', '').replace(',', '').replace(',', '').replace(':', '').replace('~', '') \
@@ -213,9 +128,7 @@ def clearup(document):
         .replace('—', '').replace(';', '').replace('&quot', '').replace('&lt', '') \
         .replace('^', '').replace('"', '').replace('{', '').replace('}', '').replace('\\', '').replace('+', '') \
         .replace('&gt', '').replace('&apos', '').replace('*', '').strip().lower().split()
-    # document = document.translate(string.punctuation)
     # return re.sub('[l]+', ' ', str(document)).strip()
-    # pdb.set_trace()
     return document
 
 
