@@ -394,6 +394,9 @@ class hisan(object):
             micro = f1_score(labels[t],y_preds[t],average='micro')
             macro = f1_score(labels[t],y_preds[t],average='macro')
             scores.append((micro,macro))
+            print('task '+str(t)+' test micro: '+ micro)
+            print('task '+str(t)+' test macro: '+ macro)
+
         
         return scores,np.mean(loss)
 
