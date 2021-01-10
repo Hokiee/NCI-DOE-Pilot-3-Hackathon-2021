@@ -35,6 +35,7 @@ jsrun -n1 -c7 -g6 -r1 hostname
     python huggingface_dataloader.py
     OR
     bsub data_setup_bert.lsf
+##### Interacting with Jobs : https://docs.olcf.ornl.gov/systems/summit_user_guide.html#interacting-with-jobs
 
 ### Models          
 ##### 1. MTCNN Hard Paramenter Sharing (TF1) 
