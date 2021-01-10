@@ -34,7 +34,7 @@ jsrun -n1 -c7 -g6 -r1 hostname
     cd HiBERT
     python huggingface_dataloader.py
     OR
-    busb data_setup_bert.lsf
+    bsub data_setup_bert.lsf
 
 ### Models          
 ##### 1. MTCNN Hard Paramenter Sharing (TF1) 
