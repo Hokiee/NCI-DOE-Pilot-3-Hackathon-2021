@@ -45,8 +45,9 @@ def data_handler():
         for i, doc in enumerate(x):
             words = []
             for id in doc:
-                if not id==0:
-                    words.append(idx2word[id])
+                if id in idx2word.keys():
+                    if not id==0:
+                        words.append(idx2word[id])
             docs.append(' '.join(words))
             sys.stdout.write('processed %i documents        \r' % i)
             sys.stdout.flush()
