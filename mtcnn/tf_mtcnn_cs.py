@@ -401,7 +401,7 @@ if __name__ == "__main__":
     if max_vocab2 > max_vocab:
         max_vocab = max_vocab2
 
-    wv_mat = np.random.randn( max_vocab + 1, wv_len ).astype( 'float32' ) * 0.1
+    wv_mat = np.random.randn( max_vocab.astype(np.int) + 1, wv_len ).astype(np.float32)* 0.1
 
     for t in range(len(tasks)):
         classes = np.max( y_train[:,t] ) + 1
