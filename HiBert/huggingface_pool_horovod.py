@@ -77,7 +77,7 @@ val_loader = DataLoader(val_data,batch_size=1,sampler=val_sampler)
 test_loader = DataLoader(test_data,batch_size=1,sampler=test_sampler)
 
 #init bert
-model = HiBERT('savedmodels/ncbi_bert_base_pubmed_mimic_uncased',num_classes)
+model = HiBERT('/gpfs/wolf/proj-shared/gen149/ncbi_bert_base_pubmed_mimic_uncased',num_classes)
 model.cuda()
 
 #init loss and optimizer
