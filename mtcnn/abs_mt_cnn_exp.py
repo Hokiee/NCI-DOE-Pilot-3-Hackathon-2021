@@ -110,7 +110,7 @@ def main():
     if max_vocab2 > max_vocab:
         max_vocab = max_vocab2
 
-    wv_mat = np.random.randn(max_vocab + 1, wv_len).astype('float32') * 0.1
+    wv_mat = np.random.randn( int(max_vocab) + 1, wv_len ).astype( 'float32' ) * 0.1
 
     #num_classes = np.max(train_y) + 1
 
