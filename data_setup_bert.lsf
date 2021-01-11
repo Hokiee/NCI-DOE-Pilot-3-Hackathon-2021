@@ -22,4 +22,4 @@ PYMODULE=huggingface_dataloader.py
 
 CMD="python $PYMODULE"
 
-jsrun -n1 -c7 -g6 -r1 $CMD > logs/nci_data3.log
+jsrun -n1 -c7 -g6 -r1 $CMD > logs/data_setup_bert.log
