@@ -21,4 +21,4 @@ PYMODULE=$SRCROOT/tf_mtcnn_cs.py
 
 CMD="python $PYMODULE"
 
-jsrun -n1 -c7 -g6 -r1 $CMD > logs/nci_hackathon.log
+jsrun -n1 -c7 -g6 -r1 $CMD > logs/tf_mtcnn_cs.log
