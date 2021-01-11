@@ -1,6 +1,10 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
+'''
+split full csv dataset into train, val, and test csv datasets
+'''
+
 if __name__ == '__main__':
     # Loads the complete file name list with annotated labels for tasks (site, histology)
     df=pd.read_csv("data/histo_metadata.csv",delimiter='\t')
