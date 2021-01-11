@@ -63,4 +63,8 @@ jsrun -n1 -c7 -g6 -r1 hostname
     cd HiBert
     bsub horovod.lsf
 ##### 5. LANL Abstaining Code MTCNN
-
+    cd mtcnn
+    python abs_mt_cnn_exp.py 
+    OR
+    cd mtcnn
+    bsub abs_mt_cnn_exp.lsf
