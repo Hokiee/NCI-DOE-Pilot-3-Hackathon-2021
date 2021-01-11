@@ -23,5 +23,5 @@ PYMODULE2=$SRCROOT/data_handler.py
 CMD1="python $PYMODULE1"
 CMD2="python $PYMODULE2"
 
-jsrun -n1 -c7 -g6 -r1 $CMD1 > logs/nci_data1.log
-jsrun -n1 -c7 -g6 -r1 $CMD2 > logs/nci_data2.log
+jsrun -n1 -c7 -g6 -r1 $CMD1 > logs/train_test_split.log
+jsrun -n1 -c7 -g6 -r1 $CMD2 > logs/data_handler.log
