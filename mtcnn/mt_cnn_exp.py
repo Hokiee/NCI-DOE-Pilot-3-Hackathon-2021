@@ -64,8 +64,9 @@ def main():
         cat12 = np.union1d(cat1, cat2)
         cat = np.union1d(cat12, cat3)
         print(task, len(cat), cat)
-        train_y[:, task] = [np.where(cat == x)[0][0] for x in train_y[:, task]]
-        test_y[:, task] = [np.where(cat == x)[0][0] for x in test_y[:, task]]
+        #train_y[:, task] = [np.where(cat == x)[0][0] for x in train_y[:, task]]
+        #test_y[:, task] = [np.where(cat == x)[0][0] for x in test_y[:, task]]
+        #val_y[:, task] = [np.where(cat == x)[0][0] for x in val_y[:, task]]
 
     max_vocab = np.max(train_x)
     max_vocab2 = np.max(test_x)
