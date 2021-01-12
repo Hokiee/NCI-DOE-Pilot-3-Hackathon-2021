@@ -40,7 +40,8 @@ from keras.initializers import RandomUniform, lecun_uniform
 #np.random.seed(1337)
 
 
-def init_export_network(num_classes,
+def init_export_network(task_names,
+                        num_classes,
                         in_seq_len,
                         vocab_size,
                         wv_space,
@@ -81,7 +82,7 @@ def init_export_network(num_classes,
     FC_models = []
     for i in range(len(num_classes)):
         outlayer = Dense(num_classes[i],
-                         name="Dense"+str(i),
+                         name=task_names[i],
                          activation='softmax')(concat_drop)
         FC_models.append(outlayer)
 
@@ -90,4 +91,3 @@ def init_export_network(num_classes,
     model.compile(loss="sparse_categorical_crossentropy", optimizer=optimizer, metrics=["acc"])
 
     return model
-    

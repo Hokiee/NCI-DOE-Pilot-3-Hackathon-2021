@@ -36,7 +36,6 @@ def main():
     # mtcnn parameters
     wv_len = 300
     seq_len = 1500
-    num_tasks = 2
     batch_size = 16
     epochs = 100
     filter_sizes = [3, 4, 5]
@@ -45,6 +44,8 @@ def main():
     emb_l2 = 0.001
     w_l2 = 0.01
     optimizer = 'adam'
+    tasks = ['site', 'histology']
+    num_tasks = len(tasks)
 
     train_x = np.load(r'../data/npy/train_X.npy')
     train_y = np.load(r'../data/npy/train_Y.npy')
@@ -52,9 +53,9 @@ def main():
     val_y = np.load(r'../data/npy/val_Y.npy')
     test_x = np.load(r'../data/npy/test_X.npy')
     test_y = np.load(r'../data/npy/test_Y.npy')
-    tasks = ['site','histology']
 
-    for task in range(len(train_y[0, :])):
+    max_classes = []
+    for task in range(num_tasks):
         cat1 = np.unique(train_y[:, task])
         print(task, len(cat1), cat1)
         cat2 = np.unique(val_y[:, task])
@@ -64,18 +65,23 @@ def main():
         cat12 = np.union1d(cat1, cat2)
         cat = np.union1d(cat12, cat3)
         print(task, len(cat), cat)
+        max_classes.append(len(cat))
 
     max_vocab = np.max(train_x)
     max_vocab2 = np.max(test_x)
     if max_vocab2 > max_vocab:
         max_vocab = max_vocab2
 
-    wv_mat = np.random.randn( int(max_vocab) + 1, wv_len ).astype( 'float32' ) * 0.1
+    wv_mat = np.random.randn(int(max_vocab) + 1, wv_len).astype('float32') * 0.1
+
     num_classes = []
-    num_classes.append(np.max(train_y[:, 0]) + 1)
-    num_classes.append(np.max(train_y[:, 1]) + 1)
+    for i in range(num_tasks):
+        num_classes.append(max_classes[i] + 1)
+
+    print("Number of classes: ", num_classes)
 
     cnn = init_export_network(
+        task_names=tasks,
         num_classes=num_classes,
         in_seq_len=seq_len,
         vocab_size=len(wv_mat),
@@ -93,10 +99,10 @@ def main():
     print(cnn.summary())
 
     validation_data = (
-        { 'Input': np.array( val_x ) },
+        {'Input': np.array(val_x)},
         {
-            'Dense0': val_y[ :, 0 ], # Dense Layer associated with Site
-            'Dense1': val_y[ :, 1 ], # Dense Layer associated with Site
+            tasks[0]: val_y[:, 0],  # Dense Layer associated with site
+            tasks[1]: val_y[:, 1],  # Dense Layer associated with histology
         }
     )
 
@@ -117,16 +123,18 @@ def main():
     # Predict on Test data
     model = load_model(model_name)
     pred_probs = model.predict(np.array(test_x))
+    print('Prediction on test set')
     for t in range(len(tasks)):
         preds = [np.argmax(x) for x in pred_probs[t]]
         pred_max = [np.max(x) for x in pred_probs[t]]
         y_pred = preds
-        y_true = test_y[:,t]
+        y_true = test_y[:, t]
         y_prob = pred_max
-        micro = f1_score(y_true,y_pred,average='micro')
-        macro = f1_score(y_true,y_pred,average='macro')
-        print('task %s test f-score: %.4f,%.4f' % (tasks[t],micro,macro))
+        micro = f1_score(y_true, y_pred, average='micro')
+        macro = f1_score(y_true, y_pred, average='macro')
+        print('task %s test f-score: %.4f,%.4f' % (tasks[t], micro, macro))
         #print(confusion_matrix(y_true,y_pred))
+
 
 if __name__ == "__main__":
     main()
