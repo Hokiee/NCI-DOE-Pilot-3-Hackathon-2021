@@ -46,7 +46,7 @@ def main():
     w_l2 = 0.01
     optimizer = 'adam'
 
-    train_x = np.load(r'../data/npy/train_X.npy')#./data/train_X.npy')
+    train_x = np.load(r'../data/npy/train_X.npy')
     train_y = np.load(r'../data/npy/train_Y.npy')
     val_x = np.load(r'../data/npy/val_X.npy')
     val_y = np.load(r'../data/npy/val_Y.npy')
@@ -71,9 +71,6 @@ def main():
         max_vocab = max_vocab2
 
     wv_mat = np.random.randn( int(max_vocab) + 1, wv_len ).astype( 'float32' ) * 0.1
-
-    #num_classes = np.max(train_y) + 1
-
     num_classes = []
     num_classes.append(np.max(train_y[:, 0]) + 1)
     num_classes.append(np.max(train_y[:, 1]) + 1)
@@ -98,8 +95,8 @@ def main():
     validation_data = (
         { 'Input': np.array( val_x ) },
         {
-            tasks[0]: val_y[ :, 0 ], # Dense Layer associated with Site
-            tasks[1]: val_y[ :, 1 ], # Dense Layer associated with Site
+            'Dense0': val_y[ :, 0 ], # Dense Layer associated with Site
+            'Dense1': val_y[ :, 1 ], # Dense Layer associated with Site
         }
     )
 
