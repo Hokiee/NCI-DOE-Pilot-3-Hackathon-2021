@@ -64,9 +64,6 @@ def main():
         cat12 = np.union1d(cat1, cat2)
         cat = np.union1d(cat12, cat3)
         print(task, len(cat), cat)
-        #train_y[:, task] = [np.where(cat == x)[0][0] for x in train_y[:, task]]
-        #test_y[:, task] = [np.where(cat == x)[0][0] for x in test_y[:, task]]
-        #val_y[:, task] = [np.where(cat == x)[0][0] for x in val_y[:, task]]
 
     max_vocab = np.max(train_x)
     max_vocab2 = np.max(test_x)
@@ -80,8 +77,6 @@ def main():
     num_classes = []
     num_classes.append(np.max(train_y[:, 0]) + 1)
     num_classes.append(np.max(train_y[:, 1]) + 1)
-    # num_classes.append(np.max(train_y[:, 2]) + 1)
-    # num_classes.append(np.max(train_y[:, 3]) + 1)
 
     cnn = init_export_network(
         num_classes=num_classes,
@@ -105,8 +100,6 @@ def main():
         {
             tasks[0]: val_y[ :, 0 ], # Dense Layer associated with Site
             tasks[1]: val_y[ :, 1 ], # Dense Layer associated with Site
-            # 'Dense2': test_y[ :, 2 ],
-            # 'Dense3': test_y[ :, 3 ],
         }
     )
 
@@ -117,8 +110,6 @@ def main():
                 y=[
                     np.array(train_y[:, 0]),
                     np.array(train_y[:, 1]),
-                    # np.array(train_y[:, 2]),
-                    # np.array(train_y[:, 3])
                 ],
                 batch_size=batch_size,
                 epochs=epochs,
@@ -139,7 +130,6 @@ def main():
         macro = f1_score(y_true,y_pred,average='macro')
         print('task %s test f-score: %.4f,%.4f' % (tasks[t],micro,macro))
         #print(confusion_matrix(y_true,y_pred))
-
 
 if __name__ == "__main__":
     main()
