@@ -52,7 +52,7 @@ def main():
     val_y = np.load(r'../data/npy/val_Y.npy')
     test_x = np.load(r'../data/npy/test_X.npy')
     test_y = np.load(r'../data/npy/test_Y.npy')
-    tasks=['site','histology']
+    tasks = ['site','histology']
 
     for task in range(len(train_y[0, :])):
         cat1 = np.unique(train_y[:, task])
@@ -103,8 +103,8 @@ def main():
     validation_data = (
         { 'Input': np.array( val_x ) },
         {
-            'Dense0': val_y[ :, 0 ], # Dense Layer associated with Site
-            'Dense1': val_y[ :, 1 ], # Dense Layer associated with Site
+            tasks[0]: val_y[ :, 0 ], # Dense Layer associated with Site
+            tasks[1]: val_y[ :, 1 ], # Dense Layer associated with Site
             # 'Dense2': test_y[ :, 2 ],
             # 'Dense3': test_y[ :, 3 ],
         }
