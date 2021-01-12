@@ -56,6 +56,7 @@ def init_export_network(num_classes,
     # define network layers ----------------------------------------------------
     input_shape = tuple([in_seq_len])
     model_input = Input(shape=input_shape, name="Input")
+
     # embedding lookup
     emb_lookup = Embedding(vocab_size,
                            wv_space,
@@ -63,6 +64,7 @@ def init_export_network(num_classes,
                            name="embedding",
                            #embeddings_initializer=RandomUniform,
                            embeddings_regularizer=l2(emb_l2))(model_input)
+
     # convolutional layer and dropout
     conv_blocks = []
     for ith_filter, sz in enumerate(filter_sizes):
@@ -86,7 +88,7 @@ def init_export_network(num_classes,
     for i in range(len(num_classes)):
         outlayer = Dense(num_classes[i],
                          name="Dense"+str(i),
-                         activation='softmax')(concat_drop)  # , kernel_regularizer=l2(0.01))( concat_drop )
+                         activation='softmax')(concat_drop)
         outname = 'Dense'+str(i)
         FC_models.append(outlayer)
         FC_names.append(outname)
@@ -102,6 +104,3 @@ def init_export_network(num_classes,
     model.compile(loss=abs_loss, optimizer=optimizer, metrics=abs_acc)
 
     return model
-
-# if __name__ == '__main__':
-#     main()
