@@ -100,19 +100,12 @@ def main():
         val_y[:, task] = [np.where(cat == x)[0][0] for x in val_y[:, task]]
         max_classes.append(len(cat))
 
-    # for task in range(len(train_y[0, :])):
-    #     cat = np.unique(train_y[:, task])
-    #     train_y[:, task] = [np.where(cat == x)[0][0] for x in train_y[:, task]]
-    #     test_y[:, task] = [np.where(cat == x)[0][0] for x in test_y[:, task]]
-
     max_vocab = np.max(train_x)
     max_vocab2 = np.max(test_x)
     if max_vocab2 > max_vocab:
         max_vocab = max_vocab2
 
     wv_mat = np.random.randn( int(max_vocab) + 1, wv_len ).astype( 'float32' ) * 0.1
-
-    #num_classes = np.max(train_y) + 1
 
     num_classes = []
     new_train_y = []
@@ -121,7 +114,6 @@ def main():
     abs_index = []
 
     for i in range(num_tasks):
-        #num_classes.append(np.max(train_y[:, i]) + 1 + params['abs_tasks'][i])
         num_classes.append(max_classes[i] + 1 + params['abs_tasks'][i])
         new_train_i, new_test_i, new_val_i = modify_labels(num_classes[i],
                                                            train_y[:, i],
@@ -131,10 +123,6 @@ def main():
         new_test_y.append(new_test_i)
         new_val_y.append(new_val_i)
         abs_index.append(num_classes[i])
-
-    # num_classes.append(np.max(train_y[:,1]) + 1)
-    # num_classes.append(np.max(train_y[:,2]) + 1)
-    # num_classes.append(np.max(train_y[:,3]) + 1)
 
     print("Number of classes (including abstention): ", num_classes)
 
@@ -160,8 +148,8 @@ def main():
 
     val_labels = {}
     train_labels = []
-    #task_names = ['Dense0', 'Dense1']
-    task_names = cnn.output_names
+    task_names = ['site','histology']
+    #task_names = cnn.output_names
     task_list = [0, 1]
 
     params.update({'task_names': task_names})
