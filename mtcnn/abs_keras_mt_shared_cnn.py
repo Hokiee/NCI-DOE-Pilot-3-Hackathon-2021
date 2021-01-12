@@ -41,7 +41,8 @@ from abs_funcs import abstention_loss, abstention_acc_metric
 #np.random.seed(1337)
 
 
-def init_export_network(num_classes,
+def init_export_network(task_names,
+                        num_classes,
                         alpha_init,
                         in_seq_len,
                         vocab_size,
@@ -82,16 +83,14 @@ def init_export_network(num_classes,
     # different dense layer per tasks
     alpha = K.variable(alpha_init)
     FC_models = []
-    FC_names = []
     abs_loss = []
     abs_acc = {}
     for i in range(len(num_classes)):
         outlayer = Dense(num_classes[i],
-                         name="Dense"+str(i),
+                         name=task_names[i],
                          activation='softmax')(concat_drop)
-        outname = 'Dense'+str(i)
+        outname = task_names[i]
         FC_models.append(outlayer)
-        FC_names.append(outname)
         mask_vec = np.zeros(num_classes[i])
         mask_vec[num_classes[i] - 1] = 1.0
         task_loss = abstention_loss(alpha[i], mask_vec)

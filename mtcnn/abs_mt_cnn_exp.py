@@ -36,13 +36,13 @@ from keras.callbacks import LambdaCallback
 
 from abs_funcs import modify_labels
 from abs_funcs import print_abs_stats, write_abs_stats, adjust_alpha
+from abs_funcs import abstention_loss
 
 
 def main():
     # mtcnn parameters
     wv_len = 300
     seq_len = 1500
-    num_tasks = 2
     batch_size = 16
     epochs = 100
     filter_sizes = [3, 4, 5]
@@ -51,25 +51,10 @@ def main():
     emb_l2 = 0.001
     w_l2 = 0.01
     optimizer = 'adam'
+    tasks = ['site', 'histology']
+    num_tasks = len(tasks)
 
-    # build a dictionary here to consolidate all the settings
-    # params for abstention
-    params = {}
-    params.update({'max_abs': [0.1, 0.4]})
-    params.update({'min_acc': [0.99, 0.90]})
-    params.update({'abs_gain': 1.0})
-    params.update({'acc_gain': 1.0})
-    params.update({'alpha_scale_factor': [0.8, 0.8]})
-    params.update({'abs_tasks': [1, 1]})
-    params.update({'alpha_init': [0.1, 0.1]})
-    params.update({'n_iters': 1})
-
-    print(params)
-
-    # make alpha a Keras variable so it can be modified
-    alpha = K.variable(params['alpha_init'])
-
-    train_x = np.load(r'../data/npy/train_X.npy')#./data/train_X.npy')
+    train_x = np.load(r'../data/npy/train_X.npy')
     train_y = np.load(r'../data/npy/train_Y.npy')
     val_x = np.load(r'../data/npy/val_X.npy')
     val_y = np.load(r'../data/npy/val_Y.npy')
@@ -84,8 +69,27 @@ def main():
     print('Test X ', test_x.shape)
     print('Test Y ', test_y.shape)
 
+    # build a dictionary here to consolidate all the settings
+    # params for abstention
+    params = {}
+    params.update({'max_abs': [0.1, 0.3]})
+    params.update({'min_acc': [0.98, 0.90]})
+    params.update({'abs_gain': 1.0})
+    params.update({'acc_gain': 1.0})
+    params.update({'alpha_scale_factor': [0.8, 0.8]})
+    params.update({'abs_tasks': [1, 1]})
+    params.update({'alpha_init': [0.1, 0.1]})
+    params.update({'n_iters': 1})
+    params.update({'task_names': tasks})
+    params.update({'task_list': [0, 1]})
+
+    print(params)
+
+    # make alpha a Keras variable so it can be modified
+    alpha = K.variable(params['alpha_init'])
+
     max_classes = []
-    for task in range(len(train_y[0, :])):
+    for task in range(num_tasks):
         cat1 = np.unique(train_y[:, task])
         print(task, len(cat1), cat1)
         cat2 = np.unique(val_y[:, task])
@@ -95,9 +99,6 @@ def main():
         cat12 = np.union1d(cat1, cat2)
         cat = np.union1d(cat12, cat3)
         print(task, len(cat), cat)
-        train_y[:, task] = [np.where(cat == x)[0][0] for x in train_y[:, task]]
-        test_y[:, task] = [np.where(cat == x)[0][0] for x in test_y[:, task]]
-        val_y[:, task] = [np.where(cat == x)[0][0] for x in val_y[:, task]]
         max_classes.append(len(cat))
 
     max_vocab = np.max(train_x)
@@ -105,7 +106,7 @@ def main():
     if max_vocab2 > max_vocab:
         max_vocab = max_vocab2
 
-    wv_mat = np.random.randn( int(max_vocab) + 1, wv_len ).astype( 'float32' ) * 0.1
+    wv_mat = np.random.randn(int(max_vocab) + 1, wv_len).astype('float32') * 0.1
 
     num_classes = []
     new_train_y = []
@@ -127,6 +128,7 @@ def main():
     print("Number of classes (including abstention): ", num_classes)
 
     cnn = init_export_network(
+        task_names=tasks,
         num_classes=num_classes,
         alpha_init=params['alpha_init'],
         in_seq_len=seq_len,
@@ -144,34 +146,17 @@ def main():
 
     print(cnn.summary())
 
-    print(cnn.output_names)
-
     val_labels = {}
     train_labels = []
-    task_names = cnn.output_names
-    task_list = [0, 1]
 
-    params.update({'task_names': task_names})
-    params.update({'task_list': task_list})
-
-    for i in range(train_y.shape[1]):
-        if i in task_list:
-            task_string = task_names[i]
-            val_labels[task_string] = new_val_y[i]
-            train_labels.append(np.array(new_train_y[i]))
+    for i in range(num_tasks):
+        task_string = tasks[i]
+        val_labels[task_string] = new_val_y[i]
+        train_labels.append(np.array(new_train_y[i]))
 
     validation_data = ({'Input': val_x}, val_labels)
 
     print(val_labels, test_y)
-    #validation_data = (
-    #    { 'Input': np.array(test_x) },
-    #    {
-    #        'Dense0': test_y[:, 0],
-    #        'Dense1': test_y[:, 1],
-    #        # 'Dense2': test_y[:, 2],
-    #        # 'Dense3': test_y[:, 3],
-    #    }
-    #)
 
     checkpointer = ModelCheckpoint(filepath=model_name, verbose=1, save_best_only=True)
     stopper = EarlyStopping(monitor='val_loss', min_delta=0, patience=10, verbose=0, mode='auto')
@@ -194,7 +179,7 @@ def main():
                     validation_data=validation_data,
                     callbacks=[checkpointer, stopper])
 
-        # manual early-stopping 
+        # manual early-stopping
         if (h.history[monitor][0] < min_val_loss) and (scale_norm < min_scale_norm):
             print("Scaling improved from ", min_scale_norm, " to ", scale_norm)
             print(monitor, " improved from ", min_val_loss, " to ", h.history[monitor][0])
@@ -210,13 +195,49 @@ def main():
 
         if p_count >= patience: # patience limit
             if scale_norm < min_scale_norm: # scaling factors close to 1 (abstention and accuracy limit satisfied)
-                return
+                break
 
         scales, alpha = adjust_alpha(params, val_x, val_y, val_labels, cnn, alpha, abs_index)
-        scale_norm = np.linalg.norm(np.array(scales)-1.0)
-        print(scale_norm)
+        scale_norm = np.linalg.norm(np.array(scales) - 1.0, ord=1)
+        print(scale_norm, h.history[monitor][0] * scale_norm)
 
-    # TODO: Add performance on test set.
+    # Predict on Test data
+    trues = []
+    falses = []
+    abstains = []
+
+    task_list = params['task_list']
+    max_abs = params['max_abs']
+    min_acc = params['min_acc']
+    cnn.load_weights(model_name)
+    pred_probs = cnn.predict(np.array(test_x))
+    print('Prediction on test set')
+    for t in range(len(tasks)):
+        preds = [np.argmax(x) for x in pred_probs[t]]
+        pred_max = [np.max(x) for x in pred_probs[t]]
+        y_pred = preds
+        y_true = test_y[:, t]
+        y_prob = pred_max
+
+        true = K.eval(K.sum(K.cast(K.equal(y_pred, y_true), 'int64')))
+        false = K.eval(K.sum(K.cast(K.not_equal(y_pred, y_true), 'int64')))
+        abstain = K.eval(K.sum(K.cast(K.equal(y_pred, num_classes[t] - 1), 'int64')))
+
+        trues.append(true)
+        falses.append(false)
+        abstains.append(abstain)
+
+        preds = np.array(y_pred)
+        base_pred = preds[preds < num_classes[t] - 1]
+        base_true = y_true[preds < num_classes[t] - 1]
+
+        micro = f1_score(base_true, base_pred, average='micro')
+        macro = f1_score(base_true, base_pred, average='macro')
+        print('task %s test f-score: %.4f, %.4f' % (tasks[t], micro, macro))
+
+    print("Detailed abstention results")
+    print_abs_stats(tasks, task_list, alpha, scales, trues, falses, abstains, max_abs, min_acc)
+
 
 if __name__ == "__main__":
     main()
