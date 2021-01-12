@@ -1,6 +1,7 @@
 from keras import backend as K
 import numpy as np
 from keras.utils import np_utils
+import keras
 
 
 def adjust_alpha(abs_params, X_test, truths_test, labels_val, model, alpha, add_index):
@@ -62,7 +63,7 @@ def adjust_alpha(abs_params, X_test, truths_test, labels_val, model, alpha, add_
 
             total = false + true
             tot_pred = total - abstain
-            abs_acc = 0.0
+            abs_acc = 1.0
             abs_frac = abstain / total
 
             if tot_pred > 0:
@@ -123,7 +124,7 @@ def print_abs_stats(
         min_acc):
 
     print('        task,       alpha,     true,    false,  abstain,    total, tot_pred,   abs_frac,    max_abs,    abs_acc,    min_acc,    scaling')
-    for k in range((alphas.shape[0])):
+    for k in range(len(tasks)):
         if k in task_list:
             # Compute interesting values
             total = trues[k] + falses[k]
@@ -289,3 +290,4 @@ def abstention_acc_metric(nb_classes):
 
     metric.__name__ = 'abstention_acc'
     return metric
+
