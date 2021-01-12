@@ -148,8 +148,7 @@ def main():
 
     val_labels = {}
     train_labels = []
-    task_names = ['site','histology']
-    #task_names = cnn.output_names
+    task_names = cnn.output_names
     task_list = [0, 1]
 
     params.update({'task_names': task_names})
