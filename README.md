@@ -12,6 +12,29 @@ cd <ucams>
 git clone https://code.ornl.gov/93t/nci-hackathon-2021.git
 ```
 
+### Setting up LSF scripts:
+
+In the line `#BSUB -m "login1 h49nXX"`, replace `XX` with your two digit team number from the table below.
+
+| Team Institution(s) | Team Number |
+| ----------- | ----------- |
+| U Utah | 01 |
+| U Wisconsin | 02 |
+| NCI | 03 |
+| GenomOncology | 04 |
+| U Michigan | 05 |
+| EKU | 06 |
+| UNC | 07 |
+| U Colorado | 08 |
+| U Arkansas | 09 |
+| NMCSD & DOD | 10 |
+| Cancer Data Registry of Idaho | 11 |
+| U Kentucky | 12 |
+| Med U South Carolina | 13 |
+| CDC | 14 |
+| Rutgers & NJIT | 15 |
+| City of Hope | 16 | 
+
 To launch an interactive shell:
 ```
 bsub -Is -W 1:00 -nnodes 1 -P gen149 $SHELL
