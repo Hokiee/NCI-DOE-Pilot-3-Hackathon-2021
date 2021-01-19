@@ -46,7 +46,10 @@ jsrun -n1 -c7 -g6 -r1 hostname
 ```
 
 ### Data Prepro: 
-
+```
+cd /gpfs/wolf/proj-shared/gen149/<ucams>/nci-hackathon-2021
+cp -r /gpfs/wolf/proj-shared/gen149/data .
+```
 #### Create data inputs for all models except BERT:
     python trainTestSplitMetaData.py
     python data_handler.py
