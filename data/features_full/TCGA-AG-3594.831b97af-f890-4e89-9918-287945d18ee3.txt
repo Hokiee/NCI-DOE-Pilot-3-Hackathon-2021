@@ -1,9 +1,0 @@
-Diagnosis/diagnoses:
-
-Resected colon and rectum show tumor-free oral, aboral and perirectal resection margins,
-with an ulcerated, moderately differentiated, abundant mucus-forming adenocarcinoma
-with infiltration of the perimuscular fatty tissue (G2, pT 3, pNO 0/25 LO V0 R0, distance of
-the tumor to the perirectal resection margin is at least 1.6 cm) and with a recent ulcerous
-mucosal defect located directly orally of the carcinoma (with possible status post
-endoscopic excision of an adenoma).
-
