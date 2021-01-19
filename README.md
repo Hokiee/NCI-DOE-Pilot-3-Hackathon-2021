@@ -46,17 +46,18 @@ jsrun -n1 -c7 -g6 -r1 hostname
 ```
 
 ### Data Prepro: 
+##### Copy the data:
 ```
 cd /gpfs/wolf/proj-shared/gen149/<ucams>/nci-hackathon-2021
 cp -r /gpfs/wolf/proj-shared/gen149/data .
 ```
-#### Create data inputs for all models except BERT:
+##### Create data inputs for all models except BERT:
     python trainTestSplitMetaData.py
     python data_handler.py
     OR
     bsub data_setup_tf.lsf
 	
-#### Create data inputs for BERT:
+##### Create data inputs for BERT:
     cd HiBERT
     python huggingface_dataloader.py
     OR
