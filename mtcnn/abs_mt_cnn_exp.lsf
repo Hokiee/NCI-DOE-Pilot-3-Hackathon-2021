@@ -6,7 +6,6 @@
 #BSUB -o logs/job%J.o
 #BSUB -e logs/job%J.e
 #BSUB -nnodes 1
-#BSUB -m "login1 h49nXX"
 
 module load ibm-wml-ce/1.6.2-5
 
@@ -22,4 +21,4 @@ PYMODULE=$SRCROOT/abs_mt_cnn_exp.py
 
 CMD="python $PYMODULE"
 
-jsrun -n1 hostname -c7 -g6 -r1 $CMD > logs/abs_mtcnn_exp.log
+jsrun -n1 -c7 -g6 -r1 $CMD > logs/abs_mtcnn_exp.log

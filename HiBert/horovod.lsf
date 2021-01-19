@@ -6,7 +6,6 @@
 #BSUB -o logs/job%J.o
 #BSUB -e logs/job%J.e
 #BSUB -nnodes 1
-#BSUB -m "login1 h49nXX"
 
 module load open-ce
 
@@ -22,4 +21,4 @@ PYMODULE=$SRCROOT/huggingface_pool_horovod.py
 
 CMD="python $PYMODULE"
 
-jsrun -n1 hostname -c7 -g6 -r1 $CMD > logs/hibert.log
+jsrun -n1 -c7 -g6 -r1 $CMD > logs/hibert.log
