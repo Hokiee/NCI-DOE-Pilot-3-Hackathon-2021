@@ -64,7 +64,7 @@ cp -r /gpfs/wolf/proj-shared/gen149/data .
 ##### Interacting with Jobs : https://docs.olcf.ornl.gov/systems/summit_user_guide.html#interacting-with-jobs
 
 ### Models          
-##### 1. MTCNN Hard Paramenter Sharing (TF1) 
+##### 1. MTCNN Hard Parameter Sharing (TF1) 
     cd mtcnn
     python mt_cnn_exp.py 
     OR
