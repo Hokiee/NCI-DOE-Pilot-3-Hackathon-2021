@@ -40,8 +40,8 @@ def parse_arguments():
                                      formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('--data_dir', '-dr', default="data/features_full", type=str,
                         help='Provide the path for PathReports')
-    parser.add_argument('--label_dir','-dr',default='data/split',type=str, help='Provide Label Splits as created earlier')
-    parser.add_argument('--mapper_dir','-dr',default='data/mapper',type=str,help='Label to Integer Mapper Location')
+    parser.add_argument('--label_dir','-ldr',default='data/split',type=str, help='Provide Label Splits as created earlier')
+    parser.add_argument('--mapper_dir','-mdr',default='data/mapper',type=str,help='Label to Integer Mapper Location')
     args = parser.parse_args()
     print(args)
 
