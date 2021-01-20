@@ -1,0 +1,27 @@
+#!/bin/bash
+
+#BSUB -P gen149
+#BSUB -J nci_hackathon
+#BSUB -W 2:00
+#BSUB -o logs/job%J.o
+#BSUB -e logs/job%J.e
+#BSUB -nnodes 1
+
+module load ibm-wml-ce/1.6.2-5
+
+ENVROOT=/gpfs/wolf/proj-shared/gen149/j8g
+conda activate $ENVROOT/ibmwmlce
+
+# Make sure the environment is in our path
+export PATH=$ENVROOT/ibmwmlce/bin:$PATH
+export OMP_NUM_THREADS=1
+
+SRCROOT=$(pwd)
+PYMODULE1=$SRCROOT/trainTestSplitMetaData.py
+PYMODULE2=$SRCROOT/data_handler.py
+
+CMD1="python $PYMODULE1"
+CMD2="python $PYMODULE2"
+
+jsrun -n1 -c7 -g6 -r1 $CMD1 > logs/train_test_split.log
+jsrun -n1 -c7 -g6 -r1 $CMD2 > logs/data_handler.log

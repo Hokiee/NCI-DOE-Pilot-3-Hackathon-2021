@@ -1,0 +1,11 @@
+__pycache__/
+HiBert/data/bert
+HiBert/savedmodels
+data/vocab.npy
+*.pyc
+*.bin
+Hisan/logs
+mtcnn/logs
+mtcnn/savedmodels
+Hisan/savedmodels
+data

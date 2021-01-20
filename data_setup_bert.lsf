@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#BSUB -P gen149
+#BSUB -J nci_hackathon
+#BSUB -W 2:00
+#BSUB -o logs/job%J.o
+#BSUB -e logs/job%J.e
+#BSUB -nnodes 1
+
+module load open-ce
+
+ENVROOT=/gpfs/wolf/proj-shared/gen149/j8g
+conda activate $ENVROOT/opence
+
+# Make sure the environment is in our path
+export PATH=$ENVROOT/opence/bin:$PATH
+export OMP_NUM_THREADS=1
+
+SRCROOT=$(pwd)/HiBert
+cd $SRCROOT
+PYMODULE=huggingface_dataloader.py
+
+CMD="python $PYMODULE"
+
+jsrun -n1 -c7 -g6 -r1 $CMD > logs/data_setup_bert.log
