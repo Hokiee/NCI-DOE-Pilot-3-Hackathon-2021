@@ -11,6 +11,7 @@ mkdir <ucams>
 cd <ucams>
 git clone https://code.ornl.gov/93t/nci-hackathon-2021.git
 ```
+_Note: Don't use ssh link for git clone_
 
 To launch an interactive shell:
 ```
