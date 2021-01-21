@@ -1,5 +1,9 @@
 # NCI-Hackathon-2021
 
+### Event Presentations
+NCI/DOE Pilot 3 Hackathon Slides : https://www.dropbox.com/s/zmyke29kb4mesgd/Pilot3_Hackathon_Final%20Content.pptx?dl=0 
+Uncertanity-based abstention classifier LANL Presentation: https://www.dropbox.com/s/89jmflk7a3q9pc4/DAC_NCI_Hackathon_v4.pdf?dl=0 
+
 ### Environment:
  [Summit-Ascent](https://docs.olcf.ornl.gov/systems/summit_user_guide.html#training-system-ascent)
 
