@@ -84,7 +84,7 @@ def adjust_alpha(abs_params, X_test, truths_test, labels_val, model, alpha, add_
             new_scale = max(new_scale, min_scale)
 
             scales.append(new_scale)
-            #print('Scaling factor: ', new_scale)
+            # print('Scaling factor: ', new_scale)
 
             K.set_value(alpha[k], new_scale * alpha_k)
 
@@ -104,7 +104,7 @@ def adjust_alpha(abs_params, X_test, truths_test, labels_val, model, alpha, add_
             abstains.append(0)
             scales.append(1.0)
 
-    #print(trues, falses, abstains)
+    # print(trues, falses, abstains)
 
     print_abs_stats(task_names, task_list, alpha, scales, trues, falses, abstains, max_abs, min_acc)
     write_abs_stats('abs_stats.csv', alpha, accs, abst)
@@ -153,6 +153,7 @@ def write_abs_stats(stats_file, alphas, accs, abst):
     for k in range((alphas.shape[0])):
         abs_file.write("%10.5e," % abst[k])
     abs_file.write("\n")
+    abs_file.close()
 
 
 def modify_labels(numclasses_out, ytrain, ytest, yval=None):
@@ -195,7 +196,6 @@ def modify_labels(numclasses_out, ytrain, ytest, yval=None):
     mask_vec[:, -1] = 1
     i = np.random.choice(range(labels_train.shape[0]))
     sanity_check = mask_vec[i, :] * labels_train[i, :]
-    #print(sanity_check.shape)
     if ytrain.ndim > 1:
         ll = ytrain.shape[1]
     else:
@@ -240,15 +240,11 @@ def abstention_loss(alpha, mask):
         base_pred = (1 - mask) * y_pred + K.epsilon()
         base_true = y_true
         base_cost = K.categorical_crossentropy(base_true, base_pred)
-        #abs_pred = K.mean(mask * y_pred, axis=-1)
-        abs_pred = K.sum(mask * y_pred, axis=-1)
+        abs_pred = y_pred[:, -1]
         # add some small value to prevent NaN when prediction is abstained
         abs_pred = K.clip(abs_pred, 0, 1. - K.epsilon())
 
-        #return ((1. - abs_pred) * base_cost - alpha * K.log(1. - abs_pred))
         return K.mean((1. - abs_pred) * base_cost - alpha * K.log(1. - abs_pred))
-        #return K.mean((1. - abs_pred) * base_cost + alpha * K.log(abs_pred/(1. - abs_pred)))
-        #return K.mean((1. - abs_pred) * base_cost + alpha *  abs_pred)
 
     loss.__name__ = 'abs_crossentropy'
     return loss
@@ -291,3 +287,60 @@ def abstention_acc_metric(nb_classes):
     metric.__name__ = 'abstention_acc'
     return metric
 
+
+def abstention_metric(nb_classes):
+    """ Function to estimate fraction of the samples where the model is abstaining.
+
+    Parameters
+    ----------
+    nb_classes : int or ndarray
+        Integer or numpy array defining indices of the abstention class
+    """
+    def metric(y_true, y_pred):
+        """
+        Parameters
+        ----------
+        y_true : keras tensor
+            True values to predict
+        y_pred : keras tensor
+            Prediction made by the model.
+            It is assumed that this keras tensor includes extra columns to store the abstaining classes.
+        """
+        # total abstention
+        total_abs = K.sum(K.cast(K.equal(K.argmax(y_pred, axis=-1), nb_classes), 'int64'))
+
+        # total predicted in original classes
+        total_pred = K.sum(K.cast(K.equal(K.argmax(y_pred, axis=-1), K.argmax(y_pred, axis=-1)), 'int64'))
+
+        return total_abs / total_pred
+
+    metric.__name__ = 'abstention'
+    return metric
+
+
+def save_results(task, y_true, y_pred, y_prob, abs_class):
+    # print(task, abs_class)
+    comb = (y_true, y_pred, y_prob)
+    all_dat = np.stack(comb, axis=-1)
+    fmt = '%5d', '%5d', '%10.5f'
+    np.savetxt('abs_' + task + '_results.txt', all_dat, fmt=fmt)
+    #mismatches = np.where(y_true != y_pred)
+    mismatches = np.where(y_true != y_pred)[0]
+    #print(mismatches)
+    #print(np.array(y_prob)[(mismatches)])
+    # print(all_dat[(mismatches)])
+
+    # generate the results on the base classes
+    preds = np.array(y_pred)
+    non_abs = np.where(preds < (abs_class - 1))[0]
+    base_true = y_true[non_abs]
+    base_pred = preds[non_abs]
+    base_prob = np.array(y_prob)[non_abs]
+    #base_pred = preds[preds < abs_class - 1]
+    #base_true = y_true[preds < abs_class - 1]
+
+    mismatches = np.where(base_true != base_pred)[0]
+    # print(mismatches)
+    all_mis = np.stack((base_true, base_pred, base_prob), axis = -1)
+    # print(all_mis)
+    np.savetxt('abs_' + task + '_mismatches.txt', all_mis[mismatches], fmt=fmt)

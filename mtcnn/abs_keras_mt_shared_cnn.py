@@ -36,7 +36,7 @@ import pickle
 import argparse
 import os
 from keras.initializers import RandomUniform, lecun_uniform
-from abs_funcs import abstention_loss, abstention_acc_metric
+from abs_funcs import abstention_loss, abstention_acc_metric, abstention_metric
 #from keras.layers.convolutional import Conv1D
 #np.random.seed(1337)
 
@@ -85,6 +85,7 @@ def init_export_network(task_names,
     FC_models = []
     abs_loss = []
     abs_acc = {}
+    abs_metric = {}
     for i in range(len(num_classes)):
         outlayer = Dense(num_classes[i],
                          name=task_names[i],
@@ -95,8 +96,9 @@ def init_export_network(task_names,
         mask_vec[num_classes[i] - 1] = 1.0
         task_loss = abstention_loss(alpha[i], mask_vec)
         task_acc = abstention_acc_metric(num_classes[i] - 1)
+        task_abs = abstention_metric(num_classes[i] - 1)
         abs_loss.append(task_loss)
-        abs_acc.update({outname: task_acc})
+        abs_acc.update({outname: [task_acc, task_abs]})
 
     # the multitask model
     model = Model(inputs=model_input, outputs=FC_models)

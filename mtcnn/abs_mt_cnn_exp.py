@@ -36,7 +36,7 @@ from keras.callbacks import LambdaCallback
 
 from abs_funcs import modify_labels
 from abs_funcs import print_abs_stats, write_abs_stats, adjust_alpha
-from abs_funcs import abstention_loss
+from abs_funcs import abstention_loss, save_results
 
 
 def main():
@@ -74,8 +74,8 @@ def main():
     params = {}
     params.update({'max_abs': [0.1, 0.3]})
     params.update({'min_acc': [0.98, 0.90]})
-    params.update({'abs_gain': 1.0})
-    params.update({'acc_gain': 1.0})
+    params.update({'abs_gain': 0.5})
+    params.update({'acc_gain': 0.5})
     params.update({'alpha_scale_factor': [0.8, 0.8]})
     params.update({'abs_tasks': [1, 1]})
     params.update({'alpha_init': [0.1, 0.1]})
@@ -115,7 +115,8 @@ def main():
     abs_index = []
 
     for i in range(num_tasks):
-        num_classes.append(max_classes[i] + 1 + params['abs_tasks'][i])
+        num_classes.append(max_classes[i] + params['abs_tasks'][i])
+        print(num_classes[i])
         new_train_i, new_test_i, new_val_i = modify_labels(num_classes[i],
                                                            train_y[:, i],
                                                            test_y[:, i],
@@ -160,14 +161,26 @@ def main():
 
     checkpointer = ModelCheckpoint(filepath=model_name, verbose=1, save_best_only=True)
     stopper = EarlyStopping(monitor='val_loss', min_delta=0, patience=10, verbose=0, mode='auto')
+    f = open('abs_stats.csv', 'w+')
+    for k in range(num_tasks):
+        f.write("%s," % ('alpha_' + tasks[k]))
+    for k in range(num_tasks):
+        f.write("%s," % ('acc_' + tasks[k]))
+    for k in range(num_tasks):
+        f.write("%s," % ('abs_' + tasks[k]))
+    f.write("\n")
+    f.close()
 
     # initialize manual early stopping
     min_val_loss = np.Inf
+    min_comb_loss = 0.01
     min_scale_norm = 0.01
     scale_norm = np.Inf
     p_count = 0
     patience = 10
     monitor = 'val_loss'
+    model_saved = False
+    saved_epoch = 0
 
     for epoch in range(epochs):
         h = cnn.fit(x=np.array(train_x),
@@ -176,30 +189,33 @@ def main():
                     initial_epoch=epoch,
                     epochs=epoch + params['n_iters'],
                     verbose=2,
-                    validation_data=validation_data,
-                    callbacks=[checkpointer, stopper])
-
-        # manual early-stopping
-        if (h.history[monitor][0] < min_val_loss) and (scale_norm < min_scale_norm):
-            print("Scaling improved from ", min_scale_norm, " to ", scale_norm)
-            print(monitor, " improved from ", min_val_loss, " to ", h.history[monitor][0])
-            print("Saving model")
-            # set new min, reset patience
-            min_val_loss = h.history[monitor][0]
-            min_scale_norm = scale_norm
-            cnn.save(model_name) # , save_weights_only=False)
-            p_count = 0
-        else:
-            # increment patience
-            p_count += 1
-
-        if p_count >= patience: # patience limit
-            if scale_norm < min_scale_norm: # scaling factors close to 1 (abstention and accuracy limit satisfied)
-                break
+                    validation_data=validation_data)
 
         scales, alpha = adjust_alpha(params, val_x, val_y, val_labels, cnn, alpha, abs_index)
-        scale_norm = np.linalg.norm(np.array(scales) - 1.0, ord=1)
-        print(scale_norm, h.history[monitor][0] * scale_norm)
+        scale_norm = np.linalg.norm(np.array(scales) - 1.0, ord=2)
+
+        # manual early-stopping
+        combined_loss = h.history[monitor][0] * scale_norm
+        if combined_loss < min_comb_loss:
+            print("Combined loss improved from ", min_comb_loss, " to ", combined_loss)
+            print("Scaling is ", scale_norm)
+            print(monitor, " is: ", h.history[monitor][0])
+            print("Saving model")
+            # set new min, reset patience
+            min_comb_loss = combined_loss
+            cnn.save(model_name) # , save_weights_only=False)
+            p_count = 0
+            saved_epoch = epoch
+            model_saved = True
+        elif model_saved:
+            # increment patience
+            print('Stopping criterion did not improve from %.4f at epoch %d' % (min_comb_loss, saved_epoch))
+            p_count += 1
+
+            if p_count >= patience: # patience limit
+                break
+        else:
+            print('Stopping criterion not yet satisfied %.4f > %.4f' % (combined_loss, min_comb_loss))
 
     # Predict on Test data
     trues = []
@@ -209,7 +225,11 @@ def main():
     task_list = params['task_list']
     max_abs = params['max_abs']
     min_acc = params['min_acc']
-    cnn.load_weights(model_name)
+    if model_saved:  # otherwise use latest
+        print("Loading best saved model from epoch", saved_epoch)
+        cnn.load_weights(model_name)
+    else:
+        print("Using latest model")
     pred_probs = cnn.predict(np.array(test_x))
     print('Prediction on test set')
     for t in range(len(tasks)):
@@ -227,13 +247,16 @@ def main():
         falses.append(false)
         abstains.append(abstain)
 
+        # generate the results on the base classes
         preds = np.array(y_pred)
         base_pred = preds[preds < num_classes[t] - 1]
         base_true = y_true[preds < num_classes[t] - 1]
 
         micro = f1_score(base_true, base_pred, average='micro')
         macro = f1_score(base_true, base_pred, average='macro')
-        print('task %s test f-score: %.4f, %.4f' % (tasks[t], micro, macro))
+        print('task %12s test f-score: %.4f, %.4f, abstention: %.4f ' % (tasks[t], micro, macro, abstain / (true + false)))
+        #print(confusion_matrix(base_true, base_pred))
+        save_results(tasks[t], y_true, y_pred, y_prob, num_classes[t])
 
     print("Detailed abstention results")
     print_abs_stats(tasks, task_list, alpha, scales, trues, falses, abstains, max_abs, min_acc)
