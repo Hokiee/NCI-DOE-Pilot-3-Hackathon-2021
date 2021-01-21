@@ -13,13 +13,22 @@ git clone https://code.ornl.gov/93t/nci-hackathon-2021.git
 ```
 _Note: Don't use ssh link for git clone_
 
-To launch an interactive shell:
+To launch an interactive shell for all models other than BERT:
 ```
 bsub -Is -W 1:00 -nnodes 1 -P gen149 -U nci_hackathon $SHELL
 module load ibm-wml-ce/1.6.2-5
 ENVROOT=/gpfs/wolf/proj-shared/gen149/j8g
 conda activate $ENVROOT/ibmwmlce
 export PATH=$ENVROOT/ibmwmlce/bin:$PATH
+jsrun -n1 -c7 -g6 -r1 hostname
+```
+To launch an interactive shell for Bert
+```
+bsub -Is -W 1:00 -nnodes 1 -P gen149 -U nci_hackathon $SHELL
+module load open-ce
+ENVROOT=/gpfs/wolf/proj-shared/gen149/j8g
+conda activate $ENVROOT/opence
+export PATH=$ENVROOT/opence/bin:$PATH
 jsrun -n1 -c7 -g6 -r1 hostname
 ```
 
