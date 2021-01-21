@@ -67,7 +67,7 @@ cp -r /gpfs/wolf/proj-shared/gen149/data .
     OR
     cd HiBert
     bsub horovod.lsf
-##### 5. LANL Abstaining Code MTCNN
+##### 5. LANL Abstaining MTCNN (TF1)
     cd mtcnn
     python abs_mt_cnn_exp.py
     OR
