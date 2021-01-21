@@ -76,7 +76,7 @@ def main():
 
     num_classes = []
     for i in range(num_tasks):
-        num_classes.append(max_classes[i] + 1)
+        num_classes.append(max_classes[i])
 
     print("Number of classes: ", num_classes)
 
