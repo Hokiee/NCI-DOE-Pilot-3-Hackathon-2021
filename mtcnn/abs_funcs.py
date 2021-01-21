@@ -196,6 +196,7 @@ def modify_labels(numclasses_out, ytrain, ytest, yval=None):
     mask_vec[:, -1] = 1
     i = np.random.choice(range(labels_train.shape[0]))
     sanity_check = mask_vec[i, :] * labels_train[i, :]
+    #print(sanity_check.shape)
     if ytrain.ndim > 1:
         ll = ytrain.shape[1]
     else:

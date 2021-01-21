@@ -72,7 +72,7 @@ def main():
     # build a dictionary here to consolidate all the settings
     # params for abstention
     params = {}
-    params.update({'max_abs': [0.1, 0.3]})
+    params.update({'max_abs': [0.1, 0.4]})
     params.update({'min_acc': [0.98, 0.90]})
     params.update({'abs_gain': 0.5})
     params.update({'acc_gain': 0.5})
@@ -116,7 +116,6 @@ def main():
 
     for i in range(num_tasks):
         num_classes.append(max_classes[i] + params['abs_tasks'][i])
-        print(num_classes[i])
         new_train_i, new_test_i, new_val_i = modify_labels(num_classes[i],
                                                            train_y[:, i],
                                                            test_y[:, i],

@@ -6,6 +6,7 @@
 #BSUB -o logs/job%J.o
 #BSUB -e logs/job%J.e
 #BSUB -nnodes 1
+#BSUB -U nci_hackathon
 
 module load ibm-wml-ce/1.6.2-5
 
