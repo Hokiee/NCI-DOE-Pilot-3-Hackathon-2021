@@ -6,7 +6,6 @@
 #BSUB -o logs/job%J.o
 #BSUB -e logs/job%J.e
 #BSUB -nnodes 1
-#BSUB -U nci_hackathon
 
 module load open-ce
 

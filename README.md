@@ -1,9 +1,9 @@
 # NCI-Hackathon-2021
 
 ### Event Presentations
-NCI/DOE Pilot 3 Hackathon Slides : https://www.dropbox.com/s/zmyke29kb4mesgd/Pilot3_Hackathon_Final%20Content.pptx?dl=0 
+NCI/DOE Pilot 3 Hackathon Slides : https://www.dropbox.com/s/zmyke29kb4mesgd/Pilot3_Hackathon_Final%20Content.pptx?dl=0
 
-Uncertanity-based abstention classifier LANL Presentation: https://www.dropbox.com/s/v1686wyt8srvj36/DAC_NCI_Hackathon_v5.pdf?dl=0 
+Uncertanity-based abstention classifier LANL Presentation: https://www.dropbox.com/s/v1686wyt8srvj36/DAC_NCI_Hackathon_v5.pdf?dl=0
 
 ### Environment:
  [Summit-Ascent](https://docs.olcf.ornl.gov/systems/summit_user_guide.html#training-system-ascent)
@@ -20,7 +20,7 @@ _Note: Don't use ssh link for git clone_
 
 To launch an interactive shell for all models other than BERT:
 ```
-bsub -Is -W 1:00 -nnodes 1 -P gen149 -U nci_hackathon $SHELL
+bsub -Is -W 1:00 -nnodes 1 -P gen149 $SHELL
 module load ibm-wml-ce/1.6.2-5
 ENVROOT=/gpfs/wolf/proj-shared/gen149/j8g
 conda activate $ENVROOT/ibmwmlce
@@ -29,7 +29,7 @@ jsrun -n1 -c7 -g6 -r1 hostname
 ```
 To launch an interactive shell for Bert
 ```
-bsub -Is -W 1:00 -nnodes 1 -P gen149 -U nci_hackathon $SHELL
+bsub -Is -W 1:00 -nnodes 1 -P gen149 $SHELL
 module load open-ce
 ENVROOT=/gpfs/wolf/proj-shared/gen149/j8g
 conda activate $ENVROOT/opence
